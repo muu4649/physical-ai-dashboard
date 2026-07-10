@@ -102,6 +102,14 @@ def build_hot_news(articles: list, now: datetime) -> list:
     return scored[:10]
 
 
+def build_today_top5(articles: list, now: datetime) -> list:
+    """直近24時間(不足時は48時間に拡張)の記事から上位5本を選ぶ。"""
+    day = [a for a in articles if parse_dt(a["published"]) >= now - timedelta(hours=24)]
+    if len(day) < 5:
+        day = [a for a in articles if parse_dt(a["published"]) >= now - timedelta(hours=48)]
+    return build_hot_news(day, now)[:5]
+
+
 def build_trend(articles: list, now: datetime, days: int = 30) -> dict:
     start = (now - timedelta(days=days - 1)).date()
     dates = [(start + timedelta(days=i)).isoformat() for i in range(days)]
@@ -192,6 +200,7 @@ def main() -> None:
             "oldest_news": oldest_news[:10],
         },
         "wordcloud": build_wordcloud(week if len(week) >= 30 else month),
+        "today_top5": build_today_top5(articles, now),
         "hot_news": build_hot_news(week if len(week) >= 10 else month, now),
         "trend": build_trend(articles, now),
         "hybrid": build_hybrid(articles, now),

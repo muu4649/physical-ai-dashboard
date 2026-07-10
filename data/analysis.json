@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-10T08:24:28.110308+00:00",
+ "updated_at": "2026-07-10T09:06:11.938099+00:00",
  "kpi": {
   "articles_7d": 342,
   "articles_prev_7d": 61,
@@ -250,6 +250,64 @@
    6
   ]
  ],
+ "today_top5": [
+  {
+   "title": "LG Electronics begins early production of humanoid robot actuators",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83SGNWMXBzQnZsOVBDS25NdDZUamNJUnRYQzUzWlBOZkNzdWtSNlRMT1RTOC1hM0NiNHhiVTl5SGY5a2tUSEhZdFRtTnY0X2UxbUE?oc=5",
+   "source": "매일경제",
+   "published": "2026-07-09T16:53:18+00:00",
+   "count": 2,
+   "sources": [
+    "매일경제"
+   ],
+   "score": 1.6
+  },
+  {
+   "title": "eSOLとサイバートラスト、フィジカルAI時代に向けた日本発SDx開発基盤の共同開発で合意",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93UHo0N3FtcjVPQm41S3pPX2NFZnRGTlF1YnNEZUZfdE1GNjdaWlJWQ2RFZzl3TWtfTzRTNFlhNmQyeWNzUWNNMFZidHBib2t6cW5PU1l1OGs4LTcyVi1ZYzg1S3g5bHB1TFE?oc=5",
+   "source": "PR TIMES",
+   "published": "2026-07-09T16:00:02+00:00",
+   "count": 2,
+   "sources": [
+    "PR TIMES",
+    "日本経済新聞"
+   ],
+   "score": 1.58
+  },
+  {
+   "title": "中国人型ロボット、2026年出荷5万台へ モルガン・スタンレーが半年で予測倍増",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1hajFDWjREWnVSTWx1SWl0bUF0MEIyUC05MWlmZjdhbU9MSFY1cGdMT0xFc1h0eFdBRGZv?oc=5",
+   "source": "36Kr Japan",
+   "published": "2026-07-10T02:31:01+00:00",
+   "count": 1,
+   "sources": [
+    "36Kr Japan"
+   ],
+   "score": 0.91
+  },
+  {
+   "title": "Humanoid Robot Performs First Live Surgery: Unitree G1 Completes Gallbladder Removal on Living Subject",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XTk5pMnJlU2ZhUC10ZU45SlhrU05rWUdFNXF0SDVCckVtbXN6QUswdHlPc1IxUUNHMWg2MTVHRHdqMnBsQUxDMGNDT3h0M1pEOVZHdGJFRExMT1lxUTM5ZmtwZGJtUE5tb2hTLXNFN1lOMFU?oc=5",
+   "source": "Pandaily",
+   "published": "2026-07-09T17:20:41+00:00",
+   "count": 1,
+   "sources": [
+    "Pandaily"
+   ],
+   "score": 0.8
+  },
+  {
+   "title": "Dexmal Launches Embodied MaaS and DexOS, Solving Model Scaling Into Real-World Scenarios",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05YXVoVF96UEZlNTMxU3gwWV9qek9kR0s4YlF1NlplV09zQ05vX0g0MnRzTjNGRm5LaDZ1UVZxUlZCbWJJX01razdOU0ZiLXZDU3docFhNQUQwdmpxTDR3ZHUzbmFJamZhU0xOYnJ3?oc=5",
+   "source": "Pandaily",
+   "published": "2026-07-09T17:15:40+00:00",
+   "count": 1,
+   "sources": [
+    "Pandaily"
+   ],
+   "score": 0.8
+  }
+ ],
  "hot_news": [
   {
    "title": "三菱自動車 ヒト型ロボットを共同開発 量産へ",
@@ -263,7 +321,7 @@
     "マガジンXニュース",
     "産経ニュース"
    ],
-   "score": 4.72
+   "score": 4.67
   },
   {
    "title": "清水建設、建設現場向けAIロボットの研究開発を本格化 ヒューマノイドロボットによる現場巡回も実証",
@@ -277,7 +335,7 @@
     "innovaTopia",
     "マイナビニュース"
    ],
-   "score": 3.19
+   "score": 3.16
   },
   {
    "title": "三菱自動車、国産フィジカルAI量産へ 東大発Highlandersと「垂直統合」、27年に月産1000台",
@@ -291,7 +349,7 @@
     "くるまのニュース",
     "ｄメニューニュース"
    ],
-   "score": 3.13
+   "score": 3.1
   },
   {
    "title": "Surgeons Perform World’s First Surgery Using Teleoperated Humanoid Robots",
@@ -305,7 +363,7 @@
     "Tomorrow's World Today",
     "UC San Diego Today"
    ],
-   "score": 2.89
+   "score": 2.86
   },
   {
    "title": "「日本発のヒューマノイドロボット」量産へ、三菱自動車とハイランダーズが協業 2027年中に1000台生産見込む（レスポンス）",
@@ -317,7 +375,7 @@
     "Yahoo!ニュース",
     "レスポンス（Response.jp）"
    ],
-   "score": 2.5
+   "score": 2.48
   },
   {
    "title": "三菱自動車とHighlanders、ヒューマノイドロボットで基本合意 2027年早期に京都工場で量産化検討",
@@ -330,7 +388,7 @@
     "au Webポータル",
     "projectdesign.jp"
    ],
-   "score": 2.42
+   "score": 2.4
   },
   {
    "title": "European startup unveils humanoid robot design, real-time learning system",
@@ -343,7 +401,7 @@
     "Electrek",
     "digitimes"
    ],
-   "score": 2.38
+   "score": 2.36
   },
   {
    "title": "東京大学 松尾・岩澤研究室、学生向けAI基盤モデル開発コンテストの参加メンバー募集開始",
@@ -355,7 +413,7 @@
     "ICT教育ニュース",
     "ロボスタ"
    ],
-   "score": 2.33
+   "score": 2.31
   },
   {
    "title": "人型ロボット：人型ロボ、共同で量産化 三菱自と東大発企業、来年開始",
@@ -368,7 +426,7 @@
     "au Webポータル",
     "毎日新聞"
    ],
-   "score": 2.14
+   "score": 2.12
   },
   {
    "title": "Hyundai Puts Atlas Into A Live World Cup Halftime Show",
@@ -381,7 +439,7 @@
     "WeRSM",
     "upi.com"
    ],
-   "score": 2.14
+   "score": 2.12
   }
  ],
  "trend": {

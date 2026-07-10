@@ -7,7 +7,7 @@
 import html
 import json
 import math
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from config import PATENT_SEARCH_QUERY
@@ -60,6 +60,29 @@ def rounded_hbar(x: float, y: float, w: float, h: float, r: float = 4) -> str:
     return (f"M{x:.1f},{y:.1f} L{x + w - r:.1f},{y:.1f} Q{x + w:.1f},{y:.1f} {x + w:.1f},{y + r:.1f} "
             f"L{x + w:.1f},{y + h - r:.1f} Q{x + w:.1f},{y + h:.1f} {x + w - r:.1f},{y + h:.1f} "
             f"L{x:.1f},{y + h:.1f} Z")
+
+
+# --------------------------------------------------------------- today's top 5
+
+def render_today_top5(top5: list, now: datetime) -> str:
+    if not top5:
+        return ""
+    jst_date = (now + timedelta(hours=9)).strftime("%Y-%m-%d")
+    items = []
+    for i, h in enumerate(top5):
+        badge = f'<span class="badge">{h["count"]} 媒体</span>' if h["count"] > 1 else ""
+        items.append(f'''<li class="hot">
+  <span class="rank">{i + 1}</span>
+  <div class="hot-body">
+    <a href="{esc(h["link"])}" target="_blank" rel="noopener">{esc(h["title"])}</a>
+    <div class="meta">{badge}<span>{time_ago(h["published"], now)}</span><span class="srcs">{esc(h["source"])}</span></div>
+  </div>
+</li>''')
+    return f'''
+<section class="today">
+  <h2>今日のニュース5選 <span class="today-date">{jst_date}(JST)</span></h2>
+  <ol class="hotlist">{"".join(items)}</ol>
+</section>'''
 
 
 # -------------------------------------------------------------- market overview
@@ -429,6 +452,8 @@ svg {{ width:100%; height:auto; display:block; }}
 .bar {{ fill:var(--s1); }} .bar-l {{ fill:var(--s1); }} .bar-r {{ fill:var(--s2); }}
 .hdr {{ font-weight:600; }}
 .coverage {{ color:var(--muted); font-size:12px; margin-top:6px; }}
+.today {{ margin-top:24px; }}
+.today-date {{ font-size:13px; color:var(--muted); font-weight:400; }}
 .legend {{ display:flex; flex-wrap:wrap; gap:6px 18px; margin-top:10px; font-size:13px; color:var(--ink2); }}
 .lg {{ display:inline-flex; align-items:center; gap:6px; }}
 .chip {{ width:12px; height:12px; border-radius:3px; display:inline-block; }}
@@ -497,7 +522,7 @@ a {{ color:var(--s1); }}
   <p class="coverage">{coverage}</p>
   <p class="coverage">更新頻度 — ニュース: 毎日 06:00 JST に自動更新(データは日々変わります) ・ 特許: 約3ヶ月に1回の手動更新 ・ マーケット概要: 不定期更新(作成日を記載)</p>
 </header>
-
+{render_today_top5(analysis.get("today_top5", []), now)}
 <div class="kpis">
   <div class="kpi"><div class="label">記事数(直近7日)</div>
     <div class="value">{kpi["articles_7d"]}</div>{delta_html}</div>
