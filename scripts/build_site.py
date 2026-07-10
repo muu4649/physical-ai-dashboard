@@ -349,6 +349,10 @@ def build_page(analysis: dict, patents: dict, market: dict) -> str:
     pat_kpi = f'{patents["total_hits"]:,}' if patents.get("available") else "未接続"
     updated = datetime.fromisoformat(analysis["updated_at"]).strftime("%Y-%m-%d %H:%M UTC")
 
+    pat_updated_note = ""
+    if patents.get("available") and patents.get("updated_at"):
+        pat_updated_note = f'(最終取込: {patents["updated_at"][:10]})'
+
     coverage = f'収録範囲 — ニュース: {kpi.get("oldest_news", "")} 〜 現在(累計 {kpi["total_articles"]} 件)'
     if patents.get("available") and patents.get("oldest"):
         coverage += (f' ・ 特許: {patents["oldest"]} 〜 {patents["newest"]}'
@@ -491,6 +495,7 @@ a {{ color:var(--s1); }}
   <h1>Physical AI Market Intelligence</h1>
   <p>フィジカルAI(ヒューマノイド・Embodied AI)の報道動向と特許動向を毎日自動収集 ・ 最終更新 {updated}</p>
   <p class="coverage">{coverage}</p>
+  <p class="coverage">更新頻度 — ニュース: 毎日 06:00 JST に自動更新(データは日々変わります) ・ 特許: 約3ヶ月に1回の手動更新 ・ マーケット概要: 不定期更新(作成日を記載)</p>
 </header>
 
 <div class="kpis">
@@ -526,6 +531,7 @@ a {{ color:var(--s1); }}
   <div class="notice query-box">
     <strong>特許抽出の検索式(ロボット形態 × 学習・制御技術 × IPC分類、ティーチングプレイバック型は除外)</strong>
     <pre class="query">{esc(PATENT_SEARCH_QUERY)}</pre>
+    <p class="chart-note">特許データはニュースと異なり毎日は更新されません。約3ヶ月に1回、上記検索式で再抽出したデータに差し替えます{pat_updated_note}。</p>
   </div>
   {render_patents(patents)}
 </section>
@@ -538,7 +544,8 @@ a {{ color:var(--s1); }}
 </a>
 
 <footer>
-  <p>データソース: Google News RSS ・ 特許CSV(ユーザー提供) ・ 本ダッシュボードは GitHub Actions により毎日自動更新。
+  <p>データソース: Google News RSS ・ 特許CSV(ユーザー提供) ・ ニュースは GitHub Actions により毎日自動更新、
+  特許データは約3ヶ月に1回の手動更新。
   記事の著作権は各媒体に帰属します。集計値は自動収集に基づく参考値であり網羅性を保証しません。</p>
 </footer>
 </main>

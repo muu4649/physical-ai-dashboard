@@ -123,6 +123,7 @@ a { color:var(--s1); }
   <h1>Physical AI Market Intelligence</h1>
   <p>フィジカルAI(ヒューマノイド・Embodied AI)の報道動向と特許動向を毎日自動収集 ・ 最終更新 2026-07-10 08:24 UTC</p>
   <p class="coverage">収録範囲 — ニュース: 2026-04-26 〜 現在(累計 481 件) ・ 特許: 1987-09 〜 2026-04(14373 件 / 出願年ベース)</p>
+  <p class="coverage">更新頻度 — ニュース: 毎日 06:00 JST に自動更新(データは日々変わります) ・ 特許: 約3ヶ月に1回の手動更新 ・ マーケット概要: 不定期更新(作成日を記載)</p>
 </header>
 
 <div class="kpis">
@@ -257,6 +258,7 @@ a { color:var(--s1); }
   <div class="notice query-box">
     <strong>特許抽出の検索式(ロボット形態 × 学習・制御技術 × IPC分類、ティーチングプレイバック型は除外)</strong>
     <pre class="query">(&quot;physical AI&quot; OR &quot;embodied AI&quot; OR &quot;embodied intelligence&quot; OR humanoid OR &quot;legged robot&quot; OR &quot;quadruped robot&quot; OR &quot;bipedal robot&quot; OR &quot;mobile manipulation&quot; OR &quot;mobile manipulator&quot; OR &quot;robotic manipulation&quot; OR &quot;robot manipulation&quot; OR &quot;dexterous manipulation&quot; OR &quot;autonomous robot&quot; OR &quot;collaborative robot&quot; OR cobot OR &quot;service robot&quot; OR &quot;robotic grasping&quot; OR &quot;robot grasping&quot;) AND (&quot;sim-to-real&quot; OR &quot;sim2real&quot; OR &quot;domain randomization&quot; OR &quot;reinforcement learning&quot; OR &quot;imitation learning&quot; OR &quot;learning from demonstration&quot; OR &quot;self-supervised learning&quot; OR &quot;end-to-end learning&quot; OR &quot;world model&quot; OR &quot;vision-language-action&quot; OR &quot;vision language model&quot; OR &quot;foundation model&quot; OR &quot;diffusion policy&quot; OR &quot;neural network&quot; OR &quot;deep learning&quot; OR &quot;multimodal perception&quot; OR &quot;tactile sensing&quot; OR &quot;force control&quot; OR &quot;whole-body control&quot; OR &quot;motion planning&quot; OR &quot;grasp planning&quot;) AND (class_ipcr.symbol:B25J* OR class_ipcr.symbol:G06N* OR class_ipcr.symbol:G05B* OR class_ipcr.symbol:G05D*) AND NOT (&quot;teach and playback&quot; OR &quot;teaching and playback&quot; OR &quot;playback robot&quot;)</pre>
+    <p class="chart-note">特許データはニュースと異なり毎日は更新されません。約3ヶ月に1回、上記検索式で再抽出したデータに差し替えます(最終取込: 2026-07-10)。</p>
   </div>
   <div class="grid2">
 <div class="panel"><h3>出願年別件数</h3><svg viewBox="0 0 560 240" role="img" aria-label="出願年別の特許件数">
@@ -278,7 +280,8 @@ a { color:var(--s1); }
 </a>
 
 <footer>
-  <p>データソース: Google News RSS ・ 特許CSV(ユーザー提供) ・ 本ダッシュボードは GitHub Actions により毎日自動更新。
+  <p>データソース: Google News RSS ・ 特許CSV(ユーザー提供) ・ ニュースは GitHub Actions により毎日自動更新、
+  特許データは約3ヶ月に1回の手動更新。
   記事の著作権は各媒体に帰属します。集計値は自動収集に基づく参考値であり網羅性を保証しません。</p>
 </footer>
 </main>
