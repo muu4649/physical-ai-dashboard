@@ -1,0 +1,602 @@
+{
+ "updated_at": "2026-07-10T02:44:02.704426+00:00",
+ "kpi": {
+  "articles_7d": 340,
+  "articles_prev_7d": 57,
+  "sources_7d": 192,
+  "articles_30d": 450,
+  "total_articles": 473
+ },
+ "wordcloud": [
+  [
+   "量産",
+   28
+  ],
+  [
+   "world",
+   27
+  ],
+  [
+   "三菱自動車",
+   22
+  ],
+  [
+   "開発",
+   21
+  ],
+  [
+   "東大",
+   18
+  ],
+  [
+   "日本",
+   16
+  ],
+  [
+   "現場",
+   16
+  ],
+  [
+   "企業",
+   16
+  ],
+  [
+   "協業",
+   15
+  ],
+  [
+   "china",
+   14
+  ],
+  [
+   "cup",
+   14
+  ],
+  [
+   "データ",
+   14
+  ],
+  [
+   "surgery",
+   14
+  ],
+  [
+   "atlas",
+   13
+  ],
+  [
+   "アップ",
+   12
+  ],
+  [
+   "生産",
+   12
+  ],
+  [
+   "スタート",
+   11
+  ],
+  [
+   "data",
+   10
+  ],
+  [
+   "基盤",
+   10
+  ],
+  [
+   "日立",
+   10
+  ],
+  [
+   "nvidia",
+   9
+  ],
+  [
+   "live",
+   9
+  ],
+  [
+   "清水建設",
+   9
+  ],
+  [
+   "unveils",
+   9
+  ],
+  [
+   "hyundai",
+   9
+  ],
+  [
+   "launches",
+   8
+  ],
+  [
+   "industrial",
+   8
+  ],
+  [
+   "market",
+   8
+  ],
+  [
+   "投資",
+   8
+  ],
+  [
+   "導入",
+   8
+  ],
+  [
+   "三菱自",
+   8
+  ],
+  [
+   "写真",
+   8
+  ],
+  [
+   "画像",
+   8
+  ],
+  [
+   "中国",
+   8
+  ],
+  [
+   "model",
+   7
+  ],
+  [
+   "brings",
+   7
+  ],
+  [
+   "stock",
+   7
+  ],
+  [
+   "highlanders",
+   7
+  ],
+  [
+   "実装",
+   7
+  ],
+  [
+   "国産",
+   7
+  ],
+  [
+   "世界",
+   7
+  ],
+  [
+   "加速",
+   7
+  ],
+  [
+   "mistral",
+   6
+  ],
+  [
+   "global",
+   6
+  ],
+  [
+   "ベンチャー",
+   6
+  ],
+  [
+   "統合",
+   6
+  ],
+  [
+   "巡回",
+   6
+  ],
+  [
+   "時代",
+   6
+  ],
+  [
+   "Highlanders",
+   6
+  ],
+  [
+   "研究",
+   6
+  ],
+  [
+   "モデル",
+   6
+  ],
+  [
+   "提携",
+   6
+  ],
+  [
+   "製造",
+   6
+  ],
+  [
+   "建設",
+   6
+  ],
+  [
+   "新興",
+   6
+  ],
+  [
+   "支援",
+   6
+  ],
+  [
+   "ハイランダーズ",
+   6
+  ],
+  [
+   "事業",
+   6
+  ],
+  [
+   "fifa",
+   6
+  ],
+  [
+   "performs",
+   6
+  ]
+ ],
+ "hot_news": [
+  {
+   "title": "三菱自動車 ヒト型ロボットを共同開発 量産へ",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44d05oV3AxcFJWWFJTay1NVDVTX3MwbEQzMGJHSjVvN3JtWXp5UFVuSHJRTzZiQ2RLTDZtV3JwTkpFVGlGNmNBaDJubGlaeU5fdTYyd29FS3BkclpoOVpDanYydDVYa3l4cjgxa1RDeHJ0elJJRkltd3oyYw?oc=5",
+   "source": "au Webポータル",
+   "published": "2026-07-09T15:08:00+00:00",
+   "count": 6,
+   "sources": [
+    "Yahoo!ニュース",
+    "au Webポータル",
+    "マガジンXニュース",
+    "産経ニュース"
+   ],
+   "score": 5.11
+  },
+  {
+   "title": "清水建設、建設現場向けAIロボットの研究開発を本格化 ヒューマノイドロボットによる現場巡回も実証",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWcEFOcXFzbFB5Wno3d1duS09wc0tIQnIwSTZxY0YtYTJQQUhJek1jbzRzczRNcDA1QkZZeFNRX0Iya2lqaTlTb05aTjdXdEpxY1RuNmd2NW5namt6eUxQUGxKSkdZS1BZ?oc=5",
+   "source": "マイナビニュース",
+   "published": "2026-07-09T16:08:28+00:00",
+   "count": 4,
+   "sources": [
+    "BigGo ファイナンス",
+    "CNET Japan",
+    "innovaTopia",
+    "マイナビニュース"
+   ],
+   "score": 3.45
+  },
+  {
+   "title": "三菱自動車、国産フィジカルAI量産へ 東大発Highlandersと「垂直統合」、27年に月産1000台",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51eTgxMTlzRVdKWkdhUnIxRWpOZ2dZWVFMdy1pQk5zVmxJajVJY0RiVHlpYm4yTGtOdURLaFgxMGktVHBSSTBrX3NPNXREb0tMbXVrcVgtY2VUcGRMalI2WjhmRGQzUUREMHhkQi1QZVczb3Ru?oc=5",
+   "source": "BigGo ファイナンス",
+   "published": "2026-07-09T14:45:00+00:00",
+   "count": 4,
+   "sources": [
+    "BigGo ファイナンス",
+    "Yahoo!ニュース",
+    "くるまのニュース",
+    "ｄメニューニュース"
+   ],
+   "score": 3.39
+  },
+  {
+   "title": "Surgeons Perform World’s First Surgery Using Teleoperated Humanoid Robots",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVzJ0TklIUV9QNFJzc2U3R2F4OWxiejZ4dW1uM0NGVFFhSjduNDYyaUNhek00WVplSlRhZHBUS1dPNXdubU1DMnBDN0FKWlJ4UnZscmtkM01lYWNsU01jMmZqXzdVRzBLRDJBUjlETEI1YURITzdMQ0JvT19wWXl6dGNuOGVsdHJPQktxZmQ2SmxVREVHSEt3SG1uOUZXSjEyOGs3Q0NNb1NzOTBKbmJMQThWNmRJbFZYMFE?oc=5",
+   "source": "Tomorrow's World Today",
+   "published": "2026-07-09T09:01:29+00:00",
+   "count": 4,
+   "sources": [
+    "Bioengineer.org",
+    "Interesting Engineering",
+    "Tomorrow's World Today",
+    "UC San Diego Today"
+   ],
+   "score": 3.13
+  },
+  {
+   "title": "「日本発のヒューマノイドロボット」量産へ、三菱自動車とハイランダーズが協業 2027年中に1000台生産見込む（レスポンス）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsbVFzSS1pY0J2ejBYcUJObjRKMUhkSEZ2OGw5R1JERnU0RTBhREdfY3FaNFF0VWswc2pORHJuZjQ1b1JITndxTkF4LVB4NnJDVVhPWDJzaFNFcVJTQ1JPdWZyOFpWTE9ZaThMMUtTODJTTDM3Z255R0t0ZXg2SUE?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-07-08T22:38:28+00:00",
+   "count": 4,
+   "sources": [
+    "Yahoo!ニュース",
+    "レスポンス（Response.jp）"
+   ],
+   "score": 2.71
+  },
+  {
+   "title": "三菱自動車とHighlanders、ヒューマノイドロボットで基本合意 2027年早期に京都工場で量産化検討",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOUMzbnNibmNQV2p1M2JiQl82UWhFaUo5YTFjLXozM2ozSFdBSEZTLTRMRmtseGQ2N0dkV0cwVHBGcEdOUm1tYzYtNGFfZm0zNEVvNzRHNXM1M3c4am1XSUt2d1RwZks3V29hR3FTQjEwVEtZMzVwSlNQU3plZXd2Wi0xXzhXdw?oc=5",
+   "source": "projectdesign.jp",
+   "published": "2026-07-09T17:01:36+00:00",
+   "count": 3,
+   "sources": [
+    "Car Watch",
+    "au Webポータル",
+    "projectdesign.jp"
+   ],
+   "score": 2.62
+  },
+  {
+   "title": "European startup unveils humanoid robot design, real-time learning system",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRXE3bmNjWmRpb1liS0xjVHRhaDlsVFFreDU0dVhOUW1wNUtqZHF3VTdWQkpMSlFmdnRfclJwaVFNeXV5OTV1aUFqSC1ZNzk0eFp4Q3YycWZpcjZCZW52SEtRTnVkLWsyenZfbjd2cXNNbUJ0ZTFQUVg4Um9DWTNpZDlZdW5WUkp5a0cyS0hDWGd4Y0U?oc=5",
+   "source": "digitimes",
+   "published": "2026-07-09T15:41:30+00:00",
+   "count": 3,
+   "sources": [
+    "Bloomberg.com",
+    "Electrek",
+    "digitimes"
+   ],
+   "score": 2.57
+  },
+  {
+   "title": "東京大学 松尾・岩澤研究室、学生向けAI基盤モデル開発コンテストの参加メンバー募集開始",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BcTg0cHVxMVJhYnlKdlhZX2NPQXRHUzQzMy1CRE82a3JTc2hJUVZMcDgtSTNBTzBIWTNKZkdVdGRzVVJFMXNULV9lU1lRZG44UHFqbk9IOGcyN2ZJNlE?oc=5",
+   "source": "ICT教育ニュース",
+   "published": "2026-07-09T14:18:50+00:00",
+   "count": 3,
+   "sources": [
+    "ICT教育ニュース",
+    "ロボスタ"
+   ],
+   "score": 2.52
+  },
+  {
+   "title": "人型ロボット：人型ロボ、共同で量産化 三菱自と東大発企業、来年開始",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TMWIxZGtORlJOQndKRmFmemh4elRMMzlkeG9walY1NVV0eVZYV2N3Q3ZQRzZmcUozX1FFZjBFWWdmQ2oxMDY5VXFERDVweVh4Q3otQ3ZjN01WTnFPbml0alF4ZGlEMzJ4?oc=5",
+   "source": "毎日新聞",
+   "published": "2026-07-09T08:04:55+00:00",
+   "count": 3,
+   "sources": [
+    "47NEWS",
+    "au Webポータル",
+    "毎日新聞"
+   ],
+   "score": 2.32
+  },
+  {
+   "title": "Hyundai Puts Atlas Into A Live World Cup Halftime Show",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFdExRQ2sxTm9xeTkyYnFzSG5rejZMYkc4QWl1aGw0QWljSVFQX3pBQWZEZTNPelp4bzFiLWVpMWJYajl3RnRJMjZIclRrb1hYd0VwbkJfUzJQRFlfTHBCU2lYZ1lUUTNFUlB2Q044amlfU192cE9oZ1dETXBfdw?oc=5",
+   "source": "WeRSM",
+   "published": "2026-07-09T08:01:57+00:00",
+   "count": 3,
+   "sources": [
+    "The Korea Daily",
+    "WeRSM",
+    "upi.com"
+   ],
+   "score": 2.31
+  }
+ ],
+ "trend": {
+  "dates": [
+   "2026-06-11",
+   "2026-06-12",
+   "2026-06-13",
+   "2026-06-14",
+   "2026-06-15",
+   "2026-06-16",
+   "2026-06-17",
+   "2026-06-18",
+   "2026-06-19",
+   "2026-06-20",
+   "2026-06-21",
+   "2026-06-22",
+   "2026-06-23",
+   "2026-06-24",
+   "2026-06-25",
+   "2026-06-26",
+   "2026-06-27",
+   "2026-06-28",
+   "2026-06-29",
+   "2026-06-30",
+   "2026-07-01",
+   "2026-07-02",
+   "2026-07-03",
+   "2026-07-04",
+   "2026-07-05",
+   "2026-07-06",
+   "2026-07-07",
+   "2026-07-08",
+   "2026-07-09",
+   "2026-07-10"
+  ],
+  "series": [
+   {
+    "id": "physical_ai_en",
+    "label": "Physical AI (EN)",
+    "values": [
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     2,
+     1,
+     2,
+     3,
+     1,
+     0,
+     0,
+     1,
+     1,
+     2,
+     4,
+     2,
+     2,
+     0,
+     2,
+     6,
+     10,
+     30,
+     23,
+     0
+    ]
+   },
+   {
+    "id": "physical_ai_ja",
+    "label": "フィジカルAI",
+    "values": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     2,
+     2,
+     3,
+     4,
+     1,
+     0,
+     5,
+     14,
+     11,
+     31,
+     22,
+     0
+    ]
+   },
+   {
+    "id": "embodied_ai",
+    "label": "Embodied AI (EN)",
+    "values": [
+     0,
+     3,
+     0,
+     0,
+     3,
+     3,
+     1,
+     1,
+     0,
+     0,
+     0,
+     0,
+     3,
+     5,
+     2,
+     0,
+     3,
+     2,
+     5,
+     4,
+     2,
+     4,
+     4,
+     0,
+     8,
+     3,
+     6,
+     9,
+     9,
+     0
+    ]
+   },
+   {
+    "id": "humanoid_en",
+    "label": "Humanoid robot (EN)",
+    "values": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     0,
+     1,
+     0,
+     4,
+     2,
+     1,
+     0,
+     0,
+     1,
+     0,
+     2,
+     1,
+     2,
+     0,
+     1,
+     6,
+     15,
+     17,
+     15,
+     27,
+     0
+    ]
+   },
+   {
+    "id": "humanoid_ja",
+    "label": "ヒューマノイド (JA)",
+    "values": [
+     0,
+     0,
+     0,
+     0,
+     1,
+     0,
+     0,
+     1,
+     0,
+     0,
+     2,
+     3,
+     1,
+     1,
+     2,
+     0,
+     0,
+     1,
+     2,
+     3,
+     1,
+     2,
+     0,
+     3,
+     2,
+     5,
+     12,
+     20,
+     31,
+     0
+    ]
+   }
+  ]
+ }
+}
