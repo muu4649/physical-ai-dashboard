@@ -14,14 +14,8 @@ TOPICS = [
     {"id": "humanoid_ja", "label": "ヒューマノイド (JA)", "query": "ヒューマノイドロボット", "lang": "ja"},
 ]
 
-# PatentsView 検索フレーズ(タイトル・要約の完全フレーズ一致)
-PATENT_PHRASES = [
-    "humanoid robot",
-    "embodied artificial intelligence",
-    "physical artificial intelligence",
-    "robot foundation model",
-]
-PATENT_DATE_FROM = "2019-01-01"
+# 特許データはAPIではなくユーザー提供CSVから取り込む(fetch_patents.py 参照)。
+# Google Drive共有フォルダ(GDRIVE_FOLDER_ID / GDRIVE_API_KEY)または data/patents_csv/ に配置。
 
 # ワードクラウドから除外する語(クエリ語そのものは常に上位に来るため除外)
 EXCLUDE_WORDS = {

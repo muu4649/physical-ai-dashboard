@@ -26,7 +26,8 @@ jobs:
 
       - name: Fetch patents
         env:
-          PATENTSVIEW_API_KEY: ${{ secrets.PATENTSVIEW_API_KEY }}
+          GDRIVE_FOLDER_ID: ${{ secrets.GDRIVE_FOLDER_ID }}
+          GDRIVE_API_KEY: ${{ secrets.GDRIVE_API_KEY }}
         run: python scripts/fetch_patents.py
 
       - name: Analyze

@@ -174,11 +174,13 @@ def render_patents(patents: dict) -> str:
     if not patents.get("available"):
         return '''<div class="notice">
 <strong>特許データは未接続です。</strong>
-<p>PatentsView の無料APIキーを取得し(<a href="https://patentsview.org/apis/keyrequest"
-target="_blank" rel="noopener">patentsview.org/apis/keyrequest</a>)、
-GitHub リポジトリの Secrets に <code>PATENTSVIEW_API_KEY</code> として登録すると、
-次回の自動更新から米国特許の出願動向がここに表示されます。</p></div>'''
+<p>特許リストのCSV(Patsnap・Google Patents・J-PlatPat等からのエクスポート)を
+Google Drive の共有フォルダに置き、リポジトリの Secrets に
+<code>GDRIVE_FOLDER_ID</code> と <code>GDRIVE_API_KEY</code> を登録すると、
+次回の自動更新から出願動向がここに表示されます(詳細はREADME)。
+リポジトリの <code>data/patents_csv/</code> にCSVを直接コミットしてもOKです。</p></div>'''
 
+    date_label = patents.get("date_label", "出願年")
     by_year = patents["by_year"]
     years = sorted(by_year.keys())
     vmax = nice_ceil(max(by_year.values()))
@@ -209,12 +211,12 @@ GitHub リポジトリの Secrets に <code>PATENTSVIEW_API_KEY</code> として
         grid.append(f'<line x1="{ml}" y1="{gy:.1f}" x2="{ml + pw}" y2="{gy:.1f}" class="grid"/>')
         grid.append(f'<text x="{ml - 8}" y="{gy + 4:.1f}" class="tick" text-anchor="end">{int(vmax * k / ticks)}</text>')
 
-    year_chart = f'''<svg viewBox="0 0 {W} {H}" role="img" aria-label="登録年別の特許件数">
+    year_chart = f'''<svg viewBox="0 0 {W} {H}" role="img" aria-label="{date_label}別の特許件数">
   {"".join(grid)}
   <line x1="{ml}" y1="{mt + ph}" x2="{ml + pw}" y2="{mt + ph}" class="axis"/>
   {"".join(bars)}
 </svg>
-<p class="chart-note">※ 直近年は権利化までのタイムラグで少なく見える点に注意</p>'''
+<p class="chart-note">※ 直近1〜2年は未公開・権利化前の案件が含まれず少なく見える点に注意</p>'''
 
     top = patents["top_assignees"]
     amax = top[0][1] if top else 1
@@ -232,16 +234,18 @@ GitHub リポジトリの Secrets に <code>PATENTSVIEW_API_KEY</code> として
         hbars.append(f'<text x="{204 + max(w, 3) + 8:.1f}" y="{y + row_h / 2 + 4}" class="val">{cnt}</text>')
     assignee_chart = f'<svg viewBox="0 0 {HB_W} {hb_h}" role="img" aria-label="出願人別の特許件数トップ10">{"".join(hbars)}</svg>'
 
-    recent = "".join(
-        f'<li><a href="{esc(p["url"])}" target="_blank" rel="noopener">{esc(p["title"])}</a>'
-        f'<span class="meta">{esc(p["date"])} ・ {esc(p["assignee"] or "個人/不明")}</span></li>'
-        for p in patents["recent"]
-    )
+    recent_items = []
+    for p in patents["recent"]:
+        title = (f'<a href="{esc(p["url"])}" target="_blank" rel="noopener">{esc(p["title"])}</a>'
+                 if p.get("url") else esc(p["title"]))
+        recent_items.append(
+            f'<li>{title}<span class="meta">{esc(p["date"])} ・ {esc(p["assignee"] or "個人/不明")}</span></li>'
+        )
     return f'''<div class="grid2">
-<div class="panel"><h3>登録年別件数(米国特許)</h3>{year_chart}</div>
+<div class="panel"><h3>{date_label}別件数</h3>{year_chart}</div>
 <div class="panel"><h3>主要出願人 Top 10</h3>{assignee_chart}</div>
 </div>
-<div class="panel"><h3>最新の登録特許</h3><ul class="patlist">{recent}</ul></div>'''
+<div class="panel"><h3>直近の特許</h3><ul class="patlist">{"".join(recent_items)}</ul></div>'''
 
 
 # ---------------------------------------------------------------------- page
@@ -370,7 +374,7 @@ a {{ color:var(--s1); }}
     <div class="value">{kpi["sources_7d"]}</div></div>
   <div class="kpi"><div class="label">記事数(30日)</div>
     <div class="value">{kpi["articles_30d"]}</div></div>
-  <div class="kpi"><div class="label">関連米国特許(2019〜)</div>
+  <div class="kpi"><div class="label">特許件数(CSV取込)</div>
     <div class="value">{pat_kpi}</div></div>
 </div>
 
@@ -390,12 +394,12 @@ a {{ color:var(--s1); }}
 </section>
 
 <section>
-  <h2>特許動向(PatentsView / 米国特許)</h2>
+  <h2>特許動向(アップロードCSVから集計)</h2>
   {render_patents(patents)}
 </section>
 
 <footer>
-  <p>データソース: Google News RSS ・ PatentsView (USPTO) ・ 本ダッシュボードは GitHub Actions により毎日自動更新。
+  <p>データソース: Google News RSS ・ 特許CSV(ユーザー提供) ・ 本ダッシュボードは GitHub Actions により毎日自動更新。
   記事の著作権は各媒体に帰属します。集計値は自動収集に基づく参考値であり網羅性を保証しません。</p>
 </footer>
 </main>
