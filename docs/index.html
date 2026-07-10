@@ -91,6 +91,17 @@ svg { width:100%; height:auto; display:block; }
 .brand-cta { margin-left:auto; flex:none; color:var(--s1); font-weight:600; font-size:14px; }
 @media (max-width:600px) { .brand-banner { flex-wrap:wrap; } .brand-cta { margin-left:0; } }
 .notice code { background:var(--page); padding:1px 6px; border-radius:4px; }
+.query-box { margin-bottom:14px; }
+.mkt p { font-size:14px; color:var(--ink2); margin-bottom:10px; }
+.mkt-meta { font-size:12px !important; color:var(--muted) !important; }
+.mkt h3 { margin-top:16px; }
+.mkt-table { width:100%; font-size:13px; }
+.mkt-table th, .mkt-table td { text-align:left; padding:6px 10px; vertical-align:top; }
+.mkt-lists ul { margin:0; padding-left:20px; font-size:13px; color:var(--ink2); }
+.mkt-lists li { margin-bottom:4px; }
+.query { white-space:pre-wrap; word-break:break-all; background:var(--page);
+  padding:10px 14px; border-radius:8px; font-size:12px; line-height:1.6;
+  font-family:ui-monospace,SFMono-Regular,Menlo,monospace; margin-top:8px; }
 .muted { color:var(--muted); }
 .chart-note { font-size:12px; color:var(--muted); margin-top:6px; }
 .tbl summary { cursor:pointer; color:var(--ink2); font-size:13px; margin-top:10px; }
@@ -125,6 +136,23 @@ a { color:var(--s1); }
     <div class="value">未接続</div></div>
 </div>
 
+<section>
+  <h2>マーケット概要(基礎情報)</h2>
+  <div class="panel mkt">
+    <p class="mkt-meta">作成日: 2026-07-10 ・ 生成AIによるWeb調査・編集(手動更新。日次自動更新の対象外)</p>
+    <p>フィジカルAI(Physical AI / Embodied AI)は、生成AI・基盤モデルをロボット等の物理的な身体に実装し、実世界で知覚・判断・行動させる技術領域。2025〜2026年にかけて「早期商用化フェーズ」入りが機関投資家の共通認識となり、ヒューマノイドロボットが最大の注目セグメントとなっている。</p><p>プラットフォーム面ではNVIDIAが基盤モデル(Isaac GR00T)・世界モデル(Cosmos)・物理エンジン(Newton)を軸にエコシステムを形成し、産業用ロボット大手(ABB・FANUC・安川電機等)やヒューマノイド新興(Figure AI・Agility Robotics・AGIBOT等)との提携を拡大。2026年1月にはTesla Optimus Gen 3が生産開始と報じられ、中国勢(Unitree等)の低価格量産も加速している。</p><p>日本では2026年7月に三菱自動車と東大発Highlandersによる国産ヒューマノイド量産提携(2027年月産1000台目標)が発表され、清水建設の建設現場実証など実装事例が出始めた(本ダッシュボードのホットニュース参照)。</p>
+    <h3>市場規模の主要推計</h3>
+    <div class="scroll"><table class="mkt-table">
+      <thead><tr><th>機関</th><th>対象</th><th>推計</th><th>備考</th></tr></thead>
+      <tbody><tr><td><a href="https://www.goldmansachs.com/insights/articles/the-global-market-for-robots-could-reach-38-billion-by-2035" target="_blank" rel="noopener">Goldman Sachs</a></td><td>ヒューマノイドロボット世界市場</td><td>2035年に約380億ドル</td><td>2024年に従来予測を上方修正</td></tr><tr><td><a href="https://www.morganstanley.com/insights/articles/humanoid-robot-market-5-trillion-by-2050" target="_blank" rel="noopener">Morgan Stanley</a></td><td>ヒューマノイドロボット世界市場</td><td>2050年に約5兆ドル・稼働10億台超</td><td>長期シナリオ</td></tr><tr><td><a href="https://news.futunn.com/en/post/74964440/" target="_blank" rel="noopener">Morgan Stanley(報道ベース)</a></td><td>中国ヒューマノイド市場</td><td>2026年出荷約5万台 → 2030年約44.6万台・約150億ドル</td><td>2026年に予測を上方修正との報道。未検証(一次レポート非公開)</td></tr><tr><td><a href="https://www.marketsandmarkets.com/Market-Reports/physical-ai-market-240269196.html" target="_blank" rel="noopener">MarketsandMarkets</a></td><td>Physical AI市場(狭義)</td><td>2025年8.9億ドル → 2032年152.8億ドル(CAGR 47.2%)</td><td>ソフトウェア・システム中心の狭い定義</td></tr><tr><td><a href="https://www.grandviewresearch.com/industry-analysis/physical-ai-market-report" target="_blank" rel="noopener">Grand View Research</a></td><td>Physical AI市場(広義)</td><td>2025年816億ドル → 2026年1,108億ドル</td><td>半導体・ロボット本体等を含む広い定義</td></tr><tr><td><a href="https://www.marketsandmarkets.com/ResearchInsight/embodied-ai-market-trends.asp" target="_blank" rel="noopener">MarketsandMarkets</a></td><td>Embodied AI市場</td><td>2025年44.4億ドル → 2030年230.6億ドル(CAGR 39.0%)</td><td></td></tr></tbody>
+    </table></div>
+    <div class="grid2 mkt-lists">
+      <div><h3>成長ドライバー</h3><ul><li>基盤モデルの汎化により専用プログラミング不要のロボット制御が現実化</li><li>労働力不足(製造・物流・建設・介護)と人件費上昇</li><li>シミュレーション学習(合成データ)によるロボット学習コストの急減</li><li>中国の国家支援と量産による本体価格の低下</li></ul></div>
+      <div><h3>リスク・留意点</h3><ul><li>市場定義が機関により大きく異なり、推計値は桁単位で幅がある(楽観的な数字の一人歩きに注意)</li><li>安全規制・責任制度が未整備で、対人環境への展開時期は不確実</li><li>ハードウェア(減速機・アクチュエータ)の供給制約とコスト</li><li>実タスクでの信頼性・稼働率はまだ実証段階</li></ul></div>
+    </div>
+    <p class="chart-note">各推計値は上記出典の公表資料・報道に基づく二次情報(2026-07-10取得)。一次レポートを確認できていないものは「未検証」と付記。投資判断等には一次ソースの確認を推奨。</p>
+  </div>
+</section>
 <section>
   <h2>トレンド — トピック別 日次記事数(30日)</h2>
   <div class="panel">
@@ -216,13 +244,16 @@ a { color:var(--s1); }
 
 
 <section>
-  <h2>特許動向(アップロードCSVから集計)</h2>
+  <h2>特許動向</h2>
+  <div class="notice query-box">
+    <strong>特許抽出の検索式(タイトルまたは要約への一致)</strong>
+    <pre class="query">title:(&quot;humanoid robot&quot; OR &quot;humanoid robots&quot; OR &quot;physical AI&quot; OR &quot;physical artificial intelligence&quot; OR &quot;embodied AI&quot; OR &quot;embodied artificial intelligence&quot; OR &quot;embodied intelligence&quot; OR &quot;robot foundation model&quot; OR &quot;bipedal robot&quot; OR &quot;legged robot&quot;) OR abstract:(&quot;humanoid robot&quot; OR &quot;humanoid robots&quot; OR &quot;physical AI&quot; OR &quot;physical artificial intelligence&quot; OR &quot;embodied AI&quot; OR &quot;embodied artificial intelligence&quot; OR &quot;embodied intelligence&quot; OR &quot;robot foundation model&quot; OR &quot;bipedal robot&quot; OR &quot;legged robot&quot;)</pre>
+  </div>
   <div class="notice">
 <strong>特許データは未接続です。</strong>
-<p>特許リストのCSV(Patsnap・Google Patents・J-PlatPat等からのエクスポート)を
-Google Drive の共有フォルダに置き、リポジトリの Secrets に
-<code>GDRIVE_FOLDER_ID</code> と <code>GDRIVE_API_KEY</code> を登録すると、
-次回の自動更新から出願動向がここに表示されます(詳細はREADME)。
+<p>下記の検索式で抽出した特許リストのCSVを Google Drive の共有フォルダに置き、
+リポジトリの Secrets に <code>GDRIVE_FOLDER_ID</code> と <code>GDRIVE_API_KEY</code> を
+登録すると、次回の自動更新から出願動向がここに表示されます(詳細はREADME)。
 リポジトリの <code>data/patents_csv/</code> にCSVを直接コミットしてもOKです。</p></div>
 </section>
 

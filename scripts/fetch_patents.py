@@ -9,7 +9,7 @@
    - フォルダ内の CSV と Googleスプレッドシートを自動取得
 2. リポジトリ内 data/patents_csv/ に置いた CSV ファイル
 
-CSVの列名は自動判定する(Patsnap・Google Patents・J-PlatPat等のエクスポートを想定):
+CSVの列名は自動判定する(主要な特許データベースのエクスポート形式を想定):
 - 番号:   公開番号 / 公開(公告)番号 / publication number / id など
 - 名称:   標題 / 発明の名称 / タイトル / title など
 - 日付:   出願日 / application date / filing date を優先、なければ 公開日 / publication date
@@ -35,7 +35,7 @@ DRIVE_LIST_URL = "https://www.googleapis.com/drive/v3/files"
 # 列名判定パターン(先にマッチしたものを採用)
 COLUMN_PATTERNS = {
     "number": [r"公開\s*[(（]?公告[)）]?\s*番号", r"公開番号", r"公告番号", r"登録番号",
-               r"publication\s*number", r"patent\s*number", r"display\s*key",  # Display Key = Lens.org
+               r"publication\s*number", r"patent\s*number", r"display\s*key",
                r"lens\s*id", r"文献番号", r"^id$", r"番号"],
     "title": [r"発明の名称", r"標題", r"タイトル", r"^title$", r"名称"],
     "app_date": [r"出願日", r"application\s*date", r"filing\s*date", r"出願年月日"],

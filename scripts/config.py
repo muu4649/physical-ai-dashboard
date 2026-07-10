@@ -17,6 +17,18 @@ TOPICS = [
 # 特許データはAPIではなくユーザー提供CSVから取り込む(fetch_patents.py 参照)。
 # Google Drive共有フォルダ(GDRIVE_FOLDER_ID / GDRIVE_API_KEY)または data/patents_csv/ に配置。
 
+# 特許抽出に用いる検索式(ダッシュボードにもこの式を明記する)
+PATENT_SEARCH_QUERY = (
+    'title:("humanoid robot" OR "humanoid robots" OR "physical AI" OR '
+    '"physical artificial intelligence" OR "embodied AI" OR '
+    '"embodied artificial intelligence" OR "embodied intelligence" OR '
+    '"robot foundation model" OR "bipedal robot" OR "legged robot") OR '
+    'abstract:("humanoid robot" OR "humanoid robots" OR "physical AI" OR '
+    '"physical artificial intelligence" OR "embodied AI" OR '
+    '"embodied artificial intelligence" OR "embodied intelligence" OR '
+    '"robot foundation model" OR "bipedal robot" OR "legged robot")'
+)
+
 # ワードクラウドから除外する語(クエリ語そのものは常に上位に来るため除外)
 EXCLUDE_WORDS = {
     # EN

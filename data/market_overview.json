@@ -1,0 +1,30 @@
+{
+  "as_of": "2026-07-10",
+  "method": "生成AIによるWeb調査・編集(手動更新。日次自動更新の対象外)",
+  "summary": [
+    "フィジカルAI(Physical AI / Embodied AI)は、生成AI・基盤モデルをロボット等の物理的な身体に実装し、実世界で知覚・判断・行動させる技術領域。2025〜2026年にかけて「早期商用化フェーズ」入りが機関投資家の共通認識となり、ヒューマノイドロボットが最大の注目セグメントとなっている。",
+    "プラットフォーム面ではNVIDIAが基盤モデル(Isaac GR00T)・世界モデル(Cosmos)・物理エンジン(Newton)を軸にエコシステムを形成し、産業用ロボット大手(ABB・FANUC・安川電機等)やヒューマノイド新興(Figure AI・Agility Robotics・AGIBOT等)との提携を拡大。2026年1月にはTesla Optimus Gen 3が生産開始と報じられ、中国勢(Unitree等)の低価格量産も加速している。",
+    "日本では2026年7月に三菱自動車と東大発Highlandersによる国産ヒューマノイド量産提携(2027年月産1000台目標)が発表され、清水建設の建設現場実証など実装事例が出始めた(本ダッシュボードのホットニュース参照)。"
+  ],
+  "estimates": [
+    {"org": "Goldman Sachs", "scope": "ヒューマノイドロボット世界市場", "figure": "2035年に約380億ドル", "note": "2024年に従来予測を上方修正", "url": "https://www.goldmansachs.com/insights/articles/the-global-market-for-robots-could-reach-38-billion-by-2035"},
+    {"org": "Morgan Stanley", "scope": "ヒューマノイドロボット世界市場", "figure": "2050年に約5兆ドル・稼働10億台超", "note": "長期シナリオ", "url": "https://www.morganstanley.com/insights/articles/humanoid-robot-market-5-trillion-by-2050"},
+    {"org": "Morgan Stanley(報道ベース)", "scope": "中国ヒューマノイド市場", "figure": "2026年出荷約5万台 → 2030年約44.6万台・約150億ドル", "note": "2026年に予測を上方修正との報道。未検証(一次レポート非公開)", "url": "https://news.futunn.com/en/post/74964440/"},
+    {"org": "MarketsandMarkets", "scope": "Physical AI市場(狭義)", "figure": "2025年8.9億ドル → 2032年152.8億ドル(CAGR 47.2%)", "note": "ソフトウェア・システム中心の狭い定義", "url": "https://www.marketsandmarkets.com/Market-Reports/physical-ai-market-240269196.html"},
+    {"org": "Grand View Research", "scope": "Physical AI市場(広義)", "figure": "2025年816億ドル → 2026年1,108億ドル", "note": "半導体・ロボット本体等を含む広い定義", "url": "https://www.grandviewresearch.com/industry-analysis/physical-ai-market-report"},
+    {"org": "MarketsandMarkets", "scope": "Embodied AI市場", "figure": "2025年44.4億ドル → 2030年230.6億ドル(CAGR 39.0%)", "note": "", "url": "https://www.marketsandmarkets.com/ResearchInsight/embodied-ai-market-trends.asp"}
+  ],
+  "drivers": [
+    "基盤モデルの汎化により専用プログラミング不要のロボット制御が現実化",
+    "労働力不足(製造・物流・建設・介護)と人件費上昇",
+    "シミュレーション学習(合成データ)によるロボット学習コストの急減",
+    "中国の国家支援と量産による本体価格の低下"
+  ],
+  "risks": [
+    "市場定義が機関により大きく異なり、推計値は桁単位で幅がある(楽観的な数字の一人歩きに注意)",
+    "安全規制・責任制度が未整備で、対人環境への展開時期は不確実",
+    "ハードウェア(減速機・アクチュエータ)の供給制約とコスト",
+    "実タスクでの信頼性・稼働率はまだ実証段階"
+  ],
+  "sources_note": "各推計値は上記出典の公表資料・報道に基づく二次情報(2026-07-10取得)。一次レポートを確認できていないものは「未検証」と付記。投資判断等には一次ソースの確認を推奨。"
+}

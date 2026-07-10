@@ -10,6 +10,8 @@ import math
 from datetime import datetime, timezone
 from pathlib import Path
 
+from config import PATENT_SEARCH_QUERY
+
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 DOCS_DIR = Path(__file__).resolve().parent.parent / "docs"
 
@@ -58,6 +60,39 @@ def rounded_hbar(x: float, y: float, w: float, h: float, r: float = 4) -> str:
     return (f"M{x:.1f},{y:.1f} L{x + w - r:.1f},{y:.1f} Q{x + w:.1f},{y:.1f} {x + w:.1f},{y + r:.1f} "
             f"L{x + w:.1f},{y + h - r:.1f} Q{x + w:.1f},{y + h:.1f} {x + w - r:.1f},{y + h:.1f} "
             f"L{x:.1f},{y + h:.1f} Z")
+
+
+# -------------------------------------------------------------- market overview
+
+def render_market(market: dict) -> str:
+    if not market:
+        return ""
+    paras = "".join(f"<p>{esc(p)}</p>" for p in market.get("summary", []))
+    rows = "".join(
+        f'<tr><td><a href="{esc(e["url"])}" target="_blank" rel="noopener">{esc(e["org"])}</a></td>'
+        f'<td>{esc(e["scope"])}</td><td>{esc(e["figure"])}</td><td>{esc(e["note"])}</td></tr>'
+        for e in market.get("estimates", [])
+    )
+    drivers = "".join(f"<li>{esc(d)}</li>" for d in market.get("drivers", []))
+    risks = "".join(f"<li>{esc(r)}</li>" for r in market.get("risks", []))
+    return f'''
+<section>
+  <h2>マーケット概要(基礎情報)</h2>
+  <div class="panel mkt">
+    <p class="mkt-meta">作成日: {esc(market.get("as_of", ""))} ・ {esc(market.get("method", ""))}</p>
+    {paras}
+    <h3>市場規模の主要推計</h3>
+    <div class="scroll"><table class="mkt-table">
+      <thead><tr><th>機関</th><th>対象</th><th>推計</th><th>備考</th></tr></thead>
+      <tbody>{rows}</tbody>
+    </table></div>
+    <div class="grid2 mkt-lists">
+      <div><h3>成長ドライバー</h3><ul>{drivers}</ul></div>
+      <div><h3>リスク・留意点</h3><ul>{risks}</ul></div>
+    </div>
+    <p class="chart-note">{esc(market.get("sources_note", ""))}</p>
+  </div>
+</section>'''
 
 
 # ---------------------------------------------------------------- trend chart
@@ -227,10 +262,9 @@ def render_patents(patents: dict) -> str:
     if not patents.get("available"):
         return '''<div class="notice">
 <strong>特許データは未接続です。</strong>
-<p>特許リストのCSV(Patsnap・Google Patents・J-PlatPat等からのエクスポート)を
-Google Drive の共有フォルダに置き、リポジトリの Secrets に
-<code>GDRIVE_FOLDER_ID</code> と <code>GDRIVE_API_KEY</code> を登録すると、
-次回の自動更新から出願動向がここに表示されます(詳細はREADME)。
+<p>下記の検索式で抽出した特許リストのCSVを Google Drive の共有フォルダに置き、
+リポジトリの Secrets に <code>GDRIVE_FOLDER_ID</code> と <code>GDRIVE_API_KEY</code> を
+登録すると、次回の自動更新から出願動向がここに表示されます(詳細はREADME)。
 リポジトリの <code>data/patents_csv/</code> にCSVを直接コミットしてもOKです。</p></div>'''
 
     date_label = patents.get("date_label", "出願年")
@@ -303,7 +337,7 @@ Google Drive の共有フォルダに置き、リポジトリの Secrets に
 
 # ---------------------------------------------------------------------- page
 
-def build_page(analysis: dict, patents: dict) -> str:
+def build_page(analysis: dict, patents: dict, market: dict) -> str:
     now = datetime.now(timezone.utc)
     kpi = analysis["kpi"]
     delta = kpi["articles_7d"] - kpi["articles_prev_7d"]
@@ -425,6 +459,17 @@ svg {{ width:100%; height:auto; display:block; }}
 .brand-cta {{ margin-left:auto; flex:none; color:var(--s1); font-weight:600; font-size:14px; }}
 @media (max-width:600px) {{ .brand-banner {{ flex-wrap:wrap; }} .brand-cta {{ margin-left:0; }} }}
 .notice code {{ background:var(--page); padding:1px 6px; border-radius:4px; }}
+.query-box {{ margin-bottom:14px; }}
+.mkt p {{ font-size:14px; color:var(--ink2); margin-bottom:10px; }}
+.mkt-meta {{ font-size:12px !important; color:var(--muted) !important; }}
+.mkt h3 {{ margin-top:16px; }}
+.mkt-table {{ width:100%; font-size:13px; }}
+.mkt-table th, .mkt-table td {{ text-align:left; padding:6px 10px; vertical-align:top; }}
+.mkt-lists ul {{ margin:0; padding-left:20px; font-size:13px; color:var(--ink2); }}
+.mkt-lists li {{ margin-bottom:4px; }}
+.query {{ white-space:pre-wrap; word-break:break-all; background:var(--page);
+  padding:10px 14px; border-radius:8px; font-size:12px; line-height:1.6;
+  font-family:ui-monospace,SFMono-Regular,Menlo,monospace; margin-top:8px; }}
 .muted {{ color:var(--muted); }}
 .chart-note {{ font-size:12px; color:var(--muted); margin-top:6px; }}
 .tbl summary {{ cursor:pointer; color:var(--ink2); font-size:13px; margin-top:10px; }}
@@ -458,7 +503,7 @@ a {{ color:var(--s1); }}
   <div class="kpi"><div class="label">特許件数(CSV取込)</div>
     <div class="value">{pat_kpi}</div></div>
 </div>
-
+{render_market(market)}
 <section>
   <h2>トレンド — トピック別 日次記事数(30日)</h2>
   <div class="panel">{render_trend_chart(analysis["trend"])}{render_trend_table(analysis["trend"])}</div>
@@ -477,7 +522,11 @@ a {{ color:var(--s1); }}
 {hybrid_section}
 
 <section>
-  <h2>特許動向(アップロードCSVから集計)</h2>
+  <h2>特許動向</h2>
+  <div class="notice query-box">
+    <strong>特許抽出の検索式(タイトルまたは要約への一致)</strong>
+    <pre class="query">{esc(PATENT_SEARCH_QUERY)}</pre>
+  </div>
   {render_patents(patents)}
 </section>
 
@@ -543,7 +592,9 @@ def main() -> None:
     analysis = json.loads((DATA_DIR / "analysis.json").read_text(encoding="utf-8"))
     patents_path = DATA_DIR / "patents.json"
     patents = json.loads(patents_path.read_text(encoding="utf-8")) if patents_path.exists() else {"available": False}
-    (DOCS_DIR / "index.html").write_text(build_page(analysis, patents), encoding="utf-8")
+    market_path = DATA_DIR / "market_overview.json"
+    market = json.loads(market_path.read_text(encoding="utf-8")) if market_path.exists() else {}
+    (DOCS_DIR / "index.html").write_text(build_page(analysis, patents, market), encoding="utf-8")
     (DOCS_DIR / ".nojekyll").write_text("", encoding="utf-8")
     print(f"[done] ダッシュボード生成 -> {DOCS_DIR / 'index.html'}")
 
