@@ -20,7 +20,17 @@ from config import EXCLUDE_WORDS, TOPICS
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 STORE_PATH = DATA_DIR / "news_store.json"
+PATENTS_PATH = DATA_DIR / "patents.json"
 OUT_PATH = DATA_DIR / "analysis.json"
+
+# 企業名の中核部分を取り出すための除去パターン(ハイブリッド分析のニュース照合用)
+CORP_PREFIX = re.compile(r"(株式会社|合同会社|有限会社|国立大学法人|学校法人|一般社団法人|公立大学法人)")
+CORP_SUFFIX = re.compile(
+    r"[\s,]*(corporation|corp\.?|incorporated|inc\.?|limited|ltd\.?|llc|l\.l\.c\.?|"
+    r"company|co\.?|holdings?|group|ag|gmbh|s\.a\.s?\.?|b\.v\.?|"
+    r"kabushiki\s+kaisha|k\.k\.?|"
+    r"グループ|ホールディングス|カンパニー)\s*$", re.IGNORECASE)
+CORP_LEAD = re.compile(r"^\s*the\s+", re.IGNORECASE)
 
 JA_PATTERN = re.compile(r"[ぁ-ゟァ-ヿ一-鿿]")
 EN_WORD = re.compile(r"[A-Za-z][A-Za-z0-9\-]{2,}")
@@ -113,6 +123,43 @@ def build_trend(articles: list, now: datetime, days: int = 30) -> dict:
     }
 
 
+def core_company_name(name: str) -> str:
+    """『ソニーグループ株式会社』→『ソニー』のように照合用の中核名を取り出す。"""
+    n = CORP_PREFIX.sub("", name).strip()
+    n = CORP_LEAD.sub("", n)
+    prev = None
+    while prev != n:
+        prev = n
+        n = CORP_SUFFIX.sub("", n).strip().rstrip(",.")
+    return n
+
+
+def build_hybrid(articles: list, now: datetime) -> list:
+    """特許件数上位の出願人ごとに、直近30日のニュースタイトル言及数を数える。"""
+    if not PATENTS_PATH.exists():
+        return []
+    patents = json.loads(PATENTS_PATH.read_text(encoding="utf-8"))
+    if not patents.get("available"):
+        return []
+    month_titles = [
+        a["title"].casefold() for a in articles
+        if parse_dt(a["published"]) >= now - timedelta(days=30)
+    ]
+    result = []
+    for org, patent_count in patents.get("top_assignees", [])[:8]:
+        core = core_company_name(org)
+        if len(core) < 2:
+            mentions = 0
+        elif core.isascii():
+            pat = re.compile(r"\b" + re.escape(core.casefold()) + r"\b")
+            mentions = sum(1 for t in month_titles if pat.search(t))
+        else:
+            mentions = sum(1 for t in month_titles if core.casefold() in t)
+        result.append({"name": org, "core": core,
+                       "patents": patent_count, "news": mentions})
+    return result
+
+
 def main() -> None:
     store = json.loads(STORE_PATH.read_text(encoding="utf-8"))
     articles = list(store.get("articles", {}).values())
@@ -125,6 +172,7 @@ def main() -> None:
     ]
     month = [a for a in articles if parse_dt(a["published"]) >= now - timedelta(days=30)]
 
+    oldest_news = min((a["published"] for a in articles), default="")
     analysis = {
         "updated_at": now.isoformat(),
         "kpi": {
@@ -133,10 +181,12 @@ def main() -> None:
             "sources_7d": len({a["source"] for a in week if a["source"]}),
             "articles_30d": len(month),
             "total_articles": len(articles),
+            "oldest_news": oldest_news[:10],
         },
         "wordcloud": build_wordcloud(week if len(week) >= 30 else month),
         "hot_news": build_hot_news(week if len(week) >= 10 else month, now),
         "trend": build_trend(articles, now),
+        "hybrid": build_hybrid(articles, now),
     }
     OUT_PATH.write_text(
         json.dumps(analysis, ensure_ascii=False, indent=1), encoding="utf-8"

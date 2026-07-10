@@ -168,6 +168,59 @@ def render_hot_news(hot: list, now: datetime) -> str:
     return f'<ol class="hotlist">{"".join(items)}</ol>'
 
 
+# -------------------------------------------------------- hybrid (特許×ニュース)
+
+def render_hybrid(hybrid: list) -> str:
+    """特許件数上位企業について、特許保有量(左)と直近30日の報道量(右)を対で示す。
+
+    左右で尺度が異なるため軸は共有しない(二重軸は使わない)。中央の企業名を挟んだ
+    左右独立のバーとして描く。
+    """
+    if not hybrid:
+        return ""
+    W = 860
+    label_w, side_w, ml = 180, 300, 30
+    left_x0 = ml + side_w          # 左バーはここから左向きに伸びる
+    right_x0 = left_x0 + label_w   # 右バーはここから右向きに伸びる
+    row_h, gap, top = 26, 10, 34
+    H = top + len(hybrid) * (row_h + gap) + 6
+    pmax = max(h["patents"] for h in hybrid) or 1
+    nmax = max(h["news"] for h in hybrid) or 1
+
+    parts = [
+        f'<text x="{left_x0 - 4}" y="20" class="alabel hdr" text-anchor="end">特許件数</text>',
+        f'<text x="{right_x0 + 4}" y="20" class="alabel hdr">ニュース言及(30日)</text>',
+    ]
+    for i, h in enumerate(hybrid):
+        y = top + i * (row_h + gap)
+        cy = y + row_h / 2 + 4
+        name = h["name"] if len(h["name"]) <= 14 else h["name"][:13] + "…"
+        pw = (side_w - 50) * h["patents"] / pmax
+        parts.append(f'<path d="{rounded_hbar(left_x0 - max(pw, 3), y, max(pw, 3), row_h)}" '
+                     f'class="bar-l" data-tip="{esc(h["name"])}: 特許 {h["patents"]} 件" '
+                     f'transform="rotate(180 {left_x0 - max(pw, 3) / 2:.1f} {y + row_h / 2:.1f})"/>')
+        parts.append(f'<text x="{left_x0 - max(pw, 3) - 8:.1f}" y="{cy:.1f}" class="val" '
+                     f'text-anchor="end">{h["patents"]}</text>')
+        parts.append(f'<text x="{left_x0 + label_w / 2:.1f}" y="{cy:.1f}" class="alabel" '
+                     f'text-anchor="middle">{esc(name)}</text>')
+        nw = (side_w - 50) * h["news"] / nmax if h["news"] else 0
+        if nw:
+            parts.append(f'<path d="{rounded_hbar(right_x0, y, max(nw, 3), row_h)}" '
+                         f'class="bar-r" data-tip="{esc(h["name"])}(照合語: {esc(h["core"])}): '
+                         f'ニュース {h["news"]} 件"/>')
+        parts.append(f'<text x="{right_x0 + max(nw, 3) + 8:.1f}" y="{cy:.1f}" class="val">{h["news"]}</text>')
+
+    legend = ('<div class="legend">'
+              '<span class="lg"><i class="chip s1"></i>特許件数(CSV全期間)</span>'
+              '<span class="lg"><i class="chip s2"></i>ニュース言及数(直近30日のタイトル部分一致)</span></div>')
+    return f'''<div class="panel">
+<svg viewBox="0 0 {W} {H}" role="img" aria-label="主要出願人の特許件数とニュース言及数の対比">{"".join(parts)}</svg>
+{legend}
+<p class="chart-note">※ 左が長い=技術蓄積が先行(要注目の伏兵)、右が長い=報道が先行(話題先行)。
+照合は企業名の単純部分一致のため取りこぼしがあり得る</p>
+</div>'''
+
+
 # ------------------------------------------------------------------- patents
 
 def render_patents(patents: dict) -> str:
@@ -262,6 +315,20 @@ def build_page(analysis: dict, patents: dict) -> str:
     pat_kpi = f'{patents["total_hits"]:,}' if patents.get("available") else "未接続"
     updated = datetime.fromisoformat(analysis["updated_at"]).strftime("%Y-%m-%d %H:%M UTC")
 
+    coverage = f'収録範囲 — ニュース: {kpi.get("oldest_news", "")} 〜 現在(累計 {kpi["total_articles"]} 件)'
+    if patents.get("available") and patents.get("oldest"):
+        coverage += (f' ・ 特許: {patents["oldest"]} 〜 {patents["newest"]}'
+                     f'({patents["total_hits"]} 件 / {patents.get("date_label", "出願年")}ベース)')
+    else:
+        coverage += " ・ 特許: 未接続"
+
+    hybrid_html = render_hybrid(analysis.get("hybrid", []))
+    hybrid_section = f'''
+<section>
+  <h2>ハイブリッド分析 — 特許保有 × 直近報道量(主要プレイヤー)</h2>
+  {hybrid_html}
+</section>''' if hybrid_html else ""
+
     light_vars = "".join(f"--s{i + 1}:{c};" for i, c in enumerate(SERIES_LIGHT))
     dark_vars = "".join(f"--s{i + 1}:{c};" for i, c in enumerate(SERIES_DARK))
 
@@ -321,7 +388,9 @@ svg {{ width:100%; height:auto; display:block; }}
 .line {{ stroke-width:2; }} .cross {{ stroke:var(--axis); stroke-width:1; }}
 .s1 {{ stroke:var(--s1); }} .s2 {{ stroke:var(--s2); }} .s3 {{ stroke:var(--s3); }}
 .s4 {{ stroke:var(--s4); }} .s5 {{ stroke:var(--s5); }}
-.bar {{ fill:var(--s1); }}
+.bar {{ fill:var(--s1); }} .bar-l {{ fill:var(--s1); }} .bar-r {{ fill:var(--s2); }}
+.hdr {{ font-weight:600; }}
+.coverage {{ color:var(--muted); font-size:12px; margin-top:6px; }}
 .legend {{ display:flex; flex-wrap:wrap; gap:6px 18px; margin-top:10px; font-size:13px; color:var(--ink2); }}
 .lg {{ display:inline-flex; align-items:center; gap:6px; }}
 .chip {{ width:12px; height:12px; border-radius:3px; display:inline-block; }}
@@ -365,6 +434,7 @@ a {{ color:var(--s1); }}
 <header>
   <h1>Physical AI Market Intelligence</h1>
   <p>フィジカルAI(ヒューマノイド・Embodied AI)の報道動向と特許動向を毎日自動収集 ・ 最終更新 {updated}</p>
+  <p class="coverage">{coverage}</p>
 </header>
 
 <div class="kpis">
@@ -392,6 +462,8 @@ a {{ color:var(--s1); }}
   <h2>ホットニュース — 報道量×新しさスコア Top 10</h2>
   {render_hot_news(analysis["hot_news"], now)}
 </section>
+
+{hybrid_section}
 
 <section>
   <h2>特許動向(アップロードCSVから集計)</h2>

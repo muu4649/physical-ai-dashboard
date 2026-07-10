@@ -1,11 +1,12 @@
 {
- "updated_at": "2026-07-10T02:57:37.548786+00:00",
+ "updated_at": "2026-07-10T07:45:27.761995+00:00",
  "kpi": {
-  "articles_7d": 344,
-  "articles_prev_7d": 59,
+  "articles_7d": 342,
+  "articles_prev_7d": 61,
   "sources_7d": 193,
   "articles_30d": 458,
-  "total_articles": 481
+  "total_articles": 481,
+  "oldest_news": "2026-04-26"
  },
  "wordcloud": [
   [
@@ -77,16 +78,16 @@
    11
   ],
   [
-   "data",
-   10
-  ],
-  [
    "基盤",
    10
   ],
   [
    "日立",
    10
+  ],
+  [
+   "data",
+   9
   ],
   [
    "nvidia",
@@ -262,7 +263,7 @@
     "マガジンXニュース",
     "産経ニュース"
    ],
-   "score": 5.09
+   "score": 4.76
   },
   {
    "title": "清水建設、建設現場向けAIロボットの研究開発を本格化 ヒューマノイドロボットによる現場巡回も実証",
@@ -276,7 +277,7 @@
     "innovaTopia",
     "マイナビニュース"
    ],
-   "score": 3.44
+   "score": 3.22
   },
   {
    "title": "三菱自動車、国産フィジカルAI量産へ 東大発Highlandersと「垂直統合」、27年に月産1000台",
@@ -290,7 +291,7 @@
     "くるまのニュース",
     "ｄメニューニュース"
    ],
-   "score": 3.38
+   "score": 3.16
   },
   {
    "title": "Surgeons Perform World’s First Surgery Using Teleoperated Humanoid Robots",
@@ -304,7 +305,7 @@
     "Tomorrow's World Today",
     "UC San Diego Today"
    ],
-   "score": 3.12
+   "score": 2.92
   },
   {
    "title": "「日本発のヒューマノイドロボット」量産へ、三菱自動車とハイランダーズが協業 2027年中に1000台生産見込む（レスポンス）",
@@ -316,7 +317,7 @@
     "Yahoo!ニュース",
     "レスポンス（Response.jp）"
    ],
-   "score": 2.7
+   "score": 2.53
   },
   {
    "title": "三菱自動車とHighlanders、ヒューマノイドロボットで基本合意 2027年早期に京都工場で量産化検討",
@@ -329,7 +330,7 @@
     "au Webポータル",
     "projectdesign.jp"
    ],
-   "score": 2.61
+   "score": 2.44
   },
   {
    "title": "European startup unveils humanoid robot design, real-time learning system",
@@ -342,7 +343,7 @@
     "Electrek",
     "digitimes"
    ],
-   "score": 2.57
+   "score": 2.4
   },
   {
    "title": "東京大学 松尾・岩澤研究室、学生向けAI基盤モデル開発コンテストの参加メンバー募集開始",
@@ -354,7 +355,7 @@
     "ICT教育ニュース",
     "ロボスタ"
    ],
-   "score": 2.52
+   "score": 2.35
   },
   {
    "title": "人型ロボット：人型ロボ、共同で量産化 三菱自と東大発企業、来年開始",
@@ -367,7 +368,7 @@
     "au Webポータル",
     "毎日新聞"
    ],
-   "score": 2.31
+   "score": 2.16
   },
   {
    "title": "Hyundai Puts Atlas Into A Live World Cup Halftime Show",
@@ -380,7 +381,7 @@
     "WeRSM",
     "upi.com"
    ],
-   "score": 2.31
+   "score": 2.16
   }
  ],
  "trend": {
@@ -598,5 +599,6 @@
     ]
    }
   ]
- }
+ },
+ "hybrid": []
 }

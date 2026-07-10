@@ -35,7 +35,8 @@ DRIVE_LIST_URL = "https://www.googleapis.com/drive/v3/files"
 # 列名判定パターン(先にマッチしたものを採用)
 COLUMN_PATTERNS = {
     "number": [r"公開\s*[(（]?公告[)）]?\s*番号", r"公開番号", r"公告番号", r"登録番号",
-               r"publication\s*number", r"patent\s*number", r"文献番号", r"^id$", r"番号"],
+               r"publication\s*number", r"patent\s*number", r"display\s*key",  # Display Key = Lens.org
+               r"lens\s*id", r"文献番号", r"^id$", r"番号"],
     "title": [r"発明の名称", r"標題", r"タイトル", r"^title$", r"名称"],
     "app_date": [r"出願日", r"application\s*date", r"filing\s*date", r"出願年月日"],
     "pub_date": [r"公開日", r"公告日", r"登録日", r"publication\s*date", r"grant\s*date", r"^date$"],
@@ -69,6 +70,16 @@ def decode_csv(raw: bytes) -> str:
 def parse_year(value: str) -> str:
     m = DATE_PATTERN.search(value or "")
     return m.group(1) if m else ""
+
+
+def parse_ym(value: str) -> str:
+    """日付文字列から 'YYYY-MM'(月が取れなければ 'YYYY')を返す。"""
+    m = DATE_PATTERN.search(value or "")
+    if not m:
+        return ""
+    if m.group(2):
+        return f"{m.group(1)}-{int(m.group(2)):02d}"
+    return m.group(1)
 
 
 def parse_csv(name: str, text: str) -> list:
@@ -166,10 +177,13 @@ def aggregate(rows: list) -> dict:
     assignees = Counter(a for r in unique for a in r["assignees"])
     recent = sorted((r for r in unique if r["year"]), key=lambda r: r["date"], reverse=True)[:10]
     date_label = unique[0]["date_label"] if unique else "出願年"
+    yms = sorted(ym for ym in (parse_ym(r["date"]) for r in unique) if ym)
     return {
         "available": True,
         "source": "csv",
         "date_label": date_label,
+        "oldest": yms[0] if yms else "",
+        "newest": yms[-1] if yms else "",
         "total_hits": len(unique),
         "fetched": len(unique),
         "by_year": dict(sorted(by_year.items())),

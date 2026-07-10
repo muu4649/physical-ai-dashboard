@@ -54,7 +54,9 @@ svg { width:100%; height:auto; display:block; }
 .line { stroke-width:2; } .cross { stroke:var(--axis); stroke-width:1; }
 .s1 { stroke:var(--s1); } .s2 { stroke:var(--s2); } .s3 { stroke:var(--s3); }
 .s4 { stroke:var(--s4); } .s5 { stroke:var(--s5); }
-.bar { fill:var(--s1); }
+.bar { fill:var(--s1); } .bar-l { fill:var(--s1); } .bar-r { fill:var(--s2); }
+.hdr { font-weight:600; }
+.coverage { color:var(--muted); font-size:12px; margin-top:6px; }
 .legend { display:flex; flex-wrap:wrap; gap:6px 18px; margin-top:10px; font-size:13px; color:var(--ink2); }
 .lg { display:inline-flex; align-items:center; gap:6px; }
 .chip { width:12px; height:12px; border-radius:3px; display:inline-block; }
@@ -97,12 +99,13 @@ a { color:var(--s1); }
 <main>
 <header>
   <h1>Physical AI Market Intelligence</h1>
-  <p>フィジカルAI(ヒューマノイド・Embodied AI)の報道動向と特許動向を毎日自動収集 ・ 最終更新 2026-07-10 02:57 UTC</p>
+  <p>フィジカルAI(ヒューマノイド・Embodied AI)の報道動向と特許動向を毎日自動収集 ・ 最終更新 2026-07-10 07:45 UTC</p>
+  <p class="coverage">収録範囲 — ニュース: 2026-04-26 〜 現在(累計 481 件) ・ 特許: 未接続</p>
 </header>
 
 <div class="kpis">
   <div class="kpi"><div class="label">記事数(直近7日)</div>
-    <div class="value">344</div><span class="delta up">+285 vs 前週</span></div>
+    <div class="value">342</div><span class="delta up">+281 vs 前週</span></div>
   <div class="kpi"><div class="label">情報ソース数(7日)</div>
     <div class="value">193</div></div>
   <div class="kpi"><div class="label">記事数(30日)</div>
@@ -131,7 +134,7 @@ a { color:var(--s1); }
 
 <section>
   <h2>ワードクラウド — 直近の頻出キーワード</h2>
-  <div class="panel"><div class="cloud"><span class="wc wc-a" style="font-size:43px" data-tip="量産: 28 記事">量産</span><span class="wc wc-a" style="font-size:42px" data-tip="world: 27 記事">world</span><span class="wc wc-a" style="font-size:40px" data-tip="三菱自動車: 23 記事">三菱自動車</span><span class="wc wc-a" style="font-size:39px" data-tip="開発: 21 記事">開発</span><span class="wc wc-a" style="font-size:38px" data-tip="東大: 19 記事">東大</span><span class="wc wc-a" style="font-size:36px" data-tip="日本: 16 記事">日本</span><span class="wc wc-a" style="font-size:36px" data-tip="現場: 16 記事">現場</span><span class="wc wc-a" style="font-size:36px" data-tip="企業: 16 記事">企業</span><span class="wc wc-a" style="font-size:35px" data-tip="協業: 15 記事">協業</span><span class="wc wc-a" style="font-size:34px" data-tip="china: 14 記事">china</span><span class="wc wc-b" style="font-size:34px" data-tip="cup: 14 記事">cup</span><span class="wc wc-b" style="font-size:34px" data-tip="データ: 14 記事">データ</span><span class="wc wc-b" style="font-size:34px" data-tip="surgery: 14 記事">surgery</span><span class="wc wc-b" style="font-size:33px" data-tip="生産: 13 記事">生産</span><span class="wc wc-b" style="font-size:33px" data-tip="atlas: 13 記事">atlas</span><span class="wc wc-b" style="font-size:33px" data-tip="アップ: 12 記事">アップ</span><span class="wc wc-b" style="font-size:32px" data-tip="スタート: 11 記事">スタート</span><span class="wc wc-b" style="font-size:31px" data-tip="data: 10 記事">data</span><span class="wc wc-b" style="font-size:31px" data-tip="基盤: 10 記事">基盤</span><span class="wc wc-b" style="font-size:31px" data-tip="日立: 10 記事">日立</span><span class="wc wc-b" style="font-size:30px" data-tip="nvidia: 9 記事">nvidia</span><span class="wc wc-b" style="font-size:30px" data-tip="live: 9 記事">live</span><span class="wc wc-b" style="font-size:30px" data-tip="清水建設: 9 記事">清水建設</span><span class="wc wc-b" style="font-size:30px" data-tip="unveils: 9 記事">unveils</span><span class="wc wc-b" style="font-size:30px" data-tip="hyundai: 9 記事">hyundai</span><span class="wc wc-b" style="font-size:29px" data-tip="launches: 8 記事">launches</span><span class="wc wc-b" style="font-size:29px" data-tip="industrial: 8 記事">industrial</span><span class="wc wc-b" style="font-size:29px" data-tip="market: 8 記事">market</span><span class="wc wc-b" style="font-size:29px" data-tip="投資: 8 記事">投資</span><span class="wc wc-b" style="font-size:29px" data-tip="導入: 8 記事">導入</span><span class="wc wc-c" style="font-size:29px" data-tip="三菱自: 8 記事">三菱自</span><span class="wc wc-c" style="font-size:29px" data-tip="写真: 8 記事">写真</span><span class="wc wc-c" style="font-size:29px" data-tip="画像: 8 記事">画像</span><span class="wc wc-c" style="font-size:29px" data-tip="中国: 8 記事">中国</span><span class="wc wc-c" style="font-size:28px" data-tip="model: 7 記事">model</span><span class="wc wc-c" style="font-size:28px" data-tip="brings: 7 記事">brings</span><span class="wc wc-c" style="font-size:28px" data-tip="stock: 7 記事">stock</span><span class="wc wc-c" style="font-size:28px" data-tip="highlanders: 7 記事">highlanders</span><span class="wc wc-c" style="font-size:28px" data-tip="実装: 7 記事">実装</span><span class="wc wc-c" style="font-size:28px" data-tip="国産: 7 記事">国産</span><span class="wc wc-c" style="font-size:28px" data-tip="世界: 7 記事">世界</span><span class="wc wc-c" style="font-size:28px" data-tip="加速: 7 記事">加速</span><span class="wc wc-c" style="font-size:28px" data-tip="新興: 7 記事">新興</span><span class="wc wc-c" style="font-size:27px" data-tip="mistral: 6 記事">mistral</span><span class="wc wc-c" style="font-size:27px" data-tip="global: 6 記事">global</span><span class="wc wc-c" style="font-size:27px" data-tip="ベンチャー: 6 記事">ベンチャー</span><span class="wc wc-c" style="font-size:27px" data-tip="統合: 6 記事">統合</span><span class="wc wc-c" style="font-size:27px" data-tip="巡回: 6 記事">巡回</span><span class="wc wc-c" style="font-size:27px" data-tip="時代: 6 記事">時代</span><span class="wc wc-c" style="font-size:27px" data-tip="Highlanders: 6 記事">Highlanders</span><span class="wc wc-c" style="font-size:27px" data-tip="研究: 6 記事">研究</span><span class="wc wc-c" style="font-size:27px" data-tip="モデル: 6 記事">モデル</span><span class="wc wc-c" style="font-size:27px" data-tip="提携: 6 記事">提携</span><span class="wc wc-c" style="font-size:27px" data-tip="製造: 6 記事">製造</span><span class="wc wc-c" style="font-size:27px" data-tip="建設: 6 記事">建設</span><span class="wc wc-c" style="font-size:27px" data-tip="支援: 6 記事">支援</span><span class="wc wc-c" style="font-size:27px" data-tip="ハイランダーズ: 6 記事">ハイランダーズ</span><span class="wc wc-c" style="font-size:27px" data-tip="事業: 6 記事">事業</span><span class="wc wc-c" style="font-size:27px" data-tip="fifa: 6 記事">fifa</span><span class="wc wc-c" style="font-size:27px" data-tip="performs: 6 記事">performs</span></div></div>
+  <div class="panel"><div class="cloud"><span class="wc wc-a" style="font-size:43px" data-tip="量産: 28 記事">量産</span><span class="wc wc-a" style="font-size:42px" data-tip="world: 27 記事">world</span><span class="wc wc-a" style="font-size:40px" data-tip="三菱自動車: 23 記事">三菱自動車</span><span class="wc wc-a" style="font-size:39px" data-tip="開発: 21 記事">開発</span><span class="wc wc-a" style="font-size:38px" data-tip="東大: 19 記事">東大</span><span class="wc wc-a" style="font-size:36px" data-tip="日本: 16 記事">日本</span><span class="wc wc-a" style="font-size:36px" data-tip="現場: 16 記事">現場</span><span class="wc wc-a" style="font-size:36px" data-tip="企業: 16 記事">企業</span><span class="wc wc-a" style="font-size:35px" data-tip="協業: 15 記事">協業</span><span class="wc wc-a" style="font-size:34px" data-tip="china: 14 記事">china</span><span class="wc wc-b" style="font-size:34px" data-tip="cup: 14 記事">cup</span><span class="wc wc-b" style="font-size:34px" data-tip="データ: 14 記事">データ</span><span class="wc wc-b" style="font-size:34px" data-tip="surgery: 14 記事">surgery</span><span class="wc wc-b" style="font-size:33px" data-tip="生産: 13 記事">生産</span><span class="wc wc-b" style="font-size:33px" data-tip="atlas: 13 記事">atlas</span><span class="wc wc-b" style="font-size:33px" data-tip="アップ: 12 記事">アップ</span><span class="wc wc-b" style="font-size:32px" data-tip="スタート: 11 記事">スタート</span><span class="wc wc-b" style="font-size:31px" data-tip="基盤: 10 記事">基盤</span><span class="wc wc-b" style="font-size:31px" data-tip="日立: 10 記事">日立</span><span class="wc wc-b" style="font-size:30px" data-tip="data: 9 記事">data</span><span class="wc wc-b" style="font-size:30px" data-tip="nvidia: 9 記事">nvidia</span><span class="wc wc-b" style="font-size:30px" data-tip="live: 9 記事">live</span><span class="wc wc-b" style="font-size:30px" data-tip="清水建設: 9 記事">清水建設</span><span class="wc wc-b" style="font-size:30px" data-tip="unveils: 9 記事">unveils</span><span class="wc wc-b" style="font-size:30px" data-tip="hyundai: 9 記事">hyundai</span><span class="wc wc-b" style="font-size:29px" data-tip="launches: 8 記事">launches</span><span class="wc wc-b" style="font-size:29px" data-tip="industrial: 8 記事">industrial</span><span class="wc wc-b" style="font-size:29px" data-tip="market: 8 記事">market</span><span class="wc wc-b" style="font-size:29px" data-tip="投資: 8 記事">投資</span><span class="wc wc-b" style="font-size:29px" data-tip="導入: 8 記事">導入</span><span class="wc wc-c" style="font-size:29px" data-tip="三菱自: 8 記事">三菱自</span><span class="wc wc-c" style="font-size:29px" data-tip="写真: 8 記事">写真</span><span class="wc wc-c" style="font-size:29px" data-tip="画像: 8 記事">画像</span><span class="wc wc-c" style="font-size:29px" data-tip="中国: 8 記事">中国</span><span class="wc wc-c" style="font-size:28px" data-tip="model: 7 記事">model</span><span class="wc wc-c" style="font-size:28px" data-tip="brings: 7 記事">brings</span><span class="wc wc-c" style="font-size:28px" data-tip="stock: 7 記事">stock</span><span class="wc wc-c" style="font-size:28px" data-tip="highlanders: 7 記事">highlanders</span><span class="wc wc-c" style="font-size:28px" data-tip="実装: 7 記事">実装</span><span class="wc wc-c" style="font-size:28px" data-tip="国産: 7 記事">国産</span><span class="wc wc-c" style="font-size:28px" data-tip="世界: 7 記事">世界</span><span class="wc wc-c" style="font-size:28px" data-tip="加速: 7 記事">加速</span><span class="wc wc-c" style="font-size:28px" data-tip="新興: 7 記事">新興</span><span class="wc wc-c" style="font-size:27px" data-tip="mistral: 6 記事">mistral</span><span class="wc wc-c" style="font-size:27px" data-tip="global: 6 記事">global</span><span class="wc wc-c" style="font-size:27px" data-tip="ベンチャー: 6 記事">ベンチャー</span><span class="wc wc-c" style="font-size:27px" data-tip="統合: 6 記事">統合</span><span class="wc wc-c" style="font-size:27px" data-tip="巡回: 6 記事">巡回</span><span class="wc wc-c" style="font-size:27px" data-tip="時代: 6 記事">時代</span><span class="wc wc-c" style="font-size:27px" data-tip="Highlanders: 6 記事">Highlanders</span><span class="wc wc-c" style="font-size:27px" data-tip="研究: 6 記事">研究</span><span class="wc wc-c" style="font-size:27px" data-tip="モデル: 6 記事">モデル</span><span class="wc wc-c" style="font-size:27px" data-tip="提携: 6 記事">提携</span><span class="wc wc-c" style="font-size:27px" data-tip="製造: 6 記事">製造</span><span class="wc wc-c" style="font-size:27px" data-tip="建設: 6 記事">建設</span><span class="wc wc-c" style="font-size:27px" data-tip="支援: 6 記事">支援</span><span class="wc wc-c" style="font-size:27px" data-tip="ハイランダーズ: 6 記事">ハイランダーズ</span><span class="wc wc-c" style="font-size:27px" data-tip="事業: 6 記事">事業</span><span class="wc wc-c" style="font-size:27px" data-tip="fifa: 6 記事">fifa</span><span class="wc wc-c" style="font-size:27px" data-tip="performs: 6 記事">performs</span></div></div>
 </section>
 
 <section>
@@ -140,25 +143,25 @@ a { color:var(--s1); }
   <span class="rank">1</span>
   <div class="hot-body">
     <a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE44d05oV3AxcFJWWFJTay1NVDVTX3MwbEQzMGJHSjVvN3JtWXp5UFVuSHJRTzZiQ2RLTDZtV3JwTkpFVGlGNmNBaDJubGlaeU5fdTYyd29FS3BkclpoOVpDanYydDVYa3l4cjgxa1RDeHJ0elJJRkltd3oyYw?oc=5" target="_blank" rel="noopener">三菱自動車 ヒト型ロボットを共同開発 量産へ</a>
-    <div class="meta"><span class="badge">6 媒体</span><span>15時間前</span><span class="srcs">Yahoo!ニュース / au Webポータル / マガジンXニュース / 産経ニュース</span></div>
+    <div class="meta"><span class="badge">6 媒体</span><span>16時間前</span><span class="srcs">Yahoo!ニュース / au Webポータル / マガジンXニュース / 産経ニュース</span></div>
   </div>
 </li><li class="hot">
   <span class="rank">2</span>
   <div class="hot-body">
     <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWcEFOcXFzbFB5Wno3d1duS09wc0tIQnIwSTZxY0YtYTJQQUhJek1jbzRzczRNcDA1QkZZeFNRX0Iya2lqaTlTb05aTjdXdEpxY1RuNmd2NW5namt6eUxQUGxKSkdZS1BZ?oc=5" target="_blank" rel="noopener">清水建設、建設現場向けAIロボットの研究開発を本格化 ヒューマノイドロボットによる現場巡回も実証</a>
-    <div class="meta"><span class="badge">4 媒体</span><span>14時間前</span><span class="srcs">BigGo ファイナンス / CNET Japan / innovaTopia / マイナビニュース</span></div>
+    <div class="meta"><span class="badge">4 媒体</span><span>15時間前</span><span class="srcs">BigGo ファイナンス / CNET Japan / innovaTopia / マイナビニュース</span></div>
   </div>
 </li><li class="hot">
   <span class="rank">3</span>
   <div class="hot-body">
     <a href="https://news.google.com/rss/articles/CBMidEFVX3lxTE51eTgxMTlzRVdKWkdhUnIxRWpOZ2dZWVFMdy1pQk5zVmxJajVJY0RiVHlpYm4yTGtOdURLaFgxMGktVHBSSTBrX3NPNXREb0tMbXVrcVgtY2VUcGRMalI2WjhmRGQzUUREMHhkQi1QZVczb3Ru?oc=5" target="_blank" rel="noopener">三菱自動車、国産フィジカルAI量産へ 東大発Highlandersと「垂直統合」、27年に月産1000台</a>
-    <div class="meta"><span class="badge">4 媒体</span><span>16時間前</span><span class="srcs">BigGo ファイナンス / Yahoo!ニュース / くるまのニュース / ｄメニューニュース</span></div>
+    <div class="meta"><span class="badge">4 媒体</span><span>17時間前</span><span class="srcs">BigGo ファイナンス / Yahoo!ニュース / くるまのニュース / ｄメニューニュース</span></div>
   </div>
 </li><li class="hot">
   <span class="rank">4</span>
   <div class="hot-body">
     <a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxNVzJ0TklIUV9QNFJzc2U3R2F4OWxiejZ4dW1uM0NGVFFhSjduNDYyaUNhek00WVplSlRhZHBUS1dPNXdubU1DMnBDN0FKWlJ4UnZscmtkM01lYWNsU01jMmZqXzdVRzBLRDJBUjlETEI1YURITzdMQ0JvT19wWXl6dGNuOGVsdHJPQktxZmQ2SmxVREVHSEt3SG1uOUZXSjEyOGs3Q0NNb1NzOTBKbmJMQThWNmRJbFZYMFE?oc=5" target="_blank" rel="noopener">Surgeons Perform World’s First Surgery Using Teleoperated Humanoid Robots</a>
-    <div class="meta"><span class="badge">4 媒体</span><span>21時間前</span><span class="srcs">Bioengineer.org / Interesting Engineering / Tomorrow&#x27;s World Today / UC San Diego Today</span></div>
+    <div class="meta"><span class="badge">4 媒体</span><span>22時間前</span><span class="srcs">Bioengineer.org / Interesting Engineering / Tomorrow&#x27;s World Today / UC San Diego Today</span></div>
   </div>
 </li><li class="hot">
   <span class="rank">5</span>
@@ -170,34 +173,36 @@ a { color:var(--s1); }
   <span class="rank">6</span>
   <div class="hot-body">
     <a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxOOUMzbnNibmNQV2p1M2JiQl82UWhFaUo5YTFjLXozM2ozSFdBSEZTLTRMRmtseGQ2N0dkV0cwVHBGcEdOUm1tYzYtNGFfZm0zNEVvNzRHNXM1M3c4am1XSUt2d1RwZks3V29hR3FTQjEwVEtZMzVwSlNQU3plZXd2Wi0xXzhXdw?oc=5" target="_blank" rel="noopener">三菱自動車とHighlanders、ヒューマノイドロボットで基本合意 2027年早期に京都工場で量産化検討</a>
-    <div class="meta"><span class="badge">3 媒体</span><span>13時間前</span><span class="srcs">Car Watch / au Webポータル / projectdesign.jp</span></div>
+    <div class="meta"><span class="badge">3 媒体</span><span>14時間前</span><span class="srcs">Car Watch / au Webポータル / projectdesign.jp</span></div>
   </div>
 </li><li class="hot">
   <span class="rank">7</span>
   <div class="hot-body">
     <a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxNRXE3bmNjWmRpb1liS0xjVHRhaDlsVFFreDU0dVhOUW1wNUtqZHF3VTdWQkpMSlFmdnRfclJwaVFNeXV5OTV1aUFqSC1ZNzk0eFp4Q3YycWZpcjZCZW52SEtRTnVkLWsyenZfbjd2cXNNbUJ0ZTFQUVg4Um9DWTNpZDlZdW5WUkp5a0cyS0hDWGd4Y0U?oc=5" target="_blank" rel="noopener">European startup unveils humanoid robot design, real-time learning system</a>
-    <div class="meta"><span class="badge">3 媒体</span><span>15時間前</span><span class="srcs">Bloomberg.com / Electrek / digitimes</span></div>
+    <div class="meta"><span class="badge">3 媒体</span><span>16時間前</span><span class="srcs">Bloomberg.com / Electrek / digitimes</span></div>
   </div>
 </li><li class="hot">
   <span class="rank">8</span>
   <div class="hot-body">
     <a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BcTg0cHVxMVJhYnlKdlhZX2NPQXRHUzQzMy1CRE82a3JTc2hJUVZMcDgtSTNBTzBIWTNKZkdVdGRzVVJFMXNULV9lU1lRZG44UHFqbk9IOGcyN2ZJNlE?oc=5" target="_blank" rel="noopener">東京大学 松尾・岩澤研究室、学生向けAI基盤モデル開発コンテストの参加メンバー募集開始</a>
-    <div class="meta"><span class="badge">3 媒体</span><span>16時間前</span><span class="srcs">ICT教育ニュース / ロボスタ</span></div>
+    <div class="meta"><span class="badge">3 媒体</span><span>17時間前</span><span class="srcs">ICT教育ニュース / ロボスタ</span></div>
   </div>
 </li><li class="hot">
   <span class="rank">9</span>
   <div class="hot-body">
     <a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TMWIxZGtORlJOQndKRmFmemh4elRMMzlkeG9walY1NVV0eVZYV2N3Q3ZQRzZmcUozX1FFZjBFWWdmQ2oxMDY5VXFERDVweVh4Q3otQ3ZjN01WTnFPbml0alF4ZGlEMzJ4?oc=5" target="_blank" rel="noopener">人型ロボット：人型ロボ、共同で量産化 三菱自と東大発企業、来年開始</a>
-    <div class="meta"><span class="badge">3 媒体</span><span>22時間前</span><span class="srcs">47NEWS / au Webポータル / 毎日新聞</span></div>
+    <div class="meta"><span class="badge">3 媒体</span><span>23時間前</span><span class="srcs">47NEWS / au Webポータル / 毎日新聞</span></div>
   </div>
 </li><li class="hot">
   <span class="rank">10</span>
   <div class="hot-body">
     <a href="https://news.google.com/rss/articles/CBMifkFVX3lxTFBFdExRQ2sxTm9xeTkyYnFzSG5rejZMYkc4QWl1aGw0QWljSVFQX3pBQWZEZTNPelp4bzFiLWVpMWJYajl3RnRJMjZIclRrb1hYd0VwbkJfUzJQRFlfTHBCU2lYZ1lUUTNFUlB2Q044amlfU192cE9oZ1dETXBfdw?oc=5" target="_blank" rel="noopener">Hyundai Puts Atlas Into A Live World Cup Halftime Show</a>
-    <div class="meta"><span class="badge">3 媒体</span><span>22時間前</span><span class="srcs">The Korea Daily / WeRSM / upi.com</span></div>
+    <div class="meta"><span class="badge">3 媒体</span><span>23時間前</span><span class="srcs">The Korea Daily / WeRSM / upi.com</span></div>
   </div>
 </li></ol>
 </section>
+
+
 
 <section>
   <h2>特許動向(アップロードCSVから集計)</h2>
