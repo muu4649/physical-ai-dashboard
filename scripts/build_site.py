@@ -524,7 +524,7 @@ a {{ color:var(--s1); }}
 <section>
   <h2>特許動向</h2>
   <div class="notice query-box">
-    <strong>特許抽出の検索式(タイトルまたは要約への一致)</strong>
+    <strong>特許抽出の検索式(ロボット形態 × 学習・制御技術 × IPC分類、ティーチングプレイバック型は除外)</strong>
     <pre class="query">{esc(PATENT_SEARCH_QUERY)}</pre>
   </div>
   {render_patents(patents)}

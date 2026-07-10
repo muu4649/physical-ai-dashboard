@@ -18,15 +18,22 @@ TOPICS = [
 # Google Drive共有フォルダ(GDRIVE_FOLDER_ID / GDRIVE_API_KEY)または data/patents_csv/ に配置。
 
 # 特許抽出に用いる検索式(ダッシュボードにもこの式を明記する)
+# 構成: ロボット形態キーワード AND 学習・制御技術キーワード AND IPC分類 AND NOT ティーチングプレイバック型
 PATENT_SEARCH_QUERY = (
-    'title:("humanoid robot" OR "humanoid robots" OR "physical AI" OR '
-    '"physical artificial intelligence" OR "embodied AI" OR '
-    '"embodied artificial intelligence" OR "embodied intelligence" OR '
-    '"robot foundation model" OR "bipedal robot" OR "legged robot") OR '
-    'abstract:("humanoid robot" OR "humanoid robots" OR "physical AI" OR '
-    '"physical artificial intelligence" OR "embodied AI" OR '
-    '"embodied artificial intelligence" OR "embodied intelligence" OR '
-    '"robot foundation model" OR "bipedal robot" OR "legged robot")'
+    '("physical AI" OR "embodied AI" OR "embodied intelligence" OR humanoid OR '
+    '"legged robot" OR "quadruped robot" OR "bipedal robot" OR "mobile manipulation" OR '
+    '"mobile manipulator" OR "robotic manipulation" OR "robot manipulation" OR '
+    '"dexterous manipulation" OR "autonomous robot" OR "collaborative robot" OR cobot OR '
+    '"service robot" OR "robotic grasping" OR "robot grasping") AND '
+    '("sim-to-real" OR "sim2real" OR "domain randomization" OR "reinforcement learning" OR '
+    '"imitation learning" OR "learning from demonstration" OR "self-supervised learning" OR '
+    '"end-to-end learning" OR "world model" OR "vision-language-action" OR '
+    '"vision language model" OR "foundation model" OR "diffusion policy" OR '
+    '"neural network" OR "deep learning" OR "multimodal perception" OR "tactile sensing" OR '
+    '"force control" OR "whole-body control" OR "motion planning" OR "grasp planning") AND '
+    '(class_ipcr.symbol:B25J* OR class_ipcr.symbol:G06N* OR class_ipcr.symbol:G05B* OR '
+    'class_ipcr.symbol:G05D*) AND NOT '
+    '("teach and playback" OR "teaching and playback" OR "playback robot")'
 )
 
 # ワードクラウドから除外する語(クエリ語そのものは常に上位に来るため除外)

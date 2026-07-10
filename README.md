@@ -65,15 +65,16 @@ open docs/index.html
 
 ### 特許データの検索式(固定)
 
-特許の抽出には**必ず以下の検索式を使用する**(タイトルまたは要約への一致。
-ダッシュボード上にも同じ式を明記している)。式の実体は `scripts/config.py` の
-`PATENT_SEARCH_QUERY` で管理する。
+特許の抽出には**必ず以下の検索式を使用する**(ダッシュボード上にも同じ式を明記している)。
+式の実体は `scripts/config.py` の `PATENT_SEARCH_QUERY` で管理する。
+構成は「ロボット形態キーワード AND 学習・制御技術キーワード AND IPC分類
+(B25J/G06N/G05B/G05D) AND NOT ティーチングプレイバック型」。
 
 ```
-title:("humanoid robot" OR "humanoid robots" OR "physical AI" OR "physical artificial intelligence" OR "embodied AI" OR "embodied artificial intelligence" OR "embodied intelligence" OR "robot foundation model" OR "bipedal robot" OR "legged robot") OR abstract:("humanoid robot" OR "humanoid robots" OR "physical AI" OR "physical artificial intelligence" OR "embodied AI" OR "embodied artificial intelligence" OR "embodied intelligence" OR "robot foundation model" OR "bipedal robot" OR "legged robot")
+("physical AI" OR "embodied AI" OR "embodied intelligence" OR humanoid OR "legged robot" OR "quadruped robot" OR "bipedal robot" OR "mobile manipulation" OR "mobile manipulator" OR "robotic manipulation" OR "robot manipulation" OR "dexterous manipulation" OR "autonomous robot" OR "collaborative robot" OR cobot OR "service robot" OR "robotic grasping" OR "robot grasping") AND ("sim-to-real" OR "sim2real" OR "domain randomization" OR "reinforcement learning" OR "imitation learning" OR "learning from demonstration" OR "self-supervised learning" OR "end-to-end learning" OR "world model" OR "vision-language-action" OR "vision language model" OR "foundation model" OR "diffusion policy" OR "neural network" OR "deep learning" OR "multimodal perception" OR "tactile sensing" OR "force control" OR "whole-body control" OR "motion planning" OR "grasp planning") AND (class_ipcr.symbol:B25J* OR class_ipcr.symbol:G06N* OR class_ipcr.symbol:G05B* OR class_ipcr.symbol:G05D*) AND NOT ("teach and playback" OR "teaching and playback" OR "playback robot")
 ```
 
-- 日本特許も英訳タイトル・要約に対して検索されるため、英語キーワードで日米欧をカバーできる
+- 日本特許も英訳に対して検索されるため、英語キーワードで日米欧をカバーできる
 - エクスポート前にファミリー単位(Simple Family)での重複排除を推奨
 - エクスポートしたCSVの列名(番号・名称・出願日・出願人)は本ダッシュボードが自動判定する
 
