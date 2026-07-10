@@ -148,13 +148,21 @@ def build_hybrid(articles: list, now: datetime) -> list:
     result = []
     for org, patent_count in patents.get("top_assignees", [])[:8]:
         core = core_company_name(org)
-        if len(core) < 2:
-            mentions = 0
-        elif core.isascii():
-            pat = re.compile(r"\b" + re.escape(core.casefold()) + r"\b")
-            mentions = sum(1 for t in month_titles if pat.search(t))
-        else:
-            mentions = sum(1 for t in month_titles if core.casefold() in t)
+        # 正式名(HONDA MOTOR等)は報道の呼称(Honda)と一致しないため、
+        # 4文字以上の先頭語もエイリアスとして併用する
+        aliases = {core.casefold()}
+        first = core.split()[0] if core.split() else ""
+        if first.isascii() and len(first) >= 4:
+            aliases.add(first.casefold())
+        mentions = 0
+        if len(core) >= 2:
+            for t in month_titles:
+                for alias in aliases:
+                    hit = (re.search(r"\b" + re.escape(alias) + r"\b", t)
+                           if alias.isascii() else alias in t)
+                    if hit:
+                        mentions += 1
+                        break
         result.append({"name": org, "core": core,
                        "patents": patent_count, "news": mentions})
     return result

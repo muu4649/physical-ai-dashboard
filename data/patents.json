@@ -1,1 +1,166 @@
-{"available": false}
+{
+ "available": true,
+ "source": "csv",
+ "date_label": "出願年",
+ "oldest": "1987-09",
+ "newest": "2026-04",
+ "total_hits": 14373,
+ "fetched": 14373,
+ "by_year": {
+  "1987": 2,
+  "1988": 7,
+  "1989": 5,
+  "1990": 11,
+  "1991": 4,
+  "1992": 7,
+  "1993": 11,
+  "1994": 8,
+  "1995": 19,
+  "1996": 2,
+  "1997": 13,
+  "1998": 14,
+  "1999": 18,
+  "2000": 18,
+  "2001": 32,
+  "2002": 51,
+  "2003": 41,
+  "2004": 90,
+  "2005": 63,
+  "2006": 77,
+  "2007": 70,
+  "2008": 86,
+  "2009": 97,
+  "2010": 96,
+  "2011": 107,
+  "2012": 139,
+  "2013": 154,
+  "2014": 197,
+  "2015": 252,
+  "2016": 367,
+  "2017": 712,
+  "2018": 1046,
+  "2019": 1521,
+  "2020": 1811,
+  "2021": 1702,
+  "2022": 1549,
+  "2023": 1414,
+  "2024": 1302,
+  "2025": 1158,
+  "2026": 100
+ },
+ "top_assignees": [
+  [
+   "INTEL CORP",
+   1051
+  ],
+  [
+   "BOSCH GMBH ROBERT",
+   533
+  ],
+  [
+   "GOOGLE LLC",
+   275
+  ],
+  [
+   "HONDA MOTOR CO LTD",
+   263
+  ],
+  [
+   "SAMSUNG ELECTRONICS CO LTD",
+   260
+  ],
+  [
+   "X DEV LLC",
+   244
+  ],
+  [
+   "NVIDIA CORP",
+   213
+  ],
+  [
+   "QUALCOMM INC",
+   206
+  ],
+  [
+   "BRAIN CORP",
+   193
+  ],
+  [
+   "BOSTON DYNAMICS INC",
+   179
+  ]
+ ],
+ "recent": [
+  {
+   "id": "CN 122113994 A",
+   "title": "一种基于残差动作学习的智能机器人全身动作训练方法",
+   "date": "2026-04-30",
+   "assignee": "江苏欣网视讯软件技术有限公司",
+   "url": "https://patents.google.com/patent/CN122113994A"
+  },
+  {
+   "id": "CN 121893295 A",
+   "title": "Cooperative control method and system for man-machine cooperative assembly robot based on digital twinning",
+   "date": "2026-03-24",
+   "assignee": "UNIV NANJING AERONAUTICS & ASTRONAUTICS",
+   "url": "https://patents.google.com/patent/CN121893295A"
+  },
+  {
+   "id": "CN 121912402 A",
+   "title": "Humanoid robot movement-operation controller training method",
+   "date": "2026-03-20",
+   "assignee": "UNIV DALIAN TECH",
+   "url": "https://patents.google.com/patent/CN121912402A"
+  },
+  {
+   "id": "CN 121900451 A",
+   "title": "Quadruped robot and control method of joint module of quadruped robot",
+   "date": "2026-03-18",
+   "assignee": "GUANGDONG TOPS TECH CO LTD",
+   "url": "https://patents.google.com/patent/CN121900451A"
+  },
+  {
+   "id": "CN 121870782 A",
+   "title": "Robot long-time operation control model training method, control method and system",
+   "date": "2026-03-18",
+   "assignee": "UNIV HEFEI TECHNOLOGY",
+   "url": "https://patents.google.com/patent/CN121870782A"
+  },
+  {
+   "id": "CN 121893283 A",
+   "title": "Vision-based stateless robot motion control method and system",
+   "date": "2026-03-18",
+   "assignee": "WANJING QIANXUN BEIJING TECH CO LTD",
+   "url": "https://patents.google.com/patent/CN121893283A"
+  },
+  {
+   "id": "CN 121946508 A",
+   "title": "Whole body control method and device of humanoid robot, electronic equipment and storage medium",
+   "date": "2026-03-16",
+   "assignee": "BEIJING SHENMOU TECH CO LTD",
+   "url": "https://patents.google.com/patent/CN121946508A"
+  },
+  {
+   "id": "CN 121821413 A",
+   "title": "Intelligent control method and system for waste automobile disassembling robot",
+   "date": "2026-03-12",
+   "assignee": "JIANGSU SUBEI WASTE AUTOMOBILE HOME APPLIANCE DISMANTLING RECYCLING CO LTD",
+   "url": "https://patents.google.com/patent/CN121821413A"
+  },
+  {
+   "id": "KR 20260042109 A",
+   "title": "Robot Manipulator and Integrated Control System Having High-Speed Reflex Based on Multi-Layer Bitwise Logic",
+   "date": "2026-02-26",
+   "assignee": "CHO IK YEON",
+   "url": "https://patents.google.com/patent/KR20260042109A"
+  },
+  {
+   "id": "CN 121733582 A",
+   "title": "Universal robot cognitive architecture based on world model and control method thereof",
+   "date": "2026-02-26",
+   "assignee": "SUN YANJUN",
+   "url": "https://patents.google.com/patent/CN121733582A"
+  }
+ ],
+ "updated_at": "2026-07-10T08:23:37.171116+00:00"
+}

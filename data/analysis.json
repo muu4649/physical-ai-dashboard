@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-07-10T07:45:27.761995+00:00",
+ "updated_at": "2026-07-10T08:24:28.110308+00:00",
  "kpi": {
   "articles_7d": 342,
   "articles_prev_7d": 61,
@@ -134,11 +134,11 @@
    8
   ],
   [
-   "写真",
+   "画像",
    8
   ],
   [
-   "画像",
+   "写真",
    8
   ],
   [
@@ -263,7 +263,7 @@
     "マガジンXニュース",
     "産経ニュース"
    ],
-   "score": 4.76
+   "score": 4.72
   },
   {
    "title": "清水建設、建設現場向けAIロボットの研究開発を本格化 ヒューマノイドロボットによる現場巡回も実証",
@@ -277,7 +277,7 @@
     "innovaTopia",
     "マイナビニュース"
    ],
-   "score": 3.22
+   "score": 3.19
   },
   {
    "title": "三菱自動車、国産フィジカルAI量産へ 東大発Highlandersと「垂直統合」、27年に月産1000台",
@@ -291,7 +291,7 @@
     "くるまのニュース",
     "ｄメニューニュース"
    ],
-   "score": 3.16
+   "score": 3.13
   },
   {
    "title": "Surgeons Perform World’s First Surgery Using Teleoperated Humanoid Robots",
@@ -305,7 +305,7 @@
     "Tomorrow's World Today",
     "UC San Diego Today"
    ],
-   "score": 2.92
+   "score": 2.89
   },
   {
    "title": "「日本発のヒューマノイドロボット」量産へ、三菱自動車とハイランダーズが協業 2027年中に1000台生産見込む（レスポンス）",
@@ -317,7 +317,7 @@
     "Yahoo!ニュース",
     "レスポンス（Response.jp）"
    ],
-   "score": 2.53
+   "score": 2.5
   },
   {
    "title": "三菱自動車とHighlanders、ヒューマノイドロボットで基本合意 2027年早期に京都工場で量産化検討",
@@ -330,7 +330,7 @@
     "au Webポータル",
     "projectdesign.jp"
    ],
-   "score": 2.44
+   "score": 2.42
   },
   {
    "title": "European startup unveils humanoid robot design, real-time learning system",
@@ -343,7 +343,7 @@
     "Electrek",
     "digitimes"
    ],
-   "score": 2.4
+   "score": 2.38
   },
   {
    "title": "東京大学 松尾・岩澤研究室、学生向けAI基盤モデル開発コンテストの参加メンバー募集開始",
@@ -355,7 +355,7 @@
     "ICT教育ニュース",
     "ロボスタ"
    ],
-   "score": 2.35
+   "score": 2.33
   },
   {
    "title": "人型ロボット：人型ロボ、共同で量産化 三菱自と東大発企業、来年開始",
@@ -368,7 +368,7 @@
     "au Webポータル",
     "毎日新聞"
    ],
-   "score": 2.16
+   "score": 2.14
   },
   {
    "title": "Hyundai Puts Atlas Into A Live World Cup Halftime Show",
@@ -381,7 +381,7 @@
     "WeRSM",
     "upi.com"
    ],
-   "score": 2.16
+   "score": 2.14
   }
  ],
  "trend": {
@@ -600,5 +600,54 @@
    }
   ]
  },
- "hybrid": []
+ "hybrid": [
+  {
+   "name": "INTEL CORP",
+   "core": "INTEL",
+   "patents": 1051,
+   "news": 0
+  },
+  {
+   "name": "BOSCH GMBH ROBERT",
+   "core": "BOSCH GMBH ROBERT",
+   "patents": 533,
+   "news": 0
+  },
+  {
+   "name": "GOOGLE LLC",
+   "core": "GOOGLE",
+   "patents": 275,
+   "news": 0
+  },
+  {
+   "name": "HONDA MOTOR CO LTD",
+   "core": "HONDA MOTOR",
+   "patents": 263,
+   "news": 0
+  },
+  {
+   "name": "SAMSUNG ELECTRONICS CO LTD",
+   "core": "SAMSUNG ELECTRONICS",
+   "patents": 260,
+   "news": 0
+  },
+  {
+   "name": "X DEV LLC",
+   "core": "X DEV",
+   "patents": 244,
+   "news": 0
+  },
+  {
+   "name": "NVIDIA CORP",
+   "core": "NVIDIA",
+   "patents": 213,
+   "news": 10
+  },
+  {
+   "name": "QUALCOMM INC",
+   "core": "QUALCOMM",
+   "patents": 206,
+   "news": 0
+  }
+ ]
 }
