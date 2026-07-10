@@ -1,100 +1,144 @@
 {
- "updated_at": "2026-07-10T09:06:11.938099+00:00",
+ "updated_at": "2026-07-10T21:58:50.138427+00:00",
  "kpi": {
-  "articles_7d": 342,
-  "articles_prev_7d": 61,
-  "sources_7d": 193,
-  "articles_30d": 458,
-  "total_articles": 481,
+  "articles_7d": 430,
+  "articles_prev_7d": 69,
+  "sources_7d": 234,
+  "articles_30d": 560,
+  "total_articles": 589,
   "oldest_news": "2026-04-26"
  },
  "wordcloud": [
   [
    "量産",
-   28
+   36
   ],
   [
    "world",
-   27
+   35
   ],
   [
    "三菱自動車",
-   23
+   32
   ],
   [
    "開発",
-   21
+   27
   ],
   [
    "東大",
-   19
-  ],
-  [
-   "日本",
-   16
-  ],
-  [
-   "現場",
-   16
-  ],
-  [
-   "企業",
-   16
+   23
   ],
   [
    "協業",
-   15
+   23
   ],
   [
-   "china",
-   14
-  ],
-  [
-   "cup",
-   14
-  ],
-  [
-   "データ",
-   14
+   "日本",
+   21
   ],
   [
    "surgery",
-   14
+   21
   ],
   [
    "生産",
-   13
+   20
+  ],
+  [
+   "現場",
+   19
+  ],
+  [
+   "企業",
+   19
+  ],
+  [
+   "データ",
+   18
   ],
   [
    "atlas",
-   13
+   16
+  ],
+  [
+   "china",
+   15
+  ],
+  [
+   "cup",
+   15
+  ],
+  [
+   "写真",
+   15
+  ],
+  [
+   "画像",
+   15
+  ],
+  [
+   "live",
+   14
   ],
   [
    "アップ",
+   14
+  ],
+  [
+   "基盤",
+   13
+  ],
+  [
+   "launches",
    12
   ],
   [
    "スタート",
-   11
-  ],
-  [
-   "基盤",
-   10
+   12
   ],
   [
    "日立",
+   12
+  ],
+  [
+   "nvidia",
+   11
+  ],
+  [
+   "中国",
+   11
+  ],
+  [
+   "industrial",
    10
   ],
   [
    "data",
+   10
+  ],
+  [
+   "提携",
+   10
+  ],
+  [
+   "ハイランダーズ",
+   10
+  ],
+  [
+   "hyundai",
+   10
+  ],
+  [
+   "model",
    9
   ],
   [
-   "nvidia",
+   "market",
    9
   ],
   [
-   "live",
+   "highlanders",
    9
   ],
   [
@@ -102,23 +146,39 @@
    9
   ],
   [
+   "共同",
+   9
+  ],
+  [
+   "導入",
+   9
+  ],
+  [
+   "三菱自",
+   9
+  ],
+  [
    "unveils",
    9
   ],
   [
-   "hyundai",
+   "ubtech",
    9
   ],
   [
-   "launches",
+   "momenta",
    8
   ],
   [
-   "industrial",
+   "stock",
    8
   ],
   [
-   "market",
+   "perform",
+   8
+  ],
+  [
+   "ベンチャー",
    8
   ],
   [
@@ -126,27 +186,27 @@
    8
   ],
   [
-   "導入",
+   "実装",
    8
   ],
   [
-   "三菱自",
+   "国産",
    8
   ],
   [
-   "画像",
+   "Highlanders",
    8
   ],
   [
-   "写真",
+   "世界",
    8
   ],
   [
-   "中国",
+   "新興",
    8
   ],
   [
-   "model",
+   "mistral",
    7
   ],
   [
@@ -154,23 +214,11 @@
    7
   ],
   [
-   "stock",
+   "tesla",
    7
   ],
   [
-   "highlanders",
-   7
-  ],
-  [
-   "実装",
-   7
-  ],
-  [
-   "国産",
-   7
-  ],
-  [
-   "世界",
+   "公開",
    7
   ],
   [
@@ -178,137 +226,119 @@
    7
   ],
   [
-   "新興",
+   "モデル",
    7
   ],
   [
-   "mistral",
-   6
-  ],
-  [
-   "global",
-   6
-  ],
-  [
-   "ベンチャー",
-   6
-  ],
-  [
-   "統合",
-   6
-  ],
-  [
-   "巡回",
-   6
-  ],
-  [
-   "時代",
-   6
-  ],
-  [
-   "Highlanders",
-   6
-  ],
-  [
-   "研究",
-   6
-  ],
-  [
-   "モデル",
-   6
-  ],
-  [
-   "提携",
-   6
-  ],
-  [
-   "製造",
-   6
-  ],
-  [
-   "建設",
-   6
+   "産業",
+   7
   ],
   [
    "支援",
-   6
+   7
   ],
   [
-   "ハイランダーズ",
-   6
-  ],
-  [
-   "事業",
-   6
-  ],
-  [
-   "fifa",
-   6
+   "システム",
+   7
   ],
   [
    "performs",
-   6
+   7
+  ],
+  [
+   "動画",
+   7
   ]
  ],
  "today_top5": [
   {
-   "title": "LG Electronics begins early production of humanoid robot actuators",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83SGNWMXBzQnZsOVBDS25NdDZUamNJUnRYQzUzWlBOZkNzdWtSNlRMT1RTOC1hM0NiNHhiVTl5SGY5a2tUSEhZdFRtTnY0X2UxbUE?oc=5",
-   "source": "매일경제",
-   "published": "2026-07-09T16:53:18+00:00",
+   "title": "三菱自動車と東大発Highlandersが協業、国産人型ロボットの月産1000台体制へ（ビジネス＋IT）",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOREFZQ2Vnd195bGNFcUkyT29leXJEZE5qZDBtRkJzRjA2cTZ3NGpYeXhXSVp0ZS0yU1JZU3NfTzlvdXNiYTJXclFLcHFmd09NYTl0T1A5clBkT1ZrVmtpRmpLeEJmSnBEWXNnR01WSWRHZ1VUbHItbmxFUXlocW1aRDd0bWo0Tjc1?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-07-10T21:54:28+00:00",
    "count": 2,
    "sources": [
-    "매일경제"
+    "Yahoo!ニュース",
+    "carview!"
    ],
-   "score": 1.6
+   "score": 2.0
   },
   {
-   "title": "eSOLとサイバートラスト、フィジカルAI時代に向けた日本発SDx開発基盤の共同開発で合意",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93UHo0N3FtcjVPQm41S3pPX2NFZnRGTlF1YnNEZUZfdE1GNjdaWlJWQ2RFZzl3TWtfTzRTNFlhNmQyeWNzUWNNMFZidHBib2t6cW5PU1l1OGs4LTcyVi1ZYzg1S3g5bHB1TFE?oc=5",
-   "source": "PR TIMES",
-   "published": "2026-07-09T16:00:02+00:00",
+   "title": "Surgeons Use Teleoperated Humanoid Robots to Perform Live Surgery For the First Time in Pre-clinical Trial",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQTRNVl92aDlOdmMwdmhqVm5aa2ZPak9oQnhuV2FnZjhhQWhJS1IyMTZBSkpOYjRLV1JheG00RnN4Yl9zVEp6bWV6X2doZXB5VzZtODMtTTIzME9iX0p1S0g3Y2VRLUY0Y3dmLW9GbWJiUjVadktNYWZwZlRkSHIyOV9ZckNTOTh3S0lmS2ZPYW81RXJwZW1ES3RUSWd3VHZsNnJCWjVDcHlrMWk4Vm9jclZNbWt5RFNSRW5PelBEc0VnVld5VkZ4d0w4TFVlc2FlblNlaFV0N0s0Q3lS?oc=5",
+   "source": "AI Insider",
+   "published": "2026-07-10T14:04:01+00:00",
    "count": 2,
    "sources": [
-    "PR TIMES",
-    "日本経済新聞"
+    "AI Insider",
+    "The Times of India"
    ],
-   "score": 1.58
+   "score": 1.79
   },
   {
-   "title": "中国人型ロボット、2026年出荷5万台へ モルガン・スタンレーが半年で予測倍増",
-   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1hajFDWjREWnVSTWx1SWl0bUF0MEIyUC05MWlmZjdhbU9MSFY1cGdMT0xFc1h0eFdBRGZv?oc=5",
-   "source": "36Kr Japan",
-   "published": "2026-07-10T02:31:01+00:00",
-   "count": 1,
+   "title": "イーソルとサイバートラスト、フィジカルAIを実装するための開発基盤を共同開発",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12OEZkVExiaDRHRkEwVE9NdmxjS3ZWNHRfd01jM3BhWTlwM1pWTGpwT1dSZ3ltYWpWVHhWMzNrNGpqelc3Q2VQdXZsUDVhRVA0YWg0?oc=5",
+   "source": "IT Leaders",
+   "published": "2026-07-10T10:09:35+00:00",
+   "count": 2,
    "sources": [
-    "36Kr Japan"
+    "IT Leaders",
+    "レスポンス（Response.jp）"
    ],
-   "score": 0.91
+   "score": 1.7
   },
   {
-   "title": "Humanoid Robot Performs First Live Surgery: Unitree G1 Completes Gallbladder Removal on Living Subject",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5XTk5pMnJlU2ZhUC10ZU45SlhrU05rWUdFNXF0SDVCckVtbXN6QUswdHlPc1IxUUNHMWg2MTVHRHdqMnBsQUxDMGNDT3h0M1pEOVZHdGJFRExMT1lxUTM5ZmtwZGJtUE5tb2hTLXNFN1lOMFU?oc=5",
-   "source": "Pandaily",
-   "published": "2026-07-09T17:20:41+00:00",
-   "count": 1,
+   "title": "「フィジカルAIによる産業変革の動向」と題して、KPMGコンサルティング（株） 池田 和繁氏/Technology Consulting 太田 翔氏によるセミナーを2026年8月26日(水)に開催!",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9PMmZ0a19RU3lGTjBzX0JKWHlQR2t6RkF4M0xQNHI1T2MyalZNTzM3TXhTdnJadEV6ZUhqSXpSZ2ZWWkJaM0tUMTdFU3U2bklxZmpGSl9XaDhBQVVDekRYaGtIMkRMYVVUTFdwWk15WEtOQnBmYXc?oc=5",
+   "source": "Excite エキサイト",
+   "published": "2026-07-10T07:15:00+00:00",
+   "count": 2,
    "sources": [
-    "Pandaily"
+    "Excite エキサイト",
+    "PR TIMES"
    ],
-   "score": 0.8
+   "score": 1.63
   },
   {
-   "title": "Dexmal Launches Embodied MaaS and DexOS, Solving Model Scaling Into Real-World Scenarios",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05YXVoVF96UEZlNTMxU3gwWV9qek9kR0s4YlF1NlplV09zQ05vX0g0MnRzTjNGRm5LaDZ1UVZxUlZCbWJJX01razdOU0ZiLXZDU3docFhNQUQwdmpxTDR3ZHUzbmFJamZhU0xOYnJ3?oc=5",
-   "source": "Pandaily",
-   "published": "2026-07-09T17:15:40+00:00",
-   "count": 1,
+   "title": "Robbyant Launches LingBot-VA 2.0 Built Natively for Embodied AI and Physical World Control - Eagle-Tribune",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQU3Q4WVNJMHM0al8tNkJzNXNUeC1kSEJRMnlsODFuVFh2WGZDZWtEYXRGOTEtNWdPcUJYb2dWZ2JvWkxRYms0dkhGVDNyWkYtUjVITHRkaVNJZmFSak84TUV2VWdXbGRZeE41VEV3bVg1RWFNQy1ucFdnOGN6NWlRaDl3SllocDZxTXpLS2Ytd2lYUDI2WnJzS1BrTWhic04tUmh2RGI5clMybUdQRXhaMUUyVEtNS00yZ1pJZHVfQjA3djRFUThpQWVyNlBhRy1WTHJ6Y29WTDZFWWZBbkV4M1pZUWpZeEprTDNUZ3FRc1BxMTFJbGtuTGhwMkJiVkJfTmdROEFuWQ?oc=5",
+   "source": "Eagle-Tribune",
+   "published": "2026-07-10T06:48:37+00:00",
+   "count": 2,
    "sources": [
-    "Pandaily"
+    "Business Wire",
+    "Eagle-Tribune"
    ],
-   "score": 0.8
+   "score": 1.62
   }
  ],
  "hot_news": [
+  {
+   "title": "「日本発のヒューマノイドロボット」量産へ、三菱自動車とハイランダーズが協業 2027年中に1000台生産見込む 5枚目の写真・画像",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kV0pUQWpKZGlxSGIzemZPT2ZFNUhpSkZSOG12enVqeDRLMWw2UVQzcjZxQ21melVCVGduajIyYk5DRkZDXzdpY3lSZWVvUG1RMFctQnZPd1cyRVBLWldNemNWRU4wbUlGcWNxWUdpdUVmUQ?oc=5",
+   "source": "レスポンス（Response.jp）",
+   "published": "2026-07-09T07:38:28+00:00",
+   "count": 8,
+   "sources": [
+    "Yahoo!ニュース",
+    "レスポンス（Response.jp）"
+   ],
+   "score": 4.7
+  },
+  {
+   "title": "三菱自動車と東大発Highlandersが協業、国産人型ロボットの月産1000台体制へ（ビジネス＋IT）",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOREFZQ2Vnd195bGNFcUkyT29leXJEZE5qZDBtRkJzRjA2cTZ3NGpYeXhXSVp0ZS0yU1JZU3NfTzlvdXNiYTJXclFLcHFmd09NYTl0T1A5clBkT1ZrVmtpRmpLeEJmSnBEWXNnR01WSWRHZ1VUbHItbmxFUXlocW1aRDd0bWo0Tjc1?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-07-10T21:54:28+00:00",
+   "count": 4,
+   "sources": [
+    "BigGo ファイナンス",
+    "Yahoo!ニュース",
+    "carview!",
+    "projectdesign.jp"
+   ],
+   "score": 4.0
+  },
   {
    "title": "三菱自動車 ヒト型ロボットを共同開発 量産へ",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44d05oV3AxcFJWWFJTay1NVDVTX3MwbEQzMGJHSjVvN3JtWXp5UFVuSHJRTzZiQ2RLTDZtV3JwTkpFVGlGNmNBaDJubGlaeU5fdTYyd29FS3BkclpoOVpDanYydDVYa3l4cjgxa1RDeHJ0elJJRkltd3oyYw?oc=5",
@@ -321,7 +351,62 @@
     "マガジンXニュース",
     "産経ニュース"
    ],
-   "score": 4.67
+   "score": 3.91
+  },
+  {
+   "title": "Boston Dynamics’ New Atlas Humanoid Robot is Ready for Factories",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYkhJMHcxSW1RWFVSc3E5aE1GeUVlUl9DWXNjallIZ2pWVDRsVVNqY3VQYVhSTE9CZnlyUFBVRTlCbzV2c1NsUXFkNVJMLVZXR3VzX1RkcEtWWm0wRzdqLUdMaC10VFczWEFFQUxoQXB2MWhYSkVpWFRJT2lyeDhnbTRqUldtc3ltYWRBVnRWa3g0UEN6RlZqcHBqeEVfZVhJZ2d1TklVd1JfQW5SQ09EdE16OTMyRjhnOUwwR1pn?oc=5",
+   "source": "thetruthaboutcars.com",
+   "published": "2026-07-10T14:00:00+00:00",
+   "count": 4,
+   "sources": [
+    "CNET",
+    "Fox Business",
+    "PR Newswire",
+    "thetruthaboutcars.com"
+   ],
+   "score": 3.58
+  },
+  {
+   "title": "イーソルとサイバートラスト、フィジカルAIを実装するための開発基盤を共同開発",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12OEZkVExiaDRHRkEwVE9NdmxjS3ZWNHRfd01jM3BhWTlwM1pWTGpwT1dSZ3ltYWpWVHhWMzNrNGpqelc3Q2VQdXZsUDVhRVA0YWg0?oc=5",
+   "source": "IT Leaders",
+   "published": "2026-07-10T10:09:35+00:00",
+   "count": 4,
+   "sources": [
+    "IT Leaders",
+    "PR TIMES",
+    "レスポンス（Response.jp）",
+    "日本経済新聞"
+   ],
+   "score": 3.39
+  },
+  {
+   "title": "Humanoid robots perform world's first live surgery in the US",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcG0zT0gwaGw2OEk0N2pnQXJWbDBnZE9PRk42ZmlLTkpyd0tGOHdLNGRtRnlyQnB4a3BjUFQwSWJmRnRwYXBmZUZNZHgwd2NtNmMzaEh4QzFUYU50YUttX1NDZF9IenU3UjVpVFlRNjQxRE1uejR2a0I1OFZxTXduZ1RndHctai1ybHFLdE1UdldGR1BZWmx4bkNGQnpsOEhQbldLaHNWTXhSczk0Z1hSaUl4dC1QQVdD?oc=5",
+   "source": "VnExpress International",
+   "published": "2026-07-10T04:33:49+00:00",
+   "count": 4,
+   "sources": [
+    "Bioengineer.org",
+    "Interesting Engineering",
+    "Tomorrow's World Today",
+    "VnExpress International"
+   ],
+   "score": 3.14
+  },
+  {
+   "title": "Humanoid robot performs surgery",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUlBFZFNFaU53U2tvRFE1WG9NWk9RZDZORWh5SG9VX3FZNEk2Vk1Ycm5XZjZFS2pEcmJSX3N3RFpDTDFOZkg3b1BLemRtNlExUzFLa3dXcmRmZkxqQWRCT0RwWUpuQWtMU3RWdVgtNTJiTVE1cHUwZmh0ZnpTY2lTb0FTdm9CRmlyaUVMYl9NUXZzNm9qV0Q2aUxvRkwzOFB1NUt5U2RnWmZKNTg1?oc=5",
+   "source": "WAAY 31 News",
+   "published": "2026-07-10T17:29:00+00:00",
+   "count": 3,
+   "sources": [
+    "The American Bazaar",
+    "The News International",
+    "WAAY 31 News"
+   ],
+   "score": 2.82
   },
   {
    "title": "清水建設、建設現場向けAIロボットの研究開発を本格化 ヒューマノイドロボットによる現場巡回も実証",
@@ -335,60 +420,20 @@
     "innovaTopia",
     "マイナビニュース"
    ],
-   "score": 3.16
+   "score": 2.64
   },
   {
-   "title": "三菱自動車、国産フィジカルAI量産へ 東大発Highlandersと「垂直統合」、27年に月産1000台",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51eTgxMTlzRVdKWkdhUnIxRWpOZ2dZWVFMdy1pQk5zVmxJajVJY0RiVHlpYm4yTGtOdURLaFgxMGktVHBSSTBrX3NPNXREb0tMbXVrcVgtY2VUcGRMalI2WjhmRGQzUUREMHhkQi1QZVczb3Ru?oc=5",
-   "source": "BigGo ファイナンス",
-   "published": "2026-07-09T14:45:00+00:00",
-   "count": 4,
-   "sources": [
-    "BigGo ファイナンス",
-    "Yahoo!ニュース",
-    "くるまのニュース",
-    "ｄメニューニュース"
-   ],
-   "score": 3.1
-  },
-  {
-   "title": "Surgeons Perform World’s First Surgery Using Teleoperated Humanoid Robots",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVzJ0TklIUV9QNFJzc2U3R2F4OWxiejZ4dW1uM0NGVFFhSjduNDYyaUNhek00WVplSlRhZHBUS1dPNXdubU1DMnBDN0FKWlJ4UnZscmtkM01lYWNsU01jMmZqXzdVRzBLRDJBUjlETEI1YURITzdMQ0JvT19wWXl6dGNuOGVsdHJPQktxZmQ2SmxVREVHSEt3SG1uOUZXSjEyOGs3Q0NNb1NzOTBKbmJMQThWNmRJbFZYMFE?oc=5",
-   "source": "Tomorrow's World Today",
-   "published": "2026-07-09T09:01:29+00:00",
-   "count": 4,
-   "sources": [
-    "Bioengineer.org",
-    "Interesting Engineering",
-    "Tomorrow's World Today",
-    "UC San Diego Today"
-   ],
-   "score": 2.86
-  },
-  {
-   "title": "「日本発のヒューマノイドロボット」量産へ、三菱自動車とハイランダーズが協業 2027年中に1000台生産見込む（レスポンス）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsbVFzSS1pY0J2ejBYcUJObjRKMUhkSEZ2OGw5R1JERnU0RTBhREdfY3FaNFF0VWswc2pORHJuZjQ1b1JITndxTkF4LVB4NnJDVVhPWDJzaFNFcVJTQ1JPdWZyOFpWTE9ZaThMMUtTODJTTDM3Z255R0t0ZXg2SUE?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-07-08T22:38:28+00:00",
-   "count": 4,
-   "sources": [
-    "Yahoo!ニュース",
-    "レスポンス（Response.jp）"
-   ],
-   "score": 2.48
-  },
-  {
-   "title": "三菱自動車とHighlanders、ヒューマノイドロボットで基本合意 2027年早期に京都工場で量産化検討",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOUMzbnNibmNQV2p1M2JiQl82UWhFaUo5YTFjLXozM2ozSFdBSEZTLTRMRmtseGQ2N0dkV0cwVHBGcEdOUm1tYzYtNGFfZm0zNEVvNzRHNXM1M3c4am1XSUt2d1RwZks3V29hR3FTQjEwVEtZMzVwSlNQU3plZXd2Wi0xXzhXdw?oc=5",
-   "source": "projectdesign.jp",
-   "published": "2026-07-09T17:01:36+00:00",
+   "title": "Meet Atlas, the humanoid robot that made waves at the World Cup, delivering game ball",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSUx1Y3RlM2h2Ym84WDB0OWQ0bnVaaFhkdWhXbUE3alcwSFRtMEdETEc0NURCSkpIQkN0X3l5NzlacklRRmNMMXM5NGxKd01PVkFpa3RYQVVvZ0ZVR0RsMnp4Uk84ZnNJY2ZFcE1XQWZkOXRXWVBLNnVpTUlTakZYQ3gtSlhROF9INjk4akJFbTBzRnZ3SmVHd25waTZyU0NON1ppQmIxRVhjWjFxTXgta3lKZ241ZnlsdGx3?oc=5",
+   "source": "Face2Face Africa",
+   "published": "2026-07-09T23:10:00+00:00",
    "count": 3,
    "sources": [
-    "Car Watch",
-    "au Webポータル",
-    "projectdesign.jp"
+    "Business Insider",
+    "Face2Face Africa",
+    "Substack"
    ],
-   "score": 2.4
+   "score": 2.19
   },
   {
    "title": "European startup unveils humanoid robot design, real-time learning system",
@@ -401,45 +446,7 @@
     "Electrek",
     "digitimes"
    ],
-   "score": 2.36
-  },
-  {
-   "title": "東京大学 松尾・岩澤研究室、学生向けAI基盤モデル開発コンテストの参加メンバー募集開始",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BcTg0cHVxMVJhYnlKdlhZX2NPQXRHUzQzMy1CRE82a3JTc2hJUVZMcDgtSTNBTzBIWTNKZkdVdGRzVVJFMXNULV9lU1lRZG44UHFqbk9IOGcyN2ZJNlE?oc=5",
-   "source": "ICT教育ニュース",
-   "published": "2026-07-09T14:18:50+00:00",
-   "count": 3,
-   "sources": [
-    "ICT教育ニュース",
-    "ロボスタ"
-   ],
-   "score": 2.31
-  },
-  {
-   "title": "人型ロボット：人型ロボ、共同で量産化 三菱自と東大発企業、来年開始",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9TMWIxZGtORlJOQndKRmFmemh4elRMMzlkeG9walY1NVV0eVZYV2N3Q3ZQRzZmcUozX1FFZjBFWWdmQ2oxMDY5VXFERDVweVh4Q3otQ3ZjN01WTnFPbml0alF4ZGlEMzJ4?oc=5",
-   "source": "毎日新聞",
-   "published": "2026-07-09T08:04:55+00:00",
-   "count": 3,
-   "sources": [
-    "47NEWS",
-    "au Webポータル",
-    "毎日新聞"
-   ],
-   "score": 2.12
-  },
-  {
-   "title": "Hyundai Puts Atlas Into A Live World Cup Halftime Show",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFdExRQ2sxTm9xeTkyYnFzSG5rejZMYkc4QWl1aGw0QWljSVFQX3pBQWZEZTNPelp4bzFiLWVpMWJYajl3RnRJMjZIclRrb1hYd0VwbkJfUzJQRFlfTHBCU2lYZ1lUUTNFUlB2Q044amlfU192cE9oZ1dETXBfdw?oc=5",
-   "source": "WeRSM",
-   "published": "2026-07-09T08:01:57+00:00",
-   "count": 3,
-   "sources": [
-    "The Korea Daily",
-    "WeRSM",
-    "upi.com"
-   ],
-   "score": 2.12
+   "score": 1.97
   }
  ],
  "trend": {
@@ -491,25 +498,25 @@
      0,
      0,
      2,
-     1,
-     2,
-     3,
-     2,
-     0,
-     0,
-     1,
-     1,
+     4,
      2,
      4,
      2,
+     0,
+     0,
+     1,
+     1,
+     3,
+     4,
+     3,
      2,
      0,
      2,
      6,
-     11,
-     30,
+     12,
+     31,
      23,
-     0
+     14
     ]
    },
    {
@@ -540,12 +547,12 @@
      4,
      1,
      0,
-     5,
+     6,
      14,
-     11,
-     31,
-     22,
-     0
+     13,
+     34,
+     25,
+     13
     ]
    },
    {
@@ -559,12 +566,12 @@
      3,
      3,
      2,
-     1,
+     2,
      0,
      0,
      0,
      0,
-     3,
+     4,
      5,
      2,
      0,
@@ -578,10 +585,10 @@
      0,
      8,
      3,
-     6,
+     7,
      9,
      9,
-     0
+     6
     ]
    },
    {
@@ -607,17 +614,17 @@
      0,
      1,
      0,
-     2,
+     3,
      1,
-     2,
+     3,
      0,
      1,
      6,
      15,
      17,
-     15,
-     27,
-     0
+     16,
+     32,
+     20
     ]
    },
    {
@@ -644,16 +651,16 @@
      1,
      2,
      3,
-     1,
+     2,
      2,
      0,
-     3,
+     4,
      2,
      5,
      12,
      21,
-     32,
-     1
+     40,
+     15
     ]
    }
   ]
@@ -699,7 +706,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 10
+   "news": 14
   },
   {
    "name": "QUALCOMM INC",
