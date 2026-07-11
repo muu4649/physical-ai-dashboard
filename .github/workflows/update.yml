@@ -36,6 +36,9 @@ jobs:
       - name: Build site
         run: python scripts/build_site.py
 
+      - name: Weekly snapshot (毎週月曜JSTのみ保存)
+        run: python scripts/snapshot.py
+
       - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"
