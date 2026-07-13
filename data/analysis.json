@@ -1,56 +1,64 @@
 {
- "updated_at": "2026-07-12T21:45:01.793147+00:00",
+ "updated_at": "2026-07-13T21:53:40.410728+00:00",
  "kpi": {
-  "articles_7d": 499,
-  "articles_prev_7d": 105,
-  "sources_7d": 262,
-  "articles_30d": 684,
-  "total_articles": 723,
+  "articles_7d": 580,
+  "articles_prev_7d": 137,
+  "sources_7d": 284,
+  "articles_30d": 808,
+  "total_articles": 851,
   "oldest_news": "2026-04-20"
  },
  "wordcloud": [
   [
-   "三菱自動車",
-   42
+   "量産",
+   46
   ],
   [
-   "量産",
-   42
+   "三菱自動車",
+   45
+  ],
+  [
+   "開発",
+   40
   ],
   [
    "world",
    37
   ],
   [
-   "開発",
-   31
-  ],
-  [
-   "日本",
+   "協業",
    29
   ],
   [
-   "協業",
+   "東大",
    28
   ],
   [
-   "東大",
-   27
+   "日本",
+   28
   ],
   [
    "surgery",
-   24
+   28
   ],
   [
-   "現場",
+   "企業",
    23
   ],
   [
    "生産",
-   23
+   22
   ],
   [
-   "企業",
+   "現場",
+   21
+  ],
+  [
+   "写真",
+   20
+  ],
+  [
+   "launches",
    19
   ],
   [
@@ -58,31 +66,63 @@
    19
   ],
   [
-   "写真",
-   18
+   "活用",
+   19
   ],
   [
    "画像",
+   19
+  ],
+  [
+   "nvidia",
    18
   ],
   [
-   "launches",
-   17
-  ],
-  [
    "live",
-   17
-  ],
-  [
-   "china",
-   16
-  ],
-  [
-   "アップ",
-   15
+   18
   ],
   [
    "基盤",
+   18
+  ],
+  [
+   "アップ",
+   16
+  ],
+  [
+   "中国",
+   16
+  ],
+  [
+   "工場",
+   16
+  ],
+  [
+   "model",
+   15
+  ],
+  [
+   "china",
+   15
+  ],
+  [
+   "highlanders",
+   15
+  ],
+  [
+   "perform",
+   15
+  ],
+  [
+   "国産",
+   15
+  ],
+  [
+   "スタート",
+   15
+  ],
+  [
+   "data",
    14
   ],
   [
@@ -94,35 +134,15 @@
    13
   ],
   [
-   "data",
+   "公開",
    13
-  ],
-  [
-   "nvidia",
-   13
-  ],
-  [
-   "highlanders",
-   13
-  ],
-  [
-   "スタート",
-   13
-  ],
-  [
-   "atlas",
-   13
-  ],
-  [
-   "model",
-   12
-  ],
-  [
-   "cup",
-   12
   ],
   [
    "Highlanders",
+   13
+  ],
+  [
+   "清水建設",
    12
   ],
   [
@@ -130,43 +150,63 @@
    12
   ],
   [
-   "日立",
-   12
-  ],
-  [
-   "中国",
-   12
-  ],
-  [
-   "工場",
-   12
-  ],
-  [
-   "perform",
-   11
-  ],
-  [
-   "清水建設",
-   11
-  ],
-  [
-   "国産",
-   11
-  ],
-  [
    "三菱自",
-   11
+   12
+  ],
+  [
+   "実証",
+   12
   ],
   [
    "投資",
+   11
+  ],
+  [
+   "共同",
+   11
+  ],
+  [
+   "時代",
+   11
+  ],
+  [
+   "技術",
+   11
+  ],
+  [
+   "time",
    10
   ],
   [
-   "unveils",
+   "news",
    10
   ],
   [
-   "hyundai",
+   "market",
+   10
+  ],
+  [
+   "tesla",
+   10
+  ],
+  [
+   "導入",
+   10
+  ],
+  [
+   "世界",
+   10
+  ],
+  [
+   "建設",
+   10
+  ],
+  [
+   "開催",
+   10
+  ],
+  [
+   "neo",
    10
   ],
   [
@@ -174,7 +214,23 @@
    10
   ],
   [
-   "market",
+   "京都",
+   10
+  ],
+  [
+   "自動車",
+   10
+  ],
+  [
+   "build",
+   9
+  ],
+  [
+   "cup",
+   9
+  ],
+  [
+   "manufacturing",
    9
   ],
   [
@@ -182,268 +238,225 @@
    9
   ],
   [
-   "共同",
-   9
-  ],
-  [
-   "導入",
-   9
-  ],
-  [
-   "建設",
-   9
-  ],
-  [
-   "neo",
-   9
-  ],
-  [
-   "京都",
-   9
-  ],
-  [
-   "time",
-   8
-  ],
-  [
-   "momenta",
-   8
-  ],
-  [
-   "stock",
-   8
-  ],
-  [
-   "tesla",
-   8
-  ],
-  [
-   "ベンチャー",
-   8
-  ],
-  [
-   "時代",
-   8
-  ],
-  [
    "月産",
-   8
-  ],
-  [
-   "世界",
-   8
+   9
   ],
   [
    "モデル",
-   8
+   9
   ],
   [
-   "新興",
-   8
-  ],
-  [
-   "unitree",
-   8
-  ],
-  [
-   "chinese",
-   8
+   "日立",
+   9
   ]
  ],
  "today_top5": [
   {
-   "title": "How AI could drive change across multiple industries",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd0lZM2h3VDJsSm5LX2FXMTFGODdlMmZpWDJKTkpHVGNQcFBpd082bXNEWVVMaVdHOXRFNWpKeEJKNmdyeWtOTkgzRkVrNE80eElyNDd3SUFlb1N1c2dzTEVHMF9tZTgwSUpoZlFINjMzcXhDNDhURENZSWg0RHF0NjB0VFdiY3RyU3BjdVFySkYwWFQyc3piWg?oc=5",
-   "source": "AdviserVoice",
-   "published": "2026-07-12T21:26:58+00:00",
-   "count": 1,
+   "title": "ソフトバンクと安川電機、フィジカルAIの開発基盤に「AIデータセンター GPUクラウド」を活用した実証を実施",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4ZHZmUWlkc3AwZU1fc2NjYkx1Z05MRHVHWDJTQXM5aWdxZUxwazVUa2gyZmxnYjhaOHl5UzNvUElVTTBEc1Nud1EwSy1LTTNNMEhscEJkd295UlhpaUxUR05wM1VSQTQ?oc=5",
+   "source": "クラウド Watch",
+   "published": "2026-07-13T21:30:00+00:00",
+   "count": 6,
    "sources": [
-    "AdviserVoice"
+    "BigGo ファイナンス",
+    "クラウド Watch",
+    "ソフトバンク",
+    "ビジネスネットワーク",
+    "ロボスタ",
+    "株式会社インプレス"
    ],
-   "score": 1.0
+   "score": 5.97
   },
   {
-   "title": "Study: \"Physical Therapy for the Brain\" Delivered by Telephone Shows Outcomes Meeting or Exceeding National In-Person Benchmarks",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSEMwQWpLdVNoaU4wTWQ5SUJtY1JpQWlncE5VOEJjUUh4cEFUdHAtUXo0VllKSThTVTlud3RiRmJXb1hHNEx1cWdKd3VvcG41OW1iUnVXQm0ycXlMZ3hmc1FHVEU1TTRfSUZGcjdza01YZlEyeENnT1FRSUNXLXNWbENicVpDelA5QTV3U2dSdXM?oc=5",
-   "source": "Yahoo Finance Singapore",
-   "published": "2026-07-12T21:00:00+00:00",
-   "count": 1,
+   "title": "韓国・現代自動車、サッカーW杯でヒューマノイドロボット「アトラス」公開（KOREA WAVE）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CUDJoX01oR1RWSmtsendfMS1OS3RqTTdxYkliRy1tN1drSUdVRHQ0NERlTDQ4OW56VGtuS25tSXVvcC12VTRUek93SnN0dXU0Z0haTnF5UzFud1R2bnNCTlU1aXh3N2JnM3lmM3RWczZJTm5VQzl4ZFA2OUNfYXc?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-07-13T02:24:15+00:00",
+   "count": 4,
    "sources": [
-    "Yahoo Finance Singapore"
+    "AFPBB News",
+    "Yahoo!ニュース"
    ],
-   "score": 0.99
+   "score": 3.05
   },
   {
-   "title": "Ukraine is first country to fund combat humanoid robots. But its own battlefield says wheels still win",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWDhYcnVoRUUwcEp4Y3VyWWhKU1BwTmdHN3EwVl9yZm9hN1pCa0RvajFKT1pBYTAxTzVkLTVURHV0UFd1TmM5aFl1N1paVGw5UHFtX1gxOXpCSl94Tzd2REFpZ3lJT0lPbVBHT0w3X1U5TkNvdnF4bDBadUgwV0NqaEttT3BENUJIVTZfWWxVM1kycTFzWEdrU0hpMUxlLVJ4Y0FBa3VRQmxjNzhnQUFtX1lFVnpJcXNsMnV1VkMyM0N1MFVUcEthQmdNN2k5Q21reTI1cVdpcWM?oc=5",
-   "source": "Euromaidan Press",
-   "published": "2026-07-12T18:52:50+00:00",
-   "count": 1,
+   "title": "クマ対策に“犬型ロボット” 「フィジカルAI」技術を活用",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pSjc3RU1SOXFqQTQyMnJ2c3Z0M0xZV1F3TzJxNnJxdnpQMTZiZjZqX3Y2U0t0d2d5UFI4RTZqT2I2eW1NanpmcGIyOC14alFsUDJtOHlTeVVNV1ZSekdHWjA2NXVrNllIaGIyRXlUUjdEV3J6aGp6UXhrSQ?oc=5",
+   "source": "au Webポータル",
+   "published": "2026-07-13T08:30:00+00:00",
+   "count": 3,
    "sources": [
-    "Euromaidan Press"
+    "Yahoo!ニュース",
+    "au Webポータル",
+    "日テレNEWS NNN"
    ],
-   "score": 0.96
+   "score": 2.49
   },
   {
-   "title": "Elon Musk Says Tesla Robot Will Be ‘Biggest Product of All Time’ — ‘Nothing Will Even Be Close’ but China",
-   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQWlR6QWhPUjJQRjhxbmZHdkVFeTJ2b3hnQVE2bHJ0YkNNYkYza2tHM2hsazI4dGI3M1NtTmh6V19oMEZjWHA2M0FZSGlWaXVWTHpDM2FvLXloUS1qbGlYb1N6eXhIeXlpem5EYjZSaUVQRjhqeVVJbUVOaHFQLWpVQ19PemxSeTd5N1FSclRoRm1vWWUxYTNEWnRzYm94cjFNLVNBcFdsSWh1WVNJSElGOUl1TFJSUXFSWWExNDdibmFFWXdfRG5DVEY1Q24tUGVCN21iRUtjS21fZkZTZmo1YnhqLUgyb3lvVm50VVIzMG5PREpqZDJ5M0g4OHRrdHRYaGNVTkFVTTNNcFhTQUlWTk1WSG9PZUFHdHc?oc=5",
-   "source": "Benzinga",
-   "published": "2026-07-12T14:31:35+00:00",
-   "count": 1,
+   "title": "国産「フィジカルＡＩ」研究開発、日米欧１４機関が連携…研究成果は「ノエトラ」のＡＩ開発に活用",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiSHEwVTVVLXRrdmJ5aXY4cmRxNGVhQjVoTzVxSUE5eERuVEhFcHZLZm9PdTRHWFhsQ1B3WkYzdlRBb29oUXZwb1BoN2JXRmJVdjFoNDdaamdWMUU2UDZQMjRHSHk?oc=5",
+   "source": "読売新聞",
+   "published": "2026-07-13T20:00:00+00:00",
+   "count": 2,
    "sources": [
-    "Benzinga"
+    "読売新聞"
    ],
-   "score": 0.9
+   "score": 1.95
   },
   {
-   "title": "Nexar Nauto Merger to Combine Driving Data Platforms",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BUGIwLTZmSWFGLXQyRmRYX2F3WVNQMk03cHlyeDJVaUVrbndKNmNLQUpSY2x5SVBrZGNmODh6YVlEd0ZjbnJqemJZR195TWdXTHhCS2M3bHNyNmZudzFlczRPVS0tNnJELVdzNkV4MWE1SDdWZXBRRkVicFNPMEk?oc=5",
-   "source": "Fleet Equipment Magazine",
-   "published": "2026-07-12T14:30:00+00:00",
-   "count": 1,
+   "title": "Augmodo Raises $21M to Expand Physical AI Platform Beyond Retail",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jREpDbk5WeEF5UFRwby12Y0xKamdOVjJJdmhpLWtTclNTRVhJb2JzVjF0c1NQVks0ZE1QQkdxNkc1VHZnSUtBN3l0S2RRMWoyX2VJX1QxcG84akl0OU5yajZnXzFGaHJoV0lKZ2l4VdIBb0FVX3lxTE5jREpDbk5WeEF5UFRwby12Y0xKamdOVjJJdmhpLWtTclNTRVhJb2JzVjF0c1NQVks0ZE1QQkdxNkc1VHZnSUtBN3l0S2RRMWoyX2VJX1QxcG84akl0OU5yajZnXzFGaHJoV0lKZ2l4VQ?oc=5",
+   "source": "Ventureburn",
+   "published": "2026-07-13T16:12:44+00:00",
+   "count": 2,
    "sources": [
-    "Fleet Equipment Magazine"
+    "GeekWire",
+    "Ventureburn"
    ],
-   "score": 0.9
+   "score": 1.85
   }
  ],
  "hot_news": [
   {
-   "title": "三菱自動車と東大発Highlandersが協業、国産人型ロボットの月産1000台体制へ（ビジネス＋IT）",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOREFZQ2Vnd195bGNFcUkyT29leXJEZE5qZDBtRkJzRjA2cTZ3NGpYeXhXSVp0ZS0yU1JZU3NfTzlvdXNiYTJXclFLcHFmd09NYTl0T1A5clBkT1ZrVmtpRmpLeEJmSnBEWXNnR01WSWRHZ1VUbHItbmxFUXlocW1aRDd0bWo0Tjc1?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-07-10T21:54:28+00:00",
-   "count": 8,
+   "title": "三菱自と東大発スタートアアップ、国産人型ロボットを2027年に量産開始へ。三菱自京都工場で月産1000台を目指す",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5MZS1qMHdVRFZwMHA4S0E2SEY0eUN2UG40UGRZbWYxelAyRVZadXNiMUIxNTdfVFhsczJiM0xHdzFSeXh1cTFjb1gxLXlsOWJjakFkcQ?oc=5",
+   "source": "スマートモビリティJP",
+   "published": "2026-07-13T21:00:00+00:00",
+   "count": 7,
    "sources": [
+    "BigGo ファイナンス",
     "Yahoo!ニュース",
-    "au Webポータル",
-    "くるまのニュース",
-    "産経ニュース",
-    "ｄメニューニュース"
+    "carview!",
+    "スマートモビリティJP",
+    "ビジネス+IT"
    ],
-   "score": 4.12
+   "score": 6.91
   },
   {
-   "title": "【クルマじゃなく人型ロボットを量産？】三菱自動車が東大発AI企業と協業。京都工場で月産1000台体制も視野（carview！）",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOElDYnlFbFA2RUlnLS1zdUpjS1luYzJYY0E0bG8wa2tTeEFJUzlFZ0RKRkw0c2RXclo2by1VOXhrYlEyZGdxZWlNencxaUdIZHgyWkt5VUlZajIzNnRlZDRTS2pBZWt1VUt4a1BTRE5jeEtsVGFHYzJ0T0ZGaXAzWTlRdHhtZnVMek1kRl9R?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-07-11T09:30:57+00:00",
+   "title": "ソフトバンクと安川電機、フィジカルAIの開発基盤に「AIデータセンター GPUクラウド」を活用した実証を実施",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4ZHZmUWlkc3AwZU1fc2NjYkx1Z05MRHVHWDJTQXM5aWdxZUxwazVUa2gyZmxnYjhaOHl5UzNvUElVTTBEc1Nud1EwSy1LTTNNMEhscEJkd295UlhpaUxUR05wM1VSQTQ?oc=5",
+   "source": "クラウド Watch",
+   "published": "2026-07-13T21:30:00+00:00",
    "count": 6,
    "sources": [
     "BigGo ファイナンス",
-    "Car Watch",
-    "Yahoo!ニュース",
-    "carview!",
-    "projectdesign.jp",
-    "ビジネス+IT"
+    "クラウド Watch",
+    "ソフトバンク",
+    "ビジネスネットワーク",
+    "ロボスタ",
+    "株式会社インプレス"
    ],
-   "score": 3.63
+   "score": 5.97
   },
   {
-   "title": "「日本発のヒューマノイドロボット」量産へ、三菱自動車とハイランダーズが協業 2027年中に1000台生産見込む 5枚目の写真・画像",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kV0pUQWpKZGlxSGIzemZPT2ZFNUhpSkZSOG12enVqeDRLMWw2UVQzcjZxQ21melVCVGduajIyYk5DRkZDXzdpY3lSZWVvUG1RMFctQnZPd1cyRVBLWldNemNWRU4wbUlGcWNxWUdpdUVmUQ?oc=5",
-   "source": "レスポンス（Response.jp）",
-   "published": "2026-07-09T07:38:28+00:00",
-   "count": 9,
+   "title": "三菱自動車、人型ロボ量産でフィジカルAI銘柄へ 協業の理由は「スピード」",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBURlN2R21EZC1Hd3BWSXNseHpiNVFLMXY3Zi0yMUdvaEtITFNCdkRDTlFwVm5lSVQxLURYNjlaUzZZRmlkRnVFQnBxN0ZlOWZmTjREQUxKMnpyRTctbUd0MWlvUzJaV3lSalBjRQ?oc=5",
+   "source": "日経クロステック",
+   "published": "2026-07-13T20:00:00+00:00",
+   "count": 6,
    "sources": [
     "Yahoo!ニュース",
-    "レスポンス（Response.jp）"
+    "au Webポータル",
+    "マガジンXニュース",
+    "日経クロステック",
+    "産経ニュース"
    ],
-   "score": 2.72
+   "score": 5.84
   },
   {
-   "title": "Humanoid Robots Perform First Live Surgery: Pentagon Flags the Hardware as Chinese Military Tech",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWVdQU1JsSEFCSk5SbXlqT2xnTTNjRENHenkyemxETHhKRGhNWU1LX1NKWVJQYWNzSTA3dDVxQk8zbWhTUkpScTJRRmlmUlVTRndvdkp5cllTMVQ1bnMxRmFfYU9sOTlKMC1Eb0M0TU44UDJvR1Z5WE9QbjRyMEJNTlllamc1bmVCeF90UUlfanJFWG8yaTBMT0M4cDAtb0JqVTlicXhFb016R3p1TGtpMEUtaGZjVTZtUVJTWUplT1E4T3RwQlcyYUJhVF9xV1hfYVVJUm91RzJMYlk?oc=5",
-   "source": "Tech Times",
-   "published": "2026-07-11T15:18:46+00:00",
-   "count": 3,
+   "title": "クマ対策に“犬型ロボット” 「フィジカルAI」技術を活用",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pSjc3RU1SOXFqQTQyMnJ2c3Z0M0xZV1F3TzJxNnJxdnpQMTZiZjZqX3Y2U0t0d2d5UFI4RTZqT2I2eW1NanpmcGIyOC14alFsUDJtOHlTeVVNV1ZSekdHWjA2NXVrNllIaGIyRXlUUjdEV3J6aGp6UXhrSQ?oc=5",
+   "source": "au Webポータル",
+   "published": "2026-07-13T08:30:00+00:00",
+   "count": 5,
    "sources": [
+    "Yahoo!ニュース",
+    "au Webポータル",
+    "日テレNEWS NNN"
+   ],
+   "score": 4.15
+  },
+  {
+   "title": "建設現場にAIロボット、清水建設があの手・この手",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9yWUJzWUY4cXpFV3RhTEdrcVdrVzM1bjVmaVczZ2NPdlZxY0M4LWN5a1J0UHRrUDlQSzVkZTVDVWhuQQ?oc=5",
+   "source": "ニュースイッチ by 日刊工業新聞社",
+   "published": "2026-07-13T03:06:27+00:00",
+   "count": 5,
+   "sources": [
+    "DXマガジン",
+    "PlusWeb3",
+    "innovaTopia",
+    "ニュースイッチ by 日刊工業新聞社",
+    "マイナビニュース"
+   ],
+   "score": 3.85
+  },
+  {
+   "title": "Humanoid robots perform live surgery in world first",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTUgydmlJVDRxQnVpdWhXMHEtYTBxazBubGtCTUtyYUVWTnAzd0F3MUJIUDRBOC1vU2kxRmVqQWpzamZlMlRmMHdCVzE5RHV4OXNkbm8tNlFtc1dqSmg5TExlMF9tenp0S0dpd3k3TmRKR3Y4THAyUlVRdVlQRDhsTHBUVFpwZnBI?oc=5",
+   "source": "Kurt the CyberGuy",
+   "published": "2026-07-13T11:00:00+00:00",
+   "count": 4,
+   "sources": [
+    "Kurt the CyberGuy",
     "Tech Times",
     "UC San Diego Today",
     "VnExpress International"
    ],
-   "score": 1.97
+   "score": 3.44
   },
   {
-   "title": "イーソルとサイバートラスト、フィジカルAIを実装するための開発基盤を共同開発",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE12OEZkVExiaDRHRkEwVE9NdmxjS3ZWNHRfd01jM3BhWTlwM1pWTGpwT1dSZ3ltYWpWVHhWMzNrNGpqelc3Q2VQdXZsUDVhRVA0YWg0?oc=5",
-   "source": "IT Leaders",
-   "published": "2026-07-10T10:09:35+00:00",
+   "title": "Humanoid robot performs surgery in major medical milestone",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT0dyQm1HQ3h0VVpNMmRKcWJBRFkwWW01N1cwOC05cmxkemI3akRsMkRkLVlSSEViZ29sT2MwUmYxcUphUmtGdGloZ20yMDhrZWtHUnNmZnJxbkRFMXlzUDJGaUQwZmRpay1BaHpvNWVWbFBtTU9ET0lOWmpSNkdvZ2hxUGsxZEVHQzRDYXJRTng3WEx0Nm5lWS1rbUlfNUxsQi1VSWdNN0s?oc=5",
+   "source": "Female First",
+   "published": "2026-07-13T09:00:25+00:00",
    "count": 4,
    "sources": [
-    "IT Leaders",
-    "PR TIMES",
-    "レスポンス（Response.jp）",
-    "日本経済新聞"
-   ],
-   "score": 1.75
-  },
-  {
-   "title": "Meet 'Surgie': World's first humanoid robot to perform surgeries on animals",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcXlndjBTMGVleEZVajZ4UkFoZHgxSk91Tmp6OS1YN2RUc2tsa3JLV1d4X0dnVnVhV0JNSmdrTnZ5bFdFYUthSWVjTlMtMlozVWUxUkFiYmJlNl9QamZwY3FvMlNQVDVvb2RNelA2ZTQxS1JPc0FVMmdRVEtTcVhUWlRCWFN4X0traEVOaXlyekFGZjhJV3gta0hhUUlnMlk5dHhvdGx4TWtzZjVaZk5sUUpCU1dlVWlsbW92b1JnZkQwQWRjSjRhOXRKSdIB0AFBVV95cUxQbXVfQUZXRWpVcXltaENraFNsa1lCUXdHZmgycVpZTURoaGdRdEl6Vl9MNXljMHFtbzhFVzRqYXF0cno0MkxodDlYWXVLTWNpNFJFZzZNS20xdDNIZUYyckZaZ2MyUnVicnZuY0w2RENveUQ4VjdXNnYwMl8yRWU4cDRMVVVMZVhfMTN0NkEyM1loZHktV21mdFNHeGFnR0NaUHZzdHdYb1hzN09KRVpiNEd2cWlILXhzZFpjNHJJenFQLVBlekhXVWlkbTFGZEYw?oc=5",
-   "source": "Moneycontrol.com",
-   "published": "2026-07-12T09:39:50+00:00",
-   "count": 2,
-   "sources": [
-    "ABC7 Los Angeles",
-    "Moneycontrol.com"
-   ],
-   "score": 1.69
-  },
-  {
-   "title": "清水建設、建設業界初のAIロボット実証を開始 ヒューマノイド活用で現場の省人化へ",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1naUNaX3hCeHZ4My0xNXBFemttNGo5cHdzYkE4dEFMeFFDcUFwdDYwSzhsOThiTVBCV3FPTUR4QnVPb0NEeFV1TUlFM0VZV0w0R3kxNWFSTzh5bEFmX3c?oc=5",
-   "source": "PlusWeb3",
-   "published": "2026-07-10T05:25:25+00:00",
-   "count": 4,
-   "sources": [
-    "LOGISTICS TODAY",
-    "PlusWeb3",
-    "innovaTopia",
-    "マイナビニュース"
-   ],
-   "score": 1.64
-  },
-  {
-   "title": "Weekend Reading | When AI Gains a Body: Will Physical AI Become the Next Technological Frontier?",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZW5DaVk2cEd1Z3ptSkNFYjByNjhPNDNtTmtUakRtQjZwQlpmSFFXdVB2RmxVV3VxM1B1TFY3YVNoekdQMjk2MEN4VXIzRHVtNHo3clJlaHF6SnlVUXFEWGQwZDV6Y2w4Uy1najU3N2VMQTZ0T1dOYVlmMF9DT0pwN3hvNEkzN29WUHhUWlY1UG1MY0M0STg4SmdB?oc=5",
-   "source": "富途牛牛",
-   "published": "2026-07-12T01:55:12+00:00",
-   "count": 2,
-   "sources": [
-    "富途牛牛"
-   ],
-   "score": 1.52
-  },
-  {
-   "title": "Humanoid robot performs surgery",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUlBFZFNFaU53U2tvRFE1WG9NWk9RZDZORWh5SG9VX3FZNEk2Vk1Ycm5XZjZFS2pEcmJSX3N3RFpDTDFOZkg3b1BLemRtNlExUzFLa3dXcmRmZkxqQWRCT0RwWUpuQWtMU3RWdVgtNTJiTVE1cHUwZmh0ZnpTY2lTb0FTdm9CRmlyaUVMYl9NUXZzNm9qV0Q2aUxvRkwzOFB1NUt5U2RnWmZKNTg1?oc=5",
-   "source": "WAAY 31 News",
-   "published": "2026-07-10T17:29:00+00:00",
-   "count": 3,
-   "sources": [
+    "Female First",
     "The American Bazaar",
     "The News International",
     "WAAY 31 News"
    ],
-   "score": 1.45
+   "score": 3.34
   },
   {
-   "title": "「Unity IAP 5.4」リリース、Scaniverse フィジカルAI向けUSDZ書き出し機能を追加 ほか",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE03a1Z1amkwdWk3cUN0ZmlnbWFuY1BtYVdUUkVqNDRzOUFHMWJpWEx6c3J1YURwa1FfcTF4WXhXVUl5RzdISVZtSXZMTQ?oc=5",
-   "source": "thinkit.co.jp",
-   "published": "2026-07-11T21:32:54+00:00",
+   "title": "韓国・現代自動車、サッカーW杯でヒューマノイドロボット「アトラス」公開（KOREA WAVE）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CUDJoX01oR1RWSmtsendfMS1OS3RqTTdxYkliRy1tN1drSUdVRHQ0NERlTDQ4OW56VGtuS25tSXVvcC12VTRUek93SnN0dXU0Z0haTnF5UzFud1R2bnNCTlU1aXh3N2JnM3lmM3RWczZJTm5VQzl4ZFA2OUNfYXc?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-07-13T02:24:15+00:00",
+   "count": 4,
+   "sources": [
+    "AFPBB News",
+    "Yahoo!ニュース"
+   ],
+   "score": 3.05
+  },
+  {
+   "title": "人型家事ロボット「Neo」向けに人間の腱のように自在に動く新型ハンドの「NEO’s Hands」が登場",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1nODR3cUZiTktINnl5RHFUU1lNRDFQTzN4WU5LTXhSaWFnU2VKLS00U2lkQXBuckJMa3pNZ01JcVJuczV2SDNFTkdQX1U4S0pkY3l6N3ljSkNIZkJFbk9zUVZFcnBfLXZ4ejcxbU9WR0NWTzlMVXcwcjN3?oc=5",
+   "source": "au Webポータル",
+   "published": "2026-07-13T08:15:00+00:00",
+   "count": 3,
+   "sources": [
+    "au Webポータル",
+    "ロボスタ"
+   ],
+   "score": 2.48
+  },
+  {
+   "title": "国産「フィジカルＡＩ」研究開発、日米欧１４機関が連携…研究成果は「ノエトラ」のＡＩ開発に活用",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBiSHEwVTVVLXRrdmJ5aXY4cmRxNGVhQjVoTzVxSUE5eERuVEhFcHZLZm9PdTRHWFhsQ1B3WkYzdlRBb29oUXZwb1BoN2JXRmJVdjFoNDdaamdWMUU2UDZQMjRHSHk?oc=5",
+   "source": "読売新聞",
+   "published": "2026-07-13T20:00:00+00:00",
    "count": 2,
    "sources": [
-    "Mogura VR",
-    "thinkit.co.jp"
+    "読売新聞"
    ],
-   "score": 1.43
+   "score": 1.95
   }
  ],
  "trend": {
   "dates": [
-   "2026-06-13",
    "2026-06-14",
    "2026-06-15",
    "2026-06-16",
@@ -472,14 +485,14 @@
    "2026-07-09",
    "2026-07-10",
    "2026-07-11",
-   "2026-07-12"
+   "2026-07-12",
+   "2026-07-13"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     0,
      1,
      0,
      0,
@@ -504,18 +517,18 @@
      2,
      6,
      12,
-     32,
+     33,
      24,
      16,
      10,
-     7
+     9,
+     27
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     0,
      0,
      0,
      0,
@@ -539,19 +552,19 @@
      0,
      7,
      14,
-     13,
+     14,
      35,
-     27,
-     16,
+     28,
+     17,
      6,
-     3
+     7,
+     34
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     0,
      0,
      3,
      4,
@@ -567,7 +580,7 @@
      0,
      3,
      2,
-     6,
+     7,
      4,
      2,
      4,
@@ -579,6 +592,7 @@
      9,
      9,
      9,
+     3,
      3,
      3
     ]
@@ -590,7 +604,6 @@
      0,
      0,
      0,
-     0,
      1,
      0,
      0,
@@ -600,12 +613,12 @@
      5,
      3,
      1,
-     1,
+     2,
      0,
      1,
      0,
      5,
-     5,
+     6,
      3,
      1,
      1,
@@ -614,16 +627,16 @@
      17,
      16,
      33,
-     27,
+     29,
      8,
-     8
+     11,
+     25
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     0,
      0,
      2,
      0,
@@ -650,9 +663,10 @@
      12,
      21,
      47,
-     21,
+     22,
      6,
-     2
+     3,
+     28
     ]
    }
   ]
@@ -680,13 +694,13 @@
    "name": "HONDA MOTOR CO LTD",
    "core": "HONDA MOTOR",
    "patents": 263,
-   "news": 0
+   "news": 1
   },
   {
    "name": "SAMSUNG ELECTRONICS CO LTD",
    "core": "SAMSUNG ELECTRONICS",
    "patents": 260,
-   "news": 0
+   "news": 1
   },
   {
    "name": "X DEV LLC",
@@ -698,7 +712,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 14
+   "news": 16
   },
   {
    "name": "QUALCOMM INC",
