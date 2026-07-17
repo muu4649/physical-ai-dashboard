@@ -1,56 +1,76 @@
 {
- "updated_at": "2026-07-16T22:00:50.669385+00:00",
+ "updated_at": "2026-07-17T21:49:34.130836+00:00",
  "kpi": {
-  "articles_7d": 732,
-  "articles_prev_7d": 391,
-  "sources_7d": 339,
-  "articles_30d": 1280,
-  "total_articles": 1337,
+  "articles_7d": 801,
+  "articles_prev_7d": 473,
+  "sources_7d": 356,
+  "articles_30d": 1440,
+  "total_articles": 1499,
   "oldest_news": "2025-12-18"
  },
  "wordcloud": [
   [
    "nvidia",
-   95
-  ],
-  [
-   "開発",
-   53
+   126
   ],
   [
    "NVIDIA",
-   52
+   70
   ],
   [
-   "日本",
-   38
-  ],
-  [
-   "活用",
-   38
-  ],
-  [
-   "写真",
-   34
+   "開発",
+   56
   ],
   [
    "japan",
-   34
+   48
   ],
   [
-   "画像",
-   33
+   "日本",
+   45
   ],
   [
-   "安川電機",
-   33
-  ],
-  [
-   "world",
-   32
+   "活用",
+   42
   ],
   [
    "富士通",
+   39
+  ],
+  [
+   "技術",
+   37
+  ],
+  [
+   "安川電機",
+   34
+  ],
+  [
+   "国産",
+   32
+  ],
+  [
+   "写真",
+   31
+  ],
+  [
+   "基盤",
+   30
+  ],
+  [
+   "画像",
+   30
+  ],
+  [
+   "world",
+   29
+  ],
+  [
+   "産業",
+   29
+  ],
+  [
+   "エヌビディア",
    29
   ],
   [
@@ -58,87 +78,87 @@
    28
   ],
   [
-   "技術",
+   "ソフトバンク",
    28
   ],
   [
-   "ソフトバンク",
-   27
-  ],
-  [
-   "産業",
-   25
-  ],
-  [
-   "実装",
-   24
-  ],
-  [
-   "基盤",
-   23
-  ],
-  [
-   "協業",
-   23
-  ],
-  [
-   "国産",
-   23
-  ],
-  [
-   "エヌビディア",
-   23
-  ],
-  [
    "ceo",
-   21
-  ],
-  [
-   "現場",
-   21
+   26
   ],
   [
    "model",
-   20
+   26
   ],
   [
    "ファナック",
+   26
+  ],
+  [
+   "実装",
+   25
+  ],
+  [
+   "協業",
+   24
+  ],
+  [
+   "data",
+   24
+  ],
+  [
+   "連携",
+   24
+  ],
+  [
+   "china",
+   22
+  ],
+  [
+   "世界",
+   21
+  ],
+  [
+   "始動",
+   21
+  ],
+  [
+   "factory",
    20
   ],
   [
    "企業",
-   19
+   20
   ],
   [
-   "data",
-   19
+   "現場",
+   18
+  ],
+  [
+   "中国",
+   18
   ],
   [
    "データ",
    18
   ],
   [
-   "surgery",
+   "CEO",
    18
   ],
   [
-   "連携",
+   "拡大",
    18
   ],
   [
-   "china",
+   "billion",
    17
   ],
   [
    "社会",
-   16
+   17
   ],
   [
-   "launches",
-   16
-  ],
-  [
-   "dynamics",
+   "development",
    16
   ],
   [
@@ -150,15 +170,27 @@
    16
   ],
   [
-   "chinese",
+   "事業",
+   16
+  ],
+  [
+   "push",
    15
   ],
   [
-   "factory",
+   "korea",
    15
   ],
   [
-   "billion",
+   "launches",
+   15
+  ],
+  [
+   "platform",
+   15
+  ],
+  [
+   "gpu",
    15
   ],
   [
@@ -166,47 +198,31 @@
    15
   ],
   [
-   "platform",
+   "dynamics",
+   15
+  ],
+  [
+   "分野",
    14
   ],
   [
-   "三菱自動車",
+   "検討",
    14
   ],
   [
-   "中国",
+   "infrastructure",
    14
   ],
   [
-   "live",
+   "cosmos",
    14
   ],
   [
-   "公開",
-   14
+   "推進",
+   13
   ],
   [
-   "世界",
-   14
-  ],
-  [
-   "CEO",
-   14
-  ],
-  [
-   "gpu",
-   14
-  ],
-  [
-   "始動",
-   14
-  ],
-  [
-   "拡大",
-   14
-  ],
-  [
-   "build",
+   "chinese",
    13
   ],
   [
@@ -218,249 +234,230 @@
    13
   ],
   [
-   "korea",
+   "製造",
    13
   ],
   [
-   "事業",
+   "market",
    13
   ],
   [
-   "量産",
-   12
+   "研究",
+   13
   ],
   [
-   "体制",
-   12
-  ],
-  [
-   "development",
-   12
-  ],
-  [
-   "分野",
-   12
-  ],
-  [
-   "未来",
-   12
-  ],
-  [
-   "raises",
-   12
+   "公開",
+   13
   ]
  ],
  "today_top5": [
   {
-   "title": "富士通とフィジカルAIの社会実装に向けた事業検討を開始",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYVVd2SDNxcDNSaTFVaTVPS184R0dEenFHdVM0Z0Z5YnNzWEloR045Q3EtMjJRdU9Qd3Y4UVdUZU5yblY5OVh3MkZJNC1kR1RNbWdUdU9CRzZucWJfd0VyeG5yZGVNRUZr?oc=5",
-   "source": "khi.co.jp",
-   "published": "2026-07-16T08:37:56+00:00",
-   "count": 6,
+   "title": "国産AI基盤モデルの開発を推進する「Noetra」社に出資",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGbVdSQjczMDVDbEZmdXZ6MVQ2czRzQ3BTTmhxaXNnZ3c0aldLV09jVXlKbkU3bmxCZnFUem1FcmJ2ckVISVdKZlppTlpuaklMRTNESnk3SmhMQU9wVWFDWlA4ZU9COHo3R2Jr?oc=5",
+   "source": "時事ドットコム",
+   "published": "2026-07-17T21:10:00+00:00",
+   "count": 3,
    "sources": [
-    "Yahoo!ファイナンス",
-    "kabushiki.jp",
-    "khi.co.jp",
-    "motorcars.jp",
-    "四季報オンライン"
-   ],
-   "score": 4.98
-  },
-  {
-   "title": "Japan's Noetra to work with Nvidia for physical AI infrastructure development",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaX2RwNXJLZl9kR2tvWkJBMVdnMTl4SERSS3N0UmdHbTFaREhzQzdYSmxsTVFibzdRX1A5TjhldXJPRENWRHZtYzNLaGFqTnpnbmo3b2dnTzFacFNEaTRfbHhn?oc=5",
-   "source": "nhk.or.jp",
-   "published": "2026-07-16T21:11:42+00:00",
-   "count": 4,
-   "sources": [
-    "Data Centre Magazine",
-    "NVIDIA Newsroom",
-    "The Tech Buzz",
-    "nhk.or.jp"
-   ],
-   "score": 3.95
-  },
-  {
-   "title": "ファナック・安川電・川重、フィジカルAI前進 富士通・エヌビディア活用",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kajdDMUZBN3Q5a2d5cERETDdtWGpJWDY1dTBSTlZKcTJHdUxYTXBOaHRWcTREb21EU3dyek1ZSG5sM0RvTlh1cElBM3FwTDdfUnpiNThfQ3FfN1E?oc=5",
-   "source": "日刊工業新聞",
-   "published": "2026-07-16T20:00:12+00:00",
-   "count": 4,
-   "sources": [
-    "TBS NEWS DIG",
-    "Yahoo!ニュース",
-    "日刊工業新聞",
-    "産経ニュース"
-   ],
-   "score": 3.89
-  },
-  {
-   "title": "【図解】エヌビディア、日本企業と連携拡大＝「フィジカルAI」実装へ（時事通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1raXhfM2REOTZXampUU3kxVFd0RU1PNjY4eWJ3bi1sYXhXOEVFc2NLSTR5SGk3bTJLbjBLWmlsMWZvRW90YTZST1B1QlJ2S083YmplekpXcXpPRzBWNVJBSWI1T1E2bWs2TU9VQjVyQnVUQkdSdFFwZTRDZ09MNE0?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-07-16T11:02:28+00:00",
-   "count": 4,
-   "sources": [
-    "Yahoo!ニュース",
-    "Yahoo!ファイナンス"
-   ],
-   "score": 3.43
-  },
-  {
-   "title": "ディーエムエス、ヒューマノイドロボットの早期社会実装目指す独自団体「J-HRTI」に新規参画 - LOGI-BIZ online",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DUnpsZ2xTS0MyejNJUzlPOGtlOXRfdUtIT3BORzAwSkxVazNoVU5HbHBCOHZVcnZqR3ZudEN1THBjbDJXeGVtOU8yRQ?oc=5",
-   "source": "LOGI-BIZ online",
-   "published": "2026-07-16T10:21:21+00:00",
-   "count": 4,
-   "sources": [
-    "LOGI-BIZ online",
+    "LOGISTICS TODAY",
     "PR TIMES",
-    "産経ニュース"
+    "時事ドットコム"
    ],
-   "score": 3.4
+   "score": 2.97
+  },
+  {
+   "title": "Agility Robotics Opens Training Center in Tesla's Fremont Backyard",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX2x3d09TanU4a2dvVlNFMUhuNTl6WXduUk5vd2ZsQTlmR3duVGdtdGl0ckZvLXhnN0xFTFNSUlNPWURpd0hiZnY5d3Vqc3NRTTFJSWtlSC11WjJEbThYMlYzYjQxWTVVRG91OERlRUNqYVM2VkV0cnh2MHBJS1FoM2FjOGpYcXhzZWM4VEEzamswaTFhZ2dGeV9aRjBrMHBS?oc=5",
+   "source": "The Tech Buzz",
+   "published": "2026-07-17T20:49:00+00:00",
+   "count": 2,
+   "sources": [
+    "Robotics & Automation News",
+    "The Tech Buzz"
+   ],
+   "score": 1.97
+  },
+  {
+   "title": "Nvidia Broadens Physical AI Push With Robotics, Edge AI Updates",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWjhLZDRiMHREdlV0ejZyUVVPeHptdndKOUlZR3p4LTloNU45NjU5b2diekZyVDhUekx2TW9uVXRNaWVyMTZyeGotNUZYOUVSSVhjMWpBTHM3RU81RkhSbi1WeDgzeXZIM2dnMGVoQWoxTUtHTG9Dbk4zWktmLUVkdVM2cC0wQ1E?oc=5",
+   "source": "AI Business",
+   "published": "2026-07-17T20:26:15+00:00",
+   "count": 2,
+   "sources": [
+    "AI Business",
+    "SiliconANGLE"
+   ],
+   "score": 1.96
+  },
+  {
+   "title": "A Robot Was Just Decapitated in a Humanoid UFC Fight – and Kept Swinging",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdU9xQlRhaEk0MTAyZEdVYVdveFJMcEdDUU9wUHg5R3YyamFqcExBUjR4WkRyWHF2aWdIMlFDU2I2RVdqY05FdDN3YWhadGJSb0ptdVdMb3F1Mzg2R3IzeW9aVXUxV09yMWQxaTNhM2ZRQ2h2SUYwYkxvRnJhRWdvVDQ0ZF9YejNaMVlOSWZLSDdLeXZ5WkVWRnJVOFI1amEw?oc=5",
+   "source": "Gadget Review",
+   "published": "2026-07-17T18:19:02+00:00",
+   "count": 2,
+   "sources": [
+    "Gadget Review",
+    "Newsweek"
+   ],
+   "score": 1.9
+  },
+  {
+   "title": "Eric Trump–backed Foundation plans to equip humanoid robots with weapons",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQamRIN0tFZnlzUGNHdjdwRDJrLVJUNUh5V1BjUkdxMXpHSE9taUR3VTZlX1VVbkhGcEMza1NmR056NlloZEJQeHpwMWc1akxuZFF6cng5UjNrZU5pYXgxNUFWdmkyRnd3Ym53SmlHVHdBaHJRdWFoRHFUeTV1ODZYQ1JWbFZWQjNYVEFjWUlwWTFxaUFBMVlRajd0VVo?oc=5",
+   "source": "ForkLog",
+   "published": "2026-07-17T12:28:38+00:00",
+   "count": 2,
+   "sources": [
+    "ForkLog",
+    "WIRED"
+   ],
+   "score": 1.76
   }
  ],
  "hot_news": [
   {
-   "title": "富士通とフィジカルAIの社会実装に向けた事業検討を開始",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYVVd2SDNxcDNSaTFVaTVPS184R0dEenFHdVM0Z0Z5YnNzWEloR045Q3EtMjJRdU9Qd3Y4UVdUZU5yblY5OVh3MkZJNC1kR1RNbWdUdU9CRzZucWJfd0VyeG5yZGVNRUZr?oc=5",
-   "source": "khi.co.jp",
-   "published": "2026-07-16T08:37:56+00:00",
+   "title": "Nvidia expands Japan AI infrastructure and robotics push",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRTVHVmVSQzkzNEg3dl9ZV0NSSEtWQTJ6UEZfcGtBUFZsUXdyenJELWhXMzE0UkJLTk5nYnd6UlBkU0xPbEFlUjR6ck1SZThnenZsWDg3OXBPOTBKcGZlbjVyRjJFOXZSUXh4X1ZvNWlSdjI2QnhrckhiREVLUW5xS3dTTDdSWlFvdXpsOQ?oc=5",
+   "source": "Tech Wire Asia",
+   "published": "2026-07-17T10:04:36+00:00",
    "count": 6,
+   "sources": [
+    "Data Centre Magazine",
+    "Digital Watch Observatory",
+    "NVIDIA Newsroom",
+    "Tech Wire Asia",
+    "The Tech Buzz",
+    "nhk.or.jp"
+   ],
+   "score": 5.1
+  },
+  {
+   "title": "NTT DATA named market shaper in Gartner physical AI",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWlp2RTVpWGN1b3JrVGpkczhhbjNtWnUzVUY1QTY5aWJCelFvUmlKTFotdVFkSlpTWHBKYk5RbS1lMnFvQWtnWGMzNm1NV1B6ODA3aXp4LUowZWtEckRWSFJiRVY1RTJoWHZEUUlNcUhmSWNwUmktbmRONDBLa0hFd3RmSlFkVlZMdU1Z?oc=5",
+   "source": "ChannelLife UK",
+   "published": "2026-07-17T07:15:00+00:00",
+   "count": 5,
+   "sources": [
+    "Capgemini",
+    "ChannelLife UK",
+    "NTT Data",
+    "NTT, Inc.",
+    "StreetInsider"
+   ],
+   "score": 4.08
+  },
+  {
+   "title": "国産AI基盤モデルの開発を推進する「Noetra」社に出資",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGbVdSQjczMDVDbEZmdXZ6MVQ2czRzQ3BTTmhxaXNnZ3c0aldLV09jVXlKbkU3bmxCZnFUem1FcmJ2ckVISVdKZlppTlpuaklMRTNESnk3SmhMQU9wVWFDWlA4ZU9COHo3R2Jr?oc=5",
+   "source": "時事ドットコム",
+   "published": "2026-07-17T21:10:00+00:00",
+   "count": 4,
+   "sources": [
+    "LOGISTICS TODAY",
+    "PR TIMES",
+    "ケータイ Watch",
+    "時事ドットコム"
+   ],
+   "score": 3.96
+  },
+  {
+   "title": "ディーエムエス、物流・DM業初のJ-HRTI参画",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1iM21qQXdpc0c5a2pNdHQzM3VwLVFVdktxbjRMdW1LTndpdUFOMXgzWk5UdVJTc2hhcno1RkpFRkRwYnZIVi11TA?oc=5",
+   "source": "LOGISTICS TODAY",
+   "published": "2026-07-17T18:56:15+00:00",
+   "count": 4,
+   "sources": [
+    "LOGISTICS TODAY",
+    "PR TIMES",
+    "産経ニュース"
+   ],
+   "score": 3.84
+  },
+  {
+   "title": "１６日の動意株＞富士通、ファナックや安川電、川重とフィジカルＡＩ分野で事業検討(ウエルスアドバイザー)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUE5Fb296ZUl6OWxsRjN1a0lLYnZkMnVjVm4zM25pRElfSlNFR1Y4MVQtLTdJMTlQZm0xbGhQMVBtOEZadDZTb2x2MkFzN0k5ZGxTVVZuTUt0bDZVSnE1T2dSQWVpSTZQYjNEcUYyYmdtWDVPa2NTQ0lsY0s0MlJ1aGV6Q2tuUmc?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "published": "2026-07-16T22:30:00+00:00",
+   "count": 5,
    "sources": [
     "Yahoo!ファイナンス",
     "kabushiki.jp",
     "khi.co.jp",
-    "motorcars.jp",
-    "四季報オンライン"
+    "motorcars.jp"
    ],
-   "score": 4.98
+   "score": 3.62
   },
   {
-   "title": "フィジカルAIで柔軟物体ハンドリング実証、安川電機とソフトバンク（MONOist）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91RXVTRkdMMVBpd0RLakVyZmV2cGhzamJRQ3dnLU9LTUNqYXZidjRNeVAxaW1nZWZIUkZzd3V1MUJlSktzTEMxWTRENHRJMkNkQi1MclZpaWZMRGhDTGtGXzBaUHlWdWd5UjNwVzRieWZyZWM2eWVENTZQOFJrMk0?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-07-14T21:05:09+00:00",
-   "count": 8,
+   "title": "NVIDIA Brings Robot AI On-Device as Japan’s Top Manufacturers Join Cosmos Coalition",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaFlDMk1ZY0xZNm8tSmFHLVB6WU4tdW9YSzRtZlpHd0dwU2JPN1pKNnlZbDZ4S1hBRkJ1YWt5X2NZYWdobFhtcDlNRDBxZTEzOGRsVXFnTGFuSHVwbUJyYmZpWDJDSkw2YU1faE5KSW9FaFMzTWswd0JKZmhEY3NaRU1GWC13TVQzc2VESWU0ODNtanl4cXpRNnRDc1BReEM5YzduTHB4d3pmUjYxS0FtUl9teFJvY2hvRHREeGJKemtZQ2c5RUwxMFJ5SQ?oc=5",
+   "source": "Tech Times",
+   "published": "2026-07-17T11:59:12+00:00",
+   "count": 4,
+   "sources": [
+    "Bloomberg.com",
+    "Finimize",
+    "Stock Titan",
+    "Tech Times"
+   ],
+   "score": 3.49
+  },
+  {
+   "title": "トヨタとNVIDIA、協業を拡大 工場・都市までフィジカルAI活用へ",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZQXl0Qk8wUVowNUJYN1VNTTNheTlHakNCaDF1SHd4SHdRSVpmYmljbDZIZlhNNWU5a3RFbXJ6QUc4eXJqWWdkMF84bzIxQTJwT1pz?oc=5",
+   "source": "東京報道新聞",
+   "published": "2026-07-17T08:03:04+00:00",
+   "count": 4,
+   "sources": [
+    "ITmedia",
+    "日本経済新聞",
+    "東京報道新聞",
+    "株式会社インプレス"
+   ],
+   "score": 3.3
+  },
+  {
+   "title": "富士通，NVIDIA技術を活用したフィジカルAIの社会実装へ始動",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94WmVCYzFYR1RvVnNSbkxmT0hrWWdJUlBKekgzdVVOMXh4SElkQmI0ZVdqR2tVaFBJa0RyaHZlQW9ySEJnYmYyRUJmYUd0VGx3b3JVenJFOU52am9rTTBUVA?oc=5",
+   "source": "innavi net",
+   "published": "2026-07-17T07:07:40+00:00",
+   "count": 4,
+   "sources": [
+    "PR TIMES",
+    "innavi net",
+    "robot digest",
+    "クラウド Watch"
+   ],
+   "score": 3.26
+  },
+  {
+   "title": "富士通、ロボ3社と「フィジカルAI」協業へ エヌビディアが技術支援、産業革命の起爆剤に",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rTXJJdzV6MTBGYW9KemR2ckZPbFhSS0tWekJiZUw4TWgxY0xjdk41a1N0VmlpdHZvOXpaWG1wSjZTYUtKdzI0T0RKWnZnMHVkanB2MktiS2FvLTJIZjlEU2oxaVVWOXdqM1J0NXRPdWFZdnVF?oc=5",
+   "source": "BigGo ファイナンス",
+   "published": "2026-07-17T04:06:00+00:00",
+   "count": 4,
    "sources": [
     "BigGo ファイナンス",
-    "MONOist",
-    "Yahoo!ニュース",
-    "ソフトバンク",
-    "ニュースイッチ by 日刊工業新聞社",
-    "ビジネスネットワーク"
-   ],
-   "score": 4.05
-  },
-  {
-   "title": "Japan's Noetra to work with Nvidia for physical AI infrastructure development",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaX2RwNXJLZl9kR2tvWkJBMVdnMTl4SERSS3N0UmdHbTFaREhzQzdYSmxsTVFibzdRX1A5TjhldXJPRENWRHZtYzNLaGFqTnpnbmo3b2dnTzFacFNEaTRfbHhn?oc=5",
-   "source": "nhk.or.jp",
-   "published": "2026-07-16T21:11:42+00:00",
-   "count": 4,
-   "sources": [
-    "Data Centre Magazine",
-    "NVIDIA Newsroom",
-    "The Tech Buzz",
-    "nhk.or.jp"
-   ],
-   "score": 3.95
-  },
-  {
-   "title": "ファナック・安川電・川重、フィジカルAI前進 富士通・エヌビディア活用",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kajdDMUZBN3Q5a2d5cERETDdtWGpJWDY1dTBSTlZKcTJHdUxYTXBOaHRWcTREb21EU3dyek1ZSG5sM0RvTlh1cElBM3FwTDdfUnpiNThfQ3FfN1E?oc=5",
-   "source": "日刊工業新聞",
-   "published": "2026-07-16T20:00:12+00:00",
-   "count": 4,
-   "sources": [
     "TBS NEWS DIG",
     "Yahoo!ニュース",
-    "日刊工業新聞",
     "産経ニュース"
    ],
-   "score": 3.89
+   "score": 3.13
   },
   {
-   "title": "三菱自動車、国産人型ロボット量産へ 東大発スタートアップと協業加速",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NYzJIb2w1ZWN5WGF5LTRlMmNzbUNmVkJicjVWTk1RYmRqWXlNMThsbGdybE9sN3hhd1lCcDlSbi1ZRDN5SlJGSWRnMXFlZHlHbVhv?oc=5",
-   "source": "東京報道新聞",
-   "published": "2026-07-16T01:45:30+00:00",
-   "count": 5,
-   "sources": [
-    "Business Insider Japan",
-    "Yahoo!ニュース",
-    "carview!",
-    "スマートモビリティJP",
-    "東京報道新聞"
-   ],
-   "score": 3.77
-  },
-  {
-   "title": "【図解】エヌビディア、日本企業と連携拡大＝「フィジカルAI」実装へ（時事通信）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1raXhfM2REOTZXampUU3kxVFd0RU1PNjY4eWJ3bi1sYXhXOEVFc2NLSTR5SGk3bTJLbjBLWmlsMWZvRW90YTZST1B1QlJ2S083YmplekpXcXpPRzBWNVJBSWI1T1E2bWs2TU9VQjVyQnVUQkdSdFFwZTRDZ09MNE0?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-07-16T11:02:28+00:00",
+   "title": "家族型ロボット「LOVOT」約2万体の知見をフィジカルAI向け世界基盤モデルNVIDIA Cosmos 3に活用",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqZ3VBaDZlYlhQR3VEOEdJU1hxeXNZZzdKM1RCWkpVT3dvd3pfYVhwZTJHcUNfdDJfNGI4SnpQOE5KTVVkSDlyYThTcEFsYzB3X3JqeHd3Y0FiU2hoYV9kLS1MNXc?oc=5",
+   "source": "ロボスタ",
+   "published": "2026-07-17T03:00:31+00:00",
    "count": 4,
    "sources": [
-    "Yahoo!ニュース",
-    "Yahoo!ファイナンス"
-   ],
-   "score": 3.43
-  },
-  {
-   "title": "ディーエムエス、ヒューマノイドロボットの早期社会実装目指す独自団体「J-HRTI」に新規参画 - LOGI-BIZ online",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DUnpsZ2xTS0MyejNJUzlPOGtlOXRfdUtIT3BORzAwSkxVazNoVU5HbHBCOHZVcnZqR3ZudEN1THBjbDJXeGVtOU8yRQ?oc=5",
-   "source": "LOGI-BIZ online",
-   "published": "2026-07-16T10:21:21+00:00",
-   "count": 4,
-   "sources": [
-    "LOGI-BIZ online",
+    "IT Leaders",
     "PR TIMES",
-    "産経ニュース"
-   ],
-   "score": 3.4
-  },
-  {
-   "title": "Nvidia partners with Japan firms to advance physical AI",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMks0Q3FIc1pDVlNod3ZSSDB1VGFScVdtTEg1Q2cxTmlWaEJab0tMcDd5Y1dPdGlSQ0twMXlDbmdCUWJpRkprUlZaQTVMRXhmNEd3ZC1meF9LRzVTck5SRHROYURDMUNuOGUtTGFNWlBmU1lWc2xBYXFneDNjVFhKQXRsNDRIWkZ2LUZMTTFEbW5rZTFSekNSeA?oc=5",
-   "source": "Evertiq",
-   "published": "2026-07-16T08:01:23+00:00",
-   "count": 4,
-   "sources": [
-    "Evertiq",
-    "Nikkei Asia",
-    "Reuters",
-    "조선일보"
-   ],
-   "score": 3.29
-  },
-  {
-   "title": "NVIDIA、次世代エッジAIモジュール「Jetson T3000」「T2000」発表 ヒューマノイド・産業用ロボット向け 1枚目の写真・画像",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1UdHNtT0JZQ1V5Sm5nZmNCWTZZelRiNHBMZDRldWwwMHhGOC1oNGFBS3VJbmJaUWlwR1hmcHBOejU0V3BzSENoRXJ0NlMyRDlmYlZLWFg4U0lZdWVnMzhSdWNIZDZHY0lzSmthRkVzMHZ6R2s?oc=5",
-   "source": "ロボスタ",
-   "published": "2026-07-16T08:00:04+00:00",
-   "count": 4,
-   "sources": [
-    "BigGo ファイナンス",
     "ロボスタ"
    ],
-   "score": 3.29
-  },
-  {
-   "title": "ヒューマノイド向けAI脳「COSA 0.5」をLimX Dynamicsが公開 遠隔操作なしで完全自律動作する新映像",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zM2VyckNwanhDb1ljV055SlBXM1hNUEdndG8yaW8ydWZhblNRT2toV1N2Vi04XzVXQW5Yb2c1dzBrbEc1QVZwQUhjNk9oN0dvOHN3dnNXdHVrQUxFWDFNa0ZUQ2c?oc=5",
-   "source": "ロボスタ",
-   "published": "2026-07-15T09:30:03+00:00",
-   "count": 5,
-   "sources": [
-    "ロボスタ"
-   ],
-   "score": 3.01
+   "score": 3.08
   }
  ],
  "trend": {
   "dates": [
-   "2026-06-17",
    "2026-06-18",
    "2026-06-19",
    "2026-06-20",
@@ -489,14 +486,14 @@
    "2026-07-13",
    "2026-07-14",
    "2026-07-15",
-   "2026-07-16"
+   "2026-07-16",
+   "2026-07-17"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     0,
      1,
      0,
      0,
@@ -525,14 +522,14 @@
      31,
      41,
      34,
-     54
+     57,
+     33
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     0,
      1,
      1,
      0,
@@ -561,14 +558,14 @@
      45,
      41,
      35,
-     77
+     88,
+     42
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     2,
      2,
      0,
      0,
@@ -582,7 +579,7 @@
      2,
      7,
      4,
-     2,
+     3,
      4,
      4,
      0,
@@ -597,14 +594,14 @@
      4,
      9,
      12,
-     5
+     6,
+     9
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     1,
      0,
      0,
      0,
@@ -631,16 +628,16 @@
      8,
      11,
      28,
-     27,
+     29,
      35,
-     29
+     34,
+     33
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     0,
      1,
      0,
      0,
@@ -649,7 +646,7 @@
      2,
      2,
      2,
-     1,
+     2,
      0,
      1,
      3,
@@ -666,10 +663,11 @@
      23,
      6,
      4,
-     32,
+     33,
      16,
-     9,
-     30
+     12,
+     33,
+     15
     ]
    }
   ]
@@ -703,7 +701,7 @@
    "name": "SAMSUNG ELECTRONICS CO LTD",
    "core": "SAMSUNG ELECTRONICS",
    "patents": 260,
-   "news": 1
+   "news": 2
   },
   {
    "name": "X DEV LLC",
@@ -715,7 +713,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 69
+   "news": 87
   },
   {
    "name": "QUALCOMM INC",
