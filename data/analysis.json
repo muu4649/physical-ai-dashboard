@@ -1,21 +1,25 @@
 {
- "updated_at": "2026-07-18T21:46:41.188483+00:00",
+ "updated_at": "2026-07-19T21:48:36.946744+00:00",
  "kpi": {
-  "articles_7d": 833,
-  "articles_prev_7d": 504,
-  "sources_7d": 368,
-  "articles_30d": 1505,
-  "total_articles": 1569,
+  "articles_7d": 859,
+  "articles_prev_7d": 524,
+  "sources_7d": 366,
+  "articles_30d": 1565,
+  "total_articles": 1634,
   "oldest_news": "2025-12-18"
  },
  "wordcloud": [
   [
    "nvidia",
-   140
+   149
   ],
   [
    "NVIDIA",
-   75
+   82
+  ],
+  [
+   "日本",
+   58
   ],
   [
    "開発",
@@ -23,38 +27,46 @@
   ],
   [
    "japan",
-   52
-  ],
-  [
-   "日本",
-   49
+   53
   ],
   [
    "活用",
-   43
+   46
   ],
   [
    "富士通",
-   40
+   41
   ],
   [
    "技術",
-   38
+   40
+  ],
+  [
+   "world",
+   35
+  ],
+  [
+   "国産",
+   35
+  ],
+  [
+   "china",
+   35
   ],
   [
    "安川電機",
    34
   ],
   [
-   "国産",
+   "基盤",
    34
   ],
   [
-   "world",
-   32
+   "エヌビディア",
+   34
   ],
   [
-   "基盤",
+   "写真",
    32
   ],
   [
@@ -62,20 +74,12 @@
    31
   ],
   [
-   "写真",
-   31
-  ],
-  [
-   "エヌビディア",
-   31
-  ],
-  [
    "画像",
-   30
+   31
   ],
   [
-   "china",
-   29
+   "実装",
+   31
   ],
   [
    "ソフトバンク",
@@ -90,16 +94,12 @@
    27
   ],
   [
-   "実装",
+   "協業",
    27
   ],
   [
    "ceo",
-   26
-  ],
-  [
-   "model",
-   26
+   27
   ],
   [
    "ファナック",
@@ -107,22 +107,30 @@
   ],
   [
    "data",
-   24
+   25
   ],
   [
-   "協業",
-   24
+   "model",
+   25
   ],
   [
    "始動",
-   23
+   25
   ],
   [
    "企業",
-   22
+   24
   ],
   [
    "世界",
+   23
+  ],
+  [
+   "拡大",
+   21
+  ],
+  [
+   "社会",
    21
   ],
   [
@@ -130,23 +138,23 @@
    20
   ],
   [
-   "factory",
+   "waic",
    20
-  ],
-  [
-   "拡大",
-   20
-  ],
-  [
-   "データ",
-   18
   ],
   [
    "中国",
+   19
+  ],
+  [
+   "platform",
    18
   ],
   [
-   "社会",
+   "factory",
+   18
+  ],
+  [
+   "cosmos",
    18
   ],
   [
@@ -154,19 +162,31 @@
    17
   ],
   [
-   "現場",
+   "korea",
    17
   ],
   [
-   "chinese",
-   16
+   "development",
+   17
+  ],
+  [
+   "データ",
+   17
+  ],
+  [
+   "unveils",
+   17
+  ],
+  [
+   "dynamics",
+   17
   ],
   [
    "push",
    16
   ],
   [
-   "platform",
+   "global",
    16
   ],
   [
@@ -175,6 +195,14 @@
   ],
   [
    "工場",
+   16
+  ],
+  [
+   "chinese",
+   16
+  ],
+  [
+   "現場",
    16
   ],
   [
@@ -190,18 +218,6 @@
    15
   ],
   [
-   "korea",
-   15
-  ],
-  [
-   "global",
-   15
-  ],
-  [
-   "development",
-   15
-  ],
-  [
    "柔軟",
    15
   ],
@@ -210,15 +226,7 @@
    15
   ],
   [
-   "dynamics",
-   15
-  ],
-  [
-   "waic",
-   15
-  ],
-  [
-   "cosmos",
+   "分野",
    15
   ],
   [
@@ -226,88 +234,96 @@
    14
   ],
   [
-   "公開",
-   14
-  ],
-  [
-   "unveils",
+   "south",
    14
   ],
   [
    "market",
-   13
+   14
   ],
   [
-   "研究",
-   13
+   "公開",
+   14
   ],
   [
-   "自動",
-   13
-  ],
-  [
-   "自動車",
-   13
+   "製造",
+   14
   ]
  ],
  "today_top5": [
   {
-   "title": "Eric Trump Is Building An Army Of Humanoid Robot Soldiers",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRlBUNWxaUTduMndhODhhV1VzVm9jSVRmZ2JvakNiekVQQ1hoOHZzemZHUlFaVFVzM1dmaUM1NEttRkhpVFZrZExDZHhDbHFsSm8xcnlob0Z5MWFHZnl4dTlHU2g3Z0daSUluc3c2ai1kM3J5YUV4ZHdrUUIyUFFzaDNsRWRhN3A4RTI4VWdBRDQ?oc=5",
-   "source": "Kotaku",
-   "published": "2026-07-18T21:30:31+00:00",
-   "count": 1,
+   "title": "Chinese robots impress industry insiders in Australia with embodied AI #coolchina",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1icGhTV1kxVGlxOWcxbkticFpiUmhGeklQc1hpT0NXS1N0MHptY1JfZ0UyS2JpNlBZU3BXLU9reXJFa3Z3eFhkbWIyQ3V4dDEtNnJFUTRYd2dZVUxLVWxqLdIBXEFVX3lxTE5xZV9lelR2ZV95eVJOYnFoWERiNEROaVIyWHItOHlPeE5wOVVBalF2UjVaOWN4MmtZVkxfOXREN3NwUVU1YmFmSW5RQnhzUlliblZIQzJwWlBXRGZW?oc=5",
+   "source": "Modern Ghana",
+   "published": "2026-07-19T13:18:05+00:00",
+   "count": 2,
    "sources": [
-    "Kotaku"
+    "Modern Ghana",
+    "news.cgtn.com"
    ],
-   "score": 1.0
+   "score": 1.78
   },
   {
-   "title": "Humanoid robot rides mechanical horse in world-first archery feat",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc0U2MTNhd2k3TVBZU3pmOXBLR3R1U3lUelBzel9BQ3NCdXYwLXZuY0U0dkxqZmpKYUFzQmp1VHFJNDlHN3N0bDQ5ZkNpUUN1eEZzb1dMQzFqTHpOWjh1MDBpZmV6blUzZXY0TzVWcWhfSlRTcG9UQms3UlZVR0FDcDQ5dkNnYzJic08zaXNaeHdiZ0UzTmhTS0NYaWo4SkZQdUlOV0JHYzFDaXc3M3BIaUJR?oc=5",
-   "source": "MSN",
-   "published": "2026-07-18T20:07:42+00:00",
-   "count": 1,
+   "title": "ヒューマノイドの社会実装を競う「Humanoid Hack Tokyo 2」 フィジカルAI活用の災害救助ロボットが優勝",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Mdldja1FkNEpuS0tiT1RMOVZHREtPMjRDd2RNeGhTcEVKT29CbmppUDBJdUdkbGhVaHlPUXVWalpqN0Q4cXBuYjRtcV9xRXktUklkZDZNOVlKSXpkSEdMazFXQnc?oc=5",
+   "source": "ロボスタ",
+   "published": "2026-07-19T01:00:02+00:00",
+   "count": 2,
    "sources": [
-    "MSN"
+    "ロボスタ"
    ],
-   "score": 0.98
+   "score": 1.5
   },
   {
-   "title": "Jensen Huang Dismisses Vera Rubin Delay, Positions Nvidia for $1 Trillion AI Boom and Robotics Expansion",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zNGw1R25NSXhCQzAwQW5fcjRreFJoZEZHQVZweGhleThOV3BobGNFSXh1SENNTEUxcFBPTDYtV1d6NmxBSEx4Z2NrajlRRUFaUWJFRWtZN3NHaUhLa09adHdScTVvTmRNNHpVSDgta1JEdTdTU0E?oc=5",
-   "source": "finance.biggo.com",
-   "published": "2026-07-18T19:55:00+00:00",
-   "count": 1,
+   "title": "今年大相場を演じる｢フィジカルAI株｣の\"第2波\"10銘柄（会社四季報オンライン）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1mYkZjdGxYdW1kZXZMYzRlZ3lSVWxwd00xOXdPdlBfNnNEekZpYTBsRUx2aWMtc1NvRi13dVFQQ3lGZlZ2VzducW1tbERoQmppcExBOGJCUk5fS0FQTmJFTnRHd2pTZkVIMmdZVjdGQ0RObDhvT2tJTFhRVWloTEk?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-07-18T22:00:56+00:00",
+   "count": 2,
    "sources": [
-    "finance.biggo.com"
+    "Yahoo!ニュース",
+    "四季報オンライン"
    ],
-   "score": 0.97
+   "score": 1.44
   },
   {
-   "title": "New York school district to deploy humanoid robot in classrooms this fall",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVkVNWE8wSXVod1FPSnZTdmlqWUZ0YldRMEZfemxVZGJ6TGhKdUM5d1M2cjAtSXRNb3YxWG9HdjY2MUhjdkV2dXFwWktQQm9fMHVhNkoyalZsVVQ4eDh1OXQ4OVFxSl93R1JzRzlNa3l0clVjOWpKUGcxaU5QTXpFblA0ZzI3OFhIcUw1Uy0xanB2TWVGY3Vv0gGcAUFVX3lxTE8yS3RRUjZoSXVjT08tcDVyWFAyejBxbzA5aVhxVDhtZkFkN21vdE56VXAwOS04XzVRbVNRcDcxcjVVTVdacC1TNUtiOHE0SWozbDNpZUUxZElEN2dxbGwzN2ZDTFJhS3lqcUVES0IzaG1PZm9LOFB0U05VMjQ4LTFGRW1oNGM3eG9TOS0tU2lTdDM4b1lsQU5valBSZw?oc=5",
-   "source": "Fox News",
-   "published": "2026-07-18T19:00:24+00:00",
+   "title": "TikTok運営企業、「自動運転」に参入か",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9tZjFSVkxsd0NyWTFFTVp4NDNPbFkyblNHLU8tMzhNY25VbmNCZVVWRkhTRlg5M0xTS2VoYlZhcjVpbFRNRkRsRA?oc=5",
+   "source": "自動運転ラボ",
+   "published": "2026-07-19T21:08:59+00:00",
    "count": 1,
    "sources": [
-    "Fox News"
+    "自動運転ラボ"
    ],
-   "score": 0.96
+   "score": 0.99
   },
   {
-   "title": "The Reality of Robot Supersoldiers Might Be Closer Than You Think",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQYkNIU1p2VGVxajJlTWg3R1hjSGs4ZTRvLVBPRzQtTlhaT1h1SEZtQmNYZWQxcENIcmx3QkNMdEJZdzlCcUpIRE04cUFfei1qTHA5Z0lWY0V5ODNvNl9OLUhtWGVBSmdkZzNBS0JXdUI3R0s1ZDU2aExvY08zZHRkUEFyTTVWSngtQjF1YzZjQThxWi1veG5DSg?oc=5",
-   "source": "The Mary Sue",
-   "published": "2026-07-18T18:55:00+00:00",
+   "title": "日立・NTTデータ・Sakana AIと提携…エヌビディア、日本にAI「ネモトロン」浸透させる狙い",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5QcWc0a3QweFFJOXpoVUZqZGZKVzhmSk1KOHppdWJkZjYtazhRV3puRG9ZeVp6cTluSExyTG01TnB4UQ?oc=5",
+   "source": "ニュースイッチ by 日刊工業新聞社",
+   "published": "2026-07-19T21:07:50+00:00",
    "count": 1,
    "sources": [
-    "The Mary Sue"
+    "ニュースイッチ by 日刊工業新聞社"
    ],
-   "score": 0.96
+   "score": 0.99
   }
  ],
  "hot_news": [
+  {
+   "title": "NVIDIA Expands Physical AI Platform Across Japan With Cosmos 3 Edge And Industry Partnerships",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQldsM2R2V0hJU1ltQ1lNVHdESjN3RTVWR1RYa3UtbjNfQ081X1VmclZxenJZaXhrNldCbzJhdW9TcUlxUFlhMGlNX2hfa0lyV01mWmNTWW53a0x3TFpVM1hSUTBUaUZxeTEtZ0F4czY0b2lJRzRYajZVd1BwVjhxUXZwRDMzVFpLaXFSWWVEOVlCeXItQ2FBd3h4RWhsQjQ0T2ZyZjdBQTJ4OTE4LXpZd2tIY9IBuAFBVV95cUxNblVuakE3WWRXVFpzMVFKalNUbm9iSlpqeVZsWTdWd0FkVERnUUxfNm5iVEctY0xJRU9jX1owVVV1QkMtcC1UaHl1OXhDY3pOeFNwczFMM2ZEWnNWSE5wYmUwSTdLY21OeE5KalozRExuaE9GSGc3T2dSdmFJdFdTZThFYmJSN1RaVmJtdHdaVDRVSDZLSklrUlFtaFdROUhkVHgxQk5VVmVoWUxFRDVQRmpTc1lEVERs?oc=5",
+   "source": "Pulse 2.0",
+   "published": "2026-07-19T00:29:12+00:00",
+   "count": 4,
+   "sources": [
+    "ADTmag",
+    "Pulse 2.0",
+    "SiliconANGLE",
+    "quasa.io"
+   ],
+   "score": 2.97
+  },
   {
    "title": "New York school district to deploy humanoid robot in classrooms this fall",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVkVNWE8wSXVod1FPSnZTdmlqWUZ0YldRMEZfemxVZGJ6TGhKdUM5d1M2cjAtSXRNb3YxWG9HdjY2MUhjdkV2dXFwWktQQm9fMHVhNkoyalZsVVQ4eDh1OXQ4OVFxSl93R1JzRzlNa3l0clVjOWpKUGcxaU5QTXpFblA0ZzI3OFhIcUw1Uy0xanB2TWVGY3Vv0gGcAUFVX3lxTE8yS3RRUjZoSXVjT08tcDVyWFAyejBxbzA5aVhxVDhtZkFkN21vdE56VXAwOS04XzVRbVNRcDcxcjVVTVdacC1TNUtiOHE0SWozbDNpZUUxZElEN2dxbGwzN2ZDTFJhS3lqcUVES0IzaG1PZm9LOFB0U05VMjQ4LTFGRW1oNGM3eG9TOS0tU2lTdDM4b1lsQU5valBSZw?oc=5",
@@ -320,21 +336,20 @@
     "NewYorkUpstate.com",
     "Yahoo"
    ],
-   "score": 3.85
+   "score": 2.76
   },
   {
-   "title": "NVIDIA Japan Partnerships Advance Physical AI and Robotics",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVV83Wld5Yk5NcDhTTFRNU1R6TVl2aWFyRmItRUQtSFk2MG5UR0JwRzl0Zy1HQWtaSF85cERYS2NaNWgzUnA1aWJWanRIYlFOQXJBdkdDdktkRk82YW5iUGZBM2NTcm8tZHBGRndxZnVpMEphRDJUaVZmbkV4NG1FUnhORHVwOE5iX0RyS2xHVzZUXzdMYUxHNXFR?oc=5",
-   "source": "quasa.io",
-   "published": "2026-07-18T18:51:00+00:00",
-   "count": 4,
+   "title": "Grid Dynamics Enters Partnership with Doosan Robotics for Manufacturing and Logistics Automation",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTzVQSUNxSHB1Q2VFYlZRRm1iRkpmOHkwQnZmV0g4MzNuYlNFcW5HOEJkcXJSbHdBR3N1MktRVXNpNENhNmxjTkxZa3BJeHJjX1p1bzBTcnA0dUtuSXB6MjJiNTBqdXNzWm13TnNvLV9iaVVadWtfMzRDTks4YUNHTjk4QVduTE9WMGkxUHBBdUwzUVJIX2plam9Vc3lkdkFrS01rRFl5dEFKb1JoZkhUdXFpalpQTWpUbDlSZm1QdklDREk4Z1dCcXRaMU80Vlk?oc=5",
+   "source": "AI Insider",
+   "published": "2026-07-19T11:34:10+00:00",
+   "count": 3,
    "sources": [
-    "Evertiq",
-    "Finimize",
-    "Reuters",
-    "quasa.io"
+    "AI Insider",
+    "Investing.com",
+    "Yahoo! Finance Canada"
    ],
-   "score": 3.84
+   "score": 2.6
   },
   {
    "title": "Japan and NVIDIA launch national AI infrastructure",
@@ -350,7 +365,7 @@
     "The Tech Buzz",
     "nhk.or.jp"
    ],
-   "score": 3.58
+   "score": 2.56
   },
   {
    "title": "国産AI基盤モデルの開発を推進する「Noetra」社に出資",
@@ -365,7 +380,35 @@
     "ケータイ Watch",
     "時事ドットコム"
    ],
-   "score": 3.55
+   "score": 2.54
+  },
+  {
+   "title": "富士通，NVIDIAの技術を活用したフィジカルAIの社会実装へ始動",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9RSHJ6X0FjYWRRQ2ZuRklWVm4xZFZUV0MxQXBWQ1czMy16ZE44SUVBRWJ4eW51WHVFMkQyT0htMTZPNzhXb2MyQ2N5MkpEdHJPcU0zaTAzQ1FuY1paRFZ4dHVBTVk?oc=5",
+   "source": "innavi net",
+   "published": "2026-07-17T07:07:50+00:00",
+   "count": 6,
+   "sources": [
+    "PR TIMES",
+    "innavi net",
+    "robot digest",
+    "クラウド Watch",
+    "株式会社インプレス"
+   ],
+   "score": 2.51
+  },
+  {
+   "title": "Robot loses head in humanoid MMA fight in China",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbTZKSktMSWZCdEU3bTZQdVFsTlFsUTVHUHJodWpCdUJlWmlFaHlOWndCbGpVSk56LWo4aDBXMUc3cXRfR3ZGdUw4Ty1VLW11Yld1REd3UHhscEE5eFh3UzVHdTZLdUhEdDlKcVJ2NG9qNk9kTXNJMk03Ni1nNUFkYUliN2jSAYoBQVVfeXFMTnp5dnJVdHJKOTRLMWx2Z0ozQ1ZFSVQ2NHBtblpJaVNwcHdiekhOdjdGaXZ1a1Mwajk3RFpkRDVwNGZuZWF0RURuR2V3cFBObXpCaEp2MFBFV1ZvTFhlbUV0cVpTdGdTcnpmSUpsQU10SFpaNjRhZWV6Wks1a0pkTUJMSGVaX2l3M29n?oc=5",
+   "source": "The Business Standard",
+   "published": "2026-07-19T03:25:00+00:00",
+   "count": 3,
+   "sources": [
+    "Common Dreams",
+    "The Business Standard",
+    "Yahoo Sports"
+   ],
+   "score": 2.32
   },
   {
    "title": "Humanoid robot rides mechanical horse in world-first archery feat",
@@ -378,7 +421,7 @@
     "MSN",
     "Yahoo Tech"
    ],
-   "score": 2.93
+   "score": 2.1
   },
   {
    "title": "NTT DATA named market shaper in Gartner physical AI",
@@ -393,22 +436,7 @@
     "NTT, Inc.",
     "StreetInsider"
    ],
-   "score": 2.93
-  },
-  {
-   "title": "富士通，NVIDIA技術を活用したフィジカルAIの社会実装へ始動",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94WmVCYzFYR1RvVnNSbkxmT0hrWWdJUlBKekgzdVVOMXh4SElkQmI0ZVdqR2tVaFBJa0RyaHZlQW9ySEJnYmYyRUJmYUd0VGx3b3JVenJFOU52am9rTTBUVA?oc=5",
-   "source": "innavi net",
-   "published": "2026-07-17T07:07:40+00:00",
-   "count": 5,
-   "sources": [
-    "PR TIMES",
-    "innavi net",
-    "robot digest",
-    "クラウド Watch",
-    "株式会社インプレス"
-   ],
-   "score": 2.92
+   "score": 2.1
   },
   {
    "title": "ディーエムエス、物流・DM業初のJ-HRTI参画",
@@ -421,39 +449,11 @@
     "PR TIMES",
     "産経ニュース"
    ],
-   "score": 2.76
-  },
-  {
-   "title": "１６日の動意株＞富士通、ファナックや安川電、川重とフィジカルＡＩ分野で事業検討(ウエルスアドバイザー)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUE5Fb296ZUl6OWxsRjN1a0lLYnZkMnVjVm4zM25pRElfSlNFR1Y4MVQtLTdJMTlQZm0xbGhQMVBtOEZadDZTb2x2MkFzN0k5ZGxTVVZuTUt0bDZVSnE1T2dSQWVpSTZQYjNEcUYyYmdtWDVPa2NTQ0lsY0s0MlJ1aGV6Q2tuUmc?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "published": "2026-07-16T22:30:00+00:00",
-   "count": 5,
-   "sources": [
-    "Yahoo!ファイナンス",
-    "kabushiki.jp",
-    "khi.co.jp",
-    "motorcars.jp"
-   ],
-   "score": 2.59
-  },
-  {
-   "title": "Fujitsu partners with Fanuc, Yaskawa and Kawasaki to advance physical AI using Nvidia technology",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOblA5d0tXRWd2UXM4V1JLOHM2SmJGWmVuSWU3aU10T29haEVJOVpGNFlkbzJJQS1VQkl0Y3BYQkVubkJseGM5WFUwNWhGN21hQWZKNmcyZUJtTlhNV1FGclVOdGJEMG9fTTBYdGNkcTJic2RtaW9Uc25odHJFWEFMMEdEVTN4M0duQkowZ0tvMjlROTdMdkN3eDJaSWlxRjV1d2pibl9QNWMwR3F5c0pjdkFMM0NjQXJoTVItMVNwODg3c0ltbFVVdnJ1Zk02Ynk1R0RLTzVRRDVXQTVpSFd4WFRQZjJlMTg?oc=5",
-   "source": "Robotics & Automation News",
-   "published": "2026-07-18T10:40:28+00:00",
-   "count": 3,
-   "sources": [
-    "Fujitsu Global",
-    "IT Brief Australia",
-    "Robotics & Automation News"
-   ],
-   "score": 2.57
+   "score": 1.97
   }
  ],
  "trend": {
   "dates": [
-   "2026-06-19",
    "2026-06-20",
    "2026-06-21",
    "2026-06-22",
@@ -482,14 +482,14 @@
    "2026-07-15",
    "2026-07-16",
    "2026-07-17",
-   "2026-07-18"
+   "2026-07-18",
+   "2026-07-19"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     0,
      0,
      2,
      6,
@@ -518,14 +518,14 @@
      34,
      60,
      36,
-     8
+     8,
+     13
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     1,
      0,
      0,
      1,
@@ -552,16 +552,16 @@
      45,
      41,
      35,
-     95,
-     45,
-     5
+     101,
+     50,
+     8,
+     7
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     0,
      0,
      1,
      1,
@@ -580,24 +580,24 @@
      8,
      4,
      8,
+     10,
      9,
      9,
-     9,
-     3,
+     4,
      4,
      4,
      9,
      12,
-     6,
+     7,
      12,
-     10
+     11,
+     9
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     0,
      0,
      1,
      0,
@@ -626,14 +626,14 @@
      35,
      34,
      38,
-     17
+     18,
+     13
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     0,
      0,
      2,
      3,
@@ -662,7 +662,8 @@
      12,
      34,
      18,
-     1
+     2,
+     4
     ]
    }
   ]
@@ -708,7 +709,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 98
+   "news": 101
   },
   {
    "name": "QUALCOMM INC",
