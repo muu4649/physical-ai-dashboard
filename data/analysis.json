@@ -1,57 +1,57 @@
 {
- "updated_at": "2026-07-25T21:52:04.890212+00:00",
+ "updated_at": "2026-07-26T21:56:11.505643+00:00",
  "kpi": {
-  "articles_7d": 756,
-  "articles_prev_7d": 857,
-  "sources_7d": 375,
-  "articles_30d": 2232,
-  "total_articles": 2363,
+  "articles_7d": 765,
+  "articles_prev_7d": 875,
+  "sources_7d": 374,
+  "articles_30d": 2285,
+  "total_articles": 2426,
   "oldest_news": "2025-12-18"
  },
  "wordcloud": [
   [
    "nvidia",
-   63
+   66
   ],
   [
    "waic",
-   50
+   45
   ],
   [
    "china",
-   41
+   34
   ],
   [
    "unveils",
-   28
-  ],
-  [
-   "world",
    27
   ],
   [
-   "data",
-   25
-  ],
-  [
-   "japan",
-   25
+   "開発",
+   26
   ],
   [
    "amd",
-   25
+   26
   ],
   [
    "launches",
    23
   ],
   [
-   "開発",
+   "data",
    23
   ],
   [
    "NVIDIA",
-   21
+   23
+  ],
+  [
+   "japan",
+   22
+  ],
+  [
+   "world",
+   22
   ],
   [
    "samsung",
@@ -59,18 +59,22 @@
   ],
   [
    "日本",
-   20
+   18
   ],
   [
-   "platform",
+   "school",
    18
+  ],
+  [
+   "global",
+   17
   ],
   [
    "south",
    17
   ],
   [
-   "社会",
+   "korea",
    17
   ],
   [
@@ -78,11 +82,11 @@
    17
   ],
   [
-   "global",
+   "tesla",
    17
   ],
   [
-   "korea",
+   "platform",
    16
   ],
   [
@@ -90,35 +94,11 @@
    16
   ],
   [
-   "中国",
+   "hyundai",
    16
-  ],
-  [
-   "school",
-   16
-  ],
-  [
-   "tesla",
-   16
-  ],
-  [
-   "expands",
-   15
-  ],
-  [
-   "実装",
-   15
-  ],
-  [
-   "世界",
-   15
   ],
   [
    "million",
-   15
-  ],
-  [
-   "自律",
    15
   ],
   [
@@ -126,31 +106,47 @@
    15
   ],
   [
+   "自律",
+   15
+  ],
+  [
+   "製造",
+   15
+  ],
+  [
+   "国産",
+   15
+  ],
+  [
+   "実現",
+   15
+  ],
+  [
+   "社会",
+   15
+  ],
+  [
+   "york",
+   15
+  ],
+  [
+   "中国",
+   15
+  ],
+  [
+   "導入",
+   15
+  ],
+  [
    "industrial",
    14
   ],
   [
-   "画像",
-   14
-  ],
-  [
-   "写真",
-   14
-  ],
-  [
-   "製造",
-   14
-  ],
-  [
-   "development",
+   "hub",
    14
   ],
   [
    "infrastructure",
-   14
-  ],
-  [
-   "国産",
    14
   ],
   [
@@ -162,7 +158,7 @@
    14
   ],
   [
-   "活用",
+   "expands",
    13
   ],
   [
@@ -170,19 +166,27 @@
    13
   ],
   [
-   "hub",
-   13
-  ],
-  [
    "billion",
    13
   ],
   [
-   "実現",
+   "世界",
    13
   ],
   [
-   "york",
+   "技術",
+   13
+  ],
+  [
+   "始動",
+   13
+  ],
+  [
+   "実装",
+   13
+  ],
+  [
+   "startup",
    13
   ],
   [
@@ -190,19 +194,31 @@
    13
   ],
   [
+   "group",
+   13
+  ],
+  [
+   "写真",
+   13
+  ],
+  [
+   "画像",
+   13
+  ],
+  [
+   "scale",
+   12
+  ],
+  [
+   "development",
+   12
+  ],
+  [
    "build",
    12
   ],
   [
-   "hyundai",
-   12
-  ],
-  [
-   "始動",
-   12
-  ],
-  [
-   "startup",
+   "smart",
    12
   ],
   [
@@ -210,27 +226,7 @@
    12
   ],
   [
-   "autonomous",
-   11
-  ],
-  [
-   "industry",
-   11
-  ],
-  [
-   "manufacturing",
-   11
-  ],
-  [
-   "ceo",
-   11
-  ],
-  [
-   "scale",
-   11
-  ],
-  [
-   "技術",
+   "活用",
    11
   ],
   [
@@ -242,7 +238,11 @@
    11
   ],
   [
-   "導入",
+   "事業",
+   11
+  ],
+  [
+   "現場",
    11
   ],
   [
@@ -252,63 +252,80 @@
  ],
  "today_top5": [
   {
-   "title": "Navy tests humanoid robot helmsman",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5T2pyYi1TNXVVc2k2aVR3MERLaXhheGRvV3RJS1ZOYWZHRVNVLWtjNUJKbXV0LXloNFpvLTZyS0lZbnJfNXB3V1A2bzZhRm02ZjlkSE5PYzJhLTR5b1JVc2g3Y09hUQ?oc=5",
-   "source": "동아일보",
-   "published": "2026-07-24T23:36:36+00:00",
+   "title": "Meet the new humanoid with 'smart skin' (I touched it)",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSkl4aE9Dc1pBVU5rMU01T0h3cEMybF9PZjRGdDJEQjVqMC15Y0FuajFGdkYxeWlKVzZGZFdLNFRLb2hPM1ByY2w3RUVTbTBZLUVTRi14YUVHTkJoUC1nWDlHYkU1QkM2YUgxblh6d2xpZTBTaHVodmNlNk42dmlvNlJvay1kUQ?oc=5",
+   "source": "ZDNET",
+   "published": "2026-07-26T12:06:15+00:00",
    "count": 2,
    "sources": [
-    "upi.com",
-    "동아일보"
+    "CNET",
+    "ZDNET"
    ],
-   "score": 1.47
+   "score": 1.74
   },
   {
-   "title": "SK Group And NVIDIA Announce $500+ Billion Strategic Partnership Across AI Factories And Next-Generation Memory",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb05UbzhwTFJjb2N6Rms3aHhhV0VTNHU4aEFYaHE3RkdIaDE0a1B4Nzd2WERjQy16MnY1Z1RRbVY2ZVFsaFZFdnM2enJTSTJRMS1sNGFNZzdJWDdTTUxLN2NtemJ4Yldsd0FSY0Z5eUptbnVjVG1YVjRnT2Z4YVdmdGNiWWp6Y1E2NzJ3MlM1UEFmbmNaU3dKZDJpTjNyWklrc29RTHFJOXRaM3gtNkFENWwxUERLSEVES3ZBWHg1YTFBWDMtangyVtIBzgFBVV95cUxPdGlreWwxM1lTdEdMWlRDNUFiRlZxLWRLNndmcTJLWFMyVEtyUXdTSVdXa3o0b3U4RFE1WTFUVkRmNk1xUzdvUkRQbXFGLTFOeTNFX0EyZFJueHNFQ05QdWpvSm1iOE1pTHpZTk5tUTNuTHAya09OemRWLXVCWUdWbklCa2R1YWMxUW8tWldhakRDZlpDb0J0WHlNTlVxREN4Q3ZpSlViUjJnREZXQkVKckRPcXNURUxUM1A3dkhtU1F5emdpTDhjVFdXZ2s3QQ?oc=5",
-   "source": "Pulse 2.0",
-   "published": "2026-07-25T20:46:56+00:00",
+   "title": "Hyundai Motor Group Unveils Physical AI Strategy for City-Level Integration",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT0p5RFB1Tm5ESTM4dV8zQ1BPZXZFcVZ4b2g0T1dLNHE2M3BRTGc0ZndlSDN5REpYdmNtZE1UU1ZZdXk4NFZGcXdJMDdfZWEzSU1qSkJiTjJMbVdON3kxbkxyWG02UDZNZlN0eU04djNtRlNBU1JBUWlEOWtLUUNibnBCOFpmNjdf?oc=5",
+   "source": "조선일보",
+   "published": "2026-07-26T11:34:45+00:00",
+   "count": 2,
+   "sources": [
+    "Tech in Asia",
+    "조선일보"
+   ],
+   "score": 1.73
+  },
+  {
+   "title": "韓国は、潜在的な兵力不足に対応するため、人型ロボット「PiBot」を軍艦の操縦に用いる試験運用を開始した。",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSUZHLTljVUdJNm5obHgxb0N3THdWR0NfQTJpQmY2SndrajV3bGp2ZWdvZ19tbnVQRHdCUVh5a0l0NHB3UVA3b2JLSV83bi1aNDNzdFN1RU1DU3RsV3hRTVVoR1JESXA5bDFVb0dzckRqWm90NVMtTGR1R1M3Zkc0RUVkTmUwTnZDZ3FzZm8weUktMDdib2pPaTIxNEdJSkh0MmxZeHBEQlNlcnBzQktNczNn?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-07-26T07:15:11+00:00",
+   "count": 2,
+   "sources": [
+    "Vietnam.vn"
+   ],
+   "score": 1.63
+  },
+  {
+   "title": "夏休みで“給食ロス”「子ども食堂」に問い合わせ増 食品消費税ゼロはいつ実現?高市総理強調の“フィジカルAI”にも専門家から厳しい声が…物価高“加速”に打つ手は?【サンデーモーニング】（TBS NEWS DIG Powered by JNN）",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUGM5SXlRWElSNDJFcy1TN1pvTTZOYkJlanNNcDRVeGV2RG5EWDVNVW1hTEQyTXIyUDIyTmJoaE4zQ0U0Q0N5UHpXb0stVDNIZ2ZRZnlqVjc0VTZsQnAtcFhxR1VuX1RQR1FDUTdhS1F0Z2lKZVRxd2FDaWk2RmgtOTNRcWk4WUpm?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-07-26T05:33:16+00:00",
+   "count": 2,
+   "sources": [
+    "Yahoo!ニュース",
+    "ｄメニューニュース"
+   ],
+   "score": 1.59
+  },
+  {
+   "title": "Robotis bets on actuators as Korea races to mass-produce humanoids - CHOSUNBIZ",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU3JLdkZLbV94WG9WS0pVak5rTnVrX3d6U2tMOXlwc1ZBZF92N3pEWEJRTzRxaHlYQWJqMGpNNmQ4VUF0WThiRnpQanNRQWpJVmNzMTF5ejEzS2hMd190RV94NzhJbVBrYUR3R2hYdmZFS05LSVZadldSaVVCOVA0QUln0gGWAUFVX3lxTE5JV2JtTTYxdW54UFZRTWVyTWxqclptT1puZTNYOWpUajFLMkg5YlRrcHhfLUY3RzBpZlI5ZU9zUndxVnFZN2hGYWdpaC00M0gtR2tOVXVKcnhPdzJrWG9VZGhSZW5xQUpLWXUyYXFkZnFrc2I5MWVvS0RCTGxTLWR3S2pQUmhmenZ6VXVNOWJsV0MzckdMdw?oc=5",
+   "source": "Chosunbiz",
+   "published": "2026-07-26T21:01:00+00:00",
    "count": 1,
    "sources": [
-    "Pulse 2.0"
+    "Chosunbiz"
    ],
    "score": 0.99
-  },
-  {
-   "title": "Humanoid Robots Enter the Factory: IEEE Humanoids 2026 Sets Labor Displacement as Its Defining Theme",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPc1FOcVhScFlkM0kwa0pwcTh3NndYNDBlZ0xlZ0M3cWlWRkFES0tLRkI3REZTeUFDTm5lVFNtQ1NHOXJqX1ZvelNWUmhqVUFUbFZMNHVubDRqUVJPSWJOMzNfaWxXc3E2SXFOZXZTcmxwWjd5MjBTUUJ2dC1fN3BkeEROcTI3ZmRHa1NWV1VHSDFnOXdPVkhVTHRUZUpwTVd2YXBNV3NiclQyX1BqTVE4dmF2bDJ3N3NaY0RnREZEQWZqSVlPVWEtZXYzQ3JtdWNpeVpIV1VVUGREZHk1OFR1Ug?oc=5",
-   "source": "Tech Times",
-   "published": "2026-07-25T19:42:21+00:00",
-   "count": 1,
-   "sources": [
-    "Tech Times"
-   ],
-   "score": 0.97
-  },
-  {
-   "title": "トヨタとNVIDIAの提携。全ヒストリー・詳細レポート",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE90d28wNjA3Z2N6MDU5TXpjRjdhVzdDUHZkdkNJSEtkWGVxakNnWHR2OUdJUG1kQlREWG5CNTYxdnhSWi13cm5JYU5SeVpYLTd6S1QwMjJmcE5vaGJrdmJPdUVB?oc=5",
-   "source": "さっつーのAIエージェント",
-   "published": "2026-07-25T19:21:42+00:00",
-   "count": 1,
-   "sources": [
-    "さっつーのAIエージェント"
-   ],
-   "score": 0.97
-  },
-  {
-   "title": "Nvidia、KAISTに続きソウル大学とAI共同研究所を設立…韓国工学人材の確保を加速",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JNWtNS0Zlb0dLMENiSnJRSV9WSzNzTklhZjFYbEtaaDAyMWdoWHZqVnBXYUpfeWUyWDJmcG1zQWVOak50cm1WWmFxQnhqNUVPVERxMjlBVElwRWptLWNVWjhQWHpHdTktazJLdHJ5MkRCTE5M?oc=5",
-   "source": "BigGo ファイナンス",
-   "published": "2026-07-25T18:25:00+00:00",
-   "count": 1,
-   "sources": [
-    "BigGo ファイナンス"
-   ],
-   "score": 0.95
   }
  ],
  "hot_news": [
+  {
+   "title": "S Korean navy tests humanoid robot pilot",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdDVLVWVESDRfR3U0Mi03VlpsWWFoSFZqNXBqUU9HTFJvOS01QzNvcXJWM3YwUXRoc2hvUlBvekozMEw1VS1lVVhCNXVfQ1JpdDFibWdoTlFMZ1d0TlhDQUxrYWcyUFF4cTQ1SnFrUUhZOGdNWFYwb1Q0dUMtZUxyYWU1bm13T0E?oc=5",
+   "source": "Khmer Times",
+   "published": "2026-07-26T17:06:34+00:00",
+   "count": 5,
+   "sources": [
+    "Anadolu Ajansı",
+    "Khmer Times",
+    "Latest news from Azerbaijan",
+    "upi.com",
+    "동아일보"
+   ],
+   "score": 4.68
+  },
   {
    "title": "Ropedia raises USD $30 million to expand physical AI data",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMGRtY041ZlhCYzI4cjdEY1lSQUN0RXlsZEFXSzhQcDZJWnZVeEFCSllqSU50OFVuSVVTWS1acHl0MTFDOXpsd0t5bDlEQXZlZzd3SkplbTNMMEFnNGd2SzNKYUhXc2M2UEdXd2tQUkZidl9RY0cxY3hCbnZCYkRzUmF6NWdINkhMQWdn?oc=5",
@@ -322,21 +339,7 @@
     "Pulse 2.0",
     "SiliconANGLE"
    ],
-   "score": 3.26
-  },
-  {
-   "title": "Navy tests humanoid robot helmsman",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5T2pyYi1TNXVVc2k2aVR3MERLaXhheGRvV3RJS1ZOYWZHRVNVLWtjNUJKbXV0LXloNFpvLTZyS0lZbnJfNXB3V1A2bzZhRm02ZjlkSE5PYzJhLTR5b1JVc2g3Y09hUQ?oc=5",
-   "source": "동아일보",
-   "published": "2026-07-24T23:36:36+00:00",
-   "count": 4,
-   "sources": [
-    "Anadolu Ajansı",
-    "Latest news from Azerbaijan",
-    "upi.com",
-    "동아일보"
-   ],
-   "score": 2.94
+   "score": 2.33
   },
   {
    "title": "\"人\"を重視しAIやロボットで課題を解決！ 矢崎総業が目指す「未来のものづくり」を探る 新イノベーション施設「Innovation Hub – REN（錬）」開設の理由とは？",
@@ -348,101 +351,93 @@
     "くるまのニュース",
     "ロボスタ"
    ],
-   "score": 2.81
+   "score": 2.01
   },
   {
-   "title": "Western New York School District Hits Pause on Robot Teacher Amid Scrutiny",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE82dnZxSGpzdEY1dm1lYml6cjltd0FFWFdFZEMzUm5zbzBscU11Q29LRV8tWExUTGZUR0tjVzd2a29GdVFibHYtRVJlVW4ySHdheEVIeUxnT28wU25NaTRSZDFid3pjY05rQnZhWEc1SWF5WjBm?oc=5",
-   "source": "New York Focus",
-   "published": "2026-07-24T18:31:00+00:00",
-   "count": 4,
-   "sources": [
-    "Audacy",
-    "Fox News",
-    "New York Focus"
-   ],
-   "score": 2.74
-  },
-  {
-   "title": "いすゞも採用、フィジカルAI向けエージェント型プラットフォーム「Dana」…Applied Intuitionが提供開始",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5Ga0ZRckNnTGZfNTdGbUw3U1BCSnpXSm8tS2tQTXVQU0VoRzdTRG5laDh5TGVJNlhUWkQxdGRNaWtac1ZRMFlkQTNYRzVHeThJRWxDeE5xUEFpX1FscDRj?oc=5",
-   "source": "レスポンス（Response.jp）",
-   "published": "2026-07-24T01:30:02+00:00",
-   "count": 4,
-   "sources": [
-    "Applied Intuition",
-    "レスポンス（Response.jp）",
-    "共同通信PRワイヤー",
-    "福島民友新聞社"
-   ],
-   "score": 2.16
-  },
-  {
-   "title": "Elon Musk Says Tesla’s Future Is Optimus, Not Cars",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRlJNVV9BVW9BRXBvbEhtOUljU2RpcmhrbUUxSU5meTVQeDhmdkpqU2RlckNzdTRabXU1aF9mVmtqN1RIMURtTHQ2eHhvUnhxSFV0LXo1aGJxdVFaTnJxWVlCZHFDYWZEaTFPS0ZHZzEzWm9TNk1Wb252ZExKd0Fhcko1UklPUQ?oc=5",
-   "source": "Autoweek",
-   "published": "2026-07-24T15:55:00+00:00",
+   "title": "Sally the Robot Was Coming to a New York School. Then the Plug Was Pulled.",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeXNaYUxkWDhvc1JoUDFmZVhwVkRiell0YW9KRjZwNnNmOVVSaW1VV0RCYkRlQzZpc2VVY2NmY3c5N1BKVXNQTW1XX1M1Z1l3MldPMUI2d2F0YlBaYzNDYjJ5T2FUVnJNekpoTE8wUnQtYlNMMXZqaDVhbm1SeHdKb1l2a2FRY2M?oc=5",
+   "source": "The New York Times",
+   "published": "2026-07-25T16:00:06+00:00",
    "count": 3,
    "sources": [
-    "Autoweek",
-    "Business Insider",
-    "inc.com"
+    "Fox News",
+    "The New York Times"
    ],
    "score": 1.98
   },
   {
-   "title": "‘Really inappropriate’: teachers decry plan for humanoid robot in New York high school",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa0pGendBaUVBclBmRjlZRHM0T0VCMjJlU0xKdHQwR0lEaE13TGZwcHE1VDlHVFBfZmV3bnNsWlFUYW8xXzc0LXAwMk85N2hHZ242QVE3Um5ZT2RKTnlIdmlPXzRCT2VSeFlkRjZYX0FYM1V4VnlXTXA0ME5EVEFOQ0VUakxQOU5OcENsbjJubHE?oc=5",
-   "source": "The Guardian",
-   "published": "2026-07-25T16:07:00+00:00",
+   "title": "ドローン・ジャパン、「フィジカルAI」事業立ち上げ支援サービス開始 - LOGI-BIZ online",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9ZalhERUN6V2hiWXhsakxENHU4NkhISm9ka2NOc0JhRFpLVVpxTV9YUFNnQURHX21rUXFZSGFXbXJGOE5YVjV1dnpmWQ?oc=5",
+   "source": "LOGI-BIZ online",
+   "published": "2026-07-26T21:00:48+00:00",
+   "count": 2,
+   "sources": [
+    "LOGI-BIZ online",
+    "ニコニコニュース"
+   ],
+   "score": 1.97
+  },
+  {
+   "title": "Hyundai outlines South Korea physical AI expansion",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRWdwSjdlRXdhUWtBV1MzTVNMQjF4T2VjZHVxWVFSdGJjcGNmdm40YjZzc0pIS1FTRDYwX1BOVkxJcG5CaHNaQzVIMVJVaEp0NjJlVEtqeHd0SHYzQmh3REpWTksyTEJSZFhOM09QNmRaOVdndHBiWU1meS1rNEUwNDJ5VTFUQjNNUzRvMlYyQjNneDFoeFdJaVdEQi1kSzlDM0xXcmdySjnSAa4BQVVfeXFMTWhpRWxwWU1iRFlPaVF2YmZnR1BRREZLeXMySlJwMklWTDlYUzB6b0NGSUFpY3ZXbm1tRkREeUpKeVNTQy02ZnNaNnR6THJ3YjFZNks1OGxpdFU4cWpkaEtEdmpJTkZBa0hzaXc0T2FUdzNKdm90bThQb0hrWTk1TFJTOUc4WndWY2lpRUxNaXFhdDFTbXRaRnlTMU8taF96aXcwY3d0VWxDQXpJcnJn?oc=5",
+   "source": "upi.com",
+   "published": "2026-07-26T19:37:29+00:00",
+   "count": 2,
+   "sources": [
+    "NVIDIA Blog",
+    "upi.com"
+   ],
+   "score": 1.94
+  },
+  {
+   "title": "フィジカルAI時代の技術動向と日本が進むべき道",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS2UwU2NQRWNFeVA0VWhYRUEyQW93NTFnRjFNc0U4NGJBU3BEcWRLMDRBd05idHItNzBFbnJLcUZyLUUxLXNVbXM2WHFLdU82MWpTQ1RZSnM1aUpBVndZYlpFUFk2WGpmSHFjSkFlenVMekpmazlnWHhYd3psand5LS05ejVTaE80N0E?oc=5",
+   "source": "PwC",
+   "published": "2026-07-26T13:56:27+00:00",
+   "count": 2,
+   "sources": [
+    "PwC"
+   ],
+   "score": 1.79
+  },
+  {
+   "title": "Meet the new humanoid with 'smart skin' (I touched it)",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSkl4aE9Dc1pBVU5rMU01T0h3cEMybF9PZjRGdDJEQjVqMC15Y0FuajFGdkYxeWlKVzZGZFdLNFRLb2hPM1ByY2w3RUVTbTBZLUVTRi14YUVHTkJoUC1nWDlHYkU1QkM2YUgxblh6d2xpZTBTaHVodmNlNk42dmlvNlJvay1kUQ?oc=5",
+   "source": "ZDNET",
+   "published": "2026-07-26T12:06:15+00:00",
    "count": 2,
    "sources": [
     "CNET",
-    "The Guardian"
+    "ZDNET"
    ],
-   "score": 1.85
+   "score": 1.74
   },
   {
-   "title": "廃炉にフィジカルAI活用 赤澤経産大臣 東電会長と面会",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hNHFwNDFBZ2ZDRHlSTk1FeC01Z21uT3I2S1NxWnpNRkowNno2TmlwTmNHUjd3U2JMaDY5c2t0TlVCYndBcmVjdF9XYmRTQ2F6NV83NVBPVi1UUmhKM0E?oc=5",
-   "source": "テレ東BIZ",
-   "published": "2026-07-23T13:00:00+00:00",
-   "count": 4,
-   "sources": [
-    "Yahoo!ニュース",
-    "テレ朝NEWS",
-    "テレ東BIZ"
-   ],
-   "score": 1.82
-  },
-  {
-   "title": "FLUX 3 Launches: Black Forest Labs Enters Video, Audio, and Physical AI in One Model",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON2dBcmQ2ZktQOWxGS0QtQ1hHSzlwYVlpbjFiVy1TNmxIcjgtckViU0pDOUlUSllNd1QtMFJRR09CNHBCakRzaldROUhnQV9NdWxPcG5YVTgxQUJoajJvZ1ZMZ05yaUNoSTEtYkhCT2FPUDRQV0ViWXZqaC1VbTgzendKQTJhQldvT1V1VWJKNDFvckROcE5Na0E4T3VMVGxTVHJjS3pjSmh1b1RiNEd2ZmNWT09KaTBvQ2ZFdVVNZGlrTkt2akluUw?oc=5",
-   "source": "Tech Times",
-   "published": "2026-07-25T13:12:56+00:00",
+   "title": "Hyundai Motor Group Unveils Physical AI Strategy for City-Level Integration",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT0p5RFB1Tm5ESTM4dV8zQ1BPZXZFcVZ4b2g0T1dLNHE2M3BRTGc0ZndlSDN5REpYdmNtZE1UU1ZZdXk4NFZGcXdJMDdfZWEzSU1qSkJiTjJMbVdON3kxbkxyWG02UDZNZlN0eU04djNtRlNBU1JBUWlEOWtLUUNibnBCOFpmNjdf?oc=5",
+   "source": "조선일보",
+   "published": "2026-07-26T11:34:45+00:00",
    "count": 2,
    "sources": [
-    "Bloomberg.com",
-    "Tech Times"
+    "Tech in Asia",
+    "조선일보"
    ],
-   "score": 1.77
+   "score": 1.73
   },
   {
-   "title": "China's humanoid robots face their real test on the factory floor",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYnU5QmpGWWstcWxRWDFoMVphMzlRMDdwOFpBTFhWaldRV1JNeUtjMVJCVFI4YUZjRUhJcDVGTU9FZ0w1T0kwWko4em9ORnJvLU8zUml6RGxZTXhjRkZhSDBIcFlKZXdmX193RW92elpubVFyZkVldGU1ZzNPcEZsdllMc3Q0R3hPZTFZTmRzMng2Q3hnOGVrYXlaQkxReFRGaXF6WU1uVVRBT25HTXphUGJVbzFCVGhqYXlnbVpOMA?oc=5",
-   "source": "news.cgtn.com",
-   "published": "2026-07-25T06:05:54+00:00",
+   "title": "韓国は、潜在的な兵力不足に対応するため、人型ロボット「PiBot」を軍艦の操縦に用いる試験運用を開始した。",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSUZHLTljVUdJNm5obHgxb0N3THdWR0NfQTJpQmY2SndrajV3bGp2ZWdvZ19tbnVQRHdCUVh5a0l0NHB3UVA3b2JLSV83bi1aNDNzdFN1RU1DU3RsV3hRTVVoR1JESXA5bDFVb0dzckRqWm90NVMtTGR1R1M3Zkc0RUVkTmUwTnZDZ3FzZm8weUktMDdib2pPaTIxNEdJSkh0MmxZeHBEQlNlcnBzQktNczNn?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-07-26T07:15:11+00:00",
    "count": 2,
    "sources": [
-    "Startup Fortune",
-    "news.cgtn.com"
+    "Vietnam.vn"
    ],
-   "score": 1.61
+   "score": 1.63
   }
  ],
  "trend": {
   "dates": [
-   "2026-06-26",
    "2026-06-27",
    "2026-06-28",
    "2026-06-29",
@@ -471,14 +466,14 @@
    "2026-07-22",
    "2026-07-23",
    "2026-07-24",
-   "2026-07-25"
+   "2026-07-25",
+   "2026-07-26"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     0,
      0,
      1,
      1,
@@ -505,16 +500,16 @@
      42,
      50,
      41,
-     50,
+     52,
      31,
-     15
+     16,
+     14
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     0,
      0,
      0,
      2,
@@ -543,14 +538,14 @@
      53,
      37,
      20,
-     7
+     8,
+     14
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     0,
      3,
      2,
      7,
@@ -562,7 +557,7 @@
      8,
      4,
      8,
-     10,
+     11,
      9,
      9,
      4,
@@ -574,19 +569,19 @@
      15,
      12,
      11,
-     21,
+     22,
      7,
      11,
      16,
      4,
-     0
+     0,
+     2
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     2,
      0,
      1,
      0,
@@ -615,14 +610,14 @@
      26,
      31,
      31,
-     9
+     11,
+     14
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     3,
      0,
      1,
      3,
@@ -651,7 +646,8 @@
      15,
      14,
      12,
-     4
+     4,
+     12
     ]
    }
   ]
@@ -661,7 +657,7 @@
    "name": "INTEL CORP",
    "core": "INTEL",
    "patents": 1051,
-   "news": 1
+   "news": 2
   },
   {
    "name": "BOSCH GMBH ROBERT",
@@ -697,13 +693,13 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 141
+   "news": 147
   },
   {
    "name": "QUALCOMM INC",
    "core": "QUALCOMM",
    "patents": 206,
-   "news": 3
+   "news": 4
   }
  ]
 }
