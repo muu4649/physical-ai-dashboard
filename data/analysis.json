@@ -1,56 +1,40 @@
 {
- "updated_at": "2026-07-27T22:03:52.109759+00:00",
+ "updated_at": "2026-07-28T22:01:28.487450+00:00",
  "kpi": {
-  "articles_7d": 749,
-  "articles_prev_7d": 884,
-  "sources_7d": 377,
-  "articles_30d": 2402,
-  "total_articles": 2546,
+  "articles_7d": 709,
+  "articles_prev_7d": 908,
+  "sources_7d": 367,
+  "articles_30d": 2512,
+  "total_articles": 2664,
   "oldest_news": "2025-12-18"
  },
  "wordcloud": [
   [
    "nvidia",
-   55
+   45
   ],
   [
    "開発",
-   37
+   41
   ],
   [
    "amd",
-   30
+   33
   ],
   [
    "拠点",
-   27
+   29
   ],
   [
    "data",
-   24
-  ],
-  [
-   "NVIDIA",
-   24
-  ],
-  [
-   "china",
-   22
-  ],
-  [
-   "samsung",
-   21
+   23
   ],
   [
    "japan",
-   21
+   23
   ],
   [
-   "launches",
-   21
-  ],
-  [
-   "waic",
+   "china",
    21
   ],
   [
@@ -58,63 +42,39 @@
    20
   ],
   [
-   "raises",
-   18
-  ],
-  [
    "熊本",
-   18
+   20
   ],
   [
-   "million",
-   17
+   "hyundai",
+   19
+  ],
+  [
+   "school",
+   19
+  ],
+  [
+   "支援",
+   18
   ],
   [
    "日本",
    17
   ],
   [
-   "school",
-   17
-  ],
-  [
-   "hyundai",
-   17
-  ],
-  [
-   "world",
+   "NVIDIA",
    16
   ],
   [
-   "製造",
+   "hub",
    16
   ],
   [
-   "支援",
+   "chinese",
    16
   ],
   [
-   "group",
-   15
-  ],
-  [
-   "innovation",
-   15
-  ],
-  [
-   "三井不動産",
-   15
-  ],
-  [
-   "世界",
-   15
-  ],
-  [
-   "導入",
-   15
-  ],
-  [
-   "中国",
+   "raises",
    15
   ],
   [
@@ -122,11 +82,15 @@
    15
   ],
   [
-   "industrial",
+   "企業",
+   15
+  ],
+  [
+   "launches",
    14
   ],
   [
-   "manufacturing",
+   "plan",
    14
   ],
   [
@@ -134,39 +98,31 @@
    14
   ],
   [
-   "実現",
+   "工場",
    14
   ],
   [
-   "基盤",
+   "innovation",
    14
   ],
   [
-   "事業",
+   "optimus",
    14
   ],
   [
-   "社会",
+   "group",
    14
   ],
   [
-   "現場",
-   14
-  ],
-  [
-   "smart",
+   "manufacturing",
    13
   ],
   [
-   "billion",
+   "million",
    13
   ],
   [
-   "startup",
-   13
-  ],
-  [
-   "noetra",
+   "samsung",
    13
   ],
   [
@@ -174,51 +130,27 @@
    13
   ],
   [
+   "現場",
+   13
+  ],
+  [
+   "三井不動産",
+   13
+  ],
+  [
+   "byd",
+   13
+  ],
+  [
+   "industrial",
+   12
+  ],
+  [
    "south",
-   13
-  ],
-  [
-   "国産",
-   13
-  ],
-  [
-   "技術",
-   13
-  ],
-  [
-   "実装",
-   13
-  ],
-  [
-   "写真",
-   13
-  ],
-  [
-   "画像",
-   13
-  ],
-  [
-   "hub",
-   13
-  ],
-  [
-   "platform",
    12
   ],
   [
-   "scale",
-   12
-  ],
-  [
-   "配送",
-   12
-  ],
-  [
-   "自律",
-   12
-  ],
-  [
-   "市場",
+   "事業",
    12
   ],
   [
@@ -226,116 +158,176 @@
    12
   ],
   [
-   "optimus",
+   "中国",
    12
   ],
   [
-   "build",
+   "写真",
+   12
+  ],
+  [
+   "製造",
+   12
+  ],
+  [
+   "startup",
+   12
+  ],
+  [
+   "導入",
+   12
+  ],
+  [
+   "world",
    11
   ],
   [
-   "funding",
+   "技術",
+   11
+  ],
+  [
+   "社会",
+   11
+  ],
+  [
+   "連携",
+   11
+  ],
+  [
+   "実装",
+   11
+  ],
+  [
+   "Hub",
+   11
+  ],
+  [
+   "billion",
+   11
+  ],
+  [
+   "世界",
+   11
+  ],
+  [
+   "scale",
+   11
+  ],
+  [
+   "韓国",
    11
   ],
   [
    "infrastructure",
-   11
+   10
   ],
   [
-   "chinese",
-   11
+   "funding",
+   10
   ],
   [
-   "東京",
-   11
+   "training",
+   10
+  ],
+  [
+   "factory",
+   10
+  ],
+  [
+   "smart",
+   10
+  ],
+  [
+   "時代",
+   10
+  ],
+  [
+   "未来",
+   10
+  ],
+  [
+   "市場",
+   10
   ]
  ],
  "today_top5": [
   {
-   "title": "熊本・合志市にフィジカルAI拠点 三井不動産と県、先端半導体の量産見据え",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHZlpPZ2FDSmwtR0JIQjQwT1dlYkdqSmZ6QW5XdmRRM18yLWpWSHpJZHZPNk5pQmRjMENxS3UwWnZfaDBoUENia1dzWVhNNVU1N3Nja0Zn?oc=5",
-   "source": "西日本新聞me",
-   "published": "2026-07-27T21:00:00+00:00",
-   "count": 9,
+   "title": "三菱自動車、ヒューマノイドロボット量産へ！「未来の工場」はクルマづくりをどう変えるのか【写真・4枚目】",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5SzRHbDdEVW1ZaTJkSXYwYllCOGhVdDhWT0lWbFNCUmtpQmRBX1hoeFNUMzNKaUdVWUVlZGhwWEhkai1rUGFHUVJiakZBMnNJQlFkWUcxUDJmMkVZ?oc=5",
+   "source": "Motor Fan",
+   "published": "2026-07-28T05:39:04+00:00",
+   "count": 4,
    "sources": [
-    "BigGo ファイナンス",
-    "Yahoo!ニュース",
-    "mitsuifudosan.co.jp",
-    "ビジネス+IT",
-    "ロボスタ",
-    "日本経済新聞"
+    "Motor Fan",
+    "Yahoo!ニュース"
    ],
-   "score": 8.87
+   "score": 3.19
   },
   {
-   "title": "熊本にフィジカルAIの開発支援拠点",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HQXN0ZTFVUUNmZm5rSkRQcmlmYklXY3NIbEV4T0NPTFBqZUZCbUVnMHZmX2hwVHZjTmdfdlI2ekhXTE5xVHdmYnExT0xQdjFJSDNKMEZ5X3hFUVhOV0tFWkN0aw?oc=5",
-   "source": "nippon.com",
-   "published": "2026-07-27T07:50:10+00:00",
-   "count": 6,
-   "sources": [
-    "47NEWS",
-    "Yahoo!ファイナンス",
-    "kabushiki.jp",
-    "nippon.com",
-    "徳島新聞デジタル"
-   ],
-   "score": 4.92
-  },
-  {
-   "title": "Axis Robotics Raises $12M in Seed Funding to Develop Physical AI Data Engine",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNelg3cFFFUlpaZXJtTzhPNTNUMHdsYlRZN2VWcG5PNXRhT0xaZmh0cnRqZzNhTE4yRlZFWW11Nm1KT2ZiMWllWm9aQnU5X2tDTG84NVM2djZfanZCdFlZUV9VOUQ0VE8yZW5WWmZBVl9WYlRWVVN1TTd4b1o3cFJrQ0RCSjZTclNPVzUtbkQ0RndZSDVFdUh2MnhuaUdyd1ZZdTRhc3hfanZtM2t2SmVLNDg4cw?oc=5",
-   "source": "AI Insider",
-   "published": "2026-07-27T15:39:48+00:00",
-   "count": 3,
-   "sources": [
-    "AI Insider",
-    "The Block",
-    "bloomingbit"
-   ],
-   "score": 2.74
-  },
-  {
-   "title": "New York school district halts plan to use humanoid robot amid backlash",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdWhOb2NlVFNoRllfa1hhYVhNS3FqczBIYU1KbGJNRktlbGtFd01RMGFITXh5dDJtbmVUbDBjMENVUk9WNnRseGJSeW9VNUlfSE4tX3JKaEVDLUlXaFk0OVpBd3ZfZFcwUXRwY1FXekRCMmtnajBfR2JvaWNWam40M2x6ckF4Z0k4dnVnN1dZbHEzcVVO?oc=5",
-   "source": "The Guardian",
-   "published": "2026-07-27T17:03:00+00:00",
+   "title": "The Trump administration has banned imports of new Chinese humanoid robots and power inverters",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTmtBU2tVSEk3NVJHVWNza21ZUlg1eEdIc1kxZDBVWnV5aWtKSGZRYWFkbTJPUjJjM2daRHYtbV9nSDJUaUxCY3lmYUQxWWlkVTNfdmhwQzFCSXhqSm5mejI4NnhJN04zb2FHVmFzd1JteVdsSWpTQnp2VnotbXVXZFR6UWRVSl9jMnNkZ0hpaVpScHgxWkpBenFtaWh3NnBxZldVMV9R?oc=5",
+   "source": "Business Insider",
+   "published": "2026-07-28T21:27:47+00:00",
    "count": 2,
    "sources": [
-    "The Guardian",
-    "cnynews.com"
+    "Business Insider",
+    "The Detroit News"
    ],
-   "score": 1.87
+   "score": 1.98
   },
   {
-   "title": "Enigma Emerges From Stealth With $71 Million Seed Round to Build AI Foundation Models for Robotics",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOGEwaEJOY0VpNWVxQW5RQXVvSlpkV3FIMWVCSWc4dDNobHZNSDBDa1V1RTJMdDQwcEpEa0hPQ2pXTU9ZbGZoSEFmWkttV3ZaYURCY0t2ZmZmLVFGSzZpemw2MlFzRTJPVWxmSC03WFV5bzVoaGJuZTM0OG0xNERmZ0lWZ0R2NVVaYzJ0QXJGSEFMVnNfRHJ2bG9GdlYtclp0TVVBZ1BKRWtUSjVWXy1tcGV3NlFFdWt1R3RJUGtMa21GSDFqTHM3OUxJNnEybzZOOHc?oc=5",
-   "source": "citybiz",
-   "published": "2026-07-27T15:49:49+00:00",
+   "title": "The FCC's Next Target: Foreign-Made Humanoid Robots and Power Inverters",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdmZKRVV5X3NVMndBaWVYUXEtOTR1dE1jUjFLU0dZTFREcW9ERnhSaGJHSzBvOEU1Ums2eW41S1JKTUIxZ19mR2ZKY3o4TkNwMGNSN2VubjhyYkFnRGhMOGVKOGpoU3dKOTgzY0RkZy11X3d1ejhLdWxsWHlxWVBWaERpTk13VkhIUkRybkd3ZXpQWkZTMmFDUnZSM0M?oc=5",
+   "source": "PCMag",
+   "published": "2026-07-28T21:24:21+00:00",
    "count": 2,
    "sources": [
-    "calcalistech.com",
-    "citybiz"
+    "PCMag",
+    "Tech Times"
    ],
-   "score": 1.83
+   "score": 1.98
+  },
+  {
+   "title": "US Airlines Are Banning Humanoid Robots From Flights Over Safety Concerns",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbWRyYzQzUjU4RWpLQ0o1X3hJN1NJZzdnNGExZl82bGJYM1cyRHBpcjFNdXV0WndZNWJ3V3FSeVdVR3pEVmZ6YU85VVpod215WGZFTTZ0TUUxdVZRSkEwX1lxcGltNjdGYkNxZXN5WnU5VkMyOThMLUdhcTE2dkt3X0M2c1hvMm0wdl9kMmtuV1lBbjlCQXB1bHo3ZUh3RmwzYlpqOA?oc=5",
+   "source": "Gadget Review",
+   "published": "2026-07-28T18:10:53+00:00",
+   "count": 2,
+   "sources": [
+    "Gadget Review",
+    "Interesting Engineering"
+   ],
+   "score": 1.9
+  },
+  {
+   "title": "LG Innotek, TDK Partner on Physical AI",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wT0Rua2xOOEpIUU5INFdEckptcU1PajhKUERCckRETXhYNEtfTXEtcER6Xy1TUU1DQmZ1UlA1QjZtV1dsUDNWLS1mMW03N0F1b3ZfNkx0ckRFTTlLX19MczdIXzVWUHc?oc=5",
+   "source": "thelec.net",
+   "published": "2026-07-28T12:57:24+00:00",
+   "count": 2,
+   "sources": [
+    "The Korea Times",
+    "thelec.net"
+   ],
+   "score": 1.76
   }
  ],
  "hot_news": [
   {
-   "title": "熊本・合志市にフィジカルAI拠点 三井不動産と県、先端半導体の量産見据え",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHZlpPZ2FDSmwtR0JIQjQwT1dlYkdqSmZ6QW5XdmRRM18yLWpWSHpJZHZPNk5pQmRjMENxS3UwWnZfaDBoUENia1dzWVhNNVU1N3Nja0Zn?oc=5",
-   "source": "西日本新聞me",
-   "published": "2026-07-27T21:00:00+00:00",
-   "count": 9,
+   "title": "三井不動産と熊本県が手を組んだ…「フィジカルＡＩ」開発拠点設置へ、半導体技術を支援",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HTjlIZm90X3N2Z2hwdVV0REtNT2xRQ3cwWmg0NzFnRDhnTXlmaFo2b3kyMmZzXzF6cURRcTRtN2k1YUhCMHp1YVR4Njg2RWZjRDdGcnMyZEt1c1Q1UDNDZGtqTWM?oc=5",
+   "source": "読売新聞",
+   "published": "2026-07-27T23:25:00+00:00",
+   "count": 7,
    "sources": [
-    "BigGo ファイナンス",
     "Yahoo!ニュース",
     "mitsuifudosan.co.jp",
     "ビジネス+IT",
     "ロボスタ",
-    "日本経済新聞"
+    "西日本新聞me",
+    "読売新聞"
    ],
-   "score": 8.87
+   "score": 5.11
   },
   {
    "title": "熊本にフィジカルAIの開発支援拠点",
@@ -350,7 +342,45 @@
     "nippon.com",
     "徳島新聞デジタル"
    ],
-   "score": 4.92
+   "score": 3.53
+  },
+  {
+   "title": "BYD to Unveil Its First Humanoid Robot in Early August - eletric-vehicles.com",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZmtvcTF5T2FJVVVtTjRJX2lZcndreHp6cXNDdnZrbWctSlJ1Z3ZFeUVxR1R6ajh3MGlvNHNGWHpHZFU4bk5ZQUxOQ3Y2c0RDQmVXWUthTTBSUlktczV6Y2wyYXRFd1hfdGk0RXBiaG8xbXd1WnhQMEpITWoxbjVGMTNWMXZxU1JnM1BhX3ZSckNhZw?oc=5",
+   "source": "eletric-vehicles.com",
+   "published": "2026-07-28T07:51:28+00:00",
+   "count": 4,
+   "sources": [
+    "CnEVPost",
+    "TechNode",
+    "eletric-vehicles.com"
+   ],
+   "score": 3.29
+  },
+  {
+   "title": "三菱自動車、ヒューマノイドロボット量産へ！「未来の工場」はクルマづくりをどう変えるのか【写真・4枚目】",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA5SzRHbDdEVW1ZaTJkSXYwYllCOGhVdDhWT0lWbFNCUmtpQmRBX1hoeFNUMzNKaUdVWUVlZGhwWEhkai1rUGFHUVJiakZBMnNJQlFkWUcxUDJmMkVZ?oc=5",
+   "source": "Motor Fan",
+   "published": "2026-07-28T05:39:04+00:00",
+   "count": 4,
+   "sources": [
+    "Motor Fan",
+    "Yahoo!ニュース"
+   ],
+   "score": 3.19
+  },
+  {
+   "title": "New York school pauses plan to deploy humanlike AI robot teacher after backlash",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZWVLLUxjUHlmYTR0dUVlaEUyUG9PcGNDQkxncFN4Vkt4WE5QWGlXbkpnbGduTVlUd3FUYmtFendabkRrbE8zTkpjM2VZSU50MzJqTDY1RDRGc19SSy1OQjd2dUtzNENZc3JWbGhfYktMeVl3WU0xMlgzblJici1xbGZjdEZIc1lmaG9McnJ2b1hNWVY3VHdtcHg2LVhTVnB5QWVfYnRGX0twOVZDNUVQadIBtgFBVV95cUxOUC1jd3hybmZkWjFySXNreGx2NDJVWGQ3VGdrUlk3ZGtoU1NqSElvX05Rb1ZZV3NiVFc2b3RucUtoTGJjNy1JNVFFSXZvdTFIY0tSeENmemlnUHVEQ3FKeGpsZC1KNS1CN3RodmNCU0doV2JtaXUwSWNmUHRwUUNiMzhmb2pKUUJTMXh1RXZSakFSNzE2SFJGaC1UNk9UMTlEc01pbm81LW16SlVCNmludUJLVFlEUQ?oc=5",
+   "source": "NEWS10 ABC",
+   "published": "2026-07-28T20:50:57+00:00",
+   "count": 3,
+   "sources": [
+    "NEWS10 ABC",
+    "NewYorkUpstate.com",
+    "The Guardian"
+   ],
+   "score": 2.95
   },
   {
    "title": "Gene.01 humanoid robot with smart skin",
@@ -364,7 +394,21 @@
     "Mashable",
     "ZDNET"
    ],
-   "score": 3.5
+   "score": 2.51
+  },
+  {
+   "title": "三井不動産、熊本に「フィジカルAI」開発拠点を新設、日台7機関と連携へ",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94UEQwdVpmbHBnUnc1ZklLR1JTNWdDZjlrdHhDeW0yc0hrTjkyaW5YOThEcVFrLVdOOHFCaUktYmV4M1lXaGF3NW1TZ2M5eGhVZUlQb3hLOUVDWURuQThHQlNNZUlkeVFQdXNnQzkyNWlmZ2ds?oc=5",
+   "source": "BigGo ファイナンス",
+   "published": "2026-07-27T10:06:00+00:00",
+   "count": 4,
+   "sources": [
+    "BigGo ファイナンス",
+    "Yahoo!ニュース",
+    "日本経済新聞",
+    "ｄメニューニュース"
+   ],
+   "score": 2.43
   },
   {
    "title": "S Korean navy tests humanoid robot pilot",
@@ -379,88 +423,34 @@
     "upi.com",
     "동아일보"
    ],
-   "score": 3.34
+   "score": 2.4
   },
   {
-   "title": "Wetour Robotics Limited Joins Qualcomm Incorporated Partner Network Advancing Orchestra Physical Ai Toward Commercial Scale",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeUtIVTF5MUt3M3VwV0VrMXBXU3Y5cWx0NGhBLTBBZVd5STJSb21yRTV1Q2JjUm5zYXVfY3lzczZOM0dXZ1gtVFVnMkRZRjc2STdZTWR3RzRpSEc4VjkzMmJ6eUFjN25FQkd0ZV9PSXUxQ3FybTJObER1REVnRzRtOGUzMWVOQW9Gd1Q5UUhJa3JGVEp6Z0pveWRITWt2aWxfN0lBZDN5NEdtejgtNHBrTk9qcFFXRkVTLU1HZU1yV3N1WDBIdXcwbGZadmt5UFM1eGVyUXFrR3AzNDRUdEc0a0JxUUl5MG8?oc=5",
-   "source": "marketscreener.com",
-   "published": "2026-07-27T20:56:00+00:00",
+   "title": "政府後押しのフィジカルAI、国内44社結集でも…投資を空振りにしかねない「最大の壁」（ビジネス＋IT）",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMHpoVDNMc3JSUmRuVjdBSlNfRUV1ZDJINzZDMVctRkgzdGVzc0Q0c3Ayb2J0YldvcDR3c0lfcUY0eVk1YVNJTE9tZ0I1ZmVYVTlyeHpKNW04bHdhSnpuMVJTb0tHYUQ1eWlYVGJYb0NQZEUtVjB3dzh5ejY5ME84RFBlZVVTV0hO?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-07-28T04:30:07+00:00",
    "count": 3,
    "sources": [
-    "Yahoo Finance",
-    "marketscreener.com"
+    "Yahoo!ニュース",
+    "ビジネス+IT"
    ],
-   "score": 2.95
+   "score": 2.35
   },
   {
-   "title": "New York school district halts plan to use humanoid robot amid backlash",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdWhOb2NlVFNoRllfa1hhYVhNS3FqczBIYU1KbGJNRktlbGtFd01RMGFITXh5dDJtbmVUbDBjMENVUk9WNnRseGJSeW9VNUlfSE4tX3JKaEVDLUlXaFk0OVpBd3ZfZFcwUXRwY1FXekRCMmtnajBfR2JvaWNWam40M2x6ckF4Z0k4dnVnN1dZbHEzcVVO?oc=5",
-   "source": "The Guardian",
-   "published": "2026-07-27T17:03:00+00:00",
+   "title": "「ヒューマノイドロボット向けGPU市場シェア分析、業界動向と統計、成長予測 2026-2031年」市場調査レポートの出版・販売開始のご案内",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGdzVVTHpsLWpfZ3V6cS12VFlraXJtZ3V5bExuZDhHRXQ3SmJYN0tudmVTRUdKVjh0dGlRWXhmMmpFWXJzYmhzNDdDQW5sRl9FZXdz?oc=5",
+   "source": "ドリームニュース",
+   "published": "2026-07-28T04:30:00+00:00",
    "count": 3,
    "sources": [
-    "NewYorkUpstate.com",
-    "The Guardian",
-    "cnynews.com"
+    "ドリームニュース"
    ],
-   "score": 2.8
-  },
-  {
-   "title": "Axis Robotics Raises $12M in Seed Funding to Develop Physical AI Data Engine",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNelg3cFFFUlpaZXJtTzhPNTNUMHdsYlRZN2VWcG5PNXRhT0xaZmh0cnRqZzNhTE4yRlZFWW11Nm1KT2ZiMWllWm9aQnU5X2tDTG84NVM2djZfanZCdFlZUV9VOUQ0VE8yZW5WWmZBVl9WYlRWVVN1TTd4b1o3cFJrQ0RCSjZTclNPVzUtbkQ0RndZSDVFdUh2MnhuaUdyd1ZZdTRhc3hfanZtM2t2SmVLNDg4cw?oc=5",
-   "source": "AI Insider",
-   "published": "2026-07-27T15:39:48+00:00",
-   "count": 3,
-   "sources": [
-    "AI Insider",
-    "The Block",
-    "bloomingbit"
-   ],
-   "score": 2.74
-  },
-  {
-   "title": "Hyundai Motor Group Outlines Physical AI Strategy",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX21ac0RZRV9MQW5YTFVodGktSmtMbUhGRzRhcnpIenRCMklSeUpnN2dvdlNXWW9qY2Q3VW8tQmNwcTR6QmNDQy1UVnhHaTl2UTRQaHFqeTRvUUNRQmJDdXBoSFMtNTlHeTFaaHV3dUVwT0FSdFktQ2JfeUtqaWx1S0lsLW5lSldrTVRtWkdzVF8?oc=5",
-   "source": "AI Insider",
-   "published": "2026-07-27T12:34:48+00:00",
-   "count": 3,
-   "sources": [
-    "AI Insider",
-    "조선일보"
-   ],
-   "score": 2.63
-  },
-  {
-   "title": "合志市にフィジカルAI研究拠点 熊本県と三井不動産 サイエンスパーク中核拠点に",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SZG1Xd0I1cGZCdFBpdWtlZXFGeVc1aXdnSmpob0JfbUdVQWR6cmxHTUp2Tmcyb1Q4MGQ4UzdzS2xWbUJ5NUU2ZGtuV25HUG8?oc=5",
-   "source": "熊本日日新聞社",
-   "published": "2026-07-27T10:15:03+00:00",
-   "count": 3,
-   "sources": [
-    "日本経済新聞",
-    "朝日新聞",
-    "熊本日日新聞社"
-   ],
-   "score": 2.55
-  },
-  {
-   "title": "MulticoreWare advances physical AI on AMD platforms",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSWtCdkdnMEdYWXJkcXZHRXNyVTNoQWFVNEhiUjhabzJWcmhZeVAycHpWUG5XcTVhcGNXd1JscS1qUGFzbDdGdXg1RndqR2M5NEN6NHA2N1FSSnpGc0JDVlJxZUtKLXN1REswS0ZXN1FyNFlMZURsam5qVVdkNmhwS3ZtOVR3bHM?oc=5",
-   "source": "Engineering.com",
-   "published": "2026-07-27T08:20:29+00:00",
-   "count": 3,
-   "sources": [
-    "Electronics Weekly",
-    "Engineering.com",
-    "PR Newswire"
-   ],
-   "score": 2.48
+   "score": 2.35
   }
  ],
  "trend": {
   "dates": [
-   "2026-06-28",
    "2026-06-29",
    "2026-06-30",
    "2026-07-01",
@@ -489,14 +479,14 @@
    "2026-07-24",
    "2026-07-25",
    "2026-07-26",
-   "2026-07-27"
+   "2026-07-27",
+   "2026-07-28"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     1,
      1,
      5,
      4,
@@ -524,15 +514,15 @@
      52,
      31,
      16,
-     14,
-     44
+     15,
+     52,
+     16
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     0,
      2,
      6,
      3,
@@ -558,17 +548,17 @@
      44,
      53,
      37,
-     22,
+     23,
      8,
      21,
-     33
+     38,
+     25
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     2,
      7,
      4,
      3,
@@ -593,18 +583,18 @@
      22,
      7,
      11,
-     16,
+     17,
      4,
      0,
      2,
-     3
+     3,
+     4
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     1,
      0,
      5,
      6,
@@ -630,17 +620,17 @@
      35,
      26,
      31,
-     31,
+     32,
      11,
-     16,
-     20
+     17,
+     26,
+     39
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     1,
      3,
      4,
      2,
@@ -651,7 +641,7 @@
      5,
      12,
      23,
-     48,
+     49,
      23,
      6,
      4,
@@ -664,12 +654,13 @@
      6,
      7,
      21,
-     16,
+     17,
      14,
      12,
      4,
      14,
-     6
+     6,
+     7
     ]
    }
   ]
@@ -703,7 +694,7 @@
    "name": "SAMSUNG ELECTRONICS CO LTD",
    "core": "SAMSUNG ELECTRONICS",
    "patents": 260,
-   "news": 23
+   "news": 24
   },
   {
    "name": "X DEV LLC",
@@ -715,7 +706,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 148
+   "news": 152
   },
   {
    "name": "QUALCOMM INC",
