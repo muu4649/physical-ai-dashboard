@@ -1,148 +1,176 @@
 {
- "updated_at": "2026-07-29T21:57:31.643797+00:00",
+ "updated_at": "2026-07-30T22:03:11.697153+00:00",
  "kpi": {
-  "articles_7d": 711,
-  "articles_prev_7d": 932,
-  "sources_7d": 377,
-  "articles_30d": 2649,
-  "total_articles": 2809,
+  "articles_7d": 713,
+  "articles_prev_7d": 839,
+  "sources_7d": 374,
+  "articles_30d": 2766,
+  "total_articles": 2953,
   "oldest_news": "2025-12-18"
  },
  "wordcloud": [
   [
-   "開発",
-   39
-  ],
-  [
-   "nvidia",
-   35
-  ],
-  [
-   "amd",
-   33
-  ],
-  [
    "china",
-   29
+   36
+  ],
+  [
+   "開発",
+   36
   ],
   [
    "chinese",
-   27
+   34
   ],
   [
-   "data",
-   23
-  ],
-  [
-   "bans",
-   23
+   "nvidia",
+   31
   ],
   [
    "中国",
+   31
+  ],
+  [
+   "bans",
+   30
+  ],
+  [
+   "ban",
    22
   ],
   [
-   "japan",
-   20
-  ],
-  [
-   "拠点",
-   20
+   "school",
+   21
   ],
   [
    "熊本",
-   20
+   21
   ],
   [
-   "tesla",
-   19
+   "拠点",
+   21
   ],
   [
    "支援",
    19
   ],
   [
-   "school",
-   19
+   "data",
+   18
   ],
   [
    "hyundai",
    18
   ],
   [
+   "企業",
+   18
+  ],
+  [
+   "禁止",
+   18
+  ],
+  [
+   "japan",
+   17
+  ],
+  [
    "日本",
    17
   ],
   [
-   "企業",
-   16
-  ],
-  [
-   "現場",
-   15
-  ],
-  [
-   "工場",
-   15
-  ],
-  [
-   "raises",
-   14
-  ],
-  [
-   "group",
-   14
-  ],
-  [
-   "korea",
-   14
-  ],
-  [
-   "戦略",
-   14
-  ],
-  [
-   "韓国",
-   14
-  ],
-  [
-   "optimus",
-   14
+   "米国",
+   17
   ],
   [
    "byd",
+   17
+  ],
+  [
+   "tesla",
+   16
+  ],
+  [
+   "時代",
+   16
+  ],
+  [
+   "security",
+   16
+  ],
+  [
+   "imports",
+   16
+  ],
+  [
+   "輸入",
+   16
+  ],
+  [
+   "trump",
+   15
+  ],
+  [
+   "amd",
    14
   ],
   [
-   "unveils",
-   13
+   "現場",
+   14
+  ],
+  [
+   "工場",
+   14
+  ],
+  [
+   "fcc",
+   14
   ],
   [
    "plan",
    13
   ],
   [
-   "startup",
-   12
-  ],
-  [
-   "導入",
-   12
+   "戦略",
+   13
   ],
   [
    "製造",
-   12
-  ],
-  [
-   "時代",
-   12
+   13
   ],
   [
    "半導体",
+   13
+  ],
+  [
+   "韓国",
+   13
+  ],
+  [
+   "world",
    12
   ],
   [
-   "security",
+   "加速",
+   12
+  ],
+  [
+   "NVIDIA",
+   12
+  ],
+  [
+   "national",
+   12
+  ],
+  [
+   "三菱自動車",
+   12
+  ],
+  [
+   "量産",
+   12
+  ],
+  [
+   "group",
    12
   ],
   [
@@ -150,23 +178,15 @@
    12
   ],
   [
-   "million",
+   "tdk",
+   12
+  ],
+  [
+   "korea",
    11
   ],
   [
-   "scale",
-   11
-  ],
-  [
-   "world",
-   11
-  ],
-  [
-   "south",
-   11
-  ],
-  [
-   "産業",
+   "york",
    11
   ],
   [
@@ -174,19 +194,7 @@
    11
   ],
   [
-   "加速",
-   11
-  ],
-  [
    "世界",
-   11
-  ],
-  [
-   "三菱自動車",
-   11
-  ],
-  [
-   "industrial",
    11
   ],
   [
@@ -194,27 +202,31 @@
    11
   ],
   [
-   "NVIDIA",
+   "投資",
    11
   ],
   [
-   "禁止",
-   11
-  ],
-  [
-   "power",
+   "事業",
    10
   ],
   [
-   "infrastructure",
+   "optimus",
    10
   ],
   [
-   "partner",
+   "concerns",
    10
   ],
   [
-   "billion",
+   "motor",
+   10
+  ],
+  [
+   "提携",
+   10
+  ],
+  [
+   "国産",
    10
   ],
   [
@@ -222,104 +234,134 @@
    10
   ],
   [
-   "launches",
+   "teacher",
    10
   ],
   [
-   "ban",
+   "産業",
    10
   ],
   [
-   "事業",
+   "innotek",
    10
   ],
   [
-   "york",
-   10
-  ],
-  [
-   "national",
-   10
-  ],
-  [
-   "trump",
-   10
-  ],
-  [
-   "motor",
+   "power",
    10
   ]
  ],
  "today_top5": [
   {
-   "title": "US Bans Import of Chinese Humanoid Robots and Power Inverters Citing National Security Risks",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbFFaMm42c3VUSmxzQ3pLUDRRdTJNX190ZlhzQWRpemJqcXpYYl9TeEFMY0RPdFJPbEVfLWVZUS02ZUI4Slk5SVBwQjlhZ1k5VkZ4UzFQSFo0Y3VfMjZ1X3FKNWtHX0tqMmhLSkFvQVVkT3Z1aG5NcjlkSHJsdUhmNFZfUW1oVUo2WTlSVFllWnU?oc=5",
-   "source": "Ratopati",
-   "published": "2026-07-29T18:44:51+00:00",
+   "title": "米国、ヒューマノイドロボットを禁止、中国はワシントンを保護主義者と非難",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5FUnBwdVJ3eG0zVFBFb0l4a2dPOUR4XzhJalcxTXBrV2VWdWo4cC1xanFFNmJObHRyRkEzV1RPa1dSRURyLXV1bVhn0gFCQVVfeXFMTlpITTJWaUZUcGN3SGx4eGxtenR3NDJJb3NoQWlyZ0k4S1FQajlXc0E4QkJlVFI1TC1KWmRXbE5wbVJB?oc=5",
+   "source": "VOI.ID",
+   "published": "2026-07-30T10:52:26+00:00",
    "count": 4,
    "sources": [
-    "AI Business",
-    "Gamereactor UK",
-    "New York Post",
-    "Ratopati"
+    "NHKニュース",
+    "VOI.ID",
+    "ｄメニューニュース"
    ],
-   "score": 3.83
+   "score": 3.42
   },
   {
-   "title": "Trump Bans Chinese Humanoid Robots",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM21OLUlxX1BWZUo1eDFOSFlzRTRIV3NWaTNuY1dXb1o4VEkyR3FNS24zQ19xX1ViZDEwdXhGQnJ0YUVVRUlyMHdPZzh6dkhjWFRWU3paRU5CSXBIdEY5YnBpVUJzUEpBdUxwNTVHY1BXV0xiR1dkMTM4SDBINDQ0b2phTVlZazhlOFlOT25jQUhGU1k?oc=5",
-   "source": "The European Conservative",
-   "published": "2026-07-29T14:45:33+00:00",
-   "count": 4,
-   "sources": [
-    "BBC",
-    "DW.com",
-    "The European Conservative",
-    "The Japan Times"
-   ],
-   "score": 3.62
-  },
-  {
-   "title": "米国は、秘密裏のデータ収集への懸念から、中国からの人型ロボットの輸入を禁止した。",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbEFqa0o4bmFyWHNJZTl0dkNNM0dpSE93OGNuQWx1VnBDZ0dZMGR5bFpaMzRPV1k4dVgtMlRWZWZKczdOcHkxcmdGVjBGMDVCekkxclJQVEhfZE1VTkNNM3NnOE1SM1UwUXZIZkdwbFEwTVhEUFZuZG1IY2NtWDV5TE0xSk9XR0xVVTAyQ3FweGphQ0FiQ2VWZS1pSjk2dHQ1OVJ2dW13MTNDQQ?oc=5",
-   "source": "Vietnam.vn",
-   "published": "2026-07-29T14:45:11+00:00",
-   "count": 4,
-   "sources": [
-    "CNN.co.jp",
-    "Vietnam.vn",
-    "gamereactor.jp"
-   ],
-   "score": 3.62
-  },
-  {
-   "title": "US Bans New Foreign-Made Humanoid Robot Imports Over Security Concerns -",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVFJMU3ZMMEstd3Y1SFJXMTJhSlZYRmphQWNzU1R2TFFZeEtuZF9Pd3dWVWNfNldXQ3E4R1ZCV0VYOVBaSGwtZ2oydWNlU3dWaE1wVnhockQ5T2FLM2pnMVFYM0xKTEJLRXl6cEYtZ0d4Z0FGSjRVY2Y0eTI1X045dGZnTkZvZnZaVzM2bHBjNW5ZdVYxNjJkOGhB?oc=5",
-   "source": "TVC News",
-   "published": "2026-07-29T12:49:00+00:00",
+   "title": "China is threatening retaliation over the U.S. ban on foreign humanoid robots",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpRkcxNzFGY3R0VE92cUdnaFhGVlpnYnBMc01EY0N0elFJUkFsLXhTbWZNNXhfWExMWUhPQnVYc2h1N0hZOGRxdGsyTzlJazFjOVRCMVFDSm1mRFVFZTlZVkpwRDdIMDJ6dHVzc2hhSjhFdTE3RVZv?oc=5",
+   "source": "qz.com",
+   "published": "2026-07-30T11:59:15+00:00",
    "count": 3,
    "sources": [
-    "CBS News",
-    "TVC News",
+    "CNBC",
+    "The News International",
     "qz.com"
    ],
-   "score": 2.64
+   "score": 2.61
   },
   {
-   "title": "米国は人型ロボットの輸入禁止を発表した。",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qRDFJc2wyYjg2dW9JT3FZYjZsY081YzVncUstR19ZSUN6RW5LWVZOMWZydEliMHlkQzhuRXFpbnUxMTJjMEVZT2k0QWFDQU1SU0JtQ05VLTJGWWR3anFlYlZYaHMzNklBeWVVOEk1WUI3QndQY2d4WQ?oc=5",
-   "source": "Vietnam.vn",
-   "published": "2026-07-29T08:41:32+00:00",
-   "count": 3,
+   "title": "国も推す「アドバンスト・エッセンシャルワーカー」は待遇改善なるのか？欧州はフィジカルAIで製造業の生産性向上へ、二分化の懸念（Wedge（ウェッジ））",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10MnJsYUpLMWpUWGs5UkNSMW9QZFJma0VXblF3N0xQcFVBeld1eEx4RVM3ajkwbjBNX2ZxQS1ZV0RhTGtpMjVkUDNiWG9sb0dIOHQ2QnJSUmdyM0g4Uzd3QTA5TDVfTnpqYlVjZWhSd2dMZGJDODl6WkJ3Z1hxWTg?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-07-30T20:10:54+00:00",
+   "count": 2,
    "sources": [
-    "Vietnam.vn",
-    "Yahoo!ニュース",
-    "毎日新聞"
+    "Wedge ONLINE(ウェッジ・オンライン)",
+    "Yahoo!ニュース"
    ],
-   "score": 2.5
+   "score": 1.95
+  },
+  {
+   "title": "FedEx Expands Dexterity Physical AI Trailer Loading Systems at Maryland Hub",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbE01RHlxVkpnb0kydFppdWNOYzV0eWhYelIyQ0h0bzFSdmdMM2phV0NnUzRpbjR1VFlIU1lCcnhEdEFDS3pSX1c5aXNsdFV5NHVhY3ZjOUhXSDdMSEM3ZWJFS2p0TFE0ZFdtcE54TWxaazJQY1c4alNtaF9zZUl3bW9RSFM1bldMTFVpdk0wdS1TNTlHYlNTQWFLcW5fXzN0NkJoLWZVdVBWZlZ4RTN2UGxsZE1SeXZJ?oc=5",
+   "source": "AIM Media House",
+   "published": "2026-07-30T19:23:40+00:00",
+   "count": 2,
+   "sources": [
+    "AIM Media House",
+    "FedEx newsroom"
+   ],
+   "score": 1.93
+  },
+  {
+   "title": "Google DeepMind Ships Three Physical AI Models For Whole Body Control, Dexterity And Multi Robot Collaboration",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdExRZGsyZExSU09FNjhneVdreHVFdGFUaC1pdGxEbUxJN3hydzdJSGtxOW5LUU15WWYxWVNUV19vc3k4azZ1M2Z2VHpJN1JZWGprMkMzY3I1ZWxmZGFua1JTRS1QbmQzSkxaWklIeVhZd2c2emZNaEZlbU9Vc3JUU3BWUVlWR3oxZXpJTVZIVlhVMmxFejZQeWZReExyU2xtR1lRMi10VEJoTEwtU2xpZklhNEtyLU83S20yNWI0cG41ZmNGRENuN9IBzgFBVV95cUxQOVFWS1V0UUprM2FXMEk3YUQ0Zmd4al96bWJsb3lwVmN4aUNiZEp2SldCeGxycmp1Tkt2bzR1ZFdoc1ZZM2tGSk5wV2tqNEx3dzk3R2ZIb3U5Um1YbHJMX3l1TlNQVElwTi1zT0NwVVpWdWNTV1JKdlJwZGd3WXBVZDR3Tm9DYWRvOWpnVEdhUFNfMy1kMkd0X091ZmZUWU5IVXU4MjVmT21rcUl0MWlLLThBbk02VjJGc2lLcnAyMk5IZndOLXFuZURvZWRRZw?oc=5",
+   "source": "MarkTechPost",
+   "published": "2026-07-30T17:20:50+00:00",
+   "count": 2,
+   "sources": [
+    "MarkTechPost",
+    "The Verge"
+   ],
+   "score": 1.87
   }
  ],
  "hot_news": [
+  {
+   "title": "Trump Admin Bans New Chinese Humanoid Robots and Power Inverters Citing National Security Concerns",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOVpHUXd3X2FLYmdzUFpLd2JUWG45VGVlNlhtWlJRZ3FSXzN2RzRvbWJvSmdkcDhMemo0OFMtRVUxOWpnZDd6SWJjTWtTdWotM3FkRmlNU0ktYUpnME9iOXVpZUc4OERmU3A5blZCVWpkal85WWRFUnhoWWs2UW9CQlE5ZHAydWRZZXdyZDdJN2NNTU5qWnBYUkhGbFZUZXdqWUJfSGRUOWdXQ1JNc18yaHMydDdGeW1oRnA1QXU0c2dEbDdUTkRz?oc=5",
+   "source": "Latin Times",
+   "published": "2026-07-30T15:37:31+00:00",
+   "count": 9,
+   "sources": [
+    "Business Insider",
+    "Firstpost",
+    "Gamereactor UK",
+    "Latin Times",
+    "New York Post",
+    "Ratopati"
+   ],
+   "score": 8.23
+  },
+  {
+   "title": "熊本を「未来の産業を生み出す拠点」へ サイエンスパーク開発進む：フィジカルAI開発支援も（1/2 ページ）",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jaUcxNEdpWEV3SE1HWi1iZk1SX3J4eDhYU0ZCS2pjLVZ6MHBNOVN1Yk8wQ3pKTHpYZFBKU2gxemNtQUppWnJLN29NVXJmYXI3ck9rbERFeFNNLW1yYWkwSmY2c1YtMUt2ZXZnVHltdw?oc=5",
+   "source": "EE Times Japan",
+   "published": "2026-07-30T05:30:00+00:00",
+   "count": 6,
+   "sources": [
+    "EE Times Japan",
+    "Yahoo!ニュース",
+    "ビジネス+IT",
+    "日本経済新聞",
+    "熊本日日新聞社",
+    "読売新聞"
+   ],
+   "score": 4.77
+  },
+  {
+   "title": "TDK and LG Innotek partner in the field of physical AI",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xeFpYX24zVTZSLTNaMFpWV09Qanl3ZDhDclRiNmotQXI4eXIyVlppa0RPeWpJMU9mMTNEdmswUzN4Rk42NXJ1TmF2QjBrMHM1LVp4S2I5R2dsTjJxTy1uWVJYNnJxOUd3TE80ZjlXbXY1dzZBU2hpejlCS1AxNzQ?oc=5",
+   "source": "Electronic Products & Technology",
+   "published": "2026-07-30T11:03:22+00:00",
+   "count": 5,
+   "sources": [
+    "EE Times Asia",
+    "Electronic Products & Technology",
+    "TDK Corporation",
+    "The Korea Times",
+    "thelec.net"
+   ],
+   "score": 4.29
+  },
   {
    "title": "Trump Bans Chinese Humanoid Robots",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM21OLUlxX1BWZUo1eDFOSFlzRTRIV3NWaTNuY1dXb1o4VEkyR3FNS24zQ19xX1ViZDEwdXhGQnJ0YUVVRUlyMHdPZzh6dkhjWFRWU3paRU5CSXBIdEY5YnBpVUJzUEpBdUxwNTVHY1BXV0xiR1dkMTM4SDBINDQ0b2phTVlZazhlOFlOT25jQUhGU1k?oc=5",
@@ -328,13 +370,28 @@
    "count": 6,
    "sources": [
     "BBC",
-    "Business Insider",
     "DW.com",
-    "Tech Times",
-    "The European Conservative",
-    "The Japan Times"
+    "Reuters",
+    "The Detroit News",
+    "The European Conservative"
    ],
-   "score": 5.43
+   "score": 3.88
+  },
+  {
+   "title": "US Bans New Foreign-Made Humanoid Robot Imports Over Security Concerns -",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVFJMU3ZMMEstd3Y1SFJXMTJhSlZYRmphQWNzU1R2TFFZeEtuZF9Pd3dWVWNfNldXQ3E4R1ZCV0VYOVBaSGwtZ2oydWNlU3dWaE1wVnhockQ5T2FLM2pnMVFYM0xKTEJLRXl6cEYtZ0d4Z0FGSjRVY2Y0eTI1X045dGZnTkZvZnZaVzM2bHBjNW5ZdVYxNjJkOGhB?oc=5",
+   "source": "TVC News",
+   "published": "2026-07-29T12:49:00+00:00",
+   "count": 6,
+   "sources": [
+    "ABC News - Breaking News, Latest News and Videos",
+    "CBS News",
+    "Interesting Engineering",
+    "NBC 5 Chicago",
+    "TVC News",
+    "qz.com"
+   ],
+   "score": 3.78
   },
   {
    "title": "三菱自動車、ヒューマノイドロボット量産へ！「未来の工場」はクルマづくりをどう変えるのか【写真・5枚目】",
@@ -347,119 +404,68 @@
     "Yahoo!ニュース",
     "モーターファン"
    ],
-   "score": 5.11
+   "score": 3.65
   },
   {
-   "title": "US Bans Import of Chinese Humanoid Robots and Power Inverters Citing National Security Risks",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbFFaMm42c3VUSmxzQ3pLUDRRdTJNX190ZlhzQWRpemJqcXpYYl9TeEFMY0RPdFJPbEVfLWVZUS02ZUI4Slk5SVBwQjlhZ1k5VkZ4UzFQSFo0Y3VfMjZ1X3FKNWtHX0tqMmhLSkFvQVVkT3Z1aG5NcjlkSHJsdUhmNFZfUW1oVUo2WTlSVFllWnU?oc=5",
-   "source": "Ratopati",
-   "published": "2026-07-29T18:44:51+00:00",
+   "title": "United Airlines Breaks Silence Over Its New \"Humanoid And Animal-Like Robots\" Ban",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQkNUOWlGS0Z4dXhiNXdac1dRTmUxOThFQ3k3YkVkWE1Kb2VaREhodzdYbno4MEFvTkFyeFJSVEloQndkTng4by05a05FVkRpSVBRWFY0WHlNNDRLN3dNYlR0Mkg3aVBhUmZUc0FaeXlXZ0ljM3FiUjJhaVBxdm10QlRNeERmQzlqdWVlVzM2eHgxM2dQbVVnM3h5azB2b0VhSHlSamp5RHdiUQ?oc=5",
+   "source": "TheTravel",
+   "published": "2026-07-30T13:56:46+00:00",
    "count": 4,
    "sources": [
-    "AI Business",
-    "Gamereactor UK",
-    "New York Post",
-    "Ratopati"
+    "Live and Let's Fly",
+    "PCMag",
+    "Simple Flying",
+    "TheTravel"
    ],
-   "score": 3.83
+   "score": 3.57
   },
   {
-   "title": "三井不動産と熊本県が手を組んだ…「フィジカルＡＩ」開発拠点設置へ、半導体技術を支援",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HTjlIZm90X3N2Z2hwdVV0REtNT2xRQ3cwWmg0NzFnRDhnTXlmaFo2b3kyMmZzXzF6cURRcTRtN2k1YUhCMHp1YVR4Njg2RWZjRDdGcnMyZEt1c1Q1UDNDZGtqTWM?oc=5",
-   "source": "読売新聞",
-   "published": "2026-07-27T23:25:00+00:00",
-   "count": 7,
+   "title": "米国、ヒューマノイドロボットを禁止、中国はワシントンを保護主義者と非難",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5FUnBwdVJ3eG0zVFBFb0l4a2dPOUR4XzhJalcxTXBrV2VWdWo4cC1xanFFNmJObHRyRkEzV1RPa1dSRURyLXV1bVhn0gFCQVVfeXFMTlpITTJWaUZUcGN3SGx4eGxtenR3NDJJb3NoQWlyZ0k4S1FQajlXc0E4QkJlVFI1TC1KWmRXbE5wbVJB?oc=5",
+   "source": "VOI.ID",
+   "published": "2026-07-30T10:52:26+00:00",
+   "count": 4,
    "sources": [
-    "Yahoo!ニュース",
-    "mitsuifudosan.co.jp",
-    "ビジネス+IT",
-    "ロボスタ",
-    "西日本新聞me",
-    "読売新聞"
+    "NHKニュース",
+    "VOI.ID",
+    "ｄメニューニュース"
    ],
-   "score": 3.67
+   "score": 3.42
   },
   {
-   "title": "米国は、秘密裏のデータ収集への懸念から、中国からの人型ロボットの輸入を禁止した。",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbEFqa0o4bmFyWHNJZTl0dkNNM0dpSE93OGNuQWx1VnBDZ0dZMGR5bFpaMzRPV1k4dVgtMlRWZWZKczdOcHkxcmdGVjBGMDVCekkxclJQVEhfZE1VTkNNM3NnOE1SM1UwUXZIZkdwbFEwTVhEUFZuZG1IY2NtWDV5TE0xSk9XR0xVVTAyQ3FweGphQ0FiQ2VWZS1pSjk2dHQ1OVJ2dW13MTNDQQ?oc=5",
-   "source": "Vietnam.vn",
-   "published": "2026-07-29T14:45:11+00:00",
+   "title": "米国が中国ロボットに門を閉じた日。人型ロボットは「便利な機械」から安全保障技術になった",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xWjhQbDk4WHN4WXkxUFRXMnkyc0JrQ2ZCeXdjOGdKZ24xb3oxRmFPNVJPT28zdDFYV2RKUjB5WlgzeF9fS3BSYUZxcEdkTloydjB2Tw?oc=5",
+   "source": "note",
+   "published": "2026-07-30T09:58:30+00:00",
    "count": 4,
    "sources": [
     "CNN.co.jp",
     "Vietnam.vn",
-    "gamereactor.jp"
+    "gamereactor.jp",
+    "note"
    ],
-   "score": 3.62
+   "score": 3.38
   },
   {
-   "title": "Controversial plan for New York school to have AI robot teacher paused",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYnBTM1doc2NkSTVSa05JSFh3Ri1JNzhmRTczUVl4NzQtMWc0QjZSR2YwcFUyZXRNX0ptSGNWaG04Y1BvZGE5SWphcXJ1V3puQ2t2ZHZPclZNODBrZTZtbDRVNTFpNTZxTk8zTW1aMDRKMl9DMWtUYlgxZEQyU0pXNFZ4MkRQcHVoZTJNVlNTVDlwc00?oc=5",
-   "source": "The Independent",
-   "published": "2026-07-29T09:14:00+00:00",
-   "count": 4,
+   "title": "熊本・合志市にフィジカルAI拠点 三井不動産と県、先端半導体の量産見据え",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHZlpPZ2FDSmwtR0JIQjQwT1dlYkdqSmZ6QW5XdmRRM18yLWpWSHpJZHZPNk5pQmRjMENxS3UwWnZfaDBoUENia1dzWVhNNVU1N3Nja0Zn?oc=5",
+   "source": "西日本新聞me",
+   "published": "2026-07-27T21:00:00+00:00",
+   "count": 8,
    "sources": [
-    "NEWS10 ABC",
-    "NewYorkUpstate.com",
-    "The Guardian",
-    "The Independent"
+    "BigGo ファイナンス",
+    "Yahoo!ニュース",
+    "mitsuifudosan.co.jp",
+    "ロボスタ",
+    "日本経済新聞",
+    "西日本新聞me"
    ],
-   "score": 3.35
-  },
-  {
-   "title": "Airlines are banning humanoid robots from flights. Why?",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdEdiQ0xBV2NBOUxaeWFCdU94N0gzRXRJNHhqUHpfb25xRWhUMUFDS2RwcFVSbG95TnptcnlDNFEzVTFNU3k4WjUzbW1nYUs3d2NPOTE4VVZMdWJJNENYLU16cWRvSnBFLWNtb1dxQ2dDWXE1d2JUa1c2TVQtekROQ1BsZWJDYkhUdTdDZzFFMWhudXJES0J3WHdncS0?oc=5",
-   "source": "CBS News",
-   "published": "2026-07-29T20:16:58+00:00",
-   "count": 3,
-   "sources": [
-    "CBS News",
-    "Gadget Review",
-    "Interesting Engineering"
-   ],
-   "score": 2.93
-  },
-  {
-   "title": "United Airlines Latest Carrier to Ban Humanoid, Animal-Like Robots",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTll6U0NJTHllU282YXlqYzJzWXN0LUY3YjFFdW9mS2RhVk95dkItaEFYRkhCYTFXRjhDN0FmVFYyVGsydEI0aG5NZi1OYnM0NlhRUTBRak0ySTF4MkQtZ3RaQkNCek42SEpGX3pJcG03WnhiQ3l6N1VWeHNRM3JkS1ZNclNtRF9RcmUtd0xMT1R0QQ?oc=5",
-   "source": "PCMag",
-   "published": "2026-07-29T16:43:56+00:00",
-   "count": 3,
-   "sources": [
-    "Live and Let's Fly",
-    "PCMag",
-    "Simple Flying"
-   ],
-   "score": 2.79
-  },
-  {
-   "title": "US Bans New Foreign-Made Humanoid Robot Imports Over Security Concerns -",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVFJMU3ZMMEstd3Y1SFJXMTJhSlZYRmphQWNzU1R2TFFZeEtuZF9Pd3dWVWNfNldXQ3E4R1ZCV0VYOVBaSGwtZ2oydWNlU3dWaE1wVnhockQ5T2FLM2pnMVFYM0xKTEJLRXl6cEYtZ0d4Z0FGSjRVY2Y0eTI1X045dGZnTkZvZnZaVzM2bHBjNW5ZdVYxNjJkOGhB?oc=5",
-   "source": "TVC News",
-   "published": "2026-07-29T12:49:00+00:00",
-   "count": 3,
-   "sources": [
-    "CBS News",
-    "TVC News",
-    "qz.com"
-   ],
-   "score": 2.64
-  },
-  {
-   "title": "京都から国産ヒューマノイドロボットの再興を目指す“日本連合”、初期プロトタイプ製作へ（画像）（3/5枚目）",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TQ2NUUjZncjBMOGJ4bWsxcGs2em9sUkREZE03QzRyRUJlM09RYXhGR3dSSWd6NlZnZFY1ckZuNFZadVVFeEd0ZTZIMUNQaHRDZTJ6ODc3Nk1YeHVueExwZGU3UjBDY0ZKSTl0dldLX0RrN25sRDRRa243Yw?oc=5",
-   "source": "ITmedia",
-   "published": "2026-07-28T16:05:47+00:00",
-   "count": 4,
-   "sources": [
-    "ITmedia"
-   ],
-   "score": 2.64
+   "score": 2.9
   }
  ],
  "trend": {
   "dates": [
-   "2026-06-30",
    "2026-07-01",
    "2026-07-02",
    "2026-07-03",
@@ -488,14 +494,14 @@
    "2026-07-26",
    "2026-07-27",
    "2026-07-28",
-   "2026-07-29"
+   "2026-07-29",
+   "2026-07-30"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     5,
      4,
      3,
      2,
@@ -522,8 +528,9 @@
      31,
      16,
      15,
-     52,
+     53,
      17,
+     33,
      28
     ]
    },
@@ -531,7 +538,6 @@
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     6,
      3,
      9,
      3,
@@ -560,14 +566,14 @@
      21,
      38,
      28,
-     33
+     35,
+     31
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     4,
      3,
      4,
      4,
@@ -596,14 +602,14 @@
      2,
      3,
      4,
-     5
+     5,
+     2
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     5,
      6,
      5,
      1,
@@ -631,15 +637,15 @@
      11,
      17,
      26,
-     40,
-     48
+     41,
+     60,
+     40
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     4,
      2,
      4,
      0,
@@ -652,7 +658,7 @@
      23,
      6,
      4,
-     33,
+     34,
      16,
      12,
      34,
@@ -668,7 +674,8 @@
      14,
      6,
      13,
-     19
+     22,
+     17
     ]
    }
   ]
@@ -690,7 +697,7 @@
    "name": "GOOGLE LLC",
    "core": "GOOGLE",
    "patents": 275,
-   "news": 5
+   "news": 11
   },
   {
    "name": "HONDA MOTOR CO LTD",
@@ -714,13 +721,13 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 152
+   "news": 154
   },
   {
    "name": "QUALCOMM INC",
    "core": "QUALCOMM",
    "patents": 206,
-   "news": 5
+   "news": 6
   }
  ]
 }
