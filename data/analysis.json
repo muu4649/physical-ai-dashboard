@@ -1,124 +1,140 @@
 {
- "updated_at": "2026-07-30T22:03:11.697153+00:00",
+ "updated_at": "2026-07-31T22:01:16.652492+00:00",
  "kpi": {
-  "articles_7d": 713,
-  "articles_prev_7d": 839,
-  "sources_7d": 374,
-  "articles_30d": 2766,
-  "total_articles": 2953,
+  "articles_7d": 728,
+  "articles_prev_7d": 774,
+  "sources_7d": 376,
+  "articles_30d": 2865,
+  "total_articles": 3071,
   "oldest_news": "2025-12-18"
  },
  "wordcloud": [
   [
    "china",
+   42
+  ],
+  [
+   "中国",
    36
   ],
   [
    "開発",
-   36
+   35
   ],
   [
    "chinese",
-   34
-  ],
-  [
-   "nvidia",
-   31
-  ],
-  [
-   "中国",
-   31
+   32
   ],
   [
    "bans",
-   30
+   31
+  ],
+  [
+   "nvidia",
+   26
   ],
   [
    "ban",
-   22
-  ],
-  [
-   "school",
-   21
-  ],
-  [
-   "熊本",
-   21
+   25
   ],
   [
    "拠点",
-   21
+   23
   ],
   [
-   "支援",
+   "熊本",
+   23
+  ],
+  [
+   "gemini",
+   23
+  ],
+  [
+   "米国",
+   20
+  ],
+  [
+   "禁止",
+   20
+  ],
+  [
+   "google",
+   20
+  ],
+  [
+   "企業",
    19
   ],
   [
-   "data",
-   18
+   "school",
+   19
+  ],
+  [
+   "byd",
+   19
   ],
   [
    "hyundai",
    18
   ],
   [
-   "企業",
+   "戦略",
    18
   ],
   [
-   "禁止",
+   "輸入",
    18
   ],
   [
-   "japan",
+   "imports",
    17
-  ],
-  [
-   "日本",
-   17
-  ],
-  [
-   "米国",
-   17
-  ],
-  [
-   "byd",
-   17
-  ],
-  [
-   "tesla",
-   16
   ],
   [
    "時代",
    16
   ],
   [
-   "security",
-   16
-  ],
-  [
-   "imports",
-   16
-  ],
-  [
-   "輸入",
+   "amd",
    16
   ],
   [
    "trump",
+   16
+  ],
+  [
+   "japan",
    15
   ],
   [
-   "amd",
-   14
-  ],
-  [
-   "現場",
-   14
-  ],
-  [
    "工場",
+   15
+  ],
+  [
+   "支援",
+   15
+  ],
+  [
+   "日本",
+   15
+  ],
+  [
+   "security",
+   15
+  ],
+  [
+   "plan",
+   14
+  ],
+  [
+   "量産",
+   14
+  ],
+  [
+   "未来",
+   14
+  ],
+  [
+   "半導体",
    14
   ],
   [
@@ -126,27 +142,23 @@
    14
   ],
   [
-   "plan",
+   "data",
    13
   ],
   [
-   "戦略",
+   "三菱自動車",
    13
   ],
   [
-   "製造",
+   "産業",
    13
   ],
   [
-   "半導体",
-   13
+   "group",
+   12
   ],
   [
-   "韓国",
-   13
-  ],
-  [
-   "world",
+   "tech",
    12
   ],
   [
@@ -154,23 +166,7 @@
    12
   ],
   [
-   "NVIDIA",
-   12
-  ],
-  [
-   "national",
-   12
-  ],
-  [
-   "三菱自動車",
-   12
-  ],
-  [
-   "量産",
-   12
-  ],
-  [
-   "group",
+   "製造",
    12
   ],
   [
@@ -178,27 +174,31 @@
    12
   ],
   [
+   "現場",
+   12
+  ],
+  [
+   "unitree",
+   12
+  ],
+  [
    "tdk",
    12
   ],
   [
-   "korea",
+   "national",
+   12
+  ],
+  [
+   "motor",
    11
   ],
   [
-   "york",
+   "partnership",
    11
   ],
   [
-   "未来",
-   11
-  ],
-  [
-   "世界",
-   11
-  ],
-  [
-   "tech",
+   "韓国",
    11
   ],
   [
@@ -206,19 +206,23 @@
    11
   ],
   [
-   "事業",
+   "chosunbiz",
+   11
+  ],
+  [
+   "manufacturing",
+   11
+  ],
+  [
+   "tesla",
+   11
+  ],
+  [
+   "model",
    10
   ],
   [
-   "optimus",
-   10
-  ],
-  [
-   "concerns",
-   10
-  ],
-  [
-   "motor",
+   "korea",
    10
   ],
   [
@@ -226,95 +230,122 @@
    10
   ],
   [
-   "国産",
+   "york",
    10
   ],
   [
-   "manufacturing",
+   "unveils",
    10
   ],
   [
-   "teacher",
+   "次世代",
    10
   ],
   [
-   "産業",
+   "august",
    10
   ],
   [
-   "innotek",
-   10
-  ],
-  [
-   "power",
+   "united",
    10
   ]
  ],
  "today_top5": [
   {
-   "title": "米国、ヒューマノイドロボットを禁止、中国はワシントンを保護主義者と非難",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5FUnBwdVJ3eG0zVFBFb0l4a2dPOUR4XzhJalcxTXBrV2VWdWo4cC1xanFFNmJObHRyRkEzV1RPa1dSRURyLXV1bVhn0gFCQVVfeXFMTlpITTJWaUZUcGN3SGx4eGxtenR3NDJJb3NoQWlyZ0k4S1FQajlXc0E4QkJlVFI1TC1KWmRXbE5wbVJB?oc=5",
-   "source": "VOI.ID",
-   "published": "2026-07-30T10:52:26+00:00",
-   "count": 4,
+   "title": "Google DeepMind、単一AIでヒューマノイド全身を制御する「Gemini Robotics 2」",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yV1Nfb19fRHFPRlE0ZFF0QWFmN3NlanVNeVR5eWIySlBJSWZWNDk1QXlabmtZcHJMY2RlNFBRWnZjb29wT2w1eWtkWWdIR3AtQTZaak9Hb3hNSXdRVW9raWxPQdIBaEFVX3lxTE5ZNWthbE5DdGVMM3RuMEJiNno5ajBfVmlyMHdkdXg4NEdMRUdRRzVicWxDVm9IQUNmQXpIeXYzS1ZmX1NoSFZyR19DOWtnRC1jQ1dSMVJMcGpnbUx3MGxDVmhGdWt5SkQw?oc=5",
+   "source": "財経新聞",
+   "published": "2026-07-31T17:02:02+00:00",
+   "count": 7,
+   "sources": [
+    "AI Magazine",
+    "FabScene",
+    "ITmedia",
+    "shiritomo",
+    "オルタナティブ・ブログ",
+    "ロボスタ"
+   ],
+   "score": 6.53
+  },
+  {
+   "title": "Google unveils Gemini Robotics 2 with full humanoid body control",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNkNLMWVaaE5Hc0cza0s0eVVkZkJlNmRDM1lmeW11dEI2WjI2aEVPdklSOWNiSjlYYUhiaG94YVVITkx5OWgyY2xqU1BaeW9CMG5uenNyUmlXejZUYTBHOHpaRWp1ZGtPRTBsZmozbVhpNFV3RUpmYlRCSW1GS01jRE1JTFdEV3R0MVNIV2lKa2ZfVTBJYjBQM2hKU0p5elBJcHQ3M19R?oc=5",
+   "source": "Northeast Times",
+   "published": "2026-07-31T18:25:12+00:00",
+   "count": 2,
+   "sources": [
+    "Northeast Times",
+    "Robotics & Automation News"
+   ],
+   "score": 1.9
+  },
+  {
+   "title": "Google DeepMind shows off Gemini Robotics 2",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdWEzck5JaHNUM2wtS2x6RVZXZF9EaWZrN19hT1NGRnFqUjRJdTFyZWU4ZE0xbGRXeHRwTVowV2NrS1pNNTFhbXRHRVNhZUlOUEg4M3N1M3F3cHVacENkRVdDc2d3bUpITWdKOUJKMWJld2ZXU0xrR0FWNXppSHRwckVR?oc=5",
+   "source": "Mashable",
+   "published": "2026-07-31T12:35:26+00:00",
+   "count": 2,
+   "sources": [
+    "Mashable",
+    "siliconangle.com"
+   ],
+   "score": 1.75
+  },
+  {
+   "title": "”フィジカルAI分野で産業振興”北九州市の計画が国の「地域未来戦略」に認定 規制緩和や国からの支援受けやすく 福岡",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWLXVBT1BGV014SlROMnhxejZOY2xkMnVrRHJ2VlVyMWg5TmtxM3J1YzB1WHBucnFDVVowSEp6elFkeEVQRjVYVU9WS1Q5QlI1bEk0eXh3NXRDekZlVDJMWVBLb2pRQVdENHlFVHozZ2lRTFlRN3dlWEs0UDZ0dmc?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-07-31T09:50:26+00:00",
+   "count": 2,
    "sources": [
     "NHKニュース",
-    "VOI.ID",
-    "ｄメニューニュース"
-   ],
-   "score": 3.42
-  },
-  {
-   "title": "China is threatening retaliation over the U.S. ban on foreign humanoid robots",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpRkcxNzFGY3R0VE92cUdnaFhGVlpnYnBMc01EY0N0elFJUkFsLXhTbWZNNXhfWExMWUhPQnVYc2h1N0hZOGRxdGsyTzlJazFjOVRCMVFDSm1mRFVFZTlZVkpwRDdIMDJ6dHVzc2hhSjhFdTE3RVZv?oc=5",
-   "source": "qz.com",
-   "published": "2026-07-30T11:59:15+00:00",
-   "count": 3,
-   "sources": [
-    "CNBC",
-    "The News International",
-    "qz.com"
-   ],
-   "score": 2.61
-  },
-  {
-   "title": "国も推す「アドバンスト・エッセンシャルワーカー」は待遇改善なるのか？欧州はフィジカルAIで製造業の生産性向上へ、二分化の懸念（Wedge（ウェッジ））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10MnJsYUpLMWpUWGs5UkNSMW9QZFJma0VXblF3N0xQcFVBeld1eEx4RVM3ajkwbjBNX2ZxQS1ZV0RhTGtpMjVkUDNiWG9sb0dIOHQ2QnJSUmdyM0g4Uzd3QTA5TDVfTnpqYlVjZWhSd2dMZGJDODl6WkJ3Z1hxWTg?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-07-30T20:10:54+00:00",
-   "count": 2,
-   "sources": [
-    "Wedge ONLINE(ウェッジ・オンライン)",
     "Yahoo!ニュース"
    ],
-   "score": 1.95
+   "score": 1.69
   },
   {
-   "title": "FedEx Expands Dexterity Physical AI Trailer Loading Systems at Maryland Hub",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbE01RHlxVkpnb0kydFppdWNOYzV0eWhYelIyQ0h0bzFSdmdMM2phV0NnUzRpbjR1VFlIU1lCcnhEdEFDS3pSX1c5aXNsdFV5NHVhY3ZjOUhXSDdMSEM3ZWJFS2p0TFE0ZFdtcE54TWxaazJQY1c4alNtaF9zZUl3bW9RSFM1bldMTFVpdk0wdS1TNTlHYlNTQWFLcW5fXzN0NkJoLWZVdVBWZlZ4RTN2UGxsZE1SeXZJ?oc=5",
-   "source": "AIM Media House",
-   "published": "2026-07-30T19:23:40+00:00",
+   "title": "AMD Physical AI AAI 2026 HIPify",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMDQyNFFtejBTU2JtRGliMVhyX29FVEpwSlRxOGtmLU14T0xxclRvdENuVGpUV0xPbHJ6VWtnT1JGQi13Ym9Hdjl0bkdkM3piWHV3b256bHdyR0dKTnRIWkhpR3h1cXNPWHpOWkxWR2FzMEpMRjNPcnFnanNZNWZ1eFZMUVkzWF9QRlNuNlBrTXpYS2VBU04yNmE2cmk5NXJxTjc2aDJ6bmFQdDVqVzFCdHVaZDRfLUdFeUhYcHFoQlVQZmpid2MwY3JXRzNPVVJVRndlX2ltcDM5VGs?oc=5",
+   "source": "ServeTheHome",
+   "published": "2026-07-31T08:11:20+00:00",
    "count": 2,
    "sources": [
-    "AIM Media House",
-    "FedEx newsroom"
+    "ServeTheHome"
    ],
-   "score": 1.93
-  },
-  {
-   "title": "Google DeepMind Ships Three Physical AI Models For Whole Body Control, Dexterity And Multi Robot Collaboration",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdExRZGsyZExSU09FNjhneVdreHVFdGFUaC1pdGxEbUxJN3hydzdJSGtxOW5LUU15WWYxWVNUV19vc3k4azZ1M2Z2VHpJN1JZWGprMkMzY3I1ZWxmZGFua1JTRS1QbmQzSkxaWklIeVhZd2c2emZNaEZlbU9Vc3JUU3BWUVlWR3oxZXpJTVZIVlhVMmxFejZQeWZReExyU2xtR1lRMi10VEJoTEwtU2xpZklhNEtyLU83S20yNWI0cG41ZmNGRENuN9IBzgFBVV95cUxQOVFWS1V0UUprM2FXMEk3YUQ0Zmd4al96bWJsb3lwVmN4aUNiZEp2SldCeGxycmp1Tkt2bzR1ZFdoc1ZZM2tGSk5wV2tqNEx3dzk3R2ZIb3U5Um1YbHJMX3l1TlNQVElwTi1zT0NwVVpWdWNTV1JKdlJwZGd3WXBVZDR3Tm9DYWRvOWpnVEdhUFNfMy1kMkd0X091ZmZUWU5IVXU4MjVmT21rcUl0MWlLLThBbk02VjJGc2lLcnAyMk5IZndOLXFuZURvZWRRZw?oc=5",
-   "source": "MarkTechPost",
-   "published": "2026-07-30T17:20:50+00:00",
-   "count": 2,
-   "sources": [
-    "MarkTechPost",
-    "The Verge"
-   ],
-   "score": 1.87
+   "score": 1.65
   }
  ],
  "hot_news": [
+  {
+   "title": "Google DeepMind、単一AIでヒューマノイド全身を制御する「Gemini Robotics 2」",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yV1Nfb19fRHFPRlE0ZFF0QWFmN3NlanVNeVR5eWIySlBJSWZWNDk1QXlabmtZcHJMY2RlNFBRWnZjb29wT2w1eWtkWWdIR3AtQTZaak9Hb3hNSXdRVW9raWxPQdIBaEFVX3lxTE5ZNWthbE5DdGVMM3RuMEJiNno5ajBfVmlyMHdkdXg4NEdMRUdRRzVicWxDVm9IQUNmQXpIeXYzS1ZmX1NoSFZyR19DOWtnRC1jQ1dSMVJMcGpnbUx3MGxDVmhGdWt5SkQw?oc=5",
+   "source": "財経新聞",
+   "published": "2026-07-31T17:02:02+00:00",
+   "count": 7,
+   "sources": [
+    "AI Magazine",
+    "FabScene",
+    "ITmedia",
+    "shiritomo",
+    "オルタナティブ・ブログ",
+    "ロボスタ"
+   ],
+   "score": 6.53
+  },
+  {
+   "title": "三菱自動車、ヒューマノイドロボット量産へ！「未来の工場」はクルマづくりをどう変えるのか【写真・3枚目】 - motor-fan.jp",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IeGhnOHZNR3d5WmhLdl9jQjBGSEFxQWlLX243OGg1TEVPTWozSzREOFliLV83cnpNT2U0bGNjenNoNlc5VXA0UHlqSTNrU0hrSEZabW1PbkdIUQ?oc=5",
+   "source": "motor-fan.jp",
+   "published": "2026-07-31T10:00:44+00:00",
+   "count": 7,
+   "sources": [
+    "Motor Fan",
+    "Yahoo!ニュース",
+    "motor-fan.jp",
+    "モーターファン"
+   ],
+   "score": 5.92
+  },
   {
    "title": "Trump Admin Bans New Chinese Humanoid Robots and Power Inverters Citing National Security Concerns",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOVpHUXd3X2FLYmdzUFpLd2JUWG45VGVlNlhtWlJRZ3FSXzN2RzRvbWJvSmdkcDhMemo0OFMtRVUxOWpnZDd6SWJjTWtTdWotM3FkRmlNU0ktYUpnME9iOXVpZUc4OERmU3A5blZCVWpkal85WWRFUnhoWWs2UW9CQlE5ZHAydWRZZXdyZDdJN2NNTU5qWnBYUkhGbFZUZXdqWUJfSGRUOWdXQ1JNc18yaHMydDdGeW1oRnA1QXU0c2dEbDdUTkRz?oc=5",
@@ -329,7 +360,21 @@
     "New York Post",
     "Ratopati"
    ],
-   "score": 8.23
+   "score": 5.9
+  },
+  {
+   "title": "United and Delta Join Southwest in Banning ‘Humanoid’ Robots on Planes",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUW1FNkRIN3RBN2FsbWt3b2dvdFNjX3dpSEZORVFHdW5FQm1rYW02X3NhQ09TOUNzOUhnd2RfVi1icGNkRHJ4N1VfZWFaNURvSEt2eEFwSnptZVBSU0hPcE54dnY0V1EzaUZCQ2ZRbHBRT1FfQmxNYlBkZWZlOUdOTC12djAtUkVfTkQwSFNQQTNpYTE5SXBOUWV1WXE?oc=5",
+   "source": "People.com",
+   "published": "2026-07-31T16:57:45+00:00",
+   "count": 4,
+   "sources": [
+    "People.com",
+    "Simple Flying",
+    "The Independent",
+    "the-independent.com"
+   ],
+   "score": 3.73
   },
   {
    "title": "熊本を「未来の産業を生み出す拠点」へ サイエンスパーク開発進む：フィジカルAI開発支援も（1/2 ページ）",
@@ -345,22 +390,49 @@
     "熊本日日新聞社",
     "読売新聞"
    ],
-   "score": 4.77
+   "score": 3.42
   },
   {
-   "title": "TDK and LG Innotek partner in the field of physical AI",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xeFpYX24zVTZSLTNaMFpWV09Qanl3ZDhDclRiNmotQXI4eXIyVlppa0RPeWpJMU9mMTNEdmswUzN4Rk42NXJ1TmF2QjBrMHM1LVp4S2I5R2dsTjJxTy1uWVJYNnJxOUd3TE80ZjlXbXY1dzZBU2hpejlCS1AxNzQ?oc=5",
-   "source": "Electronic Products & Technology",
-   "published": "2026-07-30T11:03:22+00:00",
+   "title": "China Threatens Retaliation After U.S. Bans Humanoid Robot Imports",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNWtfWXpLTXVXT1k5VUNUejNsbW41ZTRtMklMUXQ0ZlZyN0Y1eUQ3QUZkTGNxVDN5SVBYN2pNM2dqMTVNbUpkejRhdzNROHhndmdwUTIwNmROa3FOWXNfY2djN2kyTFl2bXB1Rk5nMlBDeDhTWUNYZndMd1ZEakMxeElWT2llSzJFRGlvYWN4eE1YQQ?oc=5",
+   "source": "Briefs Finance",
+   "published": "2026-07-31T07:20:30+00:00",
+   "count": 4,
+   "sources": [
+    "Briefs Finance",
+    "CNBC",
+    "The New York Times",
+    "The News International"
+   ],
+   "score": 3.26
+  },
+  {
+   "title": "米国が中国ロボットに門を閉じた日。人型ロボットは「便利な機械」から安全保障技術になった",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xWjhQbDk4WHN4WXkxUFRXMnkyc0JrQ2ZCeXdjOGdKZ24xb3oxRmFPNVJPT28zdDFYV2RKUjB5WlgzeF9fS3BSYUZxcEdkTloydjB2Tw?oc=5",
+   "source": "note",
+   "published": "2026-07-30T09:58:30+00:00",
    "count": 5,
    "sources": [
-    "EE Times Asia",
-    "Electronic Products & Technology",
-    "TDK Corporation",
-    "The Korea Times",
-    "thelec.net"
+    "CNN.co.jp",
+    "Vietnam.vn",
+    "Yahoo!ニュース",
+    "gamereactor.jp",
+    "note"
    ],
-   "score": 4.29
+   "score": 3.03
+  },
+  {
+   "title": "Google unveils Gemini Robotics 2 with full humanoid body control",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNkNLMWVaaE5Hc0cza0s0eVVkZkJlNmRDM1lmeW11dEI2WjI2aEVPdklSOWNiSjlYYUhiaG94YVVITkx5OWgyY2xqU1BaeW9CMG5uenNyUmlXejZUYTBHOHpaRWp1ZGtPRTBsZmozbVhpNFV3RUpmYlRCSW1GS01jRE1JTFdEV3R0MVNIV2lKa2ZfVTBJYjBQM2hKU0p5elBJcHQ3M19R?oc=5",
+   "source": "Northeast Times",
+   "published": "2026-07-31T18:25:12+00:00",
+   "count": 3,
+   "sources": [
+    "Northeast Times",
+    "Robotics & Automation News",
+    "The Verge"
+   ],
+   "score": 2.85
   },
   {
    "title": "Trump Bans Chinese Humanoid Robots",
@@ -375,7 +447,7 @@
     "The Detroit News",
     "The European Conservative"
    ],
-   "score": 3.88
+   "score": 2.78
   },
   {
    "title": "US Bans New Foreign-Made Humanoid Robot Imports Over Security Concerns -",
@@ -391,82 +463,11 @@
     "TVC News",
     "qz.com"
    ],
-   "score": 3.78
-  },
-  {
-   "title": "三菱自動車、ヒューマノイドロボット量産へ！「未来の工場」はクルマづくりをどう変えるのか【写真・5枚目】",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBSYmxZZC0wM3N2aHN4WGpieVd0ZU5xTlIxS2JpNll4dzk1a1hISUdtRERzRW9UeDZRbVkzNnYyLTB4dmZaTXM4TXZxRlpPS2dTNjY0RmFib0RXeDU2bVdR?oc=5",
-   "source": "モーターファン",
-   "published": "2026-07-29T10:20:13+00:00",
-   "count": 6,
-   "sources": [
-    "Motor Fan",
-    "Yahoo!ニュース",
-    "モーターファン"
-   ],
-   "score": 3.65
-  },
-  {
-   "title": "United Airlines Breaks Silence Over Its New \"Humanoid And Animal-Like Robots\" Ban",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQkNUOWlGS0Z4dXhiNXdac1dRTmUxOThFQ3k3YkVkWE1Kb2VaREhodzdYbno4MEFvTkFyeFJSVEloQndkTng4by05a05FVkRpSVBRWFY0WHlNNDRLN3dNYlR0Mkg3aVBhUmZUc0FaeXlXZ0ljM3FiUjJhaVBxdm10QlRNeERmQzlqdWVlVzM2eHgxM2dQbVVnM3h5azB2b0VhSHlSamp5RHdiUQ?oc=5",
-   "source": "TheTravel",
-   "published": "2026-07-30T13:56:46+00:00",
-   "count": 4,
-   "sources": [
-    "Live and Let's Fly",
-    "PCMag",
-    "Simple Flying",
-    "TheTravel"
-   ],
-   "score": 3.57
-  },
-  {
-   "title": "米国、ヒューマノイドロボットを禁止、中国はワシントンを保護主義者と非難",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5FUnBwdVJ3eG0zVFBFb0l4a2dPOUR4XzhJalcxTXBrV2VWdWo4cC1xanFFNmJObHRyRkEzV1RPa1dSRURyLXV1bVhn0gFCQVVfeXFMTlpITTJWaUZUcGN3SGx4eGxtenR3NDJJb3NoQWlyZ0k4S1FQajlXc0E4QkJlVFI1TC1KWmRXbE5wbVJB?oc=5",
-   "source": "VOI.ID",
-   "published": "2026-07-30T10:52:26+00:00",
-   "count": 4,
-   "sources": [
-    "NHKニュース",
-    "VOI.ID",
-    "ｄメニューニュース"
-   ],
-   "score": 3.42
-  },
-  {
-   "title": "米国が中国ロボットに門を閉じた日。人型ロボットは「便利な機械」から安全保障技術になった",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xWjhQbDk4WHN4WXkxUFRXMnkyc0JrQ2ZCeXdjOGdKZ24xb3oxRmFPNVJPT28zdDFYV2RKUjB5WlgzeF9fS3BSYUZxcEdkTloydjB2Tw?oc=5",
-   "source": "note",
-   "published": "2026-07-30T09:58:30+00:00",
-   "count": 4,
-   "sources": [
-    "CNN.co.jp",
-    "Vietnam.vn",
-    "gamereactor.jp",
-    "note"
-   ],
-   "score": 3.38
-  },
-  {
-   "title": "熊本・合志市にフィジカルAI拠点 三井不動産と県、先端半導体の量産見据え",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHZlpPZ2FDSmwtR0JIQjQwT1dlYkdqSmZ6QW5XdmRRM18yLWpWSHpJZHZPNk5pQmRjMENxS3UwWnZfaDBoUENia1dzWVhNNVU1N3Nja0Zn?oc=5",
-   "source": "西日本新聞me",
-   "published": "2026-07-27T21:00:00+00:00",
-   "count": 8,
-   "sources": [
-    "BigGo ファイナンス",
-    "Yahoo!ニュース",
-    "mitsuifudosan.co.jp",
-    "ロボスタ",
-    "日本経済新聞",
-    "西日本新聞me"
-   ],
-   "score": 2.9
+   "score": 2.71
   }
  ],
  "trend": {
   "dates": [
-   "2026-07-01",
    "2026-07-02",
    "2026-07-03",
    "2026-07-04",
@@ -495,14 +496,14 @@
    "2026-07-27",
    "2026-07-28",
    "2026-07-29",
-   "2026-07-30"
+   "2026-07-30",
+   "2026-07-31"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     4,
      3,
      2,
      0,
@@ -530,15 +531,15 @@
      15,
      53,
      17,
-     33,
-     28
+     34,
+     36,
+     26
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     3,
      9,
      3,
      0,
@@ -566,15 +567,15 @@
      21,
      38,
      28,
-     35,
-     31
+     38,
+     32,
+     16
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     3,
      4,
      4,
      0,
@@ -602,15 +603,15 @@
      2,
      3,
      4,
-     5,
-     2
+     6,
+     3,
+     3
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     6,
      5,
      1,
      2,
@@ -637,16 +638,16 @@
      11,
      17,
      26,
-     41,
-     60,
-     40
+     42,
+     63,
+     44,
+     28
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     2,
      4,
      0,
      4,
@@ -674,8 +675,9 @@
      14,
      6,
      13,
-     22,
-     17
+     25,
+     21,
+     19
     ]
    }
   ]
@@ -697,7 +699,7 @@
    "name": "GOOGLE LLC",
    "core": "GOOGLE",
    "patents": 275,
-   "news": 11
+   "news": 25
   },
   {
    "name": "HONDA MOTOR CO LTD",
@@ -721,13 +723,13 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 154
+   "news": 153
   },
   {
    "name": "QUALCOMM INC",
    "core": "QUALCOMM",
    "patents": 206,
-   "news": 6
+   "news": 9
   }
  ]
 }
