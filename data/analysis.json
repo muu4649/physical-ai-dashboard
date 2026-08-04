@@ -1,96 +1,76 @@
 {
- "updated_at": "2026-08-03T22:05:29.810847+00:00",
+ "updated_at": "2026-08-04T22:08:42.283516+00:00",
  "kpi": {
-  "articles_7d": 661,
-  "articles_prev_7d": 771,
-  "sources_7d": 347,
-  "articles_30d": 2989,
-  "total_articles": 3242,
+  "articles_7d": 653,
+  "articles_prev_7d": 724,
+  "sources_7d": 355,
+  "articles_30d": 3069,
+  "total_articles": 3342,
   "oldest_news": "2025-12-18"
  },
  "wordcloud": [
   [
    "china",
-   45
+   47
   ],
   [
    "中国",
-   38
-  ],
-  [
-   "chinese",
-   31
-  ],
-  [
-   "bans",
-   30
+   42
   ],
   [
    "ban",
-   29
+   30
+  ],
+  [
+   "chinese",
+   28
+  ],
+  [
+   "bans",
+   27
   ],
   [
    "gemini",
-   26
-  ],
-  [
-   "日本",
-   24
-  ],
-  [
-   "google",
-   24
+   27
   ],
   [
    "開発",
-   23
+   26
   ],
   [
-   "amd",
-   21
-  ],
-  [
-   "戦略",
-   21
+   "google",
+   25
   ],
   [
    "米国",
-   21
+   22
   ],
   [
    "禁止",
-   21
+   22
+  ],
+  [
+   "日本",
+   19
   ],
   [
    "輸入",
    19
   ],
   [
-   "未来",
+   "amd",
+   19
+  ],
+  [
+   "戦略",
    18
   ],
   [
+   "nvidia",
+   17
+  ],
+  [
    "企業",
-   17
-  ],
-  [
-   "trump",
-   17
-  ],
-  [
-   "imports",
-   17
-  ],
-  [
-   "時代",
-   16
-  ],
-  [
-   "byd",
-   16
-  ],
-  [
-   "量産",
    16
   ],
   [
@@ -98,27 +78,43 @@
    16
   ],
   [
-   "nvidia",
+   "imports",
+   16
+  ],
+  [
+   "時代",
    15
+  ],
+  [
+   "活用",
+   14
   ],
   [
    "産業",
-   15
+   14
   ],
   [
    "fcc",
-   15
-  ],
-  [
-   "工場",
-   15
-  ],
-  [
-   "school",
-   13
+   14
   ],
   [
    "deepmind",
+   14
+  ],
+  [
+   "unitree",
+   14
+  ],
+  [
+   "national",
+   13
+  ],
+  [
+   "trump",
+   13
+  ],
+  [
+   "量産",
    13
   ],
   [
@@ -126,59 +122,39 @@
    13
   ],
   [
-   "tdk",
-   12
-  ],
-  [
-   "national",
-   12
-  ],
-  [
-   "世界",
-   12
-  ],
-  [
-   "unitree",
-   12
-  ],
-  [
    "company",
    12
   ],
   [
-   "三菱自動車",
+   "未来",
    12
   ],
   [
-   "plan",
+   "launches",
    11
   ],
   [
-   "innotek",
-   10
+   "世界",
+   11
   ],
   [
-   "world",
-   10
-  ],
-  [
-   "提携",
-   10
+   "Gemini",
+   11
   ],
   [
    "data",
    10
   ],
   [
-   "power",
-   10
-  ],
-  [
-   "market",
-   10
-  ],
-  [
    "chosunbiz",
+   10
+  ],
+  [
+   "次世代",
+   10
+  ],
+  [
+   "競争",
    10
   ],
   [
@@ -190,51 +166,27 @@
    10
   ],
   [
-   "画像",
+   "world",
    10
   ],
   [
-   "Gemini",
+   "school",
    10
   ],
   [
-   "hyundai",
+   "工場",
+   10
+  ],
+  [
+   "研究",
+   10
+  ],
+  [
+   "growth",
    9
   ],
   [
-   "partnership",
-   9
-  ],
-  [
-   "launches",
-   9
-  ],
-  [
-   "infrastructure",
-   9
-  ],
-  [
-   "日立",
-   9
-  ],
-  [
-   "administration",
-   9
-  ],
-  [
-   "concerns",
-   9
-  ],
-  [
-   "august",
-   9
-  ],
-  [
-   "model",
-   9
-  ],
-  [
-   "写真",
+   "market",
    9
   ],
   [
@@ -242,74 +194,186 @@
    9
   ],
   [
-   "国産",
+   "technology",
    9
   ],
   [
-   "競争",
+   "支援",
    9
+  ],
+  [
+   "制御",
+   9
+  ],
+  [
+   "自動",
+   9
+  ],
+  [
+   "半導体",
+   9
+  ],
+  [
+   "現場",
+   9
+  ],
+  [
+   "york",
+   9
+  ],
+  [
+   "byd",
+   9
+  ],
+  [
+   "NVIDIA",
+   9
+  ],
+  [
+   "power",
+   8
+  ],
+  [
+   "expands",
+   8
+  ],
+  [
+   "infrastructure",
+   8
+  ],
+  [
+   "jp",
+   8
+  ],
+  [
+   "日立",
+   8
   ]
  ],
  "today_top5": [
   {
-   "title": "When expressive humanoid robots are awkward, people become wary: New brain study",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0yZnkwbjRldmpmVHAwOWZadDkxNkQ4c19QUUFBV0tPNU1ZeTRuODJvcUpGMWxZRHZMckZOVFFOXy0wbXF2bWpEUTlHWEh3aEJsMWprUTJyRWJWLWJQVmlreTdHVzZORU9XdnNoeFp5RjFIUQ?oc=5",
-   "source": "Brooklyn Eagle",
-   "published": "2026-08-03T16:25:39+00:00",
-   "count": 2,
+   "title": "安藤ハザマ、神戸高専／フィジカルＡＩ活用した建機自動化で共同研究",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0yWHZvZm15cU5JbXBQaW1panNDc20wOWlrcktma1gxbEtXS2d6dVJpdTZaTE9EbndBMmhjWGg3UWNMSTBVR1pZ?oc=5",
+   "source": "日刊建設工業新聞",
+   "published": "2026-08-04T21:05:53+00:00",
+   "count": 6,
    "sources": [
-    "Brooklyn Eagle",
-    "theconversation.com"
+    "pr-free.jp",
+    "ライブドアニュース",
+    "建設通信新聞Digital",
+    "日刊建設工業新聞",
+    "日本経済新聞"
    ],
-   "score": 1.85
+   "score": 5.91
   },
   {
-   "title": "NY Focus: New Bill Would Ban Humanoid Robots in Schools After New York Focus Report",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUEVxdkJQZnpmV1hFMlVxRGdFTk9EYnQ0dkk2bGMxVTFBelBDLWgwZTUwX0FfczVqbTNVMDBwQnFEWEpRdU5SN3RTenVlYXVhQXdfM3pWRG03d2dUYTduZVJTX1Npb2luQ3lWbXB1RDlqTGZ4S3NKUVNQZEdud3dDT0RyTzk0RW9XRVF3alFNaHdhZnp3YkNDMEJMR1NzaHdpdEhhWUV1X0dxZEdNTXlLUzVwQWR2dUQ2bzF6VmhGWTFVLTA?oc=5",
-   "source": "the wellsville sun",
-   "published": "2026-08-03T13:41:30+00:00",
-   "count": 2,
+   "title": "「びっくりした!」園児の前でヒューマノイドロボットが華麗なダンスを披露 山梨・南アルプス市（UTYテレビ山梨）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4Sk1BSUQ5ZkdTcDNKS19ZcjlIdUtsSGFRYjdRVjhaUU82M3pUUllUVUMyR05TUHZlTG10YUVRNXdLNk01RDBmTzNuLWVvYlpDcVJ6TzdDMnlNQm15M2NiZU9hZ2duYXhvOVVfeXJrcVRLeWt3WHhPYnlHcnduNTg?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-08-04T11:03:16+00:00",
+   "count": 3,
    "sources": [
-    "New York Focus",
-    "the wellsville sun"
+    "TBS NEWS DIG",
+    "Yahoo!ニュース"
    ],
-   "score": 1.78
+   "score": 2.57
   },
   {
-   "title": "AIが使いやすいSaaSへ",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rbEpyMWtraHpsOHdGejhMVmpFWlJqV0Jvc0cwU1J1c0pPZGRCcFdGUUN4bTNEekNjWXJQbldoLVFJM2lsaEhpa1hwLWNRNkFsYkhGTTdLSnMzRVZubklkdEYtRUN5MjlTdUpELV9jR3Uxdw?oc=5",
+   "title": "Israel launches national quantum computer and Physical AI race",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tbU9FV0QxTXJLSUJSVU5FbFhOUjVkdWY5QWNrSG1aWmFnOU4yeWdQY1hpeTRuNjBSWjRKdGU1UUJfLURBNk43SzktbjhCRUo4bFF5enQ3blQyNE9ETGtRaDBzTmxHNkJuLVNZdw?oc=5",
+   "source": "ynetnews.com",
+   "published": "2026-08-04T21:48:17+00:00",
+   "count": 2,
+   "sources": [
+    "calcalistech.com",
+    "ynetnews.com"
+   ],
+   "score": 1.99
+  },
+  {
+   "title": "Unitree expects first-half revenue growth as demand for humanoid robots accelerates",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcldXSEZ3dG40QWxERzVUcWpuUHNROEZtNDR2djFJUkpUbEVxbGNJZmVaU3FfLU1uR2VncXNhNHcyWU85dWlUS1VHRjAwX3pReThFUHhQSDBmRjFyRno3VWZLT0FyRGtJanYteG1oWGtNY3J6NlM3azJVa2UtOFlJcmdGSVdZbVZkOUlBWG5UeEZfRDdqcmp0LXVXM08yOFVyazZCb3Bid1Zod0RETUQ3RWFzcHoxVV9LYnZGaV9lcHFPdDlHbEZFc2NtV2NLS1hXWmVvZ3RQOA?oc=5",
+   "source": "roboticsandautomationnews.com",
+   "published": "2026-08-04T11:34:05+00:00",
+   "count": 2,
+   "sources": [
+    "digitimes",
+    "roboticsandautomationnews.com"
+   ],
+   "score": 1.73
+  },
+  {
+   "title": "パートナー企業が告白 企業のAI活用支援を",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYVFZYzJZMTBocFVsNVdVc1FUNHA3SkJwWDRUNThXV2twNFNidGNfMFJYQWJZeHVWbUlyd1phajVUc2ZsZUM0ei1TZElTUEQwSVp1Zi03ZUg4a0tsaDNaekZFTGI1RDlzNVRHV01xaG9GNXdCTThMWWNqd2d6ZmhxQVFUWlkwRU9KRXlCazYzVF9hMHhRRGIyeWZIdllBVXE5?oc=5",
    "source": "日経クロステック",
-   "published": "2026-08-03T22:00:00+00:00",
+   "published": "2026-08-04T22:02:00+00:00",
    "count": 1,
    "sources": [
     "日経クロステック"
    ],
    "score": 1.0
-  },
-  {
-   "title": "B.C. researchers use humanoid robot to study children's learning",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUGV0NzZfallnam5PUWV4ckZfcUpCVG9KdTE0cmtXS283SklHWjR1ZVRHNGJQUVBQb05jU0U5Mk5US1VtSFVHWUtPWS1nWWZMZkRLOHZ1M3F0ZnJRTjhrbllvNDJ4bkpUQW5MRloyeWxUWldDUEljWjhpTHpGUmU4X3JIaVlmZ2lmZUtqa3NFWDZpU09zMWhwTkN4T3U4RHYzVUZhQkszbw?oc=5",
-   "source": "North Shore News",
-   "published": "2026-08-03T22:00:00+00:00",
-   "count": 1,
-   "sources": [
-    "North Shore News"
-   ],
-   "score": 1.0
-  },
-  {
-   "title": "中国製ロボットを締め出す米国、 その研究は中国製で回っている",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRGsyZ3dmWm0tY2xYQWFUWUNCcUs5Qkg2MlBHYWYtYloycV80WnROUFJ1QVVua0wwLTZaTzJ5UkYzakV3d29UTW1NZHlnLXByRUZ2RUlnZmtmV1BiX21hZnJPUFIwRlBxdHFPWllnQWtWMjJXZU5DWTFwWmtUWU9meVFldl9HR002ZGJ0bS01X0g?oc=5",
-   "source": "MITテクノロジーレビュー",
-   "published": "2026-08-03T21:54:09+00:00",
-   "count": 1,
-   "sources": [
-    "MITテクノロジーレビュー"
-   ],
-   "score": 1.0
   }
  ],
  "hot_news": [
+  {
+   "title": "安藤ハザマ、神戸高専／フィジカルＡＩ活用した建機自動化で共同研究",
+   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE0yWHZvZm15cU5JbXBQaW1panNDc20wOWlrcktma1gxbEtXS2d6dVJpdTZaTE9EbndBMmhjWGg3UWNMSTBVR1pZ?oc=5",
+   "source": "日刊建設工業新聞",
+   "published": "2026-08-04T21:05:53+00:00",
+   "count": 6,
+   "sources": [
+    "pr-free.jp",
+    "ライブドアニュース",
+    "建設通信新聞Digital",
+    "日刊建設工業新聞",
+    "日本経済新聞"
+   ],
+   "score": 5.91
+  },
+  {
+   "title": "Google DeepMind、ロボット向けAIモデル群「Gemini Robotics 2」発表 ヒューマノイドの全身制御・複数ロボット協働に対応",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UVmNTbDN3WFRocEdRM0MwblFMM0xxU0RfSlFmVlJXRi14TmoyYVR4ckhCNzNpT0t3ejJGaEZJbHFUZEQwYUdsejA1NnhDc2RTdUdha1R4QU1BdnlScTVsblVMR2p3UUEtdWd3?oc=5",
+   "source": "Ledge.ai",
+   "published": "2026-08-04T01:02:53+00:00",
+   "count": 6,
+   "sources": [
+    "ITmedia",
+    "Ledge.ai",
+    "shiritomo",
+    "オルタナティブ・ブログ",
+    "ロボスタ",
+    "財経新聞"
+   ],
+   "score": 4.48
+  },
+  {
+   "title": "Will A.I. be Made Illegal in New York Schools? New Bill Wants Robots Out of Classrooms",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMbG9GLWFJTThuRUpFY2x2UnljSHNLdnVBODJmeFBTZ2dYNHNrN3oyejBDdTEtUkhVTFpZNjNackdfLVFqTFktaUR5T21mZTExcmNnbFY1NXZGaFFTUkdYMQ?oc=5",
+   "source": "cnynews.com",
+   "published": "2026-08-04T20:01:11+00:00",
+   "count": 4,
+   "sources": [
+    "New York Focus",
+    "cnynews.com",
+    "the wellsville sun"
+   ],
+   "score": 3.88
+  },
+  {
+   "title": "FCC Bans Humanoid Robots From China",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWVBb00ydU5LRGFzeGFmcnFKbkppRFRmd0hlb2pQc1RCRE16WVVfaUFGU2tpNjJsV0haeGI5RkNNSUR4dzBCWlRrY0s0R2xqVEtTZkRwUlgxaERld3h4RVg2MGRiR0NxRElEWUg5N25xWXhBRXIyUGNTU2VETEFXdnQ3dlZaS1N3YnlQMDVGcw?oc=5",
+   "source": "The Presidential Prayer Team",
+   "published": "2026-08-03T09:00:00+00:00",
+   "count": 5,
+   "sources": [
+    "Briefs Finance",
+    "CNBC",
+    "The New York Times",
+    "The News International",
+    "The Presidential Prayer Team"
+   ],
+   "score": 2.98
+  },
   {
    "title": "中国製ロボットを締め出す米国、 その研究は中国製で回っている",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRGsyZ3dmWm0tY2xYQWFUWUNCcUs5Qkg2MlBHYWYtYloycV80WnROUFJ1QVVua0wwLTZaTzJ5UkYzakV3d29UTW1NZHlnLXByRUZ2RUlnZmtmV1BiX21hZnJPUFIwRlBxdHFPWllnQWtWMjJXZU5DWTFwWmtUWU9meVFldl9HR002ZGJ0bS01X0g?oc=5",
@@ -321,35 +385,19 @@
     "VOI.ID",
     "Vietnam.vn"
    ],
-   "score": 3.99
+   "score": 2.86
   },
   {
-   "title": "三菱自動車、ヒューマノイドロボット量産へ！「未来の工場」はクルマづくりをどう変えるのか【写真・2枚目】 - motor-fan.jp",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RcndNb0k3blRLRFBNM0xHSVZWSHlBOW5MNGI4bFhyYXRVbkpjSFhmdmFIVEU2Y2JDYmpFZ041UE42OTRRdmFYM1lCMGxreng3aUJYM1pZS2NlRWhHWFNMQkJUZw?oc=5",
-   "source": "motor-fan.jp",
-   "published": "2026-08-01T13:49:35+00:00",
-   "count": 8,
+   "title": "「びっくりした!」園児の前でヒューマノイドロボットが華麗なダンスを披露 山梨・南アルプス市（UTYテレビ山梨）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4Sk1BSUQ5ZkdTcDNKS19ZcjlIdUtsSGFRYjdRVjhaUU82M3pUUllUVUMyR05TUHZlTG10YUVRNXdLNk01RDBmTzNuLWVvYlpDcVJ6TzdDMnlNQm15M2NiZU9hZ2duYXhvOVVfeXJrcVRLeWt3WHhPYnlHcnduNTg?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-08-04T11:03:16+00:00",
+   "count": 3,
    "sources": [
-    "Motor Fan",
-    "Yahoo!ニュース",
-    "motor-fan.jp",
-    "モーターファン"
+    "TBS NEWS DIG",
+    "Yahoo!ニュース"
    ],
-   "score": 3.66
-  },
-  {
-   "title": "Byd to unveil functional humanoid robots in august",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVV8yd2lLeFo1QVpDU2pORldJYUNfYTgxWU1ZaVQyeENmemZCY1FSS0xzZGFXcEJwbmI4RTlsUk1pdlcwV2pDZDhFOWxtaVNGR21RSkJHU3JIS0VDNnl3dm52QlFmYkxwOHpRc2locUxrSGkwYlFpblZISlpTTUludlVUdGNOVURyT1BKOXRZMXItZnc1cEQ3ejVNSQ?oc=5",
-   "source": "Interesting Engineering",
-   "published": "2026-08-03T05:32:00+00:00",
-   "count": 4,
-   "sources": [
-    "Benzinga",
-    "Gasgoo",
-    "Interesting Engineering",
-    "South China Morning Post"
-   ],
-   "score": 3.18
+   "score": 2.57
   },
   {
    "title": "米国が中国製ヒューマノイドと四足ロボットの輸入禁止を発表、業界に打撃",
@@ -363,7 +411,20 @@
     "Межа. Новини України.",
     "ｄメニューニュース"
    ],
-   "score": 3.17
+   "score": 2.27
+  },
+  {
+   "title": "Ant Group AI unit Robbyant seeks $222m funding",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQkJVRVplZW1RNTNpbGJQSm1Vako4d3c1a3dlMWlqbFpmX19QWXh3RmJPRXgwQjd5WmdMV0dpcE1DQ1FpaEZ2V0tRc1RicVdjWjBPRmhvdmI1cEZMUVZnWExaUE1lbFd4blBqamZKdW52MF8yN1VHOTI2eEswUnMtbC1mcw?oc=5",
+   "source": "techinasia.com",
+   "published": "2026-08-04T00:06:00+00:00",
+   "count": 3,
+   "sources": [
+    "South China Morning Post",
+    "The Standard (HK)",
+    "techinasia.com"
+   ],
+   "score": 2.21
   },
   {
    "title": "北九州市のフィジカルAI産業計画、国の「地域未来戦略」第1弾に認定",
@@ -376,7 +437,7 @@
     "東京報道新聞",
     "毎日新聞"
    ],
-   "score": 3.09
+   "score": 2.21
   },
   {
    "title": "豊電子工業 自律移動型ロボ開発 フィジカルＡＩ搭載 来春発売へ（中部経済新聞）",
@@ -389,70 +450,11 @@
     "Yahoo!ニュース",
     "chukei-news.co.jp"
    ],
-   "score": 2.79
-  },
-  {
-   "title": "Google DeepMind says Gemini Robotics 2 enables full body control",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUGhTUndQdUxFX3R6a1ZUTHV5ZkkweFE0bFAtSUE3cFF5QWU2NGg3N1VNRG4yRHgwNHhUR193VG1wcWIzLTExcE9aQnl1MFVtXzNaemt0MEhDS0doSGVvS2NLbGNEX2RXMWJieVh6SlR1SnpDcHFCVk5ZUS1fN1p6V1ctS1k3dUNlNWNjYzQxMWR2TlhEV1prajR1OUQ?oc=5",
-   "source": "The Robot Report",
-   "published": "2026-08-02T12:45:09+00:00",
-   "count": 4,
-   "sources": [
-    "Northeast Times",
-    "RoboZaps",
-    "Robotics & Automation News",
-    "The Robot Report"
-   ],
-   "score": 2.52
-  },
-  {
-   "title": "Google DeepMind、単一AIでヒューマノイド全身を制御する「Gemini Robotics 2」",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yV1Nfb19fRHFPRlE0ZFF0QWFmN3NlanVNeVR5eWIySlBJSWZWNDk1QXlabmtZcHJMY2RlNFBRWnZjb29wT2w1eWtkWWdIR3AtQTZaak9Hb3hNSXdRVW9raWxPQdIBaEFVX3lxTE5ZNWthbE5DdGVMM3RuMEJiNno5ajBfVmlyMHdkdXg4NEdMRUdRRzVicWxDVm9IQUNmQXpIeXYzS1ZmX1NoSFZyR19DOWtnRC1jQ1dSMVJMcGpnbUx3MGxDVmhGdWt5SkQw?oc=5",
-   "source": "財経新聞",
-   "published": "2026-07-31T17:02:02+00:00",
-   "count": 7,
-   "sources": [
-    "AI Magazine",
-    "FabScene",
-    "ITmedia",
-    "shiritomo",
-    "オルタナティブ・ブログ",
-    "ロボスタ"
-   ],
-   "score": 2.4
-  },
-  {
-   "title": "Trump Admin Bans New Chinese Humanoid Robots and Power Inverters Citing National Security Concerns",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOVpHUXd3X2FLYmdzUFpLd2JUWG45VGVlNlhtWlJRZ3FSXzN2RzRvbWJvSmdkcDhMemo0OFMtRVUxOWpnZDd6SWJjTWtTdWotM3FkRmlNU0ktYUpnME9iOXVpZUc4OERmU3A5blZCVWpkal85WWRFUnhoWWs2UW9CQlE5ZHAydWRZZXdyZDdJN2NNTU5qWnBYUkhGbFZUZXdqWUJfSGRUOWdXQ1JNc18yaHMydDdGeW1oRnA1QXU0c2dEbDdUTkRz?oc=5",
-   "source": "Latin Times",
-   "published": "2026-07-30T15:37:31+00:00",
-   "count": 9,
-   "sources": [
-    "Business Insider",
-    "Firstpost",
-    "Gamereactor UK",
-    "Latin Times",
-    "New York Post",
-    "Ratopati"
-   ],
-   "score": 2.17
-  },
-  {
-   "title": "B.C. researchers use humanoid robot to study children's learning",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUGV0NzZfallnam5PUWV4ckZfcUpCVG9KdTE0cmtXS283SklHWjR1ZVRHNGJQUVBQb05jU0U5Mk5US1VtSFVHWUtPWS1nWWZMZkRLOHZ1M3F0ZnJRTjhrbllvNDJ4bkpUQW5MRloyeWxUWldDUEljWjhpTHpGUmU4X3JIaVlmZ2lmZUtqa3NFWDZpU09zMWhwTkN4T3U4RHYzVUZhQkszbw?oc=5",
-   "source": "North Shore News",
-   "published": "2026-08-03T22:00:00+00:00",
-   "count": 2,
-   "sources": [
-    "North Shore News",
-    "The Spec"
-   ],
    "score": 2.0
   }
  ],
  "trend": {
   "dates": [
-   "2026-07-05",
    "2026-07-06",
    "2026-07-07",
    "2026-07-08",
@@ -481,14 +483,14 @@
    "2026-07-31",
    "2026-08-01",
    "2026-08-02",
-   "2026-08-03"
+   "2026-08-03",
+   "2026-08-04"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     2,
      6,
      12,
      33,
@@ -517,14 +519,14 @@
      31,
      2,
      5,
-     21
+     21,
+     24
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     7,
      14,
      14,
      35,
@@ -550,17 +552,17 @@
      28,
      40,
      32,
-     19,
+     20,
      9,
      18,
-     14
+     17,
+     29
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     8,
      4,
      8,
      11,
@@ -586,17 +588,17 @@
      4,
      6,
      3,
-     4,
+     5,
      1,
      1,
-     3
+     3,
+     5
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     7,
      15,
      17,
      16,
@@ -624,15 +626,15 @@
      46,
      33,
      8,
-     9,
-     25
+     10,
+     29,
+     15
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     3,
      5,
      12,
      23,
@@ -657,11 +659,12 @@
      6,
      14,
      25,
+     23,
      22,
-     21,
      5,
      5,
-     5
+     9,
+     15
     ]
    }
   ]
@@ -683,7 +686,7 @@
    "name": "GOOGLE LLC",
    "core": "GOOGLE",
    "patents": 275,
-   "news": 29
+   "news": 30
   },
   {
    "name": "HONDA MOTOR CO LTD",
@@ -707,7 +710,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 156
+   "news": 160
   },
   {
    "name": "QUALCOMM INC",
