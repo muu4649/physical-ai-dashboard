@@ -1,48 +1,48 @@
 {
- "updated_at": "2026-08-05T22:09:35.574407+00:00",
+ "updated_at": "2026-08-07T01:00:37.548520+00:00",
  "kpi": {
-  "articles_7d": 581,
-  "articles_prev_7d": 748,
-  "sources_7d": 333,
-  "articles_30d": 3123,
-  "total_articles": 3438,
+  "articles_7d": 520,
+  "articles_prev_7d": 760,
+  "sources_7d": 312,
+  "articles_30d": 3143,
+  "total_articles": 3538,
   "oldest_news": "2025-12-18"
  },
  "wordcloud": [
   [
+   "unitree",
+   29
+  ],
+  [
    "china",
-   37
-  ],
-  [
-   "中国",
-   33
-  ],
-  [
-   "gemini",
-   27
+   29
   ],
   [
    "開発",
-   27
-  ],
-  [
-   "google",
    25
   ],
   [
-   "ban",
-   22
+   "中国",
+   25
   ],
   [
-   "amd",
-   20
+   "現場",
+   21
+  ],
+  [
+   "gemini",
+   19
+  ],
+  [
+   "google",
+   18
   ],
   [
    "nvidia",
    18
   ],
   [
-   "活用",
+   "ipo",
    18
   ],
   [
@@ -50,43 +50,27 @@
    18
   ],
   [
-   "unitree",
-   17
+   "活用",
+   16
   ],
   [
    "企業",
    16
   ],
   [
-   "deepmind",
-   14
-  ],
-  [
-   "現場",
-   14
-  ],
-  [
-   "米国",
-   14
-  ],
-  [
-   "研究",
-   13
-  ],
-  [
-   "量産",
-   13
-  ],
-  [
-   "aai",
-   13
-  ],
-  [
-   "chinese",
-   12
-  ],
-  [
    "工場",
+   14
+  ],
+  [
+   "データ",
+   13
+  ],
+  [
+   "業界",
+   13
+  ],
+  [
+   "未来",
    12
   ],
   [
@@ -94,11 +78,31 @@
    12
   ],
   [
-   "製造",
+   "実装",
+   12
+  ],
+  [
+   "研究",
+   12
+  ],
+  [
+   "開催",
+   12
+  ],
+  [
+   "deepmind",
    11
   ],
   [
-   "未来",
+   "Gemini",
+   11
+  ],
+  [
+   "NVIDIA",
+   11
+  ],
+  [
+   "ban",
    11
   ],
   [
@@ -110,47 +114,59 @@
    11
   ],
   [
-   "Gemini",
+   "chinese",
    11
   ],
   [
-   "model",
+   "raises",
+   11
+  ],
+  [
+   "国産",
+   11
+  ],
+  [
+   "共同",
    10
   ],
   [
-   "戦略",
-   10
-  ],
-  [
-   "世界",
-   10
-  ],
-  [
-   "データ",
-   10
-  ],
-  [
-   "NVIDIA",
-   10
-  ],
-  [
-   "禁止",
-   10
-  ],
-  [
-   "業界",
+   "量産",
    10
   ],
   [
    "world",
-   9
+   10
   ],
   [
    "data",
+   10
+  ],
+  [
+   "billion",
+   10
+  ],
+  [
+   "神戸",
+   10
+  ],
+  [
+   "高専",
+   10
+  ],
+  [
+   "ハザマ",
+   10
+  ],
+  [
+   "安藤",
+   10
+  ],
+  [
+   "maker",
    9
   ],
   [
-   "注目",
+   "半導体",
    9
   ],
   [
@@ -158,27 +174,7 @@
    9
   ],
   [
-   "次世代",
-   9
-  ],
-  [
-   "共同",
-   9
-  ],
-  [
-   "安藤",
-   9
-  ],
-  [
-   "神戸",
-   9
-  ],
-  [
-   "高専",
-   9
-  ],
-  [
-   "ハザマ",
+   "top",
    9
   ],
   [
@@ -186,39 +182,23 @@
    8
   ],
   [
-   "growth",
+   "report",
    8
   ],
   [
-   "live",
+   "market",
    8
   ],
   [
-   "時代",
+   "amd",
    8
   ],
   [
-   "投資",
+   "戦略",
    8
   ],
   [
-   "提携",
-   8
-  ],
-  [
-   "実装",
-   8
-  ],
-  [
-   "Google",
-   8
-  ],
-  [
-   "startups",
-   8
-  ],
-  [
-   "全身",
+   "社会",
    8
   ],
   [
@@ -226,109 +206,184 @@
    8
   ],
   [
+   "全身",
+   8
+  ],
+  [
+   "次世代",
+   8
+  ],
+  [
    "搭載",
    8
   ],
   [
-   "top",
+   "製造",
    8
   ],
   [
-   "deployment",
-   7
+   "拠点",
+   8
   ],
   [
-   "industrial",
-   7
+   "business",
+   8
   ],
   [
-   "future",
-   7
+   "世界",
+   8
   ],
   [
-   "市場",
+   "ceo",
+   8
+  ],
+  [
+   "yuan",
+   8
+  ],
+  [
+   "建設",
+   8
+  ],
+  [
+   "technology",
    7
   ]
  ],
  "today_top5": [
   {
-   "title": "医療現場支える新戦力に? 働く“ヒューマノイドロボット”が始動（FNNプライムオンライン（フジテレビ系））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83S2tKZy1PVUJXT3FyRGJIRGlSUE5oNTJYLXhVbUFvSjZsRVBoOHlOTk1kS2ZCTktZSUs5SFdpdXE2OEN5M3M1LVdPYkpnOHktYWJoSEJSTDBRbGE0TE01TUNCaWkzUGtPR2o2aERqWnI4a1d2eXJGWFZQS0tQR1k?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-08-05T15:20:18+00:00",
+   "title": "Chinese Robot Maker To IPO At $9 Billion Valuation. How It Compares To Tesla's Optimus.",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeWRuY0FETUdBUFY5SzQ2RjlWamlLNmZiTEttZnVfTjBrZmRpR3Y4a0dLaUNfRFZQX01RRkNCLVo3VG9ORUk5am02RUtkR19qeGdRY25WMEk0YV9lVllqX29pTzB4dUItakJpYnB5eUEtbjk5Ul9CNzFPS2hIMUhVbnd3?oc=5",
+   "source": "Investor's Business Daily",
+   "published": "2026-08-06T20:00:00+00:00",
+   "count": 4,
+   "sources": [
+    "CNBC",
+    "Investor's Business Daily",
+    "LIGA.net",
+    "Межа. Новини України."
+   ],
+   "score": 3.73
+  },
+  {
+   "title": "【無料30分課題解決セッション開催 9/2 14:00-｜化学・素材業界向け】『フィジカルAIで課題解決！後付けAMRで多様な人材が輝く工場へ』",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HZEdxTXJ6RWEzeHR2WTdURGlfWE01M1preVc1dHlCMkNTTmYwVEhyZXY3UWFwQzQxaVpxOFY4dDhqdy1fMHp1RDVxMkJOeGNXSEUxRnN6Wm5tLUE?oc=5",
+   "source": "valuepress",
+   "published": "2026-08-06T23:00:00+00:00",
    "count": 3,
    "sources": [
-    "FNNプライムオンライン",
-    "Yahoo!ニュース",
-    "news.livedoor.com"
+    "iza.ne.jp",
+    "valuepress"
    ],
-   "score": 2.73
+   "score": 2.92
   },
   {
-   "title": "国産の人型ロボット発表 人手不足深刻化の医療・製造現場などでの活用想定",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zbENFVHVsVFFDQ1lIU2wxOTYzVzVVMWpqcWRfdjJoUWVTb0JoY09tRkhZa05SVXVHdHlrc2wyS2s4UXl4WTN1cFlwSXdYTnExelBOMGljY285c0ZKY2tUMTlnajZMRW9xdUxmX1hB?oc=5",
-   "source": "au Webポータル",
-   "published": "2026-08-05T12:43:46+00:00",
-   "count": 2,
+   "title": "China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LbkJPUnUyQXIzRHQ0MXhIenM5M3d2SFlQZllBTngyWUUyT3lhYXdONERXUVNOOW4ydDQwQlBrcW5hTUtydmtObmt1aU9HTG1IVUNBWDZzR1VjRENaSjZrR2tSVGg3Mk5ZX1lmdUhOZXJVWjNocjVGR3VYSW0?oc=5",
+   "source": "The New York Times",
+   "published": "2026-08-06T14:51:22+00:00",
+   "count": 3,
    "sources": [
-    "Yahoo!ニュース",
-    "au Webポータル"
+    "Finimize",
+    "The New York Times",
+    "The Next Web"
    ],
-   "score": 1.75
+   "score": 2.61
   },
   {
-   "title": "フィジカルAI×人型ロボで建機自動化 安藤ハザマと神戸高専が共同研究開始：i-Construction 2.0",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CdEFWQjJIajlZUlpRakFsTjBBZDZ6ZmRVTW5RRHhvMWRPWHRwM2pFaUJEcTJxR05zY0JlaU5tT1prRS0zMzJRc2JIRmRMQkdrRjdxY1JxZ0JnQW1IUWNXQlZ5RmZydFBkM3dXeA?oc=5",
-   "source": "ITmedia",
-   "published": "2026-08-05T08:00:00+00:00",
-   "count": 2,
+   "title": "建設現場におけるフィジカルAIへの期待 建設インフラへのフィジカルAIの社会実装（1）",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IaGVpQ3RHVGF3dHN4azJTbHZYbVJIYUphdmlVZU9BczRMWEkwZ2E3TEthQzNxMGdNMk1jMExPbE1TaDNoQk9DTExuc1A2T1pFNk5QcHBPQkVJZ2NNQ3lEckh3?oc=5",
+   "source": "mri.co.jp",
+   "published": "2026-08-06T02:06:39+00:00",
+   "count": 3,
    "sources": [
-    "ITmedia",
-    "digital-construction.jp"
+    "mri.co.jp"
    ],
-   "score": 1.64
+   "score": 2.18
   },
   {
-   "title": "【8/27 セミナー開催】【インテリア・家具・建材業界向け】『フィジカルAIで人手不足解決！ 選ばれる工場へ』",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5NSEhnZ3hrd0oxb0EzakkzSkduYll5ZEFGanMxTm5TNTN3VF96VkNuNTJ3ZUJDdUZMWGl4TFF6dllhYUNmRExrTURYVzZobVJHS2hEM0Q4Tkg4dHVqbkhrdVBxejBVWVNkaGFN?oc=5",
-   "source": "時事ドットコム",
-   "published": "2026-08-05T07:45:00+00:00",
+   "title": "二足歩行をあえて捨てたヒューマノイド、ZEALS「D1」が賭ける現場データの力学",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqWEc4a2cwYVhWanJRNzRLQlF0b2VIMzZwU1dVcVFUeUFQdDh5UUdVNmYzbmVNZjBRZkhBWDJHdHRtX3lud3BKSDc0a0pnRUx6cFRSYlBjMnRpOHF5RzJTNWFGS2tjWE1hMjlVN3dJTnJfTEYyWGJjVA?oc=5",
+   "source": "XenoSpectrum",
+   "published": "2026-08-06T22:14:08+00:00",
    "count": 2,
    "sources": [
-    "PR TIMES",
-    "時事ドットコム"
+    "XenoSpectrum",
+    "shiritomo"
    ],
-   "score": 1.64
-  },
-  {
-   "title": "APTO、「AI博覧会 Summer 2026」に出展。AI開発を支える高品質データ基盤とPhysical AI向けデータセット開発の取り組みを紹介",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ucXRSc1JLT01TZmplSE11VUFSNTdmdmh2ckE5Qld3cWttQ01pcDRMLUlEQVgzdUN0YW04ZlI1aWFoVHFqT3JJMVlwc29QM1I2NzZ3T2JMV3NXd1dYVVVfOHp3VnI5MmIxVnhraEhNRUhHdw?oc=5",
-   "source": "クレアウェブ",
-   "published": "2026-08-05T04:22:36+00:00",
-   "count": 2,
-   "sources": [
-    "クレアウェブ",
-    "ロボスタ"
-   ],
-   "score": 1.56
+   "score": 1.92
   }
  ],
  "hot_news": [
   {
-   "title": "フィジカルAI×人型ロボで建機自動化 安藤ハザマと神戸高専が共同研究開始：i-Construction 2.0",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CdEFWQjJIajlZUlpRakFsTjBBZDZ6ZmRVTW5RRHhvMWRPWHRwM2pFaUJEcTJxR05zY0JlaU5tT1prRS0zMzJRc2JIRmRMQkdrRjdxY1JxZ0JnQW1IUWNXQlZ5RmZydFBkM3dXeA?oc=5",
-   "source": "ITmedia",
-   "published": "2026-08-05T08:00:00+00:00",
-   "count": 7,
+   "title": "安藤ハザマと神戸高専、建設工事へのフィジカルAI活用で共同研究を開始",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IR3BCWUttSGQxYVBFTEtvWFViWWdFSnREbDhQRF9QSnRTVUpJQm9xbmtZWUlacV9oTmUybHdJZ3pkT0M4Nm00eGM0UVZFY2JJcmd3Si1R?oc=5",
+   "source": "ICT教育ニュース",
+   "published": "2026-08-06T01:32:18+00:00",
+   "count": 8,
    "sources": [
+    "ICT教育ニュース",
     "ITmedia",
     "digital-construction.jp",
     "pr-free.jp",
     "アットプレス",
-    "ライブドアニュース",
-    "建設通信新聞Digital"
+    "ライブドアニュース"
    ],
-   "score": 5.75
+   "score": 5.77
+  },
+  {
+   "title": "Chinese Robot Maker To IPO At $9 Billion Valuation. How It Compares To Tesla's Optimus.",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeWRuY0FETUdBUFY5SzQ2RjlWamlLNmZiTEttZnVfTjBrZmRpR3Y4a0dLaUNfRFZQX01RRkNCLVo3VG9ORUk5am02RUtkR19qeGdRY25WMEk0YV9lVllqX29pTzB4dUItakJpYnB5eUEtbjk5Ul9CNzFPS2hIMUhVbnd3?oc=5",
+   "source": "Investor's Business Daily",
+   "published": "2026-08-06T20:00:00+00:00",
+   "count": 6,
+   "sources": [
+    "CNBC",
+    "Investor's Business Daily",
+    "LIGA.net",
+    "Reuters",
+    "Межа. Новини України."
+   ],
+   "score": 5.6
+  },
+  {
+   "title": "【無料30分課題解決セッション開催 9/2 14:00-｜化学・素材業界向け】『フィジカルAIで課題解決！後付けAMRで多様な人材が輝く工場へ』",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HZEdxTXJ6RWEzeHR2WTdURGlfWE01M1preVc1dHlCMkNTTmYwVEhyZXY3UWFwQzQxaVpxOFY4dDhqdy1fMHp1RDVxMkJOeGNXSEUxRnN6Wm5tLUE?oc=5",
+   "source": "valuepress",
+   "published": "2026-08-06T23:00:00+00:00",
+   "count": 4,
+   "sources": [
+    "PR TIMES",
+    "iza.ne.jp",
+    "valuepress"
+   ],
+   "score": 3.89
+  },
+  {
+   "title": "STATE: New bill would ban humanoid robots in schools after New York Focus report - Press-Republican",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdkJkQ2ljVzZIZG1SSXBkX2FQSUJSTllyZlBEYkJfQ0lZUTAzeEE1enJKelhtdkIwVEZkdkdpVnczYlVhWkl1QmZqel9PNU1IS2N3WkVqNG9pcFA5akt0cXhFb2w1UWp3clRPWHV5ZHlLVEpaY1VPeTA3NmM2ZmNPNHFYUTZmYVlQYkhjZnNpaXAzSTNnTF93RjRpT2RMZkNJb0JER2FLS1M2SEdTb3JDSTNTelNkNU5Fc0ZQZmRkRmNKbFlOcUxUd2lMQk5HLVFKUlQ0U1B1eExNNlhlVGp5NTJfdFlpRDVLMzRkSDE3QnZxbmdvMmtJdlFn?oc=5",
+   "source": "Press-Republican",
+   "published": "2026-08-06T21:01:00+00:00",
+   "count": 4,
+   "sources": [
+    "New York Focus",
+    "Press-Republican",
+    "the wellsville sun"
+   ],
+   "score": 3.78
+  },
+  {
+   "title": "China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LbkJPUnUyQXIzRHQ0MXhIenM5M3d2SFlQZllBTngyWUUyT3lhYXdONERXUVNOOW4ydDQwQlBrcW5hTUtydmtObmt1aU9HTG1IVUNBWDZzR1VjRENaSjZrR2tSVGg3Mk5ZX1lmdUhOZXJVWjNocjVGR3VYSW0?oc=5",
+   "source": "The New York Times",
+   "published": "2026-08-06T14:51:22+00:00",
+   "count": 3,
+   "sources": [
+    "Finimize",
+    "The New York Times",
+    "The Next Web"
+   ],
+   "score": 2.61
   },
   {
    "title": "Google DeepMind、ロボット向けAIモデル群「Gemini Robotics 2」発表 ヒューマノイドの全身制御・複数ロボット協働に対応",
@@ -344,20 +399,42 @@
     "ロボスタ",
     "財経新聞"
    ],
-   "score": 3.21
+   "score": 2.21
   },
   {
-   "title": "Will A.I. be Made Illegal in New York Schools? New Bill Wants Robots Out of Classrooms",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMbG9GLWFJTThuRUpFY2x2UnljSHNLdnVBODJmeFBTZ2dYNHNrN3oyejBDdTEtUkhVTFpZNjNackdfLVFqTFktaUR5T21mZTExcmNnbFY1NXZGaFFTUkdYMQ?oc=5",
-   "source": "cnynews.com",
-   "published": "2026-08-04T20:01:11+00:00",
-   "count": 4,
+   "title": "建設現場におけるフィジカルAIへの期待 建設インフラへのフィジカルAIの社会実装（1）",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IaGVpQ3RHVGF3dHN4azJTbHZYbVJIYUphdmlVZU9BczRMWEkwZ2E3TEthQzNxMGdNMk1jMExPbE1TaDNoQk9DTExuc1A2T1pFNk5QcHBPQkVJZ2NNQ3lEckh3?oc=5",
+   "source": "mri.co.jp",
+   "published": "2026-08-06T02:06:39+00:00",
+   "count": 3,
    "sources": [
-    "New York Focus",
-    "cnynews.com",
-    "the wellsville sun"
+    "mri.co.jp"
    ],
-   "score": 2.78
+   "score": 2.18
+  },
+  {
+   "title": "二足歩行をあえて捨てたヒューマノイド、ZEALS「D1」が賭ける現場データの力学",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqWEc4a2cwYVhWanJRNzRLQlF0b2VIMzZwU1dVcVFUeUFQdDh5UUdVNmYzbmVNZjBRZkhBWDJHdHRtX3lud3BKSDc0a0pnRUx6cFRSYlBjMnRpOHF5RzJTNWFGS2tjWE1hMjlVN3dJTnJfTEYyWGJjVA?oc=5",
+   "source": "XenoSpectrum",
+   "published": "2026-08-06T22:14:08+00:00",
+   "count": 2,
+   "sources": [
+    "XenoSpectrum",
+    "shiritomo"
+   ],
+   "score": 1.92
+  },
+  {
+   "title": "HII signs up to $900M agreement with Path Robotics, GrayMatter Robotics",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV3Q3X1k5SDRaWkZMdjhXSVRucGNJckU2X3I4Wk5UeVpHT282Y2hTOFE1R1UxZTZ1WlBtMFRmYWR3LXdmeDE3WE1sbTJIaVYyUk0zY0FOdGcyRnBfTzc2VWN4WHVtZlBhNktUZHJ5US1tM1FUUlZLMnZ2SkE4S1R3WHc5Yng1b2VTZ3RHZFNnN0RuZ2dSd0RNNURJUGk5bFpkZ3NV?oc=5",
+   "source": "The Robot Report",
+   "published": "2026-08-06T20:25:15+00:00",
+   "count": 2,
+   "sources": [
+    "HII",
+    "The Robot Report"
+   ],
+   "score": 1.88
   },
   {
    "title": "医療現場支える新戦力に? 働く“ヒューマノイドロボット”が始動（FNNプライムオンライン（フジテレビ系））",
@@ -370,89 +447,11 @@
     "Yahoo!ニュース",
     "news.livedoor.com"
    ],
-   "score": 2.73
-  },
-  {
-   "title": "Israel Launches National Quantum Computer Tender as Part of Broader AI Sovereignty Strategy",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLVFWZFMyRXdRbjR6YVJNNVl2TVQ0N0sxQlpGcW1hQWJtWUs5TVQteVNYbDl4SlA1ZUhIQ1A1bzhZQWFPRFVzQUtEU2Y5bVVxVTVGU3BFMlM5RDVQU2lBUnBwaUdoQUkyRHk2cThTeng3dUE3UEhxRjhEcTFPQXFhdG1QRWxRZlliZk1TcDVmdjR0dFp1RTZQamd0OTd3VFNkNXIySmtRR1A5OW5PeFI1T3lCSEU2OEhmbGMzVnRpeS1Qb2o4blI3eHRyX0FLQQ?oc=5",
-   "source": "The Quantum Insider",
-   "published": "2026-08-05T08:01:48+00:00",
-   "count": 3,
-   "sources": [
-    "The Quantum Insider",
-    "calcalistech.com",
-    "ynetnews.com"
-   ],
-   "score": 2.47
-  },
-  {
-   "title": "FCC Bans Humanoid Robots From China",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWVBb00ydU5LRGFzeGFmcnFKbkppRFRmd0hlb2pQc1RCRE16WVVfaUFGU2tpNjJsV0haeGI5RkNNSUR4dzBCWlRrY0s0R2xqVEtTZkRwUlgxaERld3h4RVg2MGRiR0NxRElEWUg5N25xWXhBRXIyUGNTU2VETEFXdnQ3dlZaS1N3YnlQMDVGcw?oc=5",
-   "source": "The Presidential Prayer Team",
-   "published": "2026-08-03T09:00:00+00:00",
-   "count": 5,
-   "sources": [
-    "Briefs Finance",
-    "CNBC",
-    "The New York Times",
-    "The News International",
-    "The Presidential Prayer Team"
-   ],
-   "score": 2.14
-  },
-  {
-   "title": "SSE Steel Fabrication’s humanoid robot pilot program gets underway",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPV1phZi1lMTRJcVBqalg5V2Q5MDdLNFRWVXJnd1B2NXV2M2lmRzB3c1h3ZFFEQmt4VGY0RHZHVUd5X0JuZnJsNFhTSVJfcC1KcGlNTkp1Y29hV3V3alk1eFFhUXlFSVl6d3VDY0x4M2xLTzI2amZJRFVzajRNS0JVUFhZampRc2t0UlFCUWo5VVcyRmR5R2dfZnRoMUVKdTcteDMwUlBQNTNab3JacUV6d3Jn?oc=5",
-   "source": "10/12 Industry Report",
-   "published": "2026-08-05T21:03:57+00:00",
-   "count": 2,
-   "sources": [
-    "10/12 Industry Report",
-    "Biz New Orleans"
-   ],
-   "score": 1.97
-  },
-  {
-   "title": "「びっくりした!」園児の前でヒューマノイドロボットが華麗なダンスを披露 山梨・南アルプス市（UTYテレビ山梨）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB4Sk1BSUQ5ZkdTcDNKS19ZcjlIdUtsSGFRYjdRVjhaUU82M3pUUllUVUMyR05TUHZlTG10YUVRNXdLNk01RDBmTzNuLWVvYlpDcVJ6TzdDMnlNQm15M2NiZU9hZ2duYXhvOVVfeXJrcVRLeWt3WHhPYnlHcnduNTg?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-08-04T11:03:16+00:00",
-   "count": 3,
-   "sources": [
-    "TBS NEWS DIG",
-    "Yahoo!ニュース"
-   ],
-   "score": 1.84
-  },
-  {
-   "title": "Mitsubishi to mass-produce 1,000 humanoid robots monthly at unused engine line",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ19qNll1eTkyZ1p5MWp2N0RiZVNGOEM5WTJENlNsY3ZFVjBiZjBWdGtoa2FyTlJudzAyZHZoRjEwbkw1d3lrZnNaY0JIS01uWWhJM3B2NDFlcFhYc3JFZUN4TVU3a3lRNmk3ODItVzdIU2pSeUtGNmV6MFpfV004eVZsNmtiQVkyWWp6VXBB?oc=5",
-   "source": "Interesting Engineering",
-   "published": "2026-08-05T12:55:00+00:00",
-   "count": 2,
-   "sources": [
-    "Interesting Engineering",
-    "assemblymag.com"
-   ],
-   "score": 1.76
-  },
-  {
-   "title": "国産の人型ロボット発表 人手不足深刻化の医療・製造現場などでの活用想定",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0zbENFVHVsVFFDQ1lIU2wxOTYzVzVVMWpqcWRfdjJoUWVTb0JoY09tRkhZa05SVXVHdHlrc2wyS2s4UXl4WTN1cFlwSXdYTnExelBOMGljY285c0ZKY2tUMTlnajZMRW9xdUxmX1hB?oc=5",
-   "source": "au Webポータル",
-   "published": "2026-08-05T12:43:46+00:00",
-   "count": 2,
-   "sources": [
-    "Yahoo!ニュース",
-    "au Webポータル"
-   ],
-   "score": 1.75
+   "score": 1.88
   }
  ],
  "trend": {
   "dates": [
-   "2026-07-07",
-   "2026-07-08",
    "2026-07-09",
    "2026-07-10",
    "2026-07-11",
@@ -480,15 +479,15 @@
    "2026-08-02",
    "2026-08-03",
    "2026-08-04",
-   "2026-08-05"
+   "2026-08-05",
+   "2026-08-06",
+   "2026-08-07"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     12,
-     33,
      24,
      16,
      10,
@@ -513,18 +512,18 @@
      48,
      31,
      2,
-     5,
+     6,
      22,
-     28,
-     18
+     29,
+     24,
+     20,
+     0
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     14,
-     35,
      28,
      18,
      6,
@@ -551,16 +550,16 @@
      9,
      18,
      18,
-     36,
-     25
+     37,
+     28,
+     22,
+     1
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     8,
-     11,
      9,
      9,
      4,
@@ -588,15 +587,15 @@
      1,
      3,
      6,
-     4
+     4,
+     5,
+     1
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     17,
-     16,
      33,
      30,
      8,
@@ -621,18 +620,18 @@
      46,
      33,
      8,
-     10,
+     11,
      31,
-     20,
-     16
+     21,
+     18,
+     25,
+     0
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     12,
-     23,
      49,
      24,
      6,
@@ -656,11 +655,13 @@
      25,
      23,
      22,
+     6,
      5,
-     5,
-     9,
+     10,
      17,
-     12
+     13,
+     8,
+     1
     ]
    }
   ]
@@ -694,7 +695,7 @@
    "name": "SAMSUNG ELECTRONICS CO LTD",
    "core": "SAMSUNG ELECTRONICS",
    "patents": 260,
-   "news": 26
+   "news": 27
   },
   {
    "name": "X DEV LLC",
@@ -706,7 +707,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 158
+   "news": 157
   },
   {
    "name": "QUALCOMM INC",
