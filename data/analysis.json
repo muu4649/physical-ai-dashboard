@@ -1,124 +1,96 @@
 {
- "updated_at": "2026-08-07T01:00:37.548520+00:00",
+ "updated_at": "2026-08-07T21:35:32.651853+00:00",
  "kpi": {
-  "articles_7d": 520,
-  "articles_prev_7d": 760,
-  "sources_7d": 312,
-  "articles_30d": 3143,
-  "total_articles": 3538,
+  "articles_7d": 480,
+  "articles_prev_7d": 765,
+  "sources_7d": 286,
+  "articles_30d": 3127,
+  "total_articles": 3598,
   "oldest_news": "2025-12-18"
  },
  "wordcloud": [
   [
    "unitree",
-   29
-  ],
-  [
-   "china",
-   29
-  ],
-  [
-   "開発",
-   25
+   32
   ],
   [
    "中国",
+   27
+  ],
+  [
+   "china",
    25
   ],
   [
+   "開発",
+   24
+  ],
+  [
    "現場",
-   21
-  ],
-  [
-   "gemini",
-   19
-  ],
-  [
-   "google",
-   18
-  ],
-  [
-   "nvidia",
-   18
+   22
   ],
   [
    "ipo",
-   18
+   22
+  ],
+  [
+   "nvidia",
+   19
   ],
   [
    "日本",
+   19
+  ],
+  [
+   "企業",
    18
   ],
   [
    "活用",
-   16
+   15
   ],
   [
-   "企業",
-   16
-  ],
-  [
-   "工場",
+   "raises",
    14
   ],
   [
-   "データ",
+   "開催",
+   14
+  ],
+  [
+   "工場",
    13
   ],
   [
    "業界",
-   13
-  ],
-  [
-   "未来",
    12
   ],
   [
-   "産業",
+   "データ",
+   12
+  ],
+  [
+   "world",
+   12
+  ],
+  [
+   "chinese",
+   12
+  ],
+  [
+   "data",
+   12
+  ],
+  [
+   "billion",
    12
   ],
   [
    "実装",
-   12
+   11
   ],
   [
    "研究",
-   12
-  ],
-  [
-   "開催",
-   12
-  ],
-  [
-   "deepmind",
-   11
-  ],
-  [
-   "Gemini",
-   11
-  ],
-  [
-   "NVIDIA",
-   11
-  ],
-  [
-   "ban",
-   11
-  ],
-  [
-   "launches",
-   11
-  ],
-  [
-   "company",
-   11
-  ],
-  [
-   "chinese",
-   11
-  ],
-  [
-   "raises",
    11
   ],
   [
@@ -126,27 +98,23 @@
    11
   ],
   [
+   "business",
+   10
+  ],
+  [
+   "NVIDIA",
+   10
+  ],
+  [
+   "ban",
+   10
+  ],
+  [
+   "launches",
+   10
+  ],
+  [
    "共同",
-   10
-  ],
-  [
-   "量産",
-   10
-  ],
-  [
-   "world",
-   10
-  ],
-  [
-   "data",
-   10
-  ],
-  [
-   "billion",
-   10
-  ],
-  [
-   "神戸",
    10
   ],
   [
@@ -162,11 +130,19 @@
    10
   ],
   [
-   "maker",
+   "神戸",
+   10
+  ],
+  [
+   "世界",
    9
   ],
   [
-   "半導体",
+   "yuan",
+   9
+  ],
+  [
+   "million",
    9
   ],
   [
@@ -174,11 +150,19 @@
    9
   ],
   [
-   "top",
-   9
+   "company",
+   8
   ],
   [
-   "infrastructure",
+   "注目",
+   8
+  ],
+  [
+   "産業",
+   8
+  ],
+  [
+   "top",
    8
   ],
   [
@@ -186,59 +170,7 @@
    8
   ],
   [
-   "market",
-   8
-  ],
-  [
-   "amd",
-   8
-  ],
-  [
-   "戦略",
-   8
-  ],
-  [
-   "社会",
-   8
-  ],
-  [
-   "制御",
-   8
-  ],
-  [
-   "全身",
-   8
-  ],
-  [
-   "次世代",
-   8
-  ],
-  [
-   "搭載",
-   8
-  ],
-  [
-   "製造",
-   8
-  ],
-  [
-   "拠点",
-   8
-  ],
-  [
-   "business",
-   8
-  ],
-  [
-   "世界",
-   8
-  ],
-  [
    "ceo",
-   8
-  ],
-  [
-   "yuan",
    8
   ],
   [
@@ -246,72 +178,136 @@
    8
   ],
   [
-   "technology",
+   "maker",
+   8
+  ],
+  [
+   "機械",
    7
+  ],
+  [
+   "未来",
+   7
+  ],
+  [
+   "tech",
+   7
+  ],
+  [
+   "量産",
+   7
+  ],
+  [
+   "次世代",
+   7
+  ],
+  [
+   "industrial",
+   7
+  ],
+  [
+   "build",
+   7
+  ],
+  [
+   "market",
+   7
+  ],
+  [
+   "race",
+   7
+  ],
+  [
+   "拠点",
+   7
+  ],
+  [
+   "医療",
+   7
+  ],
+  [
+   "round",
+   7
+  ],
+  [
+   "industry",
+   7
+  ],
+  [
+   "社会",
+   7
+  ],
+  [
+   "解決",
+   7
+  ],
+  [
+   "紹介",
+   6
+  ],
+  [
+   "エヌビディア",
+   6
   ]
  ],
  "today_top5": [
   {
-   "title": "Chinese Robot Maker To IPO At $9 Billion Valuation. How It Compares To Tesla's Optimus.",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeWRuY0FETUdBUFY5SzQ2RjlWamlLNmZiTEttZnVfTjBrZmRpR3Y4a0dLaUNfRFZQX01RRkNCLVo3VG9ORUk5am02RUtkR19qeGdRY25WMEk0YV9lVllqX29pTzB4dUItakJpYnB5eUEtbjk5Ul9CNzFPS2hIMUhVbnd3?oc=5",
-   "source": "Investor's Business Daily",
-   "published": "2026-08-06T20:00:00+00:00",
-   "count": 4,
-   "sources": [
-    "CNBC",
-    "Investor's Business Daily",
-    "LIGA.net",
-    "Межа. Новини України."
-   ],
-   "score": 3.73
-  },
-  {
-   "title": "【無料30分課題解決セッション開催 9/2 14:00-｜化学・素材業界向け】『フィジカルAIで課題解決！後付けAMRで多様な人材が輝く工場へ』",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HZEdxTXJ6RWEzeHR2WTdURGlfWE01M1preVc1dHlCMkNTTmYwVEhyZXY3UWFwQzQxaVpxOFY4dDhqdy1fMHp1RDVxMkJOeGNXSEUxRnN6Wm5tLUE?oc=5",
-   "source": "valuepress",
-   "published": "2026-08-06T23:00:00+00:00",
-   "count": 3,
-   "sources": [
-    "iza.ne.jp",
-    "valuepress"
-   ],
-   "score": 2.92
-  },
-  {
-   "title": "China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LbkJPUnUyQXIzRHQ0MXhIenM5M3d2SFlQZllBTngyWUUyT3lhYXdONERXUVNOOW4ydDQwQlBrcW5hTUtydmtObmt1aU9HTG1IVUNBWDZzR1VjRENaSjZrR2tSVGg3Mk5ZX1lmdUhOZXJVWjNocjVGR3VYSW0?oc=5",
-   "source": "The New York Times",
-   "published": "2026-08-06T14:51:22+00:00",
-   "count": 3,
-   "sources": [
-    "Finimize",
-    "The New York Times",
-    "The Next Web"
-   ],
-   "score": 2.61
-  },
-  {
-   "title": "建設現場におけるフィジカルAIへの期待 建設インフラへのフィジカルAIの社会実装（1）",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IaGVpQ3RHVGF3dHN4azJTbHZYbVJIYUphdmlVZU9BczRMWEkwZ2E3TEthQzNxMGdNMk1jMExPbE1TaDNoQk9DTExuc1A2T1pFNk5QcHBPQkVJZ2NNQ3lEckh3?oc=5",
-   "source": "mri.co.jp",
-   "published": "2026-08-06T02:06:39+00:00",
-   "count": 3,
-   "sources": [
-    "mri.co.jp"
-   ],
-   "score": 2.18
-  },
-  {
-   "title": "二足歩行をあえて捨てたヒューマノイド、ZEALS「D1」が賭ける現場データの力学",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqWEc4a2cwYVhWanJRNzRLQlF0b2VIMzZwU1dVcVFUeUFQdDh5UUdVNmYzbmVNZjBRZkhBWDJHdHRtX3lud3BKSDc0a0pnRUx6cFRSYlBjMnRpOHF5RzJTNWFGS2tjWE1hMjlVN3dJTnJfTEYyWGJjVA?oc=5",
-   "source": "XenoSpectrum",
-   "published": "2026-08-06T22:14:08+00:00",
+   "title": "NVIDIA expands open world models for physical AI development",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbzZrRGs2TmJTQ04yNnoxbUZCanFZdXNhRTd2VEduOWYwTTJ5dkhwYWYzRjJ1S3lLNUxUS1FoMW9jTHJ3M3dIS280N3dja3ZGNkNRUkdzeEU2UEY3TFd1TVBKMEdiTzJrYUJUbnhiSUdJd0NZUWV2Z0t6X1ZXMlBXcUF2UzMtTFNYRWxVSmRZeHkzZw?oc=5",
+   "source": "itbrief.co.nz",
+   "published": "2026-08-07T15:34:00+00:00",
    "count": 2,
    "sources": [
-    "XenoSpectrum",
-    "shiritomo"
+    "The Cryptonomist",
+    "itbrief.co.nz"
    ],
-   "score": 1.92
+   "score": 1.84
+  },
+  {
+   "title": "GMO AIRがヒューマノイドの安全運用支援の「GMO SAFE」提供",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKVFF2ME1PWDRvcVRJMzN3S09jeVRtRXlHZFJuaWxIM1hSWEQxbkZ6MjdNQ3JIa2IzdWpFbmZFVm00eFZ6Rjl3aV9Odzl6Si1E?oc=5",
+   "source": "ドローントリビューン",
+   "published": "2026-08-07T14:04:41+00:00",
+   "count": 2,
+   "sources": [
+    "PR TIMES",
+    "ドローントリビューン"
+   ],
+   "score": 1.8
+  },
+  {
+   "title": "Unitree targets $9 billion valuation in landmark IPO as humanoid robot race accelerates",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaHM4TjBHTURCS2JaWjVyWVN5SDhCbTBNcnZveVg3SjRKS282MU1YbXNNN0FKVF9vQ2JUX19RYnZUSEhqS2Fza1hmMnZYZDByMGZjVk5KdEhoa25sZEJIZHIzT3VMeEV3d1RUNk9Fa01PM25QREJUd21NWnFCdlF2U1FCVGlEaVhiUGtWbktCZWJ6N0JqM1hwMlJFRFNRU0xMRW1QVmVDcHctSUVmNkhxMTZ6Q0ZvQ2xuU1QzckJFSGRUOEFfR0NRRVc1SW1UdUpJTWtabU52aVpQb1E?oc=5",
+   "source": "Robotics & Automation News",
+   "published": "2026-08-07T13:07:50+00:00",
+   "count": 2,
+   "sources": [
+    "Robotics & Automation News",
+    "South China Morning Post"
+   ],
+   "score": 1.78
+  },
+  {
+   "title": "現場作業を数万時間削減へ…島津製作所、フィジカルAIの活用検討",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BVFZaVFVNVXo3UVRuWnBaV2txVE1qWXpRSWVtT090cS1BaDJNWmtUd3VETE1qdmdhQUlvbUF5ZTRuZw?oc=5",
+   "source": "ニュースイッチ by 日刊工業新聞社",
+   "published": "2026-08-07T21:03:39+00:00",
+   "count": 1,
+   "sources": [
+    "ニュースイッチ by 日刊工業新聞社"
+   ],
+   "score": 0.99
+  },
+  {
+   "title": "Avatar Robotics raises seed round to address industrial labor constraints",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMFEzRWdyMF9jTHNwWTlhdmZTZ1c0a3B5Z01EV0hIc3ZlQXllSl81eFg2emtMeENid2pXWm1SeXhaYTVoSUlGNU1FZVVpNVpiRENBMjFnZHhfVWwtMnNYc2pIUjVOaEpaZExYVzVVUzFRNElMRGhpY1gyY1V4VGRwLVlGZUE3dmxHU1drUXBPVUtpTWd1LWhmd3l3WWUwakY3Tk1VbFUyN1d3S2VQ?oc=5",
+   "source": "The Robot Report",
+   "published": "2026-08-07T20:04:34+00:00",
+   "count": 1,
+   "sources": [
+    "The Robot Report"
+   ],
+   "score": 0.98
   }
  ],
  "hot_news": [
@@ -329,22 +325,21 @@
     "アットプレス",
     "ライブドアニュース"
    ],
-   "score": 5.77
+   "score": 4.34
   },
   {
    "title": "Chinese Robot Maker To IPO At $9 Billion Valuation. How It Compares To Tesla's Optimus.",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeWRuY0FETUdBUFY5SzQ2RjlWamlLNmZiTEttZnVfTjBrZmRpR3Y4a0dLaUNfRFZQX01RRkNCLVo3VG9ORUk5am02RUtkR19qeGdRY25WMEk0YV9lVllqX29pTzB4dUItakJpYnB5eUEtbjk5Ul9CNzFPS2hIMUhVbnd3?oc=5",
    "source": "Investor's Business Daily",
    "published": "2026-08-06T20:00:00+00:00",
-   "count": 6,
+   "count": 5,
    "sources": [
     "CNBC",
     "Investor's Business Daily",
     "LIGA.net",
-    "Reuters",
-    "Межа. Новини України."
+    "Reuters"
    ],
-   "score": 5.6
+   "score": 3.5
   },
   {
    "title": "【無料30分課題解決セッション開催 9/2 14:00-｜化学・素材業界向け】『フィジカルAIで課題解決！後付けAMRで多様な人材が輝く工場へ』",
@@ -357,7 +352,7 @@
     "iza.ne.jp",
     "valuepress"
    ],
-   "score": 3.89
+   "score": 2.92
   },
   {
    "title": "STATE: New bill would ban humanoid robots in schools after New York Focus report - Press-Republican",
@@ -370,84 +365,83 @@
     "Press-Republican",
     "the wellsville sun"
    ],
-   "score": 3.78
+   "score": 2.84
   },
   {
-   "title": "China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5LbkJPUnUyQXIzRHQ0MXhIenM5M3d2SFlQZllBTngyWUUyT3lhYXdONERXUVNOOW4ydDQwQlBrcW5hTUtydmtObmt1aU9HTG1IVUNBWDZzR1VjRENaSjZrR2tSVGg3Mk5ZX1lmdUhOZXJVWjNocjVGR3VYSW0?oc=5",
-   "source": "The New York Times",
-   "published": "2026-08-06T14:51:22+00:00",
+   "title": "NVIDIA expands open world models for physical AI development",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbzZrRGs2TmJTQ04yNnoxbUZCanFZdXNhRTd2VEduOWYwTTJ5dkhwYWYzRjJ1S3lLNUxUS1FoMW9jTHJ3M3dIS280N3dja3ZGNkNRUkdzeEU2UEY3TFd1TVBKMEdiTzJrYUJUbnhiSUdJd0NZUWV2Z0t6X1ZXMlBXcUF2UzMtTFNYRWxVSmRZeHkzZw?oc=5",
+   "source": "itbrief.co.nz",
+   "published": "2026-08-07T15:34:00+00:00",
+   "count": 3,
+   "sources": [
+    "HPCwire",
+    "The Cryptonomist",
+    "itbrief.co.nz"
+   ],
+   "score": 2.76
+  },
+  {
+   "title": "Unitree IPO Turns 36-Year-Old Founder Into China’s First Humanoid Robot Billionaire",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQjh6bmduYmI3RVFxMFh6SG5OXy1FeWdiOERhNFdrVEhxb1AwRW1aWXF0NEhGUy1WOC1fZTl1SFpUS245SUVsck1NenpMcWI1Z0ZsbHluS3lrSnU2VE92cWk0VUpXZ0pjOVJtYXZXMXZScWpQUlBIR0IxU1VIQjB2OVY5WGdEelpnTmlITnlCOUdzOXdBSE80ME1zWmtuckRybHBmcHRwVUFMY3dBa25NYUQxdDZPWkNjQmhEV2stT21BQ0NKZ3RxWg?oc=5",
+   "source": "Forbes",
+   "published": "2026-08-07T08:52:28+00:00",
    "count": 3,
    "sources": [
     "Finimize",
-    "The New York Times",
-    "The Next Web"
+    "Forbes",
+    "Межа. Новини України."
    ],
-   "score": 2.61
+   "score": 2.51
   },
   {
-   "title": "Google DeepMind、ロボット向けAIモデル群「Gemini Robotics 2」発表 ヒューマノイドの全身制御・複数ロボット協働に対応",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1UVmNTbDN3WFRocEdRM0MwblFMM0xxU0RfSlFmVlJXRi14TmoyYVR4ckhCNzNpT0t3ejJGaEZJbHFUZEQwYUdsejA1NnhDc2RTdUdha1R4QU1BdnlScTVsblVMR2p3UUEtdWd3?oc=5",
-   "source": "Ledge.ai",
-   "published": "2026-08-04T01:02:53+00:00",
-   "count": 6,
-   "sources": [
-    "ITmedia",
-    "Ledge.ai",
-    "shiritomo",
-    "オルタナティブ・ブログ",
-    "ロボスタ",
-    "財経新聞"
-   ],
-   "score": 2.21
-  },
-  {
-   "title": "建設現場におけるフィジカルAIへの期待 建設インフラへのフィジカルAIの社会実装（1）",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IaGVpQ3RHVGF3dHN4azJTbHZYbVJIYUphdmlVZU9BczRMWEkwZ2E3TEthQzNxMGdNMk1jMExPbE1TaDNoQk9DTExuc1A2T1pFNk5QcHBPQkVJZ2NNQ3lEckh3?oc=5",
-   "source": "mri.co.jp",
-   "published": "2026-08-06T02:06:39+00:00",
+   "title": "DeepSeek, state oil giant back humanoid robot maker Unitree's $900m IPO",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdXBWVF8zeGZ6emVGSDlZNUhPYXNlTDVsUlhFMFFfbUdSelhPZnZzVk43WGRSaXRaOEk1NFVGT1NCSmNweV9KYmhaNWZpRmlIYVFidGdqemdDSkJJNVpNcGxBMlRMREs0ZkE3Nmk5dl93U3g5aVVDRVpuTFJkU3NybTM4RVJ5c2hqNXJaaW80VWR5d3h5Y25HTE1yS1JKUFJ2bVpfd1lxMFNoMmgxWXc5TmNhYzQ?oc=5",
+   "source": "Nikkei Asia",
+   "published": "2026-08-07T02:10:00+00:00",
    "count": 3,
    "sources": [
-    "mri.co.jp"
+    "Latest news from Azerbaijan",
+    "Nikkei Asia",
+    "Reuters"
    ],
-   "score": 2.18
+   "score": 2.29
   },
   {
-   "title": "二足歩行をあえて捨てたヒューマノイド、ZEALS「D1」が賭ける現場データの力学",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqWEc4a2cwYVhWanJRNzRLQlF0b2VIMzZwU1dVcVFUeUFQdDh5UUdVNmYzbmVNZjBRZkhBWDJHdHRtX3lud3BKSDc0a0pnRUx6cFRSYlBjMnRpOHF5RzJTNWFGS2tjWE1hMjlVN3dJTnJfTEYyWGJjVA?oc=5",
-   "source": "XenoSpectrum",
-   "published": "2026-08-06T22:14:08+00:00",
-   "count": 2,
-   "sources": [
-    "XenoSpectrum",
-    "shiritomo"
-   ],
-   "score": 1.92
-  },
-  {
-   "title": "HII signs up to $900M agreement with Path Robotics, GrayMatter Robotics",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV3Q3X1k5SDRaWkZMdjhXSVRucGNJckU2X3I4Wk5UeVpHT282Y2hTOFE1R1UxZTZ1WlBtMFRmYWR3LXdmeDE3WE1sbTJIaVYyUk0zY0FOdGcyRnBfTzc2VWN4WHVtZlBhNktUZHJ5US1tM1FUUlZLMnZ2SkE4S1R3WHc5Yng1b2VTZ3RHZFNnN0RuZ2dSd0RNNURJUGk5bFpkZ3NV?oc=5",
-   "source": "The Robot Report",
-   "published": "2026-08-06T20:25:15+00:00",
-   "count": 2,
-   "sources": [
-    "HII",
-    "The Robot Report"
-   ],
-   "score": 1.88
-  },
-  {
-   "title": "医療現場支える新戦力に? 働く“ヒューマノイドロボット”が始動（FNNプライムオンライン（フジテレビ系））",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83S2tKZy1PVUJXT3FyRGJIRGlSUE5oNTJYLXhVbUFvSjZsRVBoOHlOTk1kS2ZCTktZSUs5SFdpdXE2OEN5M3M1LVdPYkpnOHktYWJoSEJSTDBRbGE0TE01TUNCaWkzUGtPR2o2aERqWnI4a1d2eXJGWFZQS0tQR1k?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-08-05T15:20:18+00:00",
+   "title": "DePIN project Vangrid raises $9 million in token round to build spatial data network for physical AI",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd3dGd0RERmFoVmZ4OU51a0otM1lLMmpnWWx2TFVLQTdTYlE1LW5QdWRteHQzTXFOLU80aXhqUnMwR3lNcUlBV1hYdFdqdm5wcVJiRldzSVlhM016SkplTXZvRURZUThlTUExdW1jZDFKeDkwRzB2bWNLWmhURlllOWJhSGFoY2lKRHBGYmduUVRVRWFmTnBZZjduM0o4QTRTVm1Fdw?oc=5",
+   "source": "The Block",
+   "published": "2026-08-06T18:03:58+00:00",
    "count": 3,
    "sources": [
-    "FNNプライムオンライン",
-    "Yahoo!ニュース",
-    "news.livedoor.com"
+    "01net",
+    "Pulse 2.0",
+    "The Block"
    ],
-   "score": 1.88
+   "score": 2.05
+  },
+  {
+   "title": "現場作業を数万時間削減へ…島津製作所、フィジカルAIの活用検討",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BVFZaVFVNVXo3UVRuWnBaV2txVE1qWXpRSWVtT090cS1BaDJNWmtUd3VETE1qdmdhQUlvbUF5ZTRuZw?oc=5",
+   "source": "ニュースイッチ by 日刊工業新聞社",
+   "published": "2026-08-07T21:03:39+00:00",
+   "count": 2,
+   "sources": [
+    "ニュースイッチ by 日刊工業新聞社",
+    "日刊工業新聞"
+   ],
+   "score": 1.99
+  },
+  {
+   "title": "GMO AIRがヒューマノイドの安全運用支援の「GMO SAFE」提供",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKVFF2ME1PWDRvcVRJMzN3S09jeVRtRXlHZFJuaWxIM1hSWEQxbkZ6MjdNQ3JIa2IzdWpFbmZFVm00eFZ6Rjl3aV9Odzl6Si1E?oc=5",
+   "source": "ドローントリビューン",
+   "published": "2026-08-07T14:04:41+00:00",
+   "count": 2,
+   "sources": [
+    "PR TIMES",
+    "ドローントリビューン"
+   ],
+   "score": 1.8
   }
  ],
  "trend": {
@@ -516,8 +510,8 @@
      22,
      29,
      24,
-     20,
-     0
+     22,
+     13
     ]
    },
    {
@@ -551,9 +545,9 @@
      18,
      18,
      37,
-     28,
-     22,
-     1
+     29,
+     23,
+     13
     ]
    },
    {
@@ -586,10 +580,10 @@
      1,
      1,
      3,
-     6,
+     7,
      4,
      5,
-     1
+     4
     ]
    },
    {
@@ -621,11 +615,11 @@
      33,
      8,
      11,
-     31,
+     32,
      21,
      18,
-     25,
-     0
+     26,
+     13
     ]
    },
    {
@@ -646,22 +640,22 @@
      7,
      21,
      17,
-     14,
+     15,
      12,
      4,
      14,
      6,
      14,
      25,
-     23,
+     24,
      22,
      6,
      5,
      10,
-     17,
+     18,
      13,
      8,
-     1
+     9
     ]
    }
   ]
@@ -707,7 +701,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 157
+   "news": 159
   },
   {
    "name": "QUALCOMM INC",
