@@ -1,56 +1,60 @@
 {
- "updated_at": "2026-08-07T21:35:32.651853+00:00",
+ "updated_at": "2026-08-08T21:26:12.983125+00:00",
  "kpi": {
-  "articles_7d": 480,
-  "articles_prev_7d": 765,
+  "articles_7d": 478,
+  "articles_prev_7d": 756,
   "sources_7d": 286,
-  "articles_30d": 3127,
-  "total_articles": 3598,
+  "articles_30d": 2994,
+  "total_articles": 3631,
   "oldest_news": "2025-12-18"
  },
  "wordcloud": [
   [
    "unitree",
-   32
+   33
   ],
   [
    "中国",
-   27
-  ],
-  [
-   "china",
-   25
+   28
   ],
   [
    "開発",
-   24
+   26
   ],
   [
    "現場",
-   22
+   23
+  ],
+  [
+   "china",
+   23
   ],
   [
    "ipo",
-   22
+   23
   ],
   [
    "nvidia",
-   19
-  ],
-  [
-   "日本",
-   19
-  ],
-  [
-   "企業",
    18
   ],
   [
+   "企業",
+   17
+  ],
+  [
    "活用",
-   15
+   17
+  ],
+  [
+   "日本",
+   16
   ],
   [
    "raises",
+   16
+  ],
+  [
+   "国産",
    14
   ],
   [
@@ -58,31 +62,35 @@
    14
   ],
   [
-   "工場",
+   "共同",
    13
   ],
   [
-   "業界",
-   12
-  ],
-  [
-   "データ",
-   12
-  ],
-  [
-   "world",
-   12
-  ],
-  [
-   "chinese",
-   12
+   "billion",
+   13
   ],
   [
    "data",
    12
   ],
   [
-   "billion",
+   "研究",
+   12
+  ],
+  [
+   "神戸",
+   12
+  ],
+  [
+   "安藤",
+   12
+  ],
+  [
+   "高専",
+   12
+  ],
+  [
+   "ハザマ",
    12
   ],
   [
@@ -90,12 +98,40 @@
    11
   ],
   [
-   "研究",
+   "データ",
    11
   ],
   [
-   "国産",
+   "工場",
    11
+  ],
+  [
+   "launches",
+   11
+  ],
+  [
+   "yuan",
+   11
+  ],
+  [
+   "world",
+   11
+  ],
+  [
+   "chinese",
+   11
+  ],
+  [
+   "million",
+   11
+  ],
+  [
+   "自動",
+   11
+  ],
+  [
+   "産業",
+   10
   ],
   [
    "business",
@@ -103,78 +139,54 @@
   ],
   [
    "NVIDIA",
-   10
-  ],
-  [
-   "ban",
-   10
-  ],
-  [
-   "launches",
-   10
-  ],
-  [
-   "共同",
-   10
-  ],
-  [
-   "高専",
-   10
-  ],
-  [
-   "ハザマ",
-   10
-  ],
-  [
-   "安藤",
-   10
-  ],
-  [
-   "神戸",
-   10
-  ],
-  [
-   "世界",
    9
   ],
   [
-   "yuan",
+   "業界",
    9
-  ],
-  [
-   "million",
-   9
-  ],
-  [
-   "自動",
-   9
-  ],
-  [
-   "company",
-   8
-  ],
-  [
-   "注目",
-   8
-  ],
-  [
-   "産業",
-   8
-  ],
-  [
-   "top",
-   8
-  ],
-  [
-   "report",
-   8
   ],
   [
    "ceo",
-   8
+   9
+  ],
+  [
+   "ban",
+   9
   ],
   [
    "建設",
+   9
+  ],
+  [
+   "世界",
+   8
+  ],
+  [
+   "次世代",
+   8
+  ],
+  [
+   "半導体",
+   8
+  ],
+  [
+   "industrial",
+   8
+  ],
+  [
+   "market",
+   8
+  ],
+  [
+   "医療",
+   8
+  ],
+  [
+   "industry",
+   8
+  ],
+  [
+   "社会",
    8
   ],
   [
@@ -182,27 +194,7 @@
    8
   ],
   [
-   "機械",
-   7
-  ],
-  [
-   "未来",
-   7
-  ],
-  [
-   "tech",
-   7
-  ],
-  [
-   "量産",
-   7
-  ],
-  [
-   "次世代",
-   7
-  ],
-  [
-   "industrial",
+   "製造",
    7
   ],
   [
@@ -210,7 +202,11 @@
    7
   ],
   [
-   "market",
+   "report",
+   7
+  ],
+  [
+   "targets",
    7
   ],
   [
@@ -222,19 +218,7 @@
    7
   ],
   [
-   "医療",
-   7
-  ],
-  [
    "round",
-   7
-  ],
-  [
-   "industry",
-   7
-  ],
-  [
-   "社会",
    7
   ],
   [
@@ -242,72 +226,86 @@
    7
   ],
   [
-   "紹介",
+   "加速",
+   7
+  ],
+  [
+   "セミナー",
+   7
+  ],
+  [
+   "valuation",
+   7
+  ],
+  [
+   "deepseek",
+   7
+  ],
+  [
+   "growth",
    6
   ],
   [
-   "エヌビディア",
+   "company",
    6
   ]
  ],
  "today_top5": [
   {
-   "title": "NVIDIA expands open world models for physical AI development",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbzZrRGs2TmJTQ04yNnoxbUZCanFZdXNhRTd2VEduOWYwTTJ5dkhwYWYzRjJ1S3lLNUxUS1FoMW9jTHJ3M3dIS280N3dja3ZGNkNRUkdzeEU2UEY3TFd1TVBKMEdiTzJrYUJUbnhiSUdJd0NZUWV2Z0t6X1ZXMlBXcUF2UzMtTFNYRWxVSmRZeHkzZw?oc=5",
-   "source": "itbrief.co.nz",
-   "published": "2026-08-07T15:34:00+00:00",
+   "title": "価格・納期で戦場に登場した韓国防衛産業…今後は「フィジカルAI」で勝負（2）（中央日報日本語版）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9NdlhpMXd4bjJIZTNHVDBpeVNQQmpRQllBQkloQlB5bXhodXA4X0lQMmozYXFkNmRhZnBqLTVtSlNyQ0lSWEN1RTVrOHpSRTBINXVpMy1pclM0cUNXdHN6RGF2XzVjbE1VZ1NuUkFBTmZUU1Zral80Y013dUItNHc?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-08-08T02:44:19+00:00",
    "count": 2,
    "sources": [
-    "The Cryptonomist",
-    "itbrief.co.nz"
+    "Yahoo!ニュース"
    ],
-   "score": 1.84
+   "score": 1.54
   },
   {
-   "title": "GMO AIRがヒューマノイドの安全運用支援の「GMO SAFE」提供",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKVFF2ME1PWDRvcVRJMzN3S09jeVRtRXlHZFJuaWxIM1hSWEQxbkZ6MjdNQ3JIa2IzdWpFbmZFVm00eFZ6Rjl3aV9Odzl6Si1E?oc=5",
-   "source": "ドローントリビューン",
-   "published": "2026-08-07T14:04:41+00:00",
+   "title": "韓国政府、国産AI半導体の普及に600億ウォン超投入…「フィジカルAI」など22件を実証",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pZDdoZm1GWXBra2VsMjRLdndwSmIzNXVRaExFZGlPTEF5ZlJUd3hJMU40WnJMbnRGMmc1MWVoNEpUdmxhUWJ0YUtla0FYcTIzZEHSAVRBVV95cUxQTlRTbzVsVXRoRndtYmlPa3k3Vm5pT05PVkFOUWRLTjhBaG1JT1lvNzdMQWxqMzh1dFo0Znlya1BKOEFBaXJ5c0dsU3pCVkN4QlRHTVM?oc=5",
+   "source": "AFPBB News",
+   "published": "2026-08-07T22:22:44+00:00",
    "count": 2,
    "sources": [
-    "PR TIMES",
-    "ドローントリビューン"
+    "AFPBB News",
+    "Yahoo!ニュース"
    ],
-   "score": 1.8
+   "score": 1.45
   },
   {
-   "title": "Unitree targets $9 billion valuation in landmark IPO as humanoid robot race accelerates",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaHM4TjBHTURCS2JaWjVyWVN5SDhCbTBNcnZveVg3SjRKS282MU1YbXNNN0FKVF9vQ2JUX19RYnZUSEhqS2Fza1hmMnZYZDByMGZjVk5KdEhoa25sZEJIZHIzT3VMeEV3d1RUNk9Fa01PM25QREJUd21NWnFCdlF2U1FCVGlEaVhiUGtWbktCZWJ6N0JqM1hwMlJFRFNRU0xMRW1QVmVDcHctSUVmNkhxMTZ6Q0ZvQ2xuU1QzckJFSGRUOEFfR0NRRVc1SW1UdUpJTWtabU52aVpQb1E?oc=5",
-   "source": "Robotics & Automation News",
-   "published": "2026-08-07T13:07:50+00:00",
-   "count": 2,
-   "sources": [
-    "Robotics & Automation News",
-    "South China Morning Post"
-   ],
-   "score": 1.78
-  },
-  {
-   "title": "現場作業を数万時間削減へ…島津製作所、フィジカルAIの活用検討",
-   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BVFZaVFVNVXo3UVRuWnBaV2txVE1qWXpRSWVtT090cS1BaDJNWmtUd3VETE1qdmdhQUlvbUF5ZTRuZw?oc=5",
-   "source": "ニュースイッチ by 日刊工業新聞社",
-   "published": "2026-08-07T21:03:39+00:00",
+   "title": "When expressive humanoid robots are awkward, people become wary",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOME9jTTBQc0NmdVdqeE9tZzhOUHRGVXdfT1VCOWhrN1NWbElLUUxmVTE3NTdoX182OXExT0JJMW5vOEFSNzZNaUNpcVpNQTVGLW9jY19DTlZHVjB5ZlZTSVI5N2xEbTJCSEg4aEoxTVJEbkxJWEZ2R0dIVWViR19xeG5n?oc=5",
+   "source": "Tech Xplore",
+   "published": "2026-08-08T19:40:01+00:00",
    "count": 1,
    "sources": [
-    "ニュースイッチ by 日刊工業新聞社"
-   ],
-   "score": 0.99
-  },
-  {
-   "title": "Avatar Robotics raises seed round to address industrial labor constraints",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMFEzRWdyMF9jTHNwWTlhdmZTZ1c0a3B5Z01EV0hIc3ZlQXllSl81eFg2emtMeENid2pXWm1SeXhaYTVoSUlGNU1FZVVpNVpiRENBMjFnZHhfVWwtMnNYc2pIUjVOaEpaZExYVzVVUzFRNElMRGhpY1gyY1V4VGRwLVlGZUE3dmxHU1drUXBPVUtpTWd1LWhmd3l3WWUwakY3Tk1VbFUyN1d3S2VQ?oc=5",
-   "source": "The Robot Report",
-   "published": "2026-08-07T20:04:34+00:00",
-   "count": 1,
-   "sources": [
-    "The Robot Report"
+    "Tech Xplore"
    ],
    "score": 0.98
+  },
+  {
+   "title": "Appleが中国で「QWEN」を選んだ意味。Macへの統合から見えてきた、AI競争の次の主戦場",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OX3VCNU9CSnQ3T3VUSDRoemtGcmJQRVhTZlpUb0lhM2tySFM3QU81Ty0tUFNlcDZxdHNDSjJ2SXVYMG5CdVQ4aG5TWGdqbnVYbXJFbw?oc=5",
+   "source": "note.com",
+   "published": "2026-08-08T15:49:45+00:00",
+   "count": 1,
+   "sources": [
+    "note.com"
+   ],
+   "score": 0.93
+  },
+  {
+   "title": "Wall Street Sees a Multitrillion-Dollar Humanoid Robot Market. These 2 Industrial Stocks Sell the Parts.",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSElMOV9fQXlVbGN5V1NlVG53cjlHVXJTUEJwRzFaa0xWYnJLQmZLWTBLajlsMmtiT09qamNzUW90R08tZm5QMkRDTVh6MEMzVHNuUGJuLWpFdV85QzZ4WEF3cGxfTGVNbzVvM3BLQkdVU3ZpajZNZk5oT1NpT3dOTjJqVm1PZ0xNQlhmYloyb2V3UFNCU3l3?oc=5",
+   "source": "The Motley Fool",
+   "published": "2026-08-08T14:05:00+00:00",
+   "count": 1,
+   "sources": [
+    "The Motley Fool"
+   ],
+   "score": 0.9
   }
  ],
  "hot_news": [
@@ -316,7 +314,7 @@
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IR3BCWUttSGQxYVBFTEtvWFViWWdFSnREbDhQRF9QSnRTVUpJQm9xbmtZWUlacV9oTmUybHdJZ3pkT0M4Nm00eGM0UVZFY2JJcmd3Si1R?oc=5",
    "source": "ICT教育ニュース",
    "published": "2026-08-06T01:32:18+00:00",
-   "count": 8,
+   "count": 10,
    "sources": [
     "ICT教育ニュース",
     "ITmedia",
@@ -325,7 +323,20 @@
     "アットプレス",
     "ライブドアニュース"
    ],
-   "score": 4.34
+   "score": 3.89
+  },
+  {
+   "title": "When expressive humanoid robots are awkward, people become wary",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOME9jTTBQc0NmdVdqeE9tZzhOUHRGVXdfT1VCOWhrN1NWbElLUUxmVTE3NTdoX182OXExT0JJMW5vOEFSNzZNaUNpcVpNQTVGLW9jY19DTlZHVjB5ZlZTSVI5N2xEbTJCSEg4aEoxTVJEbkxJWEZ2R0dIVWViR19xeG5n?oc=5",
+   "source": "Tech Xplore",
+   "published": "2026-08-08T19:40:01+00:00",
+   "count": 3,
+   "sources": [
+    "Brooklyn Eagle",
+    "Tech Xplore",
+    "theconversation.com"
+   ],
+   "score": 2.93
   },
   {
    "title": "Chinese Robot Maker To IPO At $9 Billion Valuation. How It Compares To Tesla's Optimus.",
@@ -339,7 +350,20 @@
     "LIGA.net",
     "Reuters"
    ],
-   "score": 3.5
+   "score": 2.52
+  },
+  {
+   "title": "韓国政府、国産AI半導体の普及に600億ウォン超投入…「フィジカルAI」など22件を実証",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pZDdoZm1GWXBra2VsMjRLdndwSmIzNXVRaExFZGlPTEF5ZlJUd3hJMU40WnJMbnRGMmc1MWVoNEpUdmxhUWJ0YUtla0FYcTIzZEHSAVRBVV95cUxQTlRTbzVsVXRoRndtYmlPa3k3Vm5pT05PVkFOUWRLTjhBaG1JT1lvNzdMQWxqMzh1dFo0Znlya1BKOEFBaXJ5c0dsU3pCVkN4QlRHTVM?oc=5",
+   "source": "AFPBB News",
+   "published": "2026-08-07T22:22:44+00:00",
+   "count": 3,
+   "sources": [
+    "AFPBB News",
+    "BigGo ファイナンス",
+    "Yahoo!ニュース"
+   ],
+   "score": 2.18
   },
   {
    "title": "【無料30分課題解決セッション開催 9/2 14:00-｜化学・素材業界向け】『フィジカルAIで課題解決！後付けAMRで多様な人材が輝く工場へ』",
@@ -352,7 +376,20 @@
     "iza.ne.jp",
     "valuepress"
    ],
-   "score": 2.92
+   "score": 2.1
+  },
+  {
+   "title": "Unitree Robotics targets $9 billion valuation in landmark IPO backed by DeepSeek and Tencent",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWUlEVmZNRmc3WG0tbVFTbzY5OEZsYmFRcHdyRFpXcTBnU3BOWTJwRkl5XzJCWWgxUm5NRzUwWFV3aEdVRE42cWFiZUpfdEFfWEdDUnN1WVh3X0x6VXhQUFZKSzBaZkE0X0VhbjdzYVZrb1d5am9WSi10NjFxT0diMGVjREpaanJFeUc2QVV2SXA1SUdXX1ZOX2plcURoa0ZYYzlOaDl4dEpfbFBiTnhvYmYybkJ6T00wSWl0Z1ZNc0I1d0I0bUpLZ2hXNkhCUnNQeTlIMWppNNIB3AFBVV95cUxNaHZyOTZobVZiXzY3U290ZFRqU2s4RXZHNTNwZmpVZUt5emNobTBzNm5wZzE5dXZqOUdiNU1NWEtqNGszbUNuMUhoelFTZFdIVFd4bVF3WUxJNjQtT2R5V05MbElSbTJ4Qjd0NU41WW5fLXlUMVNKaklRN0Z6MTI3T1hnS3RvbndrNi1fOEd1WnM3Ym90X0VZN2NRVkNfMUxZRlRLZkRSR3gxZ2tVdGdzNFg2SW5sNTdkWi13eVJzWDlZTl9PaTlncG9waEZxMHFSb3VXRGRMUkhfWVZv?oc=5",
+   "source": "WION",
+   "published": "2026-08-07T18:53:00+00:00",
+   "count": 3,
+   "sources": [
+    "Robotics & Automation News",
+    "South China Morning Post",
+    "WION"
+   ],
+   "score": 2.07
   },
   {
    "title": "STATE: New bill would ban humanoid robots in schools after New York Focus report - Press-Republican",
@@ -365,20 +402,7 @@
     "Press-Republican",
     "the wellsville sun"
    ],
-   "score": 2.84
-  },
-  {
-   "title": "NVIDIA expands open world models for physical AI development",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbzZrRGs2TmJTQ04yNnoxbUZCanFZdXNhRTd2VEduOWYwTTJ5dkhwYWYzRjJ1S3lLNUxUS1FoMW9jTHJ3M3dIS280N3dja3ZGNkNRUkdzeEU2UEY3TFd1TVBKMEdiTzJrYUJUbnhiSUdJd0NZUWV2Z0t6X1ZXMlBXcUF2UzMtTFNYRWxVSmRZeHkzZw?oc=5",
-   "source": "itbrief.co.nz",
-   "published": "2026-08-07T15:34:00+00:00",
-   "count": 3,
-   "sources": [
-    "HPCwire",
-    "The Cryptonomist",
-    "itbrief.co.nz"
-   ],
-   "score": 2.76
+   "score": 2.04
   },
   {
    "title": "Unitree IPO Turns 36-Year-Old Founder Into China’s First Humanoid Robot Billionaire",
@@ -391,7 +415,19 @@
     "Forbes",
     "Межа. Новини України."
    ],
-   "score": 2.51
+   "score": 1.81
+  },
+  {
+   "title": "NVIDIA expands physical AI through open-world models",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUV9sdEpfbEx6eENwMnp3VGRfWmU0ei1jSTdrNlBYN0NjV01tVDFHeTVDZlFpM3dWajRfZDJCaWdyR090U2FQckdUMXo3OTdBb00wTEJNTV9zbDh2YWVqM3lrenB1YTFzbkdpMWRiUG84b3N2OWlTZndPZ1lSYk1CT2Vualk?oc=5",
+   "source": "Digital Watch Observatory",
+   "published": "2026-08-08T12:15:00+00:00",
+   "count": 2,
+   "sources": [
+    "Digital Watch Observatory",
+    "itbrief.co.nz"
+   ],
+   "score": 1.76
   },
   {
    "title": "DeepSeek, state oil giant back humanoid robot maker Unitree's $900m IPO",
@@ -404,49 +440,11 @@
     "Nikkei Asia",
     "Reuters"
    ],
-   "score": 2.29
-  },
-  {
-   "title": "DePIN project Vangrid raises $9 million in token round to build spatial data network for physical AI",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNd3dGd0RERmFoVmZ4OU51a0otM1lLMmpnWWx2TFVLQTdTYlE1LW5QdWRteHQzTXFOLU80aXhqUnMwR3lNcUlBV1hYdFdqdm5wcVJiRldzSVlhM016SkplTXZvRURZUThlTUExdW1jZDFKeDkwRzB2bWNLWmhURlllOWJhSGFoY2lKRHBGYmduUVRVRWFmTnBZZjduM0o4QTRTVm1Fdw?oc=5",
-   "source": "The Block",
-   "published": "2026-08-06T18:03:58+00:00",
-   "count": 3,
-   "sources": [
-    "01net",
-    "Pulse 2.0",
-    "The Block"
-   ],
-   "score": 2.05
-  },
-  {
-   "title": "現場作業を数万時間削減へ…島津製作所、フィジカルAIの活用検討",
-   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BVFZaVFVNVXo3UVRuWnBaV2txVE1qWXpRSWVtT090cS1BaDJNWmtUd3VETE1qdmdhQUlvbUF5ZTRuZw?oc=5",
-   "source": "ニュースイッチ by 日刊工業新聞社",
-   "published": "2026-08-07T21:03:39+00:00",
-   "count": 2,
-   "sources": [
-    "ニュースイッチ by 日刊工業新聞社",
-    "日刊工業新聞"
-   ],
-   "score": 1.99
-  },
-  {
-   "title": "GMO AIRがヒューマノイドの安全運用支援の「GMO SAFE」提供",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKVFF2ME1PWDRvcVRJMzN3S09jeVRtRXlHZFJuaWxIM1hSWEQxbkZ6MjdNQ3JIa2IzdWpFbmZFVm00eFZ6Rjl3aV9Odzl6Si1E?oc=5",
-   "source": "ドローントリビューン",
-   "published": "2026-08-07T14:04:41+00:00",
-   "count": 2,
-   "sources": [
-    "PR TIMES",
-    "ドローントリビューン"
-   ],
-   "score": 1.8
+   "score": 1.64
   }
  ],
  "trend": {
   "dates": [
-   "2026-07-09",
    "2026-07-10",
    "2026-07-11",
    "2026-07-12",
@@ -475,14 +473,14 @@
    "2026-08-04",
    "2026-08-05",
    "2026-08-06",
-   "2026-08-07"
+   "2026-08-07",
+   "2026-08-08"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     24,
      16,
      10,
      9,
@@ -510,15 +508,15 @@
      22,
      29,
      24,
-     22,
-     13
+     23,
+     15,
+     2
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     28,
      18,
      6,
      8,
@@ -544,17 +542,17 @@
      9,
      18,
      18,
-     37,
-     29,
+     38,
+     31,
      23,
-     13
+     16,
+     6
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     9,
      9,
      4,
      4,
@@ -583,14 +581,14 @@
      7,
      4,
      5,
-     4
+     5,
+     1
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     33,
      30,
      8,
      11,
@@ -617,16 +615,16 @@
      11,
      32,
      21,
-     18,
-     26,
-     13
+     19,
+     28,
+     15,
+     7
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     49,
      24,
      6,
      4,
@@ -652,10 +650,11 @@
      6,
      5,
      10,
-     18,
-     13,
+     20,
+     15,
      8,
-     9
+     10,
+     1
     ]
    }
   ]
@@ -677,7 +676,7 @@
    "name": "GOOGLE LLC",
    "core": "GOOGLE",
    "patents": 275,
-   "news": 30
+   "news": 31
   },
   {
    "name": "HONDA MOTOR CO LTD",
@@ -701,7 +700,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 159
+   "news": 158
   },
   {
    "name": "QUALCOMM INC",
