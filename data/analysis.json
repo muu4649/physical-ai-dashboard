@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-08-11T21:41:51.361761+00:00",
+ "updated_at": "2026-08-12T21:41:12.615721+00:00",
  "kpi": {
-  "articles_7d": 511,
-  "articles_prev_7d": 689,
-  "sources_7d": 288,
-  "articles_30d": 3095,
-  "total_articles": 3901,
+  "articles_7d": 500,
+  "articles_prev_7d": 616,
+  "sources_7d": 292,
+  "articles_30d": 3054,
+  "total_articles": 3989,
   "oldest_news": "2025-12-18"
  },
  "wordcloud": [
@@ -15,62 +15,50 @@
   ],
   [
    "china",
-   56
+   59
   ],
   [
    "ipo",
-   53
+   52
   ],
   [
    "中国",
-   33
-  ],
-  [
-   "現場",
-   25
+   28
   ],
   [
    "billion",
-   20
+   21
   ],
   [
    "chinese",
-   19
-  ],
-  [
-   "million",
-   17
-  ],
-  [
-   "raises",
-   16
-  ],
-  [
-   "開催",
-   16
+   20
   ],
   [
    "data",
-   16
+   18
   ],
   [
-   "企業",
-   15
+   "million",
+   18
   ],
   [
    "market",
-   15
+   18
+  ],
+  [
+   "global",
+   17
   ],
   [
    "demand",
    15
   ],
   [
-   "世界",
+   "raises",
    14
   ],
   [
-   "global",
+   "世界",
    14
   ],
   [
@@ -78,31 +66,23 @@
    14
   ],
   [
-   "world",
-   13
-  ],
-  [
    "future",
-   13
+   14
   ],
   [
    "shipments",
+   14
+  ],
+  [
+   "shanghai",
    13
   ],
   [
-   "開発",
+   "現場",
    12
   ],
   [
-   "launches",
-   11
-  ],
-  [
-   "yuan",
-   11
-  ],
-  [
-   "実装",
+   "world",
    11
   ],
   [
@@ -110,15 +90,27 @@
    11
   ],
   [
-   "shanghai",
+   "industry",
    11
   ],
   [
-   "活用",
-   10
+   "yuan",
+   11
   ],
   [
-   "industry",
+   "race",
+   11
+  ],
+  [
+   "boeing",
+   11
+  ],
+  [
+   "archer",
+   11
+  ],
+  [
+   "defense",
    10
   ],
   [
@@ -126,11 +118,27 @@
    10
   ],
   [
-   "研究",
+   "市場",
    10
   ],
   [
-   "国産",
+   "開催",
+   10
+  ],
+  [
+   "開発",
+   10
+  ],
+  [
+   "企業",
+   10
+  ],
+  [
+   "韓国",
+   10
+  ],
+  [
+   "business",
    10
   ],
   [
@@ -146,19 +154,7 @@
    10
   ],
   [
-   "boeing",
-   10
-  ],
-  [
-   "archer",
-   10
-  ],
-  [
-   "race",
-   9
-  ],
-  [
-   "business",
+   "push",
    9
   ],
   [
@@ -166,23 +162,7 @@
    9
   ],
   [
-   "セミナー",
-   9
-  ],
-  [
-   "データ",
-   9
-  ],
-  [
-   "valuation",
-   9
-  ],
-  [
-   "push",
-   9
-  ],
-  [
-   "defense",
+   "launches",
    9
   ],
   [
@@ -190,27 +170,27 @@
    9
   ],
   [
-   "基盤",
+   "platform",
+   9
+  ],
+  [
+   "aerospace",
+   9
+  ],
+  [
+   "models",
    8
   ],
   [
-   "boom",
+   "open",
    8
   ],
   [
-   "build",
+   "nvidia",
    8
   ],
   [
-   "加速",
-   8
-  ],
-  [
-   "業界",
-   8
-  ],
-  [
-   "工場",
+   "データ",
    8
   ],
   [
@@ -218,120 +198,162 @@
    8
   ],
   [
-   "models",
+   "国産",
    8
   ],
   [
-   "aerospace",
+   "valuation",
    8
   ],
   [
-   "投資",
+   "report",
+   8
+  ],
+  [
+   "shape",
+   8
+  ],
+  [
+   "drive",
    7
   ],
   [
-   "infrastructure",
+   "build",
    7
   ],
   [
-   "industrial",
+   "tech",
    7
   ],
   [
-   "無料",
+   "時代",
    7
   ],
   [
-   "社会",
+   "新た",
    7
   ],
   [
-   "surge",
+   "研究",
+   7
+  ],
+  [
+   "investors",
+   7
+  ],
+  [
+   "prices",
+   7
+  ],
+  [
+   "agibot",
    7
   ]
  ],
  "today_top5": [
   {
-   "title": "Unitree’s IPO: Is 219 times earnings too high for a humanoid maker?",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNVNleHB2RlBxUzk5SVBhOXdCWnh5UU1BTmNORzViZUw3eFliV2pHcU1rT1pMaGtvd1FXMndjM0REREkzQ0dfVEFUeDlHVWNIYWxDb3cwS1JGaktvZ0pabUNueFIyQ3ZseFJDSE5pRmlJQVJ5MWk5VjM1b1A4aksyQ1RFdkNmQkJaalVRbFU1ZzBfTW54MzhjcEcwZjJnYVBodVNldVNxZ0xQNjc2Z2Zj?oc=5",
-   "source": "Disruption Banking",
-   "published": "2026-08-11T21:25:17+00:00",
-   "count": 4,
-   "sources": [
-    "Disruption Banking",
-    "Financial Times",
-    "Pluang",
-    "qz.com"
-   ],
-   "score": 3.98
-  },
-  {
-   "title": "世界のヒューマノイドロボット出荷台数の97％は中国が占めている。",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLTF0cFQ1UmNqa2R2OHhTQmE1MU9GbmpzZzNQNk1QR041VUpsWGtVUlVJek9haTYxaEt5NjJRYVZ5QWNnRFE4aFVGNlN4MVNURjFaZDBDeENmTkhYeHAwRWF3bi1ncWE5am1hVVZWUUUtNkJjd0lSWXB6VFE0UFhDdVBteDRhWjZfWUwweU85OTJOUQ?oc=5",
-   "source": "vietnam.vn",
-   "published": "2026-08-11T11:17:26+00:00",
-   "count": 4,
-   "sources": [
-    "Yahoo!ニュース",
-    "vietnam.vn",
-    "ｄメニューニュース"
-   ],
-   "score": 3.46
-  },
-  {
-   "title": "Absolute dominance: Chinese companies account for 97% of global shipments of humanoid robots",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMUJJY2JWZDlLbWRqZTdqczVfWlRMWEt1ZlVnQ1VqSGpSU2VRTGhVTndqUXVIelBpZnF2TEFGdVBwcFNJZTlaQmFrREE4Y3hEZWpxb3BueTJYLVctNjQzRklVbldVaHQ0UE1NQy1kOUVJMFhMYUNxU29sQTNiNnhoOVpMenRFZmtNaFk4TE1PSXl0dFRVYV9BTmtxZms4NEpoMXJkbDY4RmZXamhXVkZhRHd0T0RLX1VpaDh6Y3NLb1NZTUpyMjc3NDBkSHF6ME0zNHZIQkNOb09YdWwwQnpV?oc=5",
-   "source": "صوت الإمارات",
-   "published": "2026-08-11T11:08:49+00:00",
-   "count": 3,
-   "sources": [
-    "China Daily Global Edition",
-    "TechNode",
-    "صوت الإمارات"
-   ],
-   "score": 2.59
-  },
-  {
-   "title": "NAVER D2SF completes follow on investment in NdotLight",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbGRqcEJ3SWdpZVBEOTFtZzJiRjVQSXI5ZjVnWEtkUk53VHZFUGhOVV9WNktwTTVJaVV5ZXgyLWoyOGd0ODR4cVNIeVhTZHdiLWZVUGV1ZURLUWc5UkxYNUpKdk1YZXlOdGNPTklXNFA3UkstY2NZMG9WX080WnhjN0N2WWR0YUlacW15NHpn?oc=5",
-   "source": "vir.com.vn",
-   "published": "2026-08-11T08:57:21+00:00",
-   "count": 3,
-   "sources": [
-    "Morningstar",
-    "finance.biggo.com",
-    "vir.com.vn"
-   ],
-   "score": 2.51
-  },
-  {
-   "title": "Unitree’s IPO may be just the beginning of an investor frenzy over humanoid-robot stocks",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRW1fUmViU25MV2NPbVlqVkVYVjRTWDF1ZU5HeFVnZnhNSVhxSkxJNHd5N2NEMlcxM204Nm1WNXd4RUNIZzdqVlo5OF9QYkNBLVZBODctY2FkN1B2enFaWFRvaHRWVHZrY2UtaUxvVjE5OUp6OGhHbWxpaDk0Zi14LWZWVU1ER0RNM1JKMHZNVmRMZkhLOXBXaG96TFFHVGN0YWs0YWxOTmJMS3p2ck5VcFl0Mnk1NW5UM2NyUU00Y1kweXBlRnNRaXJ3?oc=5",
-   "source": "MarketWatch",
-   "published": "2026-08-11T17:17:00+00:00",
+   "title": "San Mateo County Could Be First to Regulate Humanoid Robots for Commercial Use",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTmF6bEo5M0ppdnltakNQZW4td3dnYkJpMmFaTVZyVWVrVVJxVVdOLURSOVZuR3dfNWNFdEV4RGtXdWVCQWY4VkFXUlE5eFlISllNd3dTRGdldUpKWjdKRXNmRk1ObGo0c0hHTG1HaHVqdldhbjBncHUyWEI2dVhtSXdoVWFKZUN6RFF3d0lwZ090b29KUXZ6LUcyOEFQbno0T3RWSHBoNEVaU1pPUlBVX2RzVQ?oc=5",
+   "source": "KQED",
+   "published": "2026-08-12T14:00:00+00:00",
    "count": 2,
    "sources": [
-    "Finimize",
-    "MarketWatch"
+    "ABC7 Bay Area",
+    "KQED"
    ],
-   "score": 1.88
+   "score": 1.8
+  },
+  {
+   "title": "Former Alibaba researcher Junyang Lin announces Pragmatik Labs",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa3B2YUJJTFh0M2VJTTdvOWxVa0EtMExJRWowM3lCSFZRMVpadkNmMkEzNnNUMktNRlgtY0NkZ1ByY0p2VnBPQU5QMHdvLWFKTVpEX1dhQU1xb2ppRXcwMWtCRWdIZHczTkxrZ1pMMVU3LW9VRG91Ulg5LTkzMTNKakZpSVNUZkFzYTRMbXM2TUZ0MXZ6QlY1UXBYNlNCb1h4M1NfNm1ySkZwQUJ2?oc=5",
+   "source": "Dealroom",
+   "published": "2026-08-12T12:53:50+00:00",
+   "count": 2,
+   "sources": [
+    "Dealroom",
+    "The Information"
+   ],
+   "score": 1.77
+  },
+  {
+   "title": "Hyundai Motor Group Advances AI Transformation with 30,000 Employees",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX1ltZEZqTkJuc0ptS0NUbTV3QXNsOUcxVThOaTh4NTkzQzJlLVc1ODVlcTllaGxMTnEwMHYtRmN2RXdzT2JGd2J1LU1XdUZHWl9leW90MzUxZnp6Wk51ZTB6NUFaaVJTclJDOGV5Mlc3VGxwd2hFNWhhM2lucDh3NEY1enpHLUZ1?oc=5",
+   "source": "조선일보",
+   "published": "2026-08-12T08:41:45+00:00",
+   "count": 2,
+   "sources": [
+    "PR Newswire",
+    "조선일보"
+   ],
+   "score": 1.67
+  },
+  {
+   "title": "デジタルツイン市場拡大 フィジカルAI訓練を仮想へ - CHOSUNBIZ",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM1hIejlVa0RiVm1HY0prR1kteUJxcUJtRnFjSnBycWxpMEdqaWRzU0VzU2pPNjVzdnpDNG9qb0stY1BNYzZlZngzVk5vdjVxby1laHJBM21BN3JXcFhRZlZfbmFCdVpBY3pwclFXbjNlSjRyZDgyS2dEZ3ZUZVdJcVRB0gGWAUFVX3lxTFBVdFVoRHY5Y04zeU9Fbm85MVd1VXRCNXVLc015elR4QVlQYzdQdnpOZU1YZG84aXBjbWFGcTVMZWNUR0h0NEpGOVFBczVRZFM1WUMyZXkzRTdodXA5czZDRHlJaWFRSGxaTzdHQ2I5Rkd0OURCZmc4OHV1TFJGeFNWZGY4OF92ZW9mMUxTOEkwLTNpaTlLZw?oc=5",
+   "source": "Chosunbiz",
+   "published": "2026-08-12T21:01:00+00:00",
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "score": 0.99
+  },
+  {
+   "title": "Startups build digital twins to train physical AI, race to close reality gap - CHOSUNBIZ",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMGtiNnlxS1dIVFRpWTRmVVQ2eWtLMlpyZllhTllNanBwOEhRdlg4cVZLRU5SenNZZnluTFBPR0haVlU0QjZ0R1RJNUM1bEI4T1luWFJfc0NZRG5Lbl8yOEtPSXlocksxUm1oQmQwNkJueEJvS0ZiMEprSWJPZUU5dnRR0gGWAUFVX3lxTE1vcGMyVlJha2piTWNwOEdrcXZhc0dzRGhSRHZFY3BNYXhiM29hMTRyYkNQRnhoMWp6M3A2ZHNRemdKWlRvTzUyS0dVNG9fM0RxbkRyM0w4LTdxWVduZ1JiWlNmSGdabGFVbjhMbGFhaTZKTjBlbVROUlRIM2ZqZnU4YlNGazk0VFB2aDZackpUZS1yTG93Zw?oc=5",
+   "source": "Chosunbiz",
+   "published": "2026-08-12T21:00:00+00:00",
+   "count": 1,
+   "sources": [
+    "Chosunbiz"
+   ],
+   "score": 0.99
   }
  ],
  "hot_news": [
   {
-   "title": "Archer Partners with Boeing to Shape Future Aerospace Defense with Physical AI",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYndadUVDNUV0R09NNk5zbnRVV1Z6dnFfNHpfQTY1alNKSEw4OFJuUjUyZDJZeFBHeEUzSURCNmkwNFFMZnJCVUNNYU02UTJtNnAyZWlZSk1LNWVuamJQMFdHVDFHRTYtMUk2VlNtM29xakdDVzlScjcxdmNnRmlTWFdpaVhCU1ByNHYyV0VMVldodHVacjdCaXBVbVRLQW5FWVJNRFE0ZWFCRzlWbFZRQ3hR?oc=5",
-   "source": "World Business Outlook",
-   "published": "2026-08-11T06:21:38+00:00",
-   "count": 6,
+   "title": "Archer to Shape Physical AI Future of Aerospace and Defense with Acquisition of Boeing's Wisk Aero, Insitu and SkyGrid Subsidiaries",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTmZ3MWI2eUVHVlpUMmdza29IQlo3bVkzSnVYMDdrSmZjYnFfYnM5azFiVWtfeFk0YWlGMW16VVZncEF1VjZxd1ZxQ1E3UzB2Ri1SZ183OWUxZndSS1ZpbTBwMGpoekVnWEMyS2lINWZxRWRJc0JxVm1PWGExTVVjMVlKc194OTdjQU1GRGQxR1FXWXZoSURmbkpOWW1MUTRfcklUbUh1d1VTRVZUNW9PRDByZmdCMkRCOEloRG1zN0hpSy1QcU9KWWVkeHJOVmFQNTNUamZZVGFfakQ3VnpGYnJPaE5Wdw?oc=5",
+   "source": "marketscreener.com",
+   "published": "2026-08-11T14:13:14+00:00",
+   "count": 8,
    "sources": [
     "Archer Aviation - Investor Relations",
+    "Boeing",
     "Business Wire",
     "Financial Times",
     "The Joplin Globe",
     "World Business Outlook"
    ],
-   "score": 4.85
+   "score": 5.17
+  },
+  {
+   "title": "China leads humanoid robot market with 97% of global shipments",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUkJ3MVY0NE1qckhKYkZFNFZPUUdBSUJEMG5YY2YxZnpCMlhHU05XQXREVG5WdWNMLV9QNGdHbVZqZG93OTd4MVVkTHBzdTNhbG93SF9weUlFTnZjZFdTcExDWnJMb1A1b0hyWWktaFBaSzZDYUk2WjhxMHgyZHlVVVRNNmxNc2hHbEtaNkRBSnI0WjIz?oc=5",
+   "source": "TV BRICS",
+   "published": "2026-08-12T17:48:45+00:00",
+   "count": 4,
+   "sources": [
+    "Global Times",
+    "GuruFocus",
+    "TV BRICS",
+    "finance.biggo.com"
+   ],
+   "score": 3.79
+  },
+  {
+   "title": "NAVER D2SF Backs NdotLight Again as Physical AI Data Race Heats Up",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XbGlTM0hDMHdLeDB1b0dCc1pZa1J1dFZJNEVsWmczR0t4TDhMeklVV1lPZERPSlBFWTFaM0k5RFkzVzZUWmNrNkNpckgzVjlGWDdnRTVJM2RVVkFJLWp4V0JXWHZrdm8?oc=5",
+   "source": "thelec.net",
+   "published": "2026-08-12T01:29:59+00:00",
+   "count": 4,
+   "sources": [
+    "Chosunbiz",
+    "Morningstar",
+    "finance.biggo.com",
+    "thelec.net"
+   ],
+   "score": 3.02
   },
   {
    "title": "Unitree’s IPO: Is 219 times earnings too high for a humanoid maker?",
@@ -345,7 +367,7 @@
     "Pluang",
     "qz.com"
    ],
-   "score": 3.98
+   "score": 2.86
   },
   {
    "title": "世界のヒューマノイドロボット出荷台数の97％は中国が占めている。",
@@ -358,7 +380,7 @@
     "vietnam.vn",
     "ｄメニューニュース"
    ],
-   "score": 3.46
+   "score": 2.48
   },
   {
    "title": "Absolute dominance: Chinese companies account for 97% of global shipments of humanoid robots",
@@ -372,7 +394,7 @@
     "TechNode",
     "صوت الإمارات"
    ],
-   "score": 3.45
+   "score": 2.48
   },
   {
    "title": "Why Are China’s Humanoid Robot Makers Racing to Go Public?",
@@ -386,7 +408,7 @@
     "Reuters",
     "The Standard (HK)"
    ],
-   "score": 3.28
+   "score": 2.35
   },
   {
    "title": "台湾人研究者に聞く、台湾発ヒューマノイドロボットの新たな潮流（Wedge）",
@@ -399,20 +421,19 @@
     "Yahoo!ニュース",
     "ｄメニューニュース"
    ],
-   "score": 2.96
+   "score": 2.12
   },
   {
-   "title": "NAVER D2SF completes follow on investment in NdotLight",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbGRqcEJ3SWdpZVBEOTFtZzJiRjVQSXI5ZjVnWEtkUk53VHZFUGhOVV9WNktwTTVJaVV5ZXgyLWoyOGd0ODR4cVNIeVhTZHdiLWZVUGV1ZURLUWc5UkxYNUpKdk1YZXlOdGNPTklXNFA3UkstY2NZMG9WX080WnhjN0N2WWR0YUlacW15NHpn?oc=5",
-   "source": "vir.com.vn",
-   "published": "2026-08-11T08:57:21+00:00",
-   "count": 3,
+   "title": "San Mateo County Could Be First to Regulate Humanoid Robots for Commercial Use",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTmF6bEo5M0ppdnltakNQZW4td3dnYkJpMmFaTVZyVWVrVVJxVVdOLURSOVZuR3dfNWNFdEV4RGtXdWVCQWY4VkFXUlE5eFlISllNd3dTRGdldUpKWjdKRXNmRk1ObGo0c0hHTG1HaHVqdldhbjBncHUyWEI2dVhtSXdoVWFKZUN6RFF3d0lwZ090b29KUXZ6LUcyOEFQbno0T3RWSHBoNEVaU1pPUlBVX2RzVQ?oc=5",
+   "source": "KQED",
+   "published": "2026-08-12T14:00:00+00:00",
+   "count": 2,
    "sources": [
-    "Morningstar",
-    "finance.biggo.com",
-    "vir.com.vn"
+    "ABC7 Bay Area",
+    "KQED"
    ],
-   "score": 2.51
+   "score": 1.8
   },
   {
    "title": "Chinese humanoid robot maker Unitree launches USD 904 million IPO; issue open for subscription",
@@ -425,37 +446,11 @@
     "LIGA.net",
     "The Tribune"
    ],
-   "score": 2.5
-  },
-  {
-   "title": "Unitree Robotics IPO Draws Record Retail Demand",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORUl2c3Via194MkhkbWF1ZVJDekdaWEpZa2RqWF95TUJud2o1ODhsbkw5YXlHRWxsUGhzeEV5M3JVTWoxbmZoeFN6bHY0Ql9FV3ZmSk9Zc3lRSHZvSURTclZXTEowMFltN3ZqZmFRVGpmLUZra20wSnVzcl9kQnVYYmNmWFgyUjFvWHh3c1FHZnhTUQ?oc=5",
-   "source": "Briefs Finance",
-   "published": "2026-08-10T21:48:18+00:00",
-   "count": 3,
-   "sources": [
-    "Briefs Finance",
-    "Global Times",
-    "Interesting Engineering"
-   ],
-   "score": 2.15
-  },
-  {
-   "title": "Intel Announces $15 Billion Common Stock Offering To Support AI And Manufacturing Growth",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTER6RXNWRVFuejNxVTNUbE1iXzA0S0JYa2sxdXhMZURGMEhhdHpENlNjbXlyZVJCQmpMdmVmbTNzVldEM3VGaHBCaFJoOEdJXzd0RE1KbjBhWUZkQUpoRVhwWnlESFdldVlNZFYtcWRoRXhKeGl1Y1VqLXNiRW55YUxjUWlQcGtQQ2JyRFhFNXJZTnpwQzhOWW9ZQ0FuQWhXRDhZNWgxTTNiakHSAbABQVVfeXFMTkxmT09KYTZHbG1PYW1kV2I1bVNfbjBKeklMY0hBVzdhUk5JQzBUVHVBQk1uUDczR3VTQVpRT1gyTXhUZ1ZLa0lLYlgxZU9FRlhaZi1lVTQwOWRuSkhPZzI4c1dOVWJZdVpxd0t5aC1BSF9DZHFFc2FVT1JZaHdLZzc0ZTlyUHdvdXVyelVkUDF2RXhMajZ2UTVpeHc3Wjc4cXZ5c1FHYVJ0VzhPWTF2Rno?oc=5",
-   "source": "Pulse 2.0",
-   "published": "2026-08-10T18:36:08+00:00",
-   "count": 3,
-   "sources": [
-    "CNBC",
-    "Pulse 2.0"
-   ],
-   "score": 2.06
+   "score": 1.79
   }
  ],
  "trend": {
   "dates": [
-   "2026-07-13",
    "2026-07-14",
    "2026-07-15",
    "2026-07-16",
@@ -484,14 +479,14 @@
    "2026-08-08",
    "2026-08-09",
    "2026-08-10",
-   "2026-08-11"
+   "2026-08-11",
+   "2026-08-12"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     31,
      41,
      34,
      60,
@@ -519,7 +514,8 @@
      15,
      4,
      5,
-     47,
+     48,
+     32,
      29
     ]
    },
@@ -527,7 +523,6 @@
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     45,
      41,
      35,
      103,
@@ -548,7 +543,7 @@
      21,
      9,
      18,
-     18,
+     19,
      38,
      32,
      24,
@@ -556,14 +551,14 @@
      8,
      7,
      9,
-     7
+     8,
+     15
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     4,
      11,
      13,
      8,
@@ -592,14 +587,14 @@
      1,
      1,
      10,
-     4
+     5,
+     7
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     28,
      29,
      35,
      34,
@@ -615,7 +610,7 @@
      17,
      26,
      43,
-     63,
+     64,
      46,
      33,
      8,
@@ -628,18 +623,18 @@
      7,
      13,
      44,
-     40
+     43,
+     15
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     34,
      16,
      12,
      34,
-     19,
+     20,
      2,
      6,
      7,
@@ -660,11 +655,12 @@
      20,
      16,
      9,
-     11,
+     12,
      1,
      6,
      13,
-     11
+     12,
+     7
     ]
    }
   ]
@@ -686,19 +682,19 @@
    "name": "GOOGLE LLC",
    "core": "GOOGLE",
    "patents": 275,
-   "news": 31
+   "news": 32
   },
   {
    "name": "HONDA MOTOR CO LTD",
    "core": "HONDA MOTOR",
    "patents": 263,
-   "news": 4
+   "news": 2
   },
   {
    "name": "SAMSUNG ELECTRONICS CO LTD",
    "core": "SAMSUNG ELECTRONICS",
    "patents": 260,
-   "news": 28
+   "news": 29
   },
   {
    "name": "X DEV LLC",
@@ -710,7 +706,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 157
+   "news": 156
   },
   {
    "name": "QUALCOMM INC",
