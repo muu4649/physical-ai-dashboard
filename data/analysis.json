@@ -1,52 +1,52 @@
 {
- "updated_at": "2026-08-13T21:41:01.082234+00:00",
+ "updated_at": "2026-08-14T21:21:14.104642+00:00",
  "kpi": {
-  "articles_7d": 501,
-  "articles_prev_7d": 563,
-  "sources_7d": 293,
-  "articles_30d": 3013,
-  "total_articles": 4080,
+  "articles_7d": 550,
+  "articles_prev_7d": 510,
+  "sources_7d": 303,
+  "articles_30d": 3010,
+  "total_articles": 4200,
   "oldest_news": "2025-12-18"
  },
  "wordcloud": [
   [
-   "unitree",
-   61
+   "china",
+   56
   ],
   [
-   "china",
-   57
+   "unitree",
+   53
   ],
   [
    "ipo",
-   46
+   41
+  ],
+  [
+   "nvidia",
+   37
   ],
   [
    "中国",
-   31
+   25
   ],
   [
    "market",
-   18
-  ],
-  [
-   "billion",
-   17
-  ],
-  [
-   "chinese",
-   17
-  ],
-  [
-   "million",
-   16
+   20
   ],
   [
    "world",
-   16
+   18
   ],
   [
-   "demand",
+   "data",
+   18
+  ],
+  [
+   "chinese",
+   18
+  ],
+  [
+   "million",
    16
   ],
   [
@@ -58,7 +58,11 @@
    15
   ],
   [
-   "data",
+   "demand",
+   15
+  ],
+  [
+   "世界",
    15
   ],
   [
@@ -66,51 +70,63 @@
    14
   ],
   [
-   "yuan",
+   "韓国",
    13
   ],
   [
-   "世界",
+   "korea",
    13
   ],
   [
-   "race",
-   12
-  ],
-  [
-   "boeing",
-   12
+   "開発",
+   13
   ],
   [
    "archer",
+   13
+  ],
+  [
+   "boeing",
+   13
+  ],
+  [
+   "defense",
    12
   ],
   [
-   "investment",
-   11
-  ],
-  [
-   "nvidia",
-   11
-  ],
-  [
-   "raises",
-   11
-  ],
-  [
    "platform",
+   12
+  ],
+  [
+   "billion",
+   12
+  ],
+  [
+   "市場",
+   12
+  ],
+  [
+   "group",
    11
   ],
   [
-   "business",
-   10
-  ],
-  [
-   "企業",
-   10
+   "unveil",
+   11
   ],
   [
    "industry",
+   10
+  ],
+  [
+   "build",
+   10
+  ],
+  [
+   "growth",
+   10
+  ],
+  [
+   "hyundai",
    10
   ],
   [
@@ -118,11 +134,7 @@
    10
   ],
   [
-   "stock",
-   10
-  ],
-  [
-   "korea",
+   "企業",
    10
   ],
   [
@@ -130,31 +142,23 @@
    10
   ],
   [
-   "現場",
+   "oversubscribed",
+   10
+  ],
+  [
+   "LG",
+   10
+  ],
+  [
+   "games",
+   10
+  ],
+  [
+   "yuan",
    9
   ],
   [
-   "push",
-   9
-  ],
-  [
-   "launches",
-   9
-  ],
-  [
-   "韓国",
-   9
-  ],
-  [
-   "growth",
-   9
-  ],
-  [
-   "aerospace",
-   9
-  ],
-  [
-   "defense",
+   "investment",
    9
   ],
   [
@@ -162,39 +166,51 @@
    9
   ],
   [
-   "日本",
-   8
+   "aerospace",
+   9
+  ],
+  [
+   "race",
+   9
+  ],
+  [
+   "stock",
+   9
+  ],
+  [
+   "report",
+   9
   ],
   [
    "expand",
+   9
+  ],
+  [
+   "launches",
+   9
+  ],
+  [
+   "factories",
+   9
+  ],
+  [
+   "motor",
+   9
+  ],
+  [
+   "NVIDIA",
+   9
+  ],
+  [
+   "産業",
    8
   ],
   [
-   "models",
+   "plans",
    8
   ],
   [
-   "open",
-   8
-  ],
-  [
-   "deepseek",
-   8
-  ],
-  [
-   "industrial",
-   8
-  ],
-  [
-   "shanghai",
-   8
-  ],
-  [
-   "開発",
-   8
-  ],
-  [
-   "出資",
+   "push",
    8
   ],
   [
@@ -202,116 +218,186 @@
    8
   ],
   [
-   "市場",
+   "com",
    8
   ],
   [
-   "oversubscribed",
+   "出資",
    8
   ],
   [
-   "investors",
-   7
+   "develop",
+   8
   ],
   [
-   "国産",
-   7
+   "built",
+   8
+  ],
+  [
+   "raises",
+   8
+  ],
+  [
+   "時代",
+   8
   ],
   [
    "データ",
-   7
+   8
   ],
   [
-   "report",
-   7
-  ],
-  [
-   "tech",
-   7
-  ],
-  [
-   "group",
-   7
-  ],
-  [
-   "accelerates",
-   7
-  ],
-  [
-   "投資",
-   7
-  ],
-  [
-   "subsidiaries",
-   7
-  ],
-  [
-   "intel",
-   7
+   "公開",
+   8
   ]
  ],
  "today_top5": [
   {
-   "title": "人型ロボットの先端企業 Figure AI Inc.(米)に出資 | プレスリリース | ニュース",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9EeWdtWEpqelNmUUtKUUpFRkZtQkl4X1c4SUk3U2FISWhRdkgxZXQ2YTBvVWpzZFpxU19fakdhcnJqM1Qyd3p0Y2VKQTREX25hNEZ4Qg?oc=5",
-   "source": "アステリア株式会社",
-   "published": "2026-08-13T09:12:54+00:00",
+   "title": "LG、NVIDIAと提携し二足歩行ヒューマノイドロボット開発 2027年1〜3月公開へ",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdTZ1V2VxLWljbE5tbE9ibTRJdklWTGFTanhFTlZKSmlIMWZNZ2o5NFNXZzRZOGh3a2l6dW5ONjZhVGlvZHZVVWFreVJWWXVYR3FzQWx1TDJ4OTlwLUhCSE5teE5HOWVpWWc1Vk9TSWZhaVVwN3BSRm41SzRhVWFUcHlhOUJyZno2LTBxU0FMZUdqMkFoeDlRRHlUSmRKTlNWWGEtdlV4V2FqSlBlZU9oT0V3?oc=5",
+   "source": "디지털투데이",
+   "published": "2026-08-14T06:09:23+00:00",
+   "count": 5,
+   "sources": [
+    "BigGo ファイナンス",
+    "Chosunbiz",
+    "디지털투데이"
+   ],
+   "score": 4.05
+  },
+  {
+   "title": "LG, NVIDIA Announce Bipedal Humanoid Robot",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORWZHdC1EUG9fTEZMcF9VV1UyaDJHSl84ZUdHQzYyem9meThMNFBaemREaGU3a3lRb3pGaWpEYWRsRmxsbml2WkRkd05SUnRzUXBQOUplSHFyR0twWVZEcVo4MUxTZjMxQ1dVTFEzZi1hMERwamloUTdnY2JFY09meFhIVU5uY3RXSnVscER6X0E?oc=5",
+   "source": "Tomorrow's World Today",
+   "published": "2026-08-14T19:30:37+00:00",
+   "count": 4,
+   "sources": [
+    "KED Global",
+    "Seoul Economic Daily",
+    "Tomorrow's World Today",
+    "finance.biggo.com"
+   ],
+   "score": 3.9
+  },
+  {
+   "title": "2,056 Humanoid Robots From 16 Countries Head to Beijing for World Robot Games",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd3B3RkhsMFRfUXJoaUlneFNVcVFqVURWdDg4ZDNKVERIYUhPQ1FZZndwV3hDbEc1ZER1a2ZiaE9QWjk4UFVkY3BOM2xtSFNCWjVTcVlwVFczQmxCWDlReGowV2t6Wk1rSlFpdGpWdzk5TVhSUGFmcU42d1BQQU9NU2dQZERSUQ?oc=5",
+   "source": "eWeek",
+   "published": "2026-08-14T18:24:30+00:00",
+   "count": 4,
+   "sources": [
+    "Anadolu Ajansı",
+    "China Daily",
+    "Interesting Engineering",
+    "eWeek"
+   ],
+   "score": 3.84
+  },
+  {
+   "title": "LG, NVIDIA Unveil Joint Humanoid Robot Next Year",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcWxSRl9aV0dyUVl1MXF3aTc4VEFHRWtuYmRMeVFwUlhXcVYzeFkyVV9Hdmp0Mktpd0EzeWwtbFdyV3pOQk1LWFNtMFFVSkhOSjlNZzQ4NkZUcVB2dWRURDE3QXpQQmN0ZHI1eF9wdlk3eGhfQ1FVWjRUSEtlX0tqWUo0X3UzWTg3?oc=5",
+   "source": "조선일보",
+   "published": "2026-08-14T15:47:18+00:00",
    "count": 3,
    "sources": [
-    "アステリア株式会社",
-    "ニコニコニュース",
-    "ニュースメディアVOIX"
+    "Businesskorea",
+    "조선일보"
    ],
-   "score": 2.52
+   "score": 2.78
   },
   {
-   "title": "NEURA Acquires Bosch Rexroth ACTIVE Shuttle to Build Unified Physical-AI Stack",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd2s3VXJ4WjBKci1zbktfQzBmVzlfam52OG1FRFhuNUtVVldjTG5iaDRhYjJxMy1uMTU5ZDNDRVhlOGhTcUhCMmgyb1FJMDJCaE5EMVBFczZ5ZFR3b2VwdnNYTzhwczdXNlVqT1cyNjhEZ3luN1M4Q2tkZXlYenhuYnVDY1gwWlQ4OFo5dnFpXzRKRF9jYVpoNFdUbjFFczE4cW9PaTc0RDhLcUtfUi1ubE94X2w4TWNiVjJyOGpYN1FjY2VnNS1GQ1NB?oc=5",
-   "source": "Tech Times",
-   "published": "2026-08-13T20:10:13+00:00",
-   "count": 2,
+   "title": "LG to Unveil Its Next-Gen Humanoid Robot, Built on NVIDIA Isaac GR00T PR Newswire",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQWtWR1VnMmZ6TVVweXlod2c5R3pHQ0VYcUJFUnRGSFpmbkxoTk4wM0NscVY2MmloakdnMUNLaE1iWmM0Yy1rblNLLTVnREU4dklEczRWWlU4Sk9ZTlh3RllUZm4zQ3l3Z2JpUXhuU2NnaENSM3NZSnpwaTlvSUZ1RnJaYkozN3VmeTZja0Q3YlZiUGVQMXlQaWxPUzBwVTkzV3ppRkVkcW8wUlBTUURIN1FPWTRfR0YyWnRCUW9BZUlrdWFmS29NOXRLTVM?oc=5",
+   "source": "Chinook Observer",
+   "published": "2026-08-14T07:28:13+00:00",
+   "count": 3,
    "sources": [
-    "Tech Times",
-    "Tech.eu"
+    "Chinook Observer",
+    "StreetInsider",
+    "Unite.AI"
    ],
-   "score": 1.96
-  },
-  {
-   "title": "アステリア、米Ｆｉｇｕｒｅ ＡＩに１００万米ドル出資、ＡＩ・ロボティクス投資第１号 - kabu-ir.com",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE44Z3lxbmx6VTdJWk91Vk1YS2FOUjIxcTVUNFloejYxV1N3UzY1Y0cxMTRXbEJJaTQ0cDVSdVRiMnVkNVBoZzRvcjlfRUdrZUQ4UnZBYw?oc=5",
-   "source": "kabu-ir.com",
-   "published": "2026-08-13T07:06:58+00:00",
-   "count": 2,
-   "sources": [
-    "kabu-ir.com",
-    "robotstart.info"
-   ],
-   "score": 1.63
-  },
-  {
-   "title": "ヒューマノイド「DR02」が屋外階段を安定した足取りで上りきる映像を公開 DEEP Robotics 1枚目の写真・画像",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1WUUl3RnRZRGE3ZjliTHZmZjl1aThwU096TmdWMnE0NjFmV1FtdXMzNVJ0R0s2dG51MFR5SUs3OXhYaVRwMXNROTc4Z0pmRThsR2gxZC1QWHVGeEhzSlo0NU5vMmstaWljcVhTZVFXelBnelk?oc=5",
-   "source": "robotstart.info",
-   "published": "2026-08-13T03:10:02+00:00",
-   "count": 2,
-   "sources": [
-    "robotstart.info"
-   ],
-   "score": 1.55
-  },
-  {
-   "title": "World Humanoid Robot Games kicks off in Beijing with 2,056 robots competing",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOTg1anBxaEtzWk1vQk5EMm11MVF2SlpBQl9KUFZIdnhteXUyT3d4S0Z1MFhHVVRPdmNtby1QU1VWMGZjTjQxaThUTHNKeDZGUmtjdTdhendHTlJDOWZtaEhNc3FZS2lxREhoOW1BRFJPU0tEYVh1NVp4blFSLUtKYUNVSHdIZC1wdU51M3RORnlxaDFLZ3ZBaHpDNEFRT1BTS1ZpcmRYMzROS0FUWGtNWDRNRU5BaVZZazBJWmMxaHRDdTNu?oc=5",
-   "source": "The Standard (HK)",
-   "published": "2026-08-13T21:14:43+00:00",
-   "count": 1,
-   "sources": [
-    "The Standard (HK)"
-   ],
-   "score": 0.99
+   "score": 2.47
   }
  ],
  "hot_news": [
+  {
+   "title": "Unitree IPO oversubscribed more than 5,000 times as investors pile into humanoid robotics",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPa2pSU2pPTkplNzZheU9aenJaVkZyX1lXa3lFUWNmaG1pNWNrSEhmOS1wUXhyVXVQenVXUktPbklDby0wU0JfeEhOSzdmeXVublpXMV9hTmxOOUxlalZHaWlSRXNqTnFpMGFMSVVRUE94ajZuWEw4Rkp3OFZfOEFZMktEX2lrMmUzSEhKNFVVd2tuNUtoc1pndFdINnpNbURrNjJ0S0FCWjZVQzMxR3ZKYldsSVJSbDBTbElkaF9Bc2F1dzlLWlcyVDJvNmwwUmVPQXBrNDZaQTVZWVJHRGc?oc=5",
+   "source": "Robotics & Automation News",
+   "published": "2026-08-14T11:09:07+00:00",
+   "count": 5,
+   "sources": [
+    "Disruption Banking",
+    "Financial Times",
+    "Robotics & Automation News",
+    "qz.com"
+   ],
+   "score": 4.34
+  },
+  {
+   "title": "LG、NVIDIAと提携し二足歩行ヒューマノイドロボット開発 2027年1〜3月公開へ",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdTZ1V2VxLWljbE5tbE9ibTRJdklWTGFTanhFTlZKSmlIMWZNZ2o5NFNXZzRZOGh3a2l6dW5ONjZhVGlvZHZVVWFreVJWWXVYR3FzQWx1TDJ4OTlwLUhCSE5teE5HOWVpWWc1Vk9TSWZhaVVwN3BSRm41SzRhVWFUcHlhOUJyZno2LTBxU0FMZUdqMkFoeDlRRHlUSmRKTlNWWGEtdlV4V2FqSlBlZU9oT0V3?oc=5",
+   "source": "디지털투데이",
+   "published": "2026-08-14T06:09:23+00:00",
+   "count": 5,
+   "sources": [
+    "BigGo ファイナンス",
+    "Chosunbiz",
+    "디지털투데이"
+   ],
+   "score": 4.05
+  },
+  {
+   "title": "LG, NVIDIA Announce Bipedal Humanoid Robot",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORWZHdC1EUG9fTEZMcF9VV1UyaDJHSl84ZUdHQzYyem9meThMNFBaemREaGU3a3lRb3pGaWpEYWRsRmxsbml2WkRkd05SUnRzUXBQOUplSHFyR0twWVZEcVo4MUxTZjMxQ1dVTFEzZi1hMERwamloUTdnY2JFY09meFhIVU5uY3RXSnVscER6X0E?oc=5",
+   "source": "Tomorrow's World Today",
+   "published": "2026-08-14T19:30:37+00:00",
+   "count": 4,
+   "sources": [
+    "KED Global",
+    "Seoul Economic Daily",
+    "Tomorrow's World Today",
+    "finance.biggo.com"
+   ],
+   "score": 3.9
+  },
+  {
+   "title": "2,056 Humanoid Robots From 16 Countries Head to Beijing for World Robot Games",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd3B3RkhsMFRfUXJoaUlneFNVcVFqVURWdDg4ZDNKVERIYUhPQ1FZZndwV3hDbEc1ZER1a2ZiaE9QWjk4UFVkY3BOM2xtSFNCWjVTcVlwVFczQmxCWDlReGowV2t6Wk1rSlFpdGpWdzk5TVhSUGFmcU42d1BQQU9NU2dQZERSUQ?oc=5",
+   "source": "eWeek",
+   "published": "2026-08-14T18:24:30+00:00",
+   "count": 4,
+   "sources": [
+    "Anadolu Ajansı",
+    "China Daily",
+    "Interesting Engineering",
+    "eWeek"
+   ],
+   "score": 3.84
+  },
+  {
+   "title": "LG, NVIDIA Unveil Joint Humanoid Robot Next Year",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcWxSRl9aV0dyUVl1MXF3aTc4VEFHRWtuYmRMeVFwUlhXcVYzeFkyVV9Hdmp0Mktpd0EzeWwtbFdyV3pOQk1LWFNtMFFVSkhOSjlNZzQ4NkZUcVB2dWRURDE3QXpQQmN0ZHI1eF9wdlk3eGhfQ1FVWjRUSEtlX0tqWUo0X3UzWTg3?oc=5",
+   "source": "조선일보",
+   "published": "2026-08-14T15:47:18+00:00",
+   "count": 3,
+   "sources": [
+    "Businesskorea",
+    "조선일보"
+   ],
+   "score": 2.78
+  },
+  {
+   "title": "Asia-Pacific Physical AI Market Size and Trends 2025 to 2035",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6dDE3eDNFRWhzcXdkRFFLc0NLTnlZZWMyZV9QZHBYOGRMX3VJREI2aWlncUJxYzRhSG9lOUlCajFfNDNnWm1tVDlKSWMtTnR1RC00NEw4S1RGYTNtemN0NnQyYy05a0NGbHd1SGRuSzVvVkZu?oc=5",
+   "source": "Precedence Research",
+   "published": "2026-08-14T13:05:53+00:00",
+   "count": 3,
+   "sources": [
+    "MarketsandMarkets",
+    "Precedence Research"
+   ],
+   "score": 2.67
+  },
   {
    "title": "Archer to Shape Physical AI Future of Aerospace and Defense with Acquisition of Boeing's Wisk Aero, Insitu and SkyGrid Subsidiaries",
    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTmZ3MWI2eUVHVlpUMmdza29IQlo3bVkzSnVYMDdrSmZjYnFfYnM5azFiVWtfeFk0YWlGMW16VVZncEF1VjZxd1ZxQ1E3UzB2Ri1SZ183OWUxZndSS1ZpbTBwMGpoekVnWEMyS2lINWZxRWRJc0JxVm1PWGExTVVjMVlKc194OTdjQU1GRGQxR1FXWXZoSURmbkpOWW1MUTRfcklUbUh1d1VTRVZUNW9PRDByZmdCMkRCOEloRG1zN0hpSy1QcU9KWWVkeHJOVmFQNTNUamZZVGFfakQ3VnpGYnJPaE5Wdw?oc=5",
@@ -326,131 +412,49 @@
     "The Joplin Globe",
     "World Business Outlook"
    ],
-   "score": 3.7
+   "score": 2.67
   },
   {
-   "title": "China leads humanoid robot market with 97% of global shipments",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUkJ3MVY0NE1qckhKYkZFNFZPUUdBSUJEMG5YY2YxZnpCMlhHU05XQXREVG5WdWNMLV9QNGdHbVZqZG93OTd4MVVkTHBzdTNhbG93SF9weUlFTnZjZFdTcExDWnJMb1A1b0hyWWktaFBaSzZDYUk2WjhxMHgyZHlVVVRNNmxNc2hHbEtaNkRBSnI0WjIz?oc=5",
-   "source": "TV BRICS",
-   "published": "2026-08-12T17:48:45+00:00",
-   "count": 4,
-   "sources": [
-    "Global Times",
-    "GuruFocus",
-    "TV BRICS",
-    "finance.biggo.com"
-   ],
-   "score": 2.72
-  },
-  {
-   "title": "NVIDIA Cosmos 3 Brings Revolutionary Open World Models to Physical AI Development",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JS2lYTnJ0Sm9EQ05BX2p6NTM2dF9ZZXA0eWxrNjZ5bnJUU19SSUdjZUZwM2RRbmUwVi01LVVtWXRtNEJsRnpKNVVZX043NTRkMThHdG44TjMwdU5wQmdJbEMySVdkRXFLZ2tmMVJsMDFVSDdnS0Vv?oc=5",
-   "source": "Techgenyz",
-   "published": "2026-08-13T10:26:12+00:00",
+   "title": "中国の人型ロボット企業ユニツリーに注文殺到、上海IPO申込は供給量の8000倍超",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MN1dacVpqVDZIS0xvTmNQLWlObVBNYV9TZXMtbTd6RlJwV1k5RzZwMWR2OUhQLXBCdU0tYXRCU2VnLVZJT05Wd2hXTTJxRzNxN2NLZkxGaEV2ZUpFREJvUWVDX2RnYzI4?oc=5",
+   "source": "Межа. Новини України.",
+   "published": "2026-08-14T07:41:56+00:00",
    "count": 3,
    "sources": [
-    "Techgenyz",
-    "The Cryptonomist",
-    "itbrief.co.nz"
+    "Forbes JAPAN",
+    "Yahoo!ニュース",
+    "Межа. Новини України."
    ],
-   "score": 2.57
+   "score": 2.48
   },
   {
-   "title": "人型ロボットの先端企業 Figure AI Inc.(米)に出資 | プレスリリース | ニュース",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9EeWdtWEpqelNmUUtKUUpFRkZtQkl4X1c4SUk3U2FISWhRdkgxZXQ2YTBvVWpzZFpxU19fakdhcnJqM1Qyd3p0Y2VKQTREX25hNEZ4Qg?oc=5",
-   "source": "アステリア株式会社",
-   "published": "2026-08-13T09:12:54+00:00",
+   "title": "LG to Unveil Its Next-Gen Humanoid Robot, Built on NVIDIA Isaac GR00T PR Newswire",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQWtWR1VnMmZ6TVVweXlod2c5R3pHQ0VYcUJFUnRGSFpmbkxoTk4wM0NscVY2MmloakdnMUNLaE1iWmM0Yy1rblNLLTVnREU4dklEczRWWlU4Sk9ZTlh3RllUZm4zQ3l3Z2JpUXhuU2NnaENSM3NZSnpwaTlvSUZ1RnJaYkozN3VmeTZja0Q3YlZiUGVQMXlQaWxPUzBwVTkzV3ppRkVkcW8wUlBTUURIN1FPWTRfR0YyWnRCUW9BZUlrdWFmS29NOXRLTVM?oc=5",
+   "source": "Chinook Observer",
+   "published": "2026-08-14T07:28:13+00:00",
    "count": 3,
    "sources": [
-    "アステリア株式会社",
-    "ニコニコニュース",
-    "ニュースメディアVOIX"
+    "Chinook Observer",
+    "StreetInsider",
+    "Unite.AI"
    ],
-   "score": 2.52
+   "score": 2.47
   },
   {
-   "title": "Unitree’s IPO may be just the beginning of an investor frenzy over humanoid-robot stocks",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRW1fUmViU25MV2NPbVlqVkVYVjRTWDF1ZU5HeFVnZnhNSVhxSkxJNHd5N2NEMlcxM204Nm1WNXd4RUNIZzdqVlo5OF9QYkNBLVZBODctY2FkN1B2enFaWFRvaHRWVHZrY2UtaUxvVjE5OUp6OGhHbWxpaDk0Zi14LWZWVU1ER0RNM1JKMHZNVmRMZkhLOXBXaG96TFFHVGN0YWs0YWxOTmJMS3p2ck5VcFl0Mnk1NW5UM2NyUU00Y1kweXBlRnNRaXJ3?oc=5",
-   "source": "MarketWatch",
-   "published": "2026-08-11T17:17:00+00:00",
-   "count": 5,
+   "title": "韓国政府、8月から工場の製造データ収集へ…「フィジカルAI」開発が本格始動（KOREA WAVE）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBUVpwQWtNS1hyVWphbkhSR1VMUU5zd082eEpKaHFveWtWU0RkTTJaZW9YQmlEenU3Y0wwcHdHZG4tYWN4cVp2ZnFZQW1qNHBtSDRYcDRKTnlweWJuX2RjS0ZGa2d1T1ZmRkdxbVk5dGxwc3RzTmJTbWxlMlRRRUk?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-08-14T03:42:20+00:00",
+   "count": 3,
    "sources": [
-    "Asia News Network",
-    "Finimize",
-    "Interesting Engineering",
-    "MarketWatch",
-    "chinadailyhk"
+    "AFPBB News",
+    "Yahoo!ニュース"
    ],
-   "score": 2.41
-  },
-  {
-   "title": "NAVER D2SF Backs NdotLight Again as Physical AI Data Race Heats Up",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XbGlTM0hDMHdLeDB1b0dCc1pZa1J1dFZJNEVsWmczR0t4TDhMeklVV1lPZERPSlBFWTFaM0k5RFkzVzZUWmNrNkNpckgzVjlGWDdnRTVJM2RVVkFJLWp4V0JXWHZrdm8?oc=5",
-   "source": "thelec.net",
-   "published": "2026-08-12T01:29:59+00:00",
-   "count": 4,
-   "sources": [
-    "Chosunbiz",
-    "Morningstar",
-    "finance.biggo.com",
-    "thelec.net"
-   ],
-   "score": 2.17
-  },
-  {
-   "title": "Unitree’s IPO: Is 219 times earnings too high for a humanoid maker?",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNVNleHB2RlBxUzk5SVBhOXdCWnh5UU1BTmNORzViZUw3eFliV2pHcU1rT1pMaGtvd1FXMndjM0REREkzQ0dfVEFUeDlHVWNIYWxDb3cwS1JGaktvZ0pabUNueFIyQ3ZseFJDSE5pRmlJQVJ5MWk5VjM1b1A4aksyQ1RFdkNmQkJaalVRbFU1ZzBfTW54MzhjcEcwZjJnYVBodVNldVNxZ0xQNjc2Z2Zj?oc=5",
-   "source": "Disruption Banking",
-   "published": "2026-08-11T21:25:17+00:00",
-   "count": 4,
-   "sources": [
-    "Disruption Banking",
-    "Financial Times",
-    "Pluang",
-    "qz.com"
-   ],
-   "score": 2.05
-  },
-  {
-   "title": "NEURA Acquires Bosch Rexroth ACTIVE Shuttle to Build Unified Physical-AI Stack",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd2s3VXJ4WjBKci1zbktfQzBmVzlfam52OG1FRFhuNUtVVldjTG5iaDRhYjJxMy1uMTU5ZDNDRVhlOGhTcUhCMmgyb1FJMDJCaE5EMVBFczZ5ZFR3b2VwdnNYTzhwczdXNlVqT1cyNjhEZ3luN1M4Q2tkZXlYenhuYnVDY1gwWlQ4OFo5dnFpXzRKRF9jYVpoNFdUbjFFczE4cW9PaTc0RDhLcUtfUi1ubE94X2w4TWNiVjJyOGpYN1FjY2VnNS1GQ1NB?oc=5",
-   "source": "Tech Times",
-   "published": "2026-08-13T20:10:13+00:00",
-   "count": 2,
-   "sources": [
-    "Tech Times",
-    "Tech.eu"
-   ],
-   "score": 1.96
-  },
-  {
-   "title": "FedEx scales autonomous trailer loading with Dexterity",
-   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNZlRmVVZDSWdFdEpsODhoX3VGbTBMa0xFZk5QdEJQYnVuak8xajN6SVFjM3VuSVJIb21SRGxqSi1CanFXQnZxUlRSSHhiTUhVdnFwU0xaNUlySXR2dnZ3OVVFMzByOXZRWm9OaTJtWXJoRkZHQ1lkQTRkWVVoQTFrTFBubW1Mc3FncVpPNEZ1OWQ1TEd3clA4RHFUcEVmY0JUNWIxSGZmdmlwVTRWYjJKSnI0ZTZwTXRuMUU1WTY2a0lXOHZiRVNhUGxJZUJaeVNOOTNKRFg2aHhHblZkODVUTWFzaHBEanpYLWROUlNKd240TWltWXZKUXVXckdrV2xkOUNSV1lvUUFVQkg5akJ0Q0FZVTN0UQ?oc=5",
-   "source": "MarketScale",
-   "published": "2026-08-13T18:27:31+00:00",
-   "count": 2,
-   "sources": [
-    "MarketScale",
-    "Thomasnet"
-   ],
-   "score": 1.91
-  },
-  {
-   "title": "China’s DOBOT unveils LUMO – the ‘world’s first all-terrain’ humanoid robot",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY0I3NTVLTjkwX3pDQmFkS3FfcnpiWnRNSXNSTDZ3dHFNVTRVYV95UEdBam5NZk82ajZMRi1wUzhReExsaUp0dmpldm91ak5KRmZFVUJfaHczWnEtWlBaM1NYMEdUTElJdG16SVJfNV9LX1J5QmJMQi16eW4zR3hVQnYtaDZVY3o3WVNMak96TUF6R3Q5UzBGWUpfbkM0TzRLRXUzNTlRSnRYMHBpSHJnaQ?oc=5",
-   "source": "Interesting Engineering",
-   "published": "2026-08-13T16:01:40+00:00",
-   "count": 2,
-   "sources": [
-    "Interesting Engineering",
-    "Mjengo Hub"
-   ],
-   "score": 1.85
+   "score": 2.35
   }
  ],
  "trend": {
   "dates": [
-   "2026-07-15",
    "2026-07-16",
    "2026-07-17",
    "2026-07-18",
@@ -479,14 +483,14 @@
    "2026-08-10",
    "2026-08-11",
    "2026-08-12",
-   "2026-08-13"
+   "2026-08-13",
+   "2026-08-14"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     34,
      60,
      37,
      8,
@@ -515,14 +519,14 @@
      48,
      33,
      33,
-     20
+     22,
+     35
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     35,
      103,
      52,
      8,
@@ -550,22 +554,22 @@
      7,
      10,
      8,
+     17,
      16,
-     14
+     13
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     13,
      8,
      15,
      12,
      11,
      22,
      7,
-     11,
+     12,
      17,
      4,
      0,
@@ -586,15 +590,15 @@
      1,
      10,
      5,
-     10,
-     5
+     11,
+     5,
+     4
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     35,
      34,
      38,
      19,
@@ -608,7 +612,7 @@
      17,
      26,
      43,
-     64,
+     65,
      46,
      33,
      8,
@@ -621,16 +625,16 @@
      7,
      13,
      44,
-     45,
+     47,
      17,
-     29
+     29,
+     41
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     12,
      34,
      20,
      2,
@@ -659,7 +663,8 @@
      13,
      12,
      9,
-     12
+     16,
+     17
     ]
    }
   ]
@@ -681,7 +686,7 @@
    "name": "GOOGLE LLC",
    "core": "GOOGLE",
    "patents": 275,
-   "news": 31
+   "news": 29
   },
   {
    "name": "HONDA MOTOR CO LTD",
@@ -705,7 +710,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 156
+   "news": 175
   },
   {
    "name": "QUALCOMM INC",
