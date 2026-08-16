@@ -1,40 +1,44 @@
 {
- "updated_at": "2026-08-15T21:17:12.373913+00:00",
+ "updated_at": "2026-08-16T21:16:03.127201+00:00",
  "kpi": {
-  "articles_7d": 565,
-  "articles_prev_7d": 496,
-  "sources_7d": 310,
-  "articles_30d": 2822,
-  "total_articles": 4239,
+  "articles_7d": 568,
+  "articles_prev_7d": 492,
+  "sources_7d": 314,
+  "articles_30d": 2681,
+  "total_articles": 4274,
   "oldest_news": "2025-12-18"
  },
  "wordcloud": [
   [
    "china",
-   58
-  ],
-  [
-   "unitree",
    57
   ],
   [
+   "unitree",
+   52
+  ],
+  [
    "nvidia",
-   46
+   48
   ],
   [
    "ipo",
-   43
-  ],
-  [
-   "中国",
-   25
-  ],
-  [
-   "market",
-   20
+   35
   ],
   [
    "world",
+   27
+  ],
+  [
+   "中国",
+   24
+  ],
+  [
+   "market",
+   21
+  ],
+  [
+   "games",
    19
   ],
   [
@@ -46,11 +50,11 @@
    18
   ],
   [
-   "million",
-   16
+   "世界",
+   17
   ],
   [
-   "世界",
+   "million",
    16
   ],
   [
@@ -66,31 +70,31 @@
    15
   ],
   [
+   "boeing",
+   14
+  ],
+  [
+   "archer",
+   14
+  ],
+  [
+   "開発",
+   14
+  ],
+  [
    "shipments",
    14
   ],
   [
-   "boeing",
-   13
-  ],
-  [
-   "archer",
-   13
-  ],
-  [
-   "開発",
-   13
-  ],
-  [
    "defense",
-   12
+   13
+  ],
+  [
+   "市場",
+   13
   ],
   [
    "platform",
-   12
-  ],
-  [
-   "billion",
    12
   ],
   [
@@ -98,11 +102,11 @@
    12
   ],
   [
-   "市場",
+   "factories",
    12
   ],
   [
-   "factories",
+   "NVIDIA",
    12
   ],
   [
@@ -110,15 +114,15 @@
    12
   ],
   [
+   "beijing",
+   12
+  ],
+  [
    "unveil",
    12
   ],
   [
-   "build",
-   11
-  ],
-  [
-   "maker",
+   "billion",
    11
   ],
   [
@@ -126,23 +130,19 @@
    11
   ],
   [
-   "NVIDIA",
+   "makers",
    11
   ],
   [
-   "games",
-   11
+   "aerospace",
+   10
+  ],
+  [
+   "shape",
+   10
   ],
   [
    "growth",
-   10
-  ],
-  [
-   "hyundai",
-   10
-  ],
-  [
-   "企業",
    10
   ],
   [
@@ -150,7 +150,7 @@
    10
   ],
   [
-   "makers",
+   "build",
    10
   ],
   [
@@ -158,27 +158,19 @@
    10
   ],
   [
+   "企業",
+   10
+  ],
+  [
    "公開",
    10
   ],
   [
-   "investment",
-   9
-  ],
-  [
-   "韓国",
-   9
-  ],
-  [
-   "aerospace",
-   9
-  ],
-  [
-   "shape",
-   9
-  ],
-  [
    "race",
+   9
+  ],
+  [
+   "develop",
    9
   ],
   [
@@ -190,7 +182,11 @@
    9
   ],
   [
-   "工場",
+   "drive",
+   9
+  ],
+  [
+   "raises",
    9
   ],
   [
@@ -206,31 +202,23 @@
    9
   ],
   [
+   "maker",
+   9
+  ],
+  [
+   "hyundai",
+   9
+  ],
+  [
    "motor",
    9
   ],
   [
-   "beijing",
+   "工場",
    9
   ],
   [
-   "push",
-   8
-  ],
-  [
-   "capital",
-   8
-  ],
-  [
-   "com",
-   8
-  ],
-  [
-   "出資",
-   8
-  ],
-  [
-   "develop",
+   "subsidiaries",
    8
   ],
   [
@@ -238,76 +226,119 @@
    8
   ],
   [
-   "drive",
-   8
-  ],
-  [
-   "raises",
+   "investment",
    8
   ],
   [
    "時代",
    8
+  ],
+  [
+   "データ",
+   8
+  ],
+  [
+   "times",
+   8
+  ],
+  [
+   "chosunbiz",
+   8
+  ],
+  [
+   "韓国",
+   8
   ]
  ],
  "today_top5": [
   {
-   "title": "Karsan’s Autonomous E-ATAK Starts Passenger Service at Efteling Theme Park",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQnFpNEN4WVhYZHVBZGwxbzZBclpTQVNQU2pqRlB2SDJuTVc5c2ptYzkyYzZNeUtEdUJOOGxsZ0plN2JUSXNPdnZlcURPZERaU2FIN1dHZTJ1T1JkT3BZcVJQRDFnVVAxdG9GMjVZMklDRGZiMkNTSDNjUzZRVlBBS0EwcC1CbnNvUDYyc1UtM0xXLUNscDdKOENOMA?oc=5",
-   "source": "Unite.AI",
-   "published": "2026-08-15T19:13:12+00:00",
-   "count": 1,
+   "title": "Humanoid robots test hospitality skills at 2nd World Humanoid Robot Games in Beijing",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZllBTGtxd3RrMGQ0d0hvSVJGWldhX2xWOWZuZVRtZUJneURfVGRpTmFHd2NlZzM1bUxSX3hDLTF3SS1CWHVmTzFManZJZVhwdU5tbkdYdTAzQWZ5ZjBsWEdlZGZTU2N2MVB6UUtDZzJNSzJZYjFTTnpuSWdsdnlRN1FGMjBoM3pLSk9BelRBZVVySlZTX2pwMGhyajVIb3k4VWhvNEgwZmdVcW5KNURmeWJxby1pb0dXM28tNkMtSGt4UU9iLUQ0VXZzWG1GZFRCV3c?oc=5",
+   "source": "巴士的報",
+   "published": "2026-08-16T08:33:00+00:00",
+   "count": 2,
    "sources": [
-    "Unite.AI"
+    "The Business Standard",
+    "巴士的報"
    ],
-   "score": 0.97
+   "score": 1.68
   },
   {
-   "title": "Hackensack Meridian earns first Joint Commission AI certific",
-   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQT0EwUE4yV3VmUUZ4NTZSVUk2RjljVHRqWGpSejJWRnZLQUd0MzNON0FySXhvLXQyZ2ZDZWtGS21Iazd3T0NmT1Q5YngwWFJQYWI3VGU0WWZXVFNNNmxrZ2xsUV9adENTaEhHYXY0ZjU4cnVRU3planNOVF9udVZYc1dLOU1fbXhNY29mdFAzbkZfa0ExQjNzNlZieWY4WWdHR3FEWDJCN21DZWVDZ3hPLUMtbUJyY1c3Rl94RGthRExfT2pjSTBOMmdIQjdTWGJ3V1VlZ3pRZ0I0THBRNzE5ek05NXFTNEZDSFR3eURVbmZkWjFDYkRiR3BqYlBCV1dTZGxGT0dKSHNEWFBBb2VJY19hMHZkbFpaQlE?oc=5",
-   "source": "MarketScale",
-   "published": "2026-08-15T18:38:26+00:00",
+   "title": "Nvidia's Side Bet: Teaching AI to understand the physical world, not just language",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUXpRZW41dHUwSVZhX1Q5ZWsxQV91NFJJTWFZc0p0bWxLa2lDSkNtb0Fsa3BROU9CZXRDSmZ1cHU2WTFEa1dPX01wS1RkMU9WeFF5Z1dwclBoRGM2aTh3dENBQldFYjF3MURHRDZIUDIwZ3dNT3FuN0ZkcWJiSFBUTkFGOHQ0a1pUTzlkS2ktNzVlS1ktMHFNRHFPM0dQV1Y5b3pPank5ZW1tYU01b3V6TkxlOURSNFN6ck5PcFBYa2hnZ9IBxwFBVV95cUxQOG9DQjNCcHhqZWx1QjBveV9VdjRTWHVIWGtTZXNuMXM2d2tvSGhNM2J5dkpSTzBTNDVxSFBodzNmbkx5engwVU5YUUVDTmFKdmNLRm55TnlWdGpBazViNm92NVlkT2k0NW5iX1ZZNHNySlB4T1ZfSkdkS1lSU0tHclhfRzRnM0lrMGlCWVl6cFpBYldIelJYVjZhdC1WWjJvWC1lWnlMVm9LT3BzRERTbHFnVDJ4ZU5jb3U2M1BIVG5oZEltQy1r?oc=5",
+   "source": "WION",
+   "published": "2026-08-16T21:05:00+00:00",
    "count": 1,
    "sources": [
-    "MarketScale"
+    "WION"
    ],
-   "score": 0.96
+   "score": 1.0
   },
   {
-   "title": "Humanoid robot traffic officer patrols the streets in China",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZEZCOGVKUGQ2bm9MNnJqcXVuWkRvSjVFc25TVEdueEFwM1ZjSlctc1FRVXBsNERoV2VKcTFXeW1FTWFGRURlNkIxOTdvNHhodmdmaDV0Ri1uZTVXbkxTTmRJYTA1eGtmNW12UGtIV1hacHhVUEVULUhHdFVMaDdMY2dRNkp5U1I4eHJhZUkyYWM0b2VhakRKZnMyeERJS2JkOWE0WlJWb2hUdw?oc=5",
-   "source": "WPLG Local 10",
-   "published": "2026-08-15T16:45:05+00:00",
+   "title": "【さっつーの産業調査】なぜStarlinkは通信業界を支配できるのか？ 独占的な事業構造と高収益性の全貌",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RNFFRcjlNb1RrSkFmalJEWndBUGZWb0tFQXNZYWpKV20wUXFHRThOOUJCNmtzbzBmMDl3eFFWTVBwZGc1YVdfb2JYT1VoQjJNeGNqdjhkOUVMcjV5Z0E?oc=5",
+   "source": "note",
+   "published": "2026-08-16T20:04:10+00:00",
    "count": 1,
    "sources": [
-    "WPLG Local 10"
+    "note"
    ],
-   "score": 0.94
+   "score": 0.98
   },
   {
-   "title": "Robot maker Unitree is going public. Hyperliquid traders see 4x upside from IPO price",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5STDNncFB5TE9ZVWFneU5GUWVKby1QMzlnZjlneUFuT29yRVZfV2c5MjJXQ1gwbUhkY2twSHIxcWROQUlfby1pNnpsd2VCejEzMU5jaTVJdw?oc=5",
-   "source": "Cryptonews.net",
-   "published": "2026-08-15T16:29:34+00:00",
+   "title": "新幹線工場に見た「日立流フィジカルAI」 地に足ついた現場改革試行",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BWktjUU54QXZIU2h4YUdEeHNodTBPWkx1T3JtN0JDT3VnMTNZbGdkbVJsTGNNNXU0OTlxbHczVElidXFBc2dfeF9sSHZBMFFrX1lIeWFnSUFrbjZPRG9yTnBWUzVCYnp4WjExag?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-08-16T20:00:00+00:00",
    "count": 1,
    "sources": [
-    "Cryptonews.net"
+    "日本経済新聞"
    ],
-   "score": 0.94
+   "score": 0.98
   },
   {
-   "title": "Why robots that can’t communicate naturally won’t be adopted",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU1lFMnRkbEFRMkpldmt1SGN5TW1qYTk2LW5UNExEMUlDOXRLb19lTnQ0bFdYZkVDQWFIQVZSb1ZmbUU3MGJRMEZlTGhrby1QdzF3bU5fb25MbmhhTFBNeUxWR0dTMTFpYTdzaE9Nckd1elEwUGNaMGFBUHgwMWc2cXdKUUs1aFpOOWt0eVJYS2lvbXZ0VzZ2a2lMMDkxX3J2bmpVVA?oc=5",
-   "source": "The Robot Report",
-   "published": "2026-08-15T12:36:30+00:00",
+   "title": "防衛技術をフィジカルAIへ生かす 米アンドゥリルに学ぶ",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYjRqbUpfY2hxc2pEZWRncDV0c0NFa0FEaS12QmEtbmZXNXBfWGNQUjVYUTRhbGFUdFdPQ19SaXpEeUd0eDZIRm9BSk96RmxGdzBqMHRSTE5DQ1pCaTBFTFN2WUh2SHhNNkNTWVM0SHl5c2JnNlI2c1gzbXZ2ZTdKbGtGNFJUdms?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-08-16T20:00:00+00:00",
    "count": 1,
    "sources": [
-    "The Robot Report"
+    "日本経済新聞"
    ],
-   "score": 0.89
+   "score": 0.98
   }
  ],
  "hot_news": [
+  {
+   "title": "Archer to shape physical AI future of aerospace and defense with acquisition of Boeing’s Wisk Aero, Insitu and SkyGrid subsidiaries",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPY0hhMEpKcjlVTTlyaWZmUWd0NHl1dDgtQnRDNkF4UjBfc3hKVlczVUIzclV4X0g1a3BlUlUzd3B1NFc2dHU0OTNnQkJCUWNvNDByYmpBMGJ5SEtRQkF3eXBmNEd0a3YxTVlBcEliYlJISGFkNDFEWFg4azZxRmptc3NRbzZLUXdTa0hOU1diWHNxV19OeDNDQjA3ZXlDQzZHc1FKSkFwOXF4dHJrcXBUZjVraWxoV0EweVFCeUh0RXlXUFAzNngxRmdna1VBSUZ0cDhEbHdMLUw4amdoX1Z5WXdmSG5heUxMYUpaN042TUVWOGVqX0pUT3IzTHpYRjJiRm1uVzVhNWxpTExiTFZaRkZFRnNrMnFDZHc?oc=5",
+   "source": "Zawya",
+   "published": "2026-08-16T07:40:12+00:00",
+   "count": 9,
+   "sources": [
+    "Archer Aviation - Investor Relations",
+    "Boeing",
+    "Business Wire",
+    "Financial Times",
+    "The Joplin Globe",
+    "World Business Outlook"
+   ],
+   "score": 7.45
+  },
+  {
+   "title": "Humanoid robots test hospitality skills at 2nd World Humanoid Robot Games in Beijing",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZllBTGtxd3RrMGQ0d0hvSVJGWldhX2xWOWZuZVRtZUJneURfVGRpTmFHd2NlZzM1bUxSX3hDLTF3SS1CWHVmTzFManZJZVhwdU5tbkdYdTAzQWZ5ZjBsWEdlZGZTU2N2MVB6UUtDZzJNSzJZYjFTTnpuSWdsdnlRN1FGMjBoM3pLSk9BelRBZVVySlZTX2pwMGhyajVIb3k4VWhvNEgwZmdVcW5KNURmeWJxby1pb0dXM28tNkMtSGt4UU9iLUQ0VXZzWG1GZFRCV3c?oc=5",
+   "source": "巴士的報",
+   "published": "2026-08-16T08:33:00+00:00",
+   "count": 4,
+   "sources": [
+    "The Business Standard",
+    "Xinhua",
+    "eWeek",
+    "巴士的報"
+   ],
+   "score": 3.35
+  },
   {
    "title": "LGとNVIDIA、二足歩行ロボットの2027年Q1公開を目指す CLOiDは工場で先行検証",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CQ3ZiNDVHUDdmcDFaTnVPRmNoUDRSOUx5eklXeGxaUDlGOTQ5RjFPeGpjS3JBZDRrMVc0MDZzekFRa2I0cU5uc1VOVFNLSXdhRWl5YUtFcTg2bnhXV2c?oc=5",
@@ -320,7 +351,19 @@
     "XenoSpectrum",
     "디지털투데이"
    ],
-   "score": 4.17
+   "score": 2.99
+  },
+  {
+   "title": "How large is China’s companion robot market?",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBTOTBIVDdNeHZtd0o4TEVHRkFUeTNWanB0VjhudmVDRHhwZENzTGNXM2xkbVlXR0pGWkpXYnJrVWE5bVM0NkZjTGpGQjBSY01kYjZuWmhlbWxUUkVVU1c0ZDdB?oc=5",
+   "source": "Global Times",
+   "published": "2026-08-16T14:47:00+00:00",
+   "count": 3,
+   "sources": [
+    "Global Times",
+    "GuruFocus"
+   ],
+   "score": 2.74
   },
   {
    "title": "LG, NVIDIA Unveil AI-Powered Humanoid Robot",
@@ -334,7 +377,7 @@
     "finance.biggo.com",
     "조선일보"
    ],
-   "score": 3.76
+   "score": 2.69
   },
   {
    "title": "Unitree IPO oversubscribed more than 5,000 times as investors pile into humanoid robotics",
@@ -348,7 +391,7 @@
     "Robotics & Automation News",
     "qz.com"
    ],
-   "score": 3.11
+   "score": 2.23
   },
   {
    "title": "LG develops humanoid robot with NVIDIA Isaac GR00T for 2027 debut",
@@ -362,7 +405,7 @@
     "Tech Edition",
     "Unite.AI"
    ],
-   "score": 3.02
+   "score": 2.16
   },
   {
    "title": "LG, Nvidia expand alliance in robots, AI factories and mobility",
@@ -376,79 +419,37 @@
     "finance.biggo.com",
     "upi.com"
    ],
-   "score": 2.87
+   "score": 2.06
   },
   {
-   "title": "2,056 Humanoid Robots From 16 Countries Head to Beijing for World Robot Games",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQd3B3RkhsMFRfUXJoaUlneFNVcVFqVURWdDg4ZDNKVERIYUhPQ1FZZndwV3hDbEc1ZER1a2ZiaE9QWjk4UFVkY3BOM2xtSFNCWjVTcVlwVFczQmxCWDlReGowV2t6Wk1rSlFpdGpWdzk5TVhSUGFmcU42d1BQQU9NU2dQZERSUQ?oc=5",
-   "source": "eWeek",
-   "published": "2026-08-14T18:24:30+00:00",
+   "title": "Over 2,000 humanoid robots to compete in Beijing games",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTTlKWlU3YTAzRTFtb3lYMVgtLTZNLV9QVWpTQzJCdm4tTTN2akpLTlE4WWxsQTVaU2lIeXZjQi1KNEt1NTI2TVpqUW0zRmJPVExrR29rWFR5UElQeVgwc0pSTFR1RnlvMnVjNGE0Qzc2OVIyUnM5cHk1SVJoT3pUQVVHSXZQM3NfaUpZTE1ZMVY5Slk3emNSUW1fYnA5TFFwTmc?oc=5",
+   "source": "Anadolu Ajansı",
+   "published": "2026-08-14T13:54:28+00:00",
    "count": 4,
    "sources": [
     "Anadolu Ajansı",
     "China Daily",
     "Interesting Engineering",
-    "eWeek"
+    "The Standard (HK)"
    ],
-   "score": 2.75
+   "score": 1.85
   },
   {
-   "title": "Asia-Pacific Physical AI Market Size and Trends 2025 to 2035",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6dDE3eDNFRWhzcXdkRFFLc0NLTnlZZWMyZV9QZHBYOGRMX3VJREI2aWlncUJxYzRhSG9lOUlCajFfNDNnWm1tVDlKSWMtTnR1RC00NEw4S1RGYTNtemN0NnQyYy05a0NGbHd1SGRuSzVvVkZu?oc=5",
-   "source": "Precedence Research",
-   "published": "2026-08-14T13:05:53+00:00",
-   "count": 3,
-   "sources": [
-    "MarketsandMarkets",
-    "Precedence Research"
-   ],
-   "score": 1.92
-  },
-  {
-   "title": "Archer to Shape Physical AI Future of Aerospace and Defense with Acquisition of Boeing's Wisk Aero, Insitu and SkyGrid Subsidiaries",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTmZ3MWI2eUVHVlpUMmdza29IQlo3bVkzSnVYMDdrSmZjYnFfYnM5azFiVWtfeFk0YWlGMW16VVZncEF1VjZxd1ZxQ1E3UzB2Ri1SZ183OWUxZndSS1ZpbTBwMGpoekVnWEMyS2lINWZxRWRJc0JxVm1PWGExTVVjMVlKc194OTdjQU1GRGQxR1FXWXZoSURmbkpOWW1MUTRfcklUbUh1d1VTRVZUNW9PRDByZmdCMkRCOEloRG1zN0hpSy1QcU9KWWVkeHJOVmFQNTNUamZZVGFfakQ3VnpGYnJPaE5Wdw?oc=5",
-   "source": "marketscreener.com",
-   "published": "2026-08-11T14:13:14+00:00",
-   "count": 8,
-   "sources": [
-    "Archer Aviation - Investor Relations",
-    "Boeing",
-    "Business Wire",
-    "Financial Times",
-    "The Joplin Globe",
-    "World Business Outlook"
-   ],
-   "score": 1.91
-  },
-  {
-   "title": "中国の人型ロボット企業ユニツリーに注文殺到、上海IPO申込は供給量の8000倍超",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MN1dacVpqVDZIS0xvTmNQLWlObVBNYV9TZXMtbTd6RlJwV1k5RzZwMWR2OUhQLXBCdU0tYXRCU2VnLVZJT05Wd2hXTTJxRzNxN2NLZkxGaEV2ZUpFREJvUWVDX2RnYzI4?oc=5",
-   "source": "Межа. Новини України.",
-   "published": "2026-08-14T07:41:56+00:00",
-   "count": 3,
-   "sources": [
-    "Forbes JAPAN",
-    "Yahoo!ニュース",
-    "Межа. Новини України."
-   ],
-   "score": 1.78
-  },
-  {
-   "title": "The Next Big Influencer Is This 4-Foot-Tall Robot From China",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16cjVkazc5NWEwSHA2UzJLNUl5UC1ZV1lFWDN2Sm1rY2dPaHBHMDBrN2dPQlFTZk1pQ3QwUHZjeUlMWEV6SUVZRUhBZVczaEJEb01VMkxVRmZmb0ZwZVc3UWphd21yV1ZxQ1I2bURBYlBGN3BFeG9BUlhESQ?oc=5",
-   "source": "WIRED",
-   "published": "2026-08-14T20:59:00+00:00",
+   "title": "The Fire‑Scenario Challenge at the 2nd World Humanoid Robot Games",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPUndBemZTV1R3XzZ6UGYwMHlaclQ5eEpmM3hhMHVqdEo3Q19HSDhqcjV6U2JYdUo5d2d2Qk5sMFVDX0UyMU5pZkUzUzlOcFZqajNZbDZsOGtISTRITGNHajdR?oc=5",
+   "source": "Global Times",
+   "published": "2026-08-16T13:44:00+00:00",
    "count": 2,
    "sources": [
-    "WIRED",
-    "Yahoo"
+    "Global Times",
+    "Rediff"
    ],
-   "score": 1.43
+   "score": 1.8
   }
  ],
  "trend": {
   "dates": [
-   "2026-07-17",
    "2026-07-18",
    "2026-07-19",
    "2026-07-20",
@@ -477,14 +478,14 @@
    "2026-08-12",
    "2026-08-13",
    "2026-08-14",
-   "2026-08-15"
+   "2026-08-15",
+   "2026-08-16"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     37,
      8,
      18,
      42,
@@ -513,14 +514,14 @@
      34,
      22,
      41,
-     3
+     3,
+     5
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     52,
      8,
      7,
      14,
@@ -548,15 +549,15 @@
      8,
      17,
      16,
-     15,
-     3
+     16,
+     5,
+     5
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     15,
      12,
      11,
      22,
@@ -576,7 +577,7 @@
      3,
      7,
      4,
-     8,
+     9,
      7,
      1,
      1,
@@ -584,15 +585,15 @@
      5,
      12,
      5,
-     4,
-     2
+     5,
+     3,
+     0
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     38,
      19,
      16,
      58,
@@ -616,19 +617,19 @@
      16,
      7,
      13,
-     44,
+     45,
      47,
      17,
      29,
-     49,
-     9
+     53,
+     10,
+     11
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     20,
      2,
      6,
      7,
@@ -657,7 +658,8 @@
      9,
      16,
      19,
-     4
+     4,
+     3
     ]
    }
   ]
@@ -691,7 +693,7 @@
    "name": "SAMSUNG ELECTRONICS CO LTD",
    "core": "SAMSUNG ELECTRONICS",
    "patents": 260,
-   "news": 31
+   "news": 30
   },
   {
    "name": "X DEV LLC",
@@ -703,7 +705,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 134
+   "news": 114
   },
   {
    "name": "QUALCOMM INC",
