@@ -1,112 +1,108 @@
 {
- "updated_at": "2026-08-17T21:21:49.994244+00:00",
+ "updated_at": "2026-08-18T21:20:10.147320+00:00",
  "kpi": {
-  "articles_7d": 564,
+  "articles_7d": 600,
   "articles_prev_7d": 527,
-  "sources_7d": 311,
-  "articles_30d": 2745,
-  "total_articles": 4388,
+  "sources_7d": 320,
+  "articles_30d": 2837,
+  "total_articles": 4532,
   "oldest_news": "2025-12-18"
  },
  "wordcloud": [
   [
    "nvidia",
-   61
+   68
   ],
   [
    "unitree",
-   45
-  ],
-  [
-   "china",
    44
   ],
   [
-   "ipo",
-   33
+   "china",
+   42
   ],
   [
    "world",
-   29
-  ],
-  [
-   "中国",
-   25
+   31
   ],
   [
    "games",
-   23
+   28
   ],
   [
-   "data",
+   "中国",
+   22
+  ],
+  [
+   "ipo",
+   21
+  ],
+  [
+   "開発",
+   21
+  ],
+  [
+   "日本",
+   20
+  ],
+  [
+   "LG",
+   20
+  ],
+  [
+   "launches",
    19
   ],
   [
-   "世界",
+   "市場",
+   19
+  ],
+  [
+   "platform",
+   18
+  ],
+  [
+   "data",
    18
   ],
   [
    "market",
-   17
-  ],
-  [
-   "chinese",
-   16
-  ],
-  [
-   "市場",
-   16
-  ],
-  [
-   "開発",
-   16
+   18
   ],
   [
    "NVIDIA",
+   18
+  ],
+  [
+   "世界",
    16
   ],
   [
-   "LG",
+   "unveils",
    16
   ],
   [
-   "platform",
-   15
+   "superman",
+   16
   ],
   [
-   "日本",
+   "chosunbiz",
+   14
+  ],
+  [
+   "企業",
+   14
+  ],
+  [
+   "beijing",
    14
   ],
   [
    "million",
-   13
-  ],
-  [
-   "launches",
-   13
-  ],
-  [
-   "factories",
-   13
-  ],
-  [
-   "beijing",
-   13
-  ],
-  [
-   "global",
    12
   ],
   [
-   "korea",
-   12
-  ],
-  [
-   "group",
-   12
-  ],
-  [
-   "企業",
+   "工場",
    12
   ],
   [
@@ -114,103 +110,119 @@
    12
   ],
   [
-   "chosunbiz",
+   "group",
    11
   ],
   [
-   "oversubscribed",
-   10
+   "raises",
+   11
   ],
   [
-   "demand",
-   10
+   "korea",
+   11
   ],
   [
-   "hyundai",
-   10
+   "韓国",
+   11
   ],
   [
    "公開",
-   10
+   11
+  ],
+  [
+   "歩行",
+   11
   ],
   [
    "motor",
    10
   ],
   [
-   "unveils",
+   "com",
    10
   ],
   [
-   "工場",
+   "tech",
    10
   ],
   [
-   "companies",
-   9
+   "funding",
+   10
   ],
   [
-   "expand",
-   9
+   "chinese",
+   10
   ],
   [
-   "投資",
-   9
+   "factories",
+   10
   ],
   [
-   "shanghai",
-   9
+   "machines",
+   10
   ],
   [
    "build",
    9
   ],
   [
-   "com",
+   "hyundai",
    9
-  ],
-  [
-   "韓国",
-   9
-  ],
-  [
-   "machines",
-   9
-  ],
-  [
-   "歩行",
-   9
-  ],
-  [
-   "maker",
-   8
-  ],
-  [
-   "raises",
-   8
-  ],
-  [
-   "growth",
-   8
-  ],
-  [
-   "times",
-   8
   ],
   [
    "データ",
-   8
+   9
+  ],
+  [
+   "産業",
+   9
   ],
   [
    "develop",
+   9
+  ],
+  [
+   "off",
+   9
+  ],
+  [
+   "写真",
+   9
+  ],
+  [
+   "画像",
+   9
+  ],
+  [
+   "debut",
+   9
+  ],
+  [
+   "共同",
+   9
+  ],
+  [
+   "series",
    8
   ],
   [
-   "humanoids",
+   "scale",
    8
   ],
   [
-   "investors",
+   "expand",
+   8
+  ],
+  [
+   "industry",
+   8
+  ],
+  [
+   "競争",
+   8
+  ],
+  [
+   "CHOSUNBIZ",
    8
   ],
   [
@@ -218,120 +230,192 @@
    8
   ],
   [
-   "yuan",
+   "seeing",
    8
   ],
   [
-   "tech",
+   "usain",
    8
   ],
   [
-   "off",
+   "bolt",
    8
   ],
   [
-   "investment",
+   "built",
    7
   ],
   [
-   "industrial",
-   7
-  ],
-  [
-   "open",
-   7
-  ],
-  [
-   "drive",
-   7
-  ],
-  [
-   "future",
+   "manufacturing",
    7
   ]
  ],
  "today_top5": [
   {
-   "title": "Seeing Machines launches physical AI that brings spatial awareness to robotics",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcjhKVjJPVWtDRkRWeVQ5cWpoRl9KeXZCUUJPbk5hM3RUemNSODlzc2JtcDBDME1ZbEx6LWZzNndTWTI2YWlkRGhoRzF4b1JpZFFqd3lpOVNfX2NOWWM1VVdCc2tRT0pobnNJaHl6S0E2WU1kX0x1bjVSY2dzdVZOQXhiZ2VnbUxXZkxaUGRDUGc2czJkdFNBOVJZS2x5b296ZV93UnpwZw?oc=5",
-   "source": "Imaging and Machine Vision Europe",
-   "published": "2026-08-17T11:17:53+00:00",
-   "count": 5,
-   "sources": [
-    "Imaging and Machine Vision Europe",
-    "PR Newswire",
-    "UK Investor Magazine",
-    "Yahoo Finance UK",
-    "proactiveinvestors.com.au"
-   ],
-   "score": 4.35
-  },
-  {
-   "title": "Celanese, Vigor Partner on Lightweight Plastic Joints for Humanoid Robots",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdGd2eDYyTEpURFJkTS1oRFlNUTdvdXJfRURFczE5dzBqZlZ4Z0pzVXRzcXFDWDFSMy1lajNZRkhWRFd4NDg5MFFQV3B3RXBIRkxyZ1VYNDY4YTZFQ2ZPam8zWXVJZ3diUXpGekFZQzBJR0w3RUw4b1cyOHlqX3FzQ2gxdU8xRnhTWXVMeFlGUV9Nbk9UdjFGTDZOZ0h6ZElQOGhWQkY4ZEd5MGFkaXFB?oc=5",
+   "title": "Trossen Robotics and Ouster Subsidiary Stereolabs, Partner to Develop High-Fidelity Stereo Vision for Physical AI Data Collection",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWmNZTHhZcXo0NkJiUGZrQTI1RG1JMWZoeDQ0b291UmZNTWdieGl1Z1VQZHlsVmZldzJad01qWFJWQ3N5RzFSeEUwZlJ4UlM3X3ZUYVlVam9CQ2pjZXd2V0kzb3pYRk0zUUhvc2tEVDNiUVZwNmNlNy0ySW9Nc3dSbDZBWnE0TWp2aGNOU2hLakl5ZHhGOERzQXdZWTlsbnh1TUZfQTZ0VlA1Mnh6SzNBYXJJS0h1NXUxUzZoeWxWcm05ekFuM2p0VlNndHBvczkwUXR3WnY3Rzc2cDJzeFFaREMwN1FjclRhZV85NlVISWpHUTU0ejZHSmlR?oc=5",
    "source": "AI Insider",
-   "published": "2026-08-17T15:33:45+00:00",
+   "published": "2026-08-18T19:52:30+00:00",
    "count": 4,
    "sources": [
     "AI Insider",
-    "Investing.com UK",
-    "PlasticsToday",
-    "Seeking Alpha"
+    "Business Wire",
+    "EIN News",
+    "marketscreener.com"
    ],
-   "score": 3.69
+   "score": 3.92
   },
   {
-   "title": "Unitree's Superman robot claims 45.6 km/h speed — faster than Usain Bolt, unverified",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHhTWmd0X0FoTjFkN2V4ZlFZaDBjclRkaTRiU21abEoxb3poeUFuNV90aTJkTmlSaUIwQTJOZGtkdC12SU9OR0RMc0VhN0NOUnNQVDFnMzdqWkJrVk9vQTAwaTAyQmd5ZVZJWkY4a1AtZTVfRjNOeW5PaTlQLVRmaUtncnZFWGg1RllMWDhROEtpYnV4NmloQmVEa3NPQ0xDcFlqMER5SUjSAa4BQVVfeXFMT1l3eU9vWFpUN3VRZ1IzTkJSNmNUV3U0cFF4RjdkcFN0eWlBQkhhU1RWNFZaY3RKUUU5aXNZTG1BWFNXbzFZVmVFd080SXZKaXFaWTg1YmUxU1oySFg5WWp6cDlyUExCYk13VjNiZUt5SDJ5RVh5czNvTWpMb21jLUxJWEhJNkl0RC1yZmtHQzRoZkw1emFBaG5EQTlOb1JpZ0h0MzFHa2JrMkFQM2RB?oc=5",
-   "source": "Gagadget.com",
-   "published": "2026-08-17T14:58:16+00:00",
-   "count": 2,
+   "title": "Velaura AI Raises $110M in Series A Funding for Ultra-Low-Power AI Compute Infrastructure",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY2hTRzZzTmZDN1lZb3NxOXFDcm9EdFNJRWt6VzgzTlpiZkZQRFNpYUl6OEZta21YQ05fdlM5Nl9JNDh6YlBIVENEcVlTUVh5VDJnQjhORFdWNVZHUG5WM0gzcnE5enJIYkVTc3Y2aThqQ05YZVBxSmhVNkZjeGVMR2NaU1E4Z3N4N3M1U21LTEtfWnpSNURreGsxR1BoU0V3QWRPWUd1LWt4SmU4c3JvR3hoMHNmZjltV0hJcERZRlhzM291?oc=5",
+   "source": "AI Insider",
+   "published": "2026-08-18T17:56:48+00:00",
+   "count": 4,
    "sources": [
-    "Gagadget.com",
-    "Interesting Engineering"
+    "AI Insider",
+    "Business Wire",
+    "Ventureburn",
+    "qz.com"
    ],
-   "score": 1.83
+   "score": 3.82
   },
   {
-   "title": "China's Unitree unveils 'Superman' robot as fervour builds ahead of Shanghai debut",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQnNhSnVxWm9qdEhnUThPOU0yMGlfdTNkX3pzMU9tSnFsdGh2dURudDVOV1UyUTJIblpEV19iMUdqMGJITVc1eUI3SVA4MDRpOTNhQVo3RThxVWdNaHc2SjQ3ejBvOU05ZU1FWkhkbjZRN0NjUmVwWDZackZCYkhIZ2ktVjJFR1QzRzRBaEF3aTc2bVJHOUptOW43QkU0clBsc2FCREQ0Mm12cmMydWk3RHZzRkVfQQ?oc=5",
-   "source": "Reuters",
-   "published": "2026-08-17T13:50:15+00:00",
-   "count": 2,
+   "title": "China’s ‘Superman’ Humanoid Robot Hits Stunning 28 MPH",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWnBVTDkya3J5cklfV2dEM3hSWnEyaVJJUlpZcE1fcXRwSEhuQXh5R1RpaDJETHNkZUVTQmJFblJLOVNMYl9qcDZCTjdSamtsZ3hzb01JUWlldVRpczczYnMteXpqWGxVNFJlc2pURFY5OFNBMEVsTnh6VTMzUmJLTTlNenBVX1BEdmx4bW1HYVhBWWgyaldScDFVMEtkdUtPYXJpSU02ZU1iQllFd2x0aU93dzFJOFdBMXNpWQ?oc=5",
+   "source": "News.com.au",
+   "published": "2026-08-18T16:57:59+00:00",
+   "count": 3,
    "sources": [
-    "Reuters",
-    "english.news.cn"
+    "AFR",
+    "News.com.au",
+    "Yahoo"
    ],
-   "score": 1.8
+   "score": 2.82
   },
   {
-   "title": "Unitree Robotics unveils new humanoid robot 'Superman' that can jump 2m high",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVXlHYzBfR2RfeUlGWG9XbGFlWFpYcy0tVTZsUmx0Q2FUeDk3Zm41ZFlmSy13UXlLVldicjFnV2tjck8xVVR6WVVZRllvWGVzQWZPcDV3eGc3M3FTaWlXdEptV1lBR3FVSHBwZEo5OGtTMThFOXRVZEtKU2pKcDBqS0xlak9zSmdDa3hpWjJkVDVOenFURVpYX21yQU1kYkJWakl5dlpFWUtsRUJ0Yl9UWDBrUEIyeTJFWE4tMzgycjZkNXdnOTRvZEtnOA?oc=5",
-   "source": "The Standard (HK)",
-   "published": "2026-08-17T11:36:58+00:00",
-   "count": 2,
+   "title": "Chinese startup Unitree unveils ‘Superman’ robot, faster than Usain Bolt",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYnVRV002VWVZeU5nUUM0YlQxSk1Oc3E5RFZ2eF93SGpiaHR0aWw1R3c3UGd4Q3R1WHV4NVdzTGR2MzF2XzU3bzhqQnF3M1hOYmxUekVDN3drMmhHMGMzM01vNk9ZWlVzcTFEYUJtLWVQX2pxejl1U0MwNC16WV80ekExV2Vpd0M3YlNXRG5xaFZOSFNIcDhDWFdYMUVXVXA1enpBX0tDOThpTFNHWk1jM08xNA?oc=5",
+   "source": "The American Bazaar",
+   "published": "2026-08-18T16:44:45+00:00",
+   "count": 3,
    "sources": [
-    "Global Times",
-    "The Standard (HK)"
+    "Anadolu Ajansı",
+    "Business Insider",
+    "The American Bazaar"
    ],
-   "score": 1.75
+   "score": 2.81
+  },
+  {
+   "title": "China Humanoid Robot Games",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV01EdUNZMFlLTkdrNDNXd3hjczlKQVZSWm44QURkWlNnYU1PVmNrZlBRV3FCWkFsd0lVckNDaGRhMnV5X3MzMlhIR2ZSSzhvMFAxX1dha0VFOTk2d0tRQTkwWTJjWUF3di1LbDZYZWRMWWRxTzlid3hsNEZQUmZGWlhRN1I4VzlZeE8yZHl1bVNxYTBzNGxmWkdfdURXWkk3Tlhsd3ZDTk5KQ0w5ZXgyMXBFbHRKSG13aWdyS2x5cTlENUVGMVJLVFotbmJlSzA?oc=5",
+   "source": "The Norfolk Daily News",
+   "published": "2026-08-18T16:36:00+00:00",
+   "count": 3,
+   "sources": [
+    "Dayton Daily News",
+    "Journal-News.com",
+    "The Norfolk Daily News"
+   ],
+   "score": 2.81
   }
  ],
  "hot_news": [
   {
-   "title": "Seeing Machines launches physical AI that brings spatial awareness to robotics",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcjhKVjJPVWtDRkRWeVQ5cWpoRl9KeXZCUUJPbk5hM3RUemNSODlzc2JtcDBDME1ZbEx6LWZzNndTWTI2YWlkRGhoRzF4b1JpZFFqd3lpOVNfX2NOWWM1VVdCc2tRT0pobnNJaHl6S0E2WU1kX0x1bjVSY2dzdVZOQXhiZ2VnbUxXZkxaUGRDUGc2czJkdFNBOVJZS2x5b296ZV93UnpwZw?oc=5",
-   "source": "Imaging and Machine Vision Europe",
-   "published": "2026-08-17T11:17:53+00:00",
-   "count": 5,
+   "title": "Seeing Machines launches Physical AI platform targeting manufacturing robotics",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWWJRblVUOHRuakFnWTdQWUVkQU5kcmlYUG5BMnBzTXdyM2l6eW82Nk1NUUxlUDFuTzVVNUtNWndGQzhlWHh2RlBCeVcxQm5fRUxmUVA4WHBwdllqdkpRcTRGQXhOMU5jck9tcWFOWmEzOGJlWDl4TkVuLTVWTTNrSnc3eGRVSUxpN3pGdC1VV1kyUEQwUWVreEp5cFJtdG9hNGdGanpBOGlacnBwRmFRSUhHcmpTU2VfcC1pdTgyMA?oc=5",
+   "source": "australianmanufacturing.com.au",
+   "published": "2026-08-18T07:19:46+00:00",
+   "count": 6,
    "sources": [
+    "IT Brief Australia",
     "Imaging and Machine Vision Europe",
     "PR Newswire",
     "UK Investor Magazine",
     "Yahoo Finance UK",
-    "proactiveinvestors.com.au"
+    "australianmanufacturing.com.au"
    ],
-   "score": 4.35
+   "score": 4.94
+  },
+  {
+   "title": "Trossen Robotics and Ouster Subsidiary Stereolabs, Partner to Develop High-Fidelity Stereo Vision for Physical AI Data Collection",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQWmNZTHhZcXo0NkJiUGZrQTI1RG1JMWZoeDQ0b291UmZNTWdieGl1Z1VQZHlsVmZldzJad01qWFJWQ3N5RzFSeEUwZlJ4UlM3X3ZUYVlVam9CQ2pjZXd2V0kzb3pYRk0zUUhvc2tEVDNiUVZwNmNlNy0ySW9Nc3dSbDZBWnE0TWp2aGNOU2hLakl5ZHhGOERzQXdZWTlsbnh1TUZfQTZ0VlA1Mnh6SzNBYXJJS0h1NXUxUzZoeWxWcm05ekFuM2p0VlNndHBvczkwUXR3WnY3Rzc2cDJzeFFaREMwN1FjclRhZV85NlVISWpHUTU0ejZHSmlR?oc=5",
+   "source": "AI Insider",
+   "published": "2026-08-18T19:52:30+00:00",
+   "count": 4,
+   "sources": [
+    "AI Insider",
+    "Business Wire",
+    "EIN News",
+    "marketscreener.com"
+   ],
+   "score": 3.92
+  },
+  {
+   "title": "LGとNVIDIAがフィジカルAI連携強化 - CHOSUNBIZ",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41UVlWN3RIcFR4UVhGenV2RDlic0dqcnJJUGo5NVV2cWpCaVREdmc3a09kZGdseG5adUpRdWdHVWlMQWljVTVvdHFUVFZyOFNpU2tGeDh0QmpKbHNVQUpWWVV5R1NlQ2Zsb2tqOWUwckQyMjVOUVdzeXFn0gGOAUFVX3lxTE85SVVUM3NTOGRVaFdUaW9sS0dwZ1ZDOTJldEotVmYxc01PLXBXbGlqMnFGTTAxejJ3VEN0Y0FzVm1aeFVGT0FZRmV2eGZrQnIxaWZSZGlibEd5ZWRNbVFSanJXNkNXcXZ5SW5reWFWeFVDcnlscnFCb1d3S2JsemEtRmZ2Y1NQd3YtX05SclE?oc=5",
+   "source": "Chosunbiz",
+   "published": "2026-08-18T02:49:00+00:00",
+   "count": 5,
+   "sources": [
+    "BigGo ファイナンス",
+    "Chosunbiz",
+    "디지털투데이"
+   ],
+   "score": 3.87
+  },
+  {
+   "title": "Velaura AI Raises $110M in Series A Funding for Ultra-Low-Power AI Compute Infrastructure",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY2hTRzZzTmZDN1lZb3NxOXFDcm9EdFNJRWt6VzgzTlpiZkZQRFNpYUl6OEZta21YQ05fdlM5Nl9JNDh6YlBIVENEcVlTUVh5VDJnQjhORFdWNVZHUG5WM0gzcnE5enJIYkVTc3Y2aThqQ05YZVBxSmhVNkZjeGVMR2NaU1E4Z3N4N3M1U21LTEtfWnpSNURreGsxR1BoU0V3QWRPWUd1LWt4SmU4c3JvR3hoMHNmZjltV0hJcERZRlhzM291?oc=5",
+   "source": "AI Insider",
+   "published": "2026-08-18T17:56:48+00:00",
+   "count": 4,
+   "sources": [
+    "AI Insider",
+    "Business Wire",
+    "Ventureburn",
+    "qz.com"
+   ],
+   "score": 3.82
+  },
+  {
+   "title": "China’s ‘Superman’ Humanoid Robot Hits Stunning 28 MPH",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWnBVTDkya3J5cklfV2dEM3hSWnEyaVJJUlpZcE1fcXRwSEhuQXh5R1RpaDJETHNkZUVTQmJFblJLOVNMYl9qcDZCTjdSamtsZ3hzb01JUWlldVRpczczYnMteXpqWGxVNFJlc2pURFY5OFNBMEVsTnh6VTMzUmJLTTlNenBVX1BEdmx4bW1HYVhBWWgyaldScDFVMEtkdUtPYXJpSU02ZU1iQllFd2x0aU93dzFJOFdBMXNpWQ?oc=5",
+   "source": "News.com.au",
+   "published": "2026-08-18T16:57:59+00:00",
+   "count": 4,
+   "sources": [
+    "AFR",
+    "Gagadget.com",
+    "News.com.au",
+    "Yahoo"
+   ],
+   "score": 3.76
+  },
+  {
+   "title": "Chinese startup Unitree unveils ‘Superman’ robot, faster than Usain Bolt",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYnVRV002VWVZeU5nUUM0YlQxSk1Oc3E5RFZ2eF93SGpiaHR0aWw1R3c3UGd4Q3R1WHV4NVdzTGR2MzF2XzU3bzhqQnF3M1hOYmxUekVDN3drMmhHMGMzM01vNk9ZWlVzcTFEYUJtLWVQX2pxejl1U0MwNC16WV80ekExV2Vpd0M3YlNXRG5xaFZOSFNIcDhDWFdYMUVXVXA1enpBX0tDOThpTFNHWk1jM08xNA?oc=5",
+   "source": "The American Bazaar",
+   "published": "2026-08-18T16:44:45+00:00",
+   "count": 3,
+   "sources": [
+    "Anadolu Ajansı",
+    "Business Insider",
+    "The American Bazaar"
+   ],
+   "score": 2.81
+  },
+  {
+   "title": "China Humanoid Robot Games",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV01EdUNZMFlLTkdrNDNXd3hjczlKQVZSWm44QURkWlNnYU1PVmNrZlBRV3FCWkFsd0lVckNDaGRhMnV5X3MzMlhIR2ZSSzhvMFAxX1dha0VFOTk2d0tRQTkwWTJjWUF3di1LbDZYZWRMWWRxTzlid3hsNEZQUmZGWlhRN1I4VzlZeE8yZHl1bVNxYTBzNGxmWkdfdURXWkk3Tlhsd3ZDTk5KQ0w5ZXgyMXBFbHRKSG13aWdyS2x5cTlENUVGMVJLVFotbmJlSzA?oc=5",
+   "source": "The Norfolk Daily News",
+   "published": "2026-08-18T16:36:00+00:00",
+   "count": 3,
+   "sources": [
+    "Dayton Daily News",
+    "Journal-News.com",
+    "The Norfolk Daily News"
+   ],
+   "score": 2.81
   },
   {
    "title": "Celanese, Vigor Partner on Lightweight Plastic Joints for Humanoid Robots",
@@ -345,114 +429,36 @@
     "PlasticsToday",
     "Seeking Alpha"
    ],
-   "score": 3.69
+   "score": 2.65
   },
   {
-   "title": "Humanoid robots test hospitality skills at 2nd World Humanoid Robot Games in Beijing",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZllBTGtxd3RrMGQ0d0hvSVJGWldhX2xWOWZuZVRtZUJneURfVGRpTmFHd2NlZzM1bUxSX3hDLTF3SS1CWHVmTzFManZJZVhwdU5tbkdYdTAzQWZ5ZjBsWEdlZGZTU2N2MVB6UUtDZzJNSzJZYjFTTnpuSWdsdnlRN1FGMjBoM3pLSk9BelRBZVVySlZTX2pwMGhyajVIb3k4VWhvNEgwZmdVcW5KNURmeWJxby1pb0dXM28tNkMtSGt4UU9iLUQ0VXZzWG1GZFRCV3c?oc=5",
-   "source": "巴士的報",
-   "published": "2026-08-16T08:33:00+00:00",
-   "count": 4,
-   "sources": [
-    "The Business Standard",
-    "Xinhua",
-    "eWeek",
-    "巴士的報"
-   ],
-   "score": 2.4
-  },
-  {
-   "title": "リリース告知【さっつーのAIエージェント】8月16日まで2週間の海外/日本のフィジカルAI重要ニュース：東証プライム経営者用エグゼクティブサマリー：経営者が読むNVIDIAのフィジカルAI / ADAS業界日報 by 今泉大輔",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAtWU9UQjEzRW0wVkdtbnJDOE9FYjNJQnVGUlJWQk1UZjhQNjJnUDBab21qaVlTM0V3SE9JZFA1OUU1TjNnRTc5dnZSZ05aS1BqZ2VoR2xBSHQ5TUdnMmFvWF9tX0k4d2M?oc=5",
-   "source": "オルタナティブ・ブログ",
-   "published": "2026-08-17T03:00:07+00:00",
+   "title": "BYDがヒューマノイド開発へ…なぜ家電・自動車メーカーが『人型ロボット』を作るのか？",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WZk9nX0xvOWRua1EwVUM0OEh6b1hIODhSbl85V0Yzc2VaZ0p2WmJQSlZsLWFJWGlIMUFkRlhqZ0VmV05tZi1CSThuUTVoNzJUbllsbVNYQk5pbE5vVXFOU3ZR?oc=5",
+   "source": "s.response.jp",
+   "published": "2026-08-18T07:00:03+00:00",
    "count": 3,
    "sources": [
-    "さっつーのAIエージェント",
-    "オルタナティブ・ブログ"
+    "s.response.jp",
+    "ロボスタ"
+   ],
+   "score": 2.46
+  },
+  {
+   "title": "Huang Madison boosts LG–Nvidia physical AI push with Seoul robot lab visit - CHOSUNBIZ",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84LU5ESHJzZE9JZVdaekxjQXRLbnZCb095MVN2ampHTjZpMWx3UE00ZENNalJHaUs5TnJjRHlKVUJEM28xOXdiTmtaZWU4bnc4RFVnYW9JZVpualctSVZsamZ3My1CYkpIWXFhWmxJSmxuSVBLQ3Z1R2t30gGOAUFVX3lxTFAydDBWTzZxWnJwS2M1SHFfLTVqSWN0SGFrLU9sQndTSGFNZVJiT1RYNWxMXzFSaExrYjRmQm41djFxRldlbGRzSHFNM0hXY1dKN0JMZGFkNmdTaVVkdTVkaUNQVEF2XzMwZVIwUjJLYjdtVjZRUDRISVlQMnZkYm1aMUFIMDExOWxoaUpMUnc?oc=5",
+   "source": "Chosunbiz",
+   "published": "2026-08-18T02:49:00+00:00",
+   "count": 3,
+   "sources": [
+    "Chosunbiz",
+    "Korea JoongAng Daily",
+    "bloomingbit"
    ],
    "score": 2.32
-  },
-  {
-   "title": "【週間振り返り】3DGSを使ったフィジカルAI向けロボット訓練事例をNVIDIAらが解説",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VY0JyNWhwRmxDLVdHZkN1d0pWODRyTTR4NHRGa3dsQkRFYng5SXJhTy1HTjAta2NLTVVfOUNncl9pV2g1ZDFPbUZOaVZFcnRQTl9EcVRQU1NjUkN1WG1GTw?oc=5",
-   "source": "Mogura VR",
-   "published": "2026-08-16T23:34:29+00:00",
-   "count": 3,
-   "sources": [
-    "Mogura VR",
-    "thinkit.co.jp"
-   ],
-   "score": 2.22
-  },
-  {
-   "title": "LGとNVIDIA、二足歩行ロボットの2027年Q1公開を目指す CLOiDは工場で先行検証",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5CQ3ZiNDVHUDdmcDFaTnVPRmNoUDRSOUx5eklXeGxaUDlGOTQ5RjFPeGpjS3JBZDRrMVc0MDZzekFRa2I0cU5uc1VOVFNLSXdhRWl5YUtFcTg2bnhXV2c?oc=5",
-   "source": "XenoSpectrum",
-   "published": "2026-08-15T08:15:25+00:00",
-   "count": 5,
-   "sources": [
-    "BigGo ファイナンス",
-    "Chosunbiz",
-    "XenoSpectrum",
-    "디지털투데이"
-   ],
-   "score": 2.14
-  },
-  {
-   "title": "LG, NVIDIA Unveil AI-Powered Humanoid Robot",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcWxSRl9aV0dyUVl1MXF3aTc4VEFHRWtuYmRMeVFwUlhXcVYzeFkyVV9Hdmp0Mktpd0EzeWwtbFdyV3pOQk1LWFNtMFFVSkhOSjlNZzQ4NkZUcVB2dWRURDE3QXpQQmN0ZHI1eF9wdlk3eGhfQ1FVWjRUSEtlX0tqWUo0X3UzWTg3?oc=5",
-   "source": "조선일보",
-   "published": "2026-08-15T00:43:22+00:00",
-   "count": 5,
-   "sources": [
-    "KED Global",
-    "Seoul Economic Daily",
-    "finance.biggo.com",
-    "조선일보"
-   ],
-   "score": 1.93
-  },
-  {
-   "title": "Bipedal Robots Play First Fully Autonomous Table Tennis Game Before Beijing Games",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdWxveVZIMnNaZ1lmSm1Ba3ZyUnFVUGItcFRHdThCcVNsbWxqUzNQTzVOUHpaZjFuMUJxSnFiRjJoaVNjb0pvQl9zdWRqTGkxSVhqZU1WdTdjNzd0ZkV4bzM4X2g2eHlfSDNuLUJnWUQyZXJ0SU1QR3dJcGhtVmpxNVdBdVVOTU03N09aOTY0V2lHOGk4N0lFM2RldW8zcGViaEhpbVQyaGI3X3M2NTNxRTJlUVhLbXEtVVFvWnlDUjVjLW83QUIwWG5FUUdISHJyb2c?oc=5",
-   "source": "Tech Times",
-   "published": "2026-08-17T18:03:04+00:00",
-   "count": 2,
-   "sources": [
-    "Tech Times",
-    "usatoday.com"
-   ],
-   "score": 1.91
-  },
-  {
-   "title": "Unitree's Superman robot claims 45.6 km/h speed — faster than Usain Bolt, unverified",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHhTWmd0X0FoTjFkN2V4ZlFZaDBjclRkaTRiU21abEoxb3poeUFuNV90aTJkTmlSaUIwQTJOZGtkdC12SU9OR0RMc0VhN0NOUnNQVDFnMzdqWkJrVk9vQTAwaTAyQmd5ZVZJWkY4a1AtZTVfRjNOeW5PaTlQLVRmaUtncnZFWGg1RllMWDhROEtpYnV4NmloQmVEa3NPQ0xDcFlqMER5SUjSAa4BQVVfeXFMT1l3eU9vWFpUN3VRZ1IzTkJSNmNUV3U0cFF4RjdkcFN0eWlBQkhhU1RWNFZaY3RKUUU5aXNZTG1BWFNXbzFZVmVFd080SXZKaXFaWTg1YmUxU1oySFg5WWp6cDlyUExCYk13VjNiZUt5SDJ5RVh5czNvTWpMb21jLUxJWEhJNkl0RC1yZmtHQzRoZkw1emFBaG5EQTlOb1JpZ0h0MzFHa2JrMkFQM2RB?oc=5",
-   "source": "Gagadget.com",
-   "published": "2026-08-17T14:58:16+00:00",
-   "count": 2,
-   "sources": [
-    "Gagadget.com",
-    "Interesting Engineering"
-   ],
-   "score": 1.83
-  },
-  {
-   "title": "LG to Release Nvidia-Powered Humanoid in 2027",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OVHpVTWpVNWxXSUpzLWZyMFRaNXJ4UVYzQ1cxX1NESjFlUVdmVmFLQ1FZdXk1clZ6WU5BdlBhSGxZWTZ3OTRmYUtMU09oMmstREduRlBHZHNkSlhHR2pfRzF6WldWZ2V6QlVFazJwaWFWWEFwTFhwMXhJdWpDM1k?oc=5",
-   "source": "AI Business",
-   "published": "2026-08-17T14:03:47+00:00",
-   "count": 2,
-   "sources": [
-    "AI Business",
-    "The Korea Times"
-   ],
-   "score": 1.81
   }
  ],
  "trend": {
   "dates": [
-   "2026-07-19",
    "2026-07-20",
    "2026-07-21",
    "2026-07-22",
@@ -481,14 +487,14 @@
    "2026-08-14",
    "2026-08-15",
    "2026-08-16",
-   "2026-08-17"
+   "2026-08-17",
+   "2026-08-18"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     18,
      42,
      50,
      41,
@@ -517,14 +523,14 @@
      42,
      3,
      5,
-     34
+     38,
+     31
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     7,
      14,
      44,
      53,
@@ -540,7 +546,7 @@
      9,
      18,
      19,
-     38,
+     39,
      32,
      24,
      16,
@@ -548,19 +554,19 @@
      7,
      10,
      8,
-     18,
+     19,
      16,
      16,
      5,
-     9,
-     9
+     10,
+     18,
+     25
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     11,
      22,
      7,
      12,
@@ -589,14 +595,14 @@
      5,
      3,
      0,
-     5
+     6,
+     0
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     16,
      58,
      35,
      26,
@@ -625,14 +631,14 @@
      54,
      10,
      16,
-     36
+     41,
+     46
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     6,
      7,
      21,
      17,
@@ -661,7 +667,8 @@
      20,
      4,
      3,
-     18
+     25,
+     19
     ]
    }
   ]
@@ -695,7 +702,7 @@
    "name": "SAMSUNG ELECTRONICS CO LTD",
    "core": "SAMSUNG ELECTRONICS",
    "patents": 260,
-   "news": 30
+   "news": 31
   },
   {
    "name": "X DEV LLC",
@@ -707,7 +714,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 121
+   "news": 124
   },
   {
    "name": "QUALCOMM INC",
