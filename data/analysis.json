@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-08-20T21:23:44.576771+00:00",
+ "updated_at": "2026-08-21T21:20:09.128355+00:00",
  "kpi": {
-  "articles_7d": 766,
-  "articles_prev_7d": 516,
-  "sources_7d": 376,
-  "articles_30d": 2889,
-  "total_articles": 4874,
+  "articles_7d": 779,
+  "articles_prev_7d": 573,
+  "sources_7d": 377,
+  "articles_30d": 2883,
+  "total_articles": 5012,
   "oldest_news": "2025-12-18"
  },
  "wordcloud": [
@@ -15,74 +15,78 @@
   ],
   [
    "china",
-   72
-  ],
-  [
-   "nvidia",
-   70
+   89
   ],
   [
    "world",
-   52
+   57
   ],
   [
-   "ipo",
-   38
-  ],
-  [
-   "debut",
-   35
+   "nvidia",
+   40
   ],
   [
    "games",
-   35
+   38
   ],
   [
    "中国",
-   34
+   37
   ],
   [
-   "market",
-   32
-  ],
-  [
-   "開発",
-   31
+   "ipo",
+   36
   ],
   [
    "chinese",
+   33
+  ],
+  [
+   "debut",
+   32
+  ],
+  [
+   "market",
    30
   ],
   [
-   "市場",
-   25
+   "開発",
+   30
   ],
   [
    "日本",
-   25
-  ],
-  [
-   "data",
-   24
-  ],
-  [
-   "unveils",
-   22
+   27
   ],
   [
    "画像",
-   22
+   25
   ],
   [
-   "shanghai",
-   21
+   "unveils",
+   24
+  ],
+  [
+   "世界",
+   23
+  ],
+  [
+   "市場",
+   23
+  ],
+  [
+   "写真",
+   23
+  ],
+  [
+   "data",
+   22
   ],
   [
    "launches",
    21
   ],
   [
-   "世界",
+   "beijing",
    20
   ],
   [
@@ -90,67 +94,71 @@
    20
   ],
   [
-   "写真",
+   "shanghai",
    20
   ],
   [
-   "LG",
-   19
+   "Unitree",
+   20
   ],
   [
    "superman",
    19
   ],
   [
+   "ceo",
+   18
+  ],
+  [
    "platform",
    18
   ],
   [
+   "国産",
+   17
+  ],
+  [
+   "技術",
+   17
+  ],
+  [
+   "開催",
+   17
+  ],
+  [
+   "chatgpt",
+   17
+  ],
+  [
    "産業",
-   18
-  ],
-  [
-   "Unitree",
-   18
-  ],
-  [
-   "NVIDIA",
    16
   ],
   [
-   "公開",
-   16
-  ],
-  [
-   "beijing",
-   16
-  ],
-  [
-   "ceo",
+   "共同",
    15
   ],
   [
    "raises",
-   15
+   14
   ],
   [
    "企業",
-   15
+   14
   ],
   [
-   "国産",
-   15
+   "machines",
+   14
   ],
   [
-   "技術",
-   15
+   "conference",
+   14
   ],
   [
-   "com",
+   "公開",
    13
   ],
   [
-   "共同",
+   "stock",
    13
   ],
   [
@@ -158,47 +166,19 @@
    13
   ],
   [
-   "unveil",
+   "支援",
+   13
+  ],
+  [
+   "training",
+   13
+  ],
+  [
+   "research",
    12
   ],
   [
-   "build",
-   12
-  ],
-  [
-   "korea",
-   12
-  ],
-  [
-   "歩行",
-   12
-  ],
-  [
-   "stock",
-   12
-  ],
-  [
-   "開催",
-   12
-  ],
-  [
-   "factories",
-   11
-  ],
-  [
-   "韓国",
-   11
-  ],
-  [
-   "工場",
-   11
-  ],
-  [
-   "million",
-   11
-  ],
-  [
-   "競争",
+   "autonomous",
    11
   ],
   [
@@ -206,118 +186,167 @@
    11
   ],
   [
-   "research",
+   "競争",
    11
   ],
   [
-   "machines",
+   "funding",
    11
   ],
   [
-   "支援",
+   "レポート",
    11
   ],
   [
-   "south",
+   "com",
+   11
+  ],
+  [
+   "korea",
+   11
+  ],
+  [
+   "global",
+   11
+  ],
+  [
+   "industry",
+   11
+  ],
+  [
+   "moment",
+   11
+  ],
+  [
+   "wrc",
+   11
+  ],
+  [
+   "事業",
    10
   ],
   [
-   "factory",
+   "million",
    10
   ],
   [
-   "surges",
+   "LG",
    10
   ],
   [
-   "chosunbiz",
+   "NVIDIA",
    10
   ],
   [
-   "autonomous",
+   "規模",
    10
   ],
   [
-   "データ",
+   "race",
    10
   ],
   [
-   "IPO",
-   10
-  ],
-  [
-   "実用",
+   "seeing",
    10
   ]
  ],
  "today_top5": [
   {
-   "title": "Humanoid robots nearing ChatGPT moment as physical AI advances: Unitree CEO",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORUNjc0czQzFqSjdfRkVzQ0I1ZHk3UWQzdFM1dGM1bVJrblVQRlZqMVBxdDRsMEl3X1hjT0FlY1h4cm1yYkZ6b2c4eGFVZlBmNV9wZ1ZNZXVIREdubWVSOTFVN0Z0UzEzOEVsSmhnaXBPUURGYTg5dF9sdUlvLUF5cVhVMXJnY3JMVU9ydHJhYnpBZFYzanBRcWd0cVlaQjVIazRCRU9JNkhMYUhBeVFTaHRBcGs0SjdTSzkwNi12T0tVanFINzdnb2JjQnhMSGVqZWZtUUFR0gHbAUFVX3lxTE1vcXplMWR0TlB4RHNRWVUzV2o0VzJleHROYmtxek8yb0cwQWxzMHZ0NEgzZ2ZGZ2NFZ25ULW5RQlIzQl9Sdnpad3hjY2dBMkxVY00xckJEd0U0MGt2TUVZR2hiQ0lUaV9vWV9oV1FjZTAxS3hDNGt6a3RrbFZwa0lYcng3Qk9Rc3dpck16ZHlha2ZlTnk3TDB5dGpwT3h2U0NDZHJWd1ZWRkNLLWVzNU5BMWUxMFY5aGxDeXhsR3FEb0tzcE9OREkxRkhaZkRvMnAyVnhEWThfNGJJRQ?oc=5",
-   "source": "Business Standard",
-   "published": "2026-08-20T16:29:16+00:00",
+   "title": "Robot Olympics Training Is No Joke: Humanoid Nearly Breaks in Half During Viral Crash",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaFhoZmh3VUVsdWM3VlpjM1dPZkZzMk16aVlla0k4c1dVcndZQ2ctcnUzWFo1cGwxQkdRcGtzVDNhQWw4WXBHRm9nZjNsV2o2OC02di03a0ZNYnN2ZzBsVl9sWXBEeEVZLW1yZFdGZGwyd0p0NFNCR25UUU5iaG9CZ1YxRmU2aFRPQ2xFUEYxOA?oc=5",
+   "source": "Yahoo Tech",
+   "published": "2026-08-21T18:46:33+00:00",
    "count": 4,
    "sources": [
-    "Business Standard",
-    "CNBC",
-    "Reuters",
-    "calcalistech.com"
+    "Firstpost",
+    "NDTV",
+    "Yahoo Sports",
+    "Yahoo Tech"
    ],
-   "score": 3.74
+   "score": 3.86
   },
   {
-   "title": "レポートオーシャン、フィジカルAI市場を分析",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xQlpTaGlHMDZ5UzcxLXZiU0xzbVB3NFpIaEVwSnd2ek1YN0V0bzVkRXkzTkNsQUNWS19hLTlQM25WREQ5RkVGeQ?oc=5",
-   "source": "LOGISTICS TODAY",
-   "published": "2026-08-20T20:26:15+00:00",
-   "count": 3,
-   "sources": [
-    "LOGISTICS TODAY",
-    "RBB TODAY",
-    "アットプレス"
-   ],
-   "score": 2.96
-  },
-  {
-   "title": "アトムと日本精工、国産ヒューマノイドAIロボット産業の発展に向けMOU締結 精密部品技術とフィジカルAIを融合",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tUk9QTXgzd2NWcFBMYmc3TGY4OGNCa2w2QnI4aUkxWFBDLVVYQkhQcWFqNzVnMDVPc1JCQnNqR1U4ME5CbmhXZW9mRk13VGgzRzBhWVlHM2ZzMEI3T0pHZzlDejloajFhM3FSOWxB?oc=5",
-   "source": "au Webポータル",
-   "published": "2026-08-20T09:55:03+00:00",
-   "count": 3,
+   "title": "東京衡機---急反発、フィジカルAI関連新規事業の取り組み開始を発表",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY19DYXV3bFZicndPVU5FMzN6WlBvdUJFZGxROXlVWklsTlU1Z2c4ZGhBcFVrZDhEbG9iVEdudjVpZ01jUDJIRjd1OXRlelJTUDBPNjUyMkh4cktlMFJDbDZmYUNZRl9OTGtyb2JGLXNwRG9YaXpyaE1zRkpHZ3JoYlkwa0lxU1RLWmhUNjRHSW51dkVLUGdCUG9R0gGMAUFVX3lxTE5aU0JyTHRZaTVMRFpCQ2Zrd0ZWNi0tU3BSalFoRmZuXzRCbHZmNzZEU2tmX25vNHhWUVBQbmZBYUN5TUVGS25ONm9vSnB1VHIwNkg1U01lZzk0ckRjc2dMaktqOThCcVg1LU1tMHdaS1ZUcFdsT0thbF9UdFQ2Skd4MlpEMC1aRFlneUwy?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-08-21T04:09:00+00:00",
+   "count": 4,
    "sources": [
     "PR TIMES",
-    "au Webポータル",
-    "ロボスタ"
+    "Yahoo!ファイナンス",
+    "株探",
+    "ｄメニューニュース"
    ],
-   "score": 2.56
+   "score": 3.15
   },
   {
-   "title": "ロボットも緊張？ 霧島国分夏まつりにヒューマノイドロボット登場 鹿児島 (2026年8月20日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE43d2YwZ0k2UTVuVWFFbnRPcnFjby02My1QSXIzVXRKZWVTanhKejZ4Y0M0cExPbV9Bc0lnUlUyRWlwWTg5Zks2WnZpai1ZQ0xwWVFnYm1YbE01bFFsQmc?oc=5",
-   "source": "ライブドアニュース",
-   "published": "2026-08-20T04:43:21+00:00",
-   "count": 3,
-   "sources": [
-    "TBS NEWS DIG",
-    "Yahoo!ニュース",
-    "ライブドアニュース"
-   ],
-   "score": 2.38
-  },
-  {
-   "title": "Georgia Southern University unveils state-of-the-art humanoid robot at Savannah campus",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd180SVJDSXNuNVgtMG42cEFXUG9RSkNhVERqZEtZVW13UUs2VWxZMlRIV25aLUdZUVU4bDh0em1sRENhVHhYNG05VklPazZ5X08tVklMUWhxbEF1eU5iaWF0dVpodkF2VHpvSHExQ1VSZE50V2xzUTdaOUZiRlpqNnRFUTk0NEljcHgxRTBtczNzSUdjX2JObHpNYUQ2Nm5JQnR1bjJJeVFDckJpeno2aVZwRDZJTHM?oc=5",
-   "source": "WTOC",
-   "published": "2026-08-20T20:56:00+00:00",
+   "title": "Massive Robot March! 2nd World Humanoid Robot Games Rehearsals In Beijing",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43VzIxWGNKTjVnanRoVkVhQUNxZ2JPUWtxTVlzNVRkcGcydEYwMGVwbzJPdU9SY1VPakQ0LUhTbDQ3QUs5QldHTHBhN2JmeGhHZHEzdmNVcHBFeWdkMVp3VGFB?oc=5",
+   "source": "Global Times",
+   "published": "2026-08-21T16:49:00+00:00",
    "count": 2,
    "sources": [
-    "WTOC",
-    "Yahoo"
+    "China Daily",
+    "Global Times"
    ],
-   "score": 1.99
+   "score": 1.88
+  },
+  {
+   "title": "Humanoid robot crashes into wall during chaotic speed test",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSFJGU3NWYzBGcG1vamlyeDhNRjlMLUc5a3dmMy1OYmp0ZnFjeHFtblBCLWEtYnBHUFFfRzRrVmpWWTZ6RF9CbldOaEhEN0U1ZmdIeE5BbUJoS0IyckRLemd0MkpBZk5MZjhINzNHTzF5Z2ZGcm5rR1Q4V19TQlFzWTFaQl9fOGM0eHNiaVRCeVUxaHMxM2c?oc=5",
+   "source": "The Independent",
+   "published": "2026-08-21T16:15:00+00:00",
+   "count": 2,
+   "sources": [
+    "Al Jazeera",
+    "The Independent"
+   ],
+   "score": 1.86
+  },
+  {
+   "title": "ACE Robotics chairman says robot brains will have ‘ChatGPT moment’ by end of 2027",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPY2pZTGhpYVkyUmRpVXZkTHhrcFBWTUkySF95SzE2MmhUSWpUcTBidzlqcTljeEw0V3BLSUJjODlRSU5NdGdaNDFIelk1ODRBM3lYYUoyRGtfTkh1MmEtMkt2U21fdHc2UHl4VGJXMTY2cDNkQnY5ODc5RmR6N2x6VEpDSjdCOGFzR2QybGdCZG51R2JxM2RPdmZsZUlpNk9XeXlLSUpOWFIwa19JZWw4Nll3VjJSY3hlQ2t5RVNPbnFLSTBsNW90MERCM1BYeFVFY2g0YkdVSFk?oc=5",
+   "source": "BNN Bloomberg",
+   "published": "2026-08-21T11:50:51+00:00",
+   "count": 2,
+   "sources": [
+    "BNN Bloomberg",
+    "Reuters"
+   ],
+   "score": 1.75
   }
  ],
  "hot_news": [
+  {
+   "title": "Seeing Machines Launches Physical AI Platform",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMWppc29jdVVOMm9xSElLUXl1U3N1RWRlN0RoQUJOS2dSdGMzUnNCNF9MaWpYRmhaUkRPQTB2RnIzdVRUeXA0Sy04Q0ZSUjlPZEJNakZaV3JVNUNpRnV5TDFyWm9tRE1sempuZVdqcUhldl9qdWdvLWFvNGo1dlIwVExZQXNMeVd5Q19pMUZVOE4?oc=5",
+   "source": "Photonics Spectra",
+   "published": "2026-08-21T03:22:30+00:00",
+   "count": 8,
+   "sources": [
+    "AI Insider",
+    "IT Brief Australia",
+    "Imaging and Machine Vision Europe",
+    "PR Newswire",
+    "Photonics Spectra",
+    "UK Investor Magazine"
+   ],
+   "score": 6.23
+  },
+  {
+   "title": "Robot Olympics Training Is No Joke: Humanoid Nearly Breaks in Half During Viral Crash",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaFhoZmh3VUVsdWM3VlpjM1dPZkZzMk16aVlla0k4c1dVcndZQ2ctcnUzWFo1cGwxQkdRcGtzVDNhQWw4WXBHRm9nZjNsV2o2OC02di03a0ZNYnN2ZzBsVl9sWXBEeEVZLW1yZFdGZGwyd0p0NFNCR25UUU5iaG9CZ1YxRmU2aFRPQ2xFUEYxOA?oc=5",
+   "source": "Yahoo Tech",
+   "published": "2026-08-21T18:46:33+00:00",
+   "count": 4,
+   "sources": [
+    "Firstpost",
+    "NDTV",
+    "Yahoo Sports",
+    "Yahoo Tech"
+   ],
+   "score": 3.86
+  },
   {
    "title": "Chinese humanoid robot maker Unitree jumps 460% in blockbuster Shanghai IPO",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOejJ4MUhwSUtQZ0tRcFdKSXNPdlJKVHpURmNxN3FUalpubmYyeHNQYlM4Vm9ob2FQc0RSTC1RamwzSVd0RzRaQ3lwTU9UeVk4bm5PcmhlTG40eHFuS1cydVBoeTM1T0FneVFLZWxEUmU2cTJUT0JHRHkwTFVUREJZV0Z3OGZNams?oc=5",
@@ -332,135 +361,105 @@
     "Seymour Tribune",
     "Türkiye Today"
    ],
-   "score": 4.92
+   "score": 3.53
   },
   {
-   "title": "Seeing Machines Launches Physical AI Platform for Robot Awareness",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYnpLV3R4M245Q2syLVgyXzlVYWRBTU5VWHB5NFNxLWM5RXRPMzhKM2U1UUVERFA0UE55bXd3YWhKMVNyaERyLWo3amd4eTBDUnRWbFRadE5BOHZiLVJFQ29JT3IwRU5keDlnX0VvbVlsSXBMLUJEYkNxeDFqdUcxemRRNDd6UEhsREFWelN6LVQ0bmduU0RNeF9adUpKdkVhMUpQMTl3?oc=5",
-   "source": "AI Insider",
-   "published": "2026-08-19T11:08:13+00:00",
-   "count": 7,
-   "sources": [
-    "AI Insider",
-    "IT Brief Australia",
-    "Imaging and Machine Vision Europe",
-    "PR Newswire",
-    "UK Investor Magazine",
-    "Yahoo Finance UK"
-   ],
-   "score": 4.35
-  },
-  {
-   "title": "LG and NVIDIA Team Up to Build a Humanoid Robot",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWa3JLWmQ2LVZCLVFxbDBPWjlxQjNLRTU1a0hqMlNlS3lEWUE2ZTU3T0U3ZHNjT3NXVUNqOEQtcmZud2VKMWIta0dHdG1sSnBlYVdfYy1TT1BEUQ?oc=5",
-   "source": "Memeburn",
-   "published": "2026-08-20T19:12:59+00:00",
+   "title": "アトムと日本精工が国産ヒューマノイドAIロボットの発展に向けたMOUを締結",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kWlFmZVpfeU42dkdEbG5lT3FpNG1oSGdsZGV0ekplVXBZVXNBVUJNOXRQNlVuRmJSQjR2OVUyU1E3X0w4VDhEOVBkZ09YU1FfVnZWNHQ5Y2x0TWswcXFFdkx1Qk9yNnVOOGw2ak1WSm5tdw?oc=5",
+   "source": "ニュースメディアVOIX",
+   "published": "2026-08-21T07:04:24+00:00",
    "count": 4,
    "sources": [
-    "Memeburn",
-    "Seoul Economic Daily",
-    "finance.biggo.com",
-    "techmymoney.com"
+    "PR TIMES",
+    "au Webポータル",
+    "ニュースメディアVOIX",
+    "ロボスタ"
    ],
-   "score": 3.88
+   "score": 3.28
   },
   {
-   "title": "Humanoid robots nearing ChatGPT moment as physical AI advances: Unitree CEO",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORUNjc0czQzFqSjdfRkVzQ0I1ZHk3UWQzdFM1dGM1bVJrblVQRlZqMVBxdDRsMEl3X1hjT0FlY1h4cm1yYkZ6b2c4eGFVZlBmNV9wZ1ZNZXVIREdubWVSOTFVN0Z0UzEzOEVsSmhnaXBPUURGYTg5dF9sdUlvLUF5cVhVMXJnY3JMVU9ydHJhYnpBZFYzanBRcWd0cVlaQjVIazRCRU9JNkhMYUhBeVFTaHRBcGs0SjdTSzkwNi12T0tVanFINzdnb2JjQnhMSGVqZWZtUUFR0gHbAUFVX3lxTE1vcXplMWR0TlB4RHNRWVUzV2o0VzJleHROYmtxek8yb0cwQWxzMHZ0NEgzZ2ZGZ2NFZ25ULW5RQlIzQl9Sdnpad3hjY2dBMkxVY00xckJEd0U0MGt2TUVZR2hiQ0lUaV9vWV9oV1FjZTAxS3hDNGt6a3RrbFZwa0lYcng3Qk9Rc3dpck16ZHlha2ZlTnk3TDB5dGpwT3h2U0NDZHJWd1ZWRkNLLWVzNU5BMWUxMFY5aGxDeXhsR3FEb0tzcE9OREkxRkhaZkRvMnAyVnhEWThfNGJJRQ?oc=5",
-   "source": "Business Standard",
-   "published": "2026-08-20T16:29:16+00:00",
+   "title": "東京衡機---急反発、フィジカルAI関連新規事業の取り組み開始を発表",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY19DYXV3bFZicndPVU5FMzN6WlBvdUJFZGxROXlVWklsTlU1Z2c4ZGhBcFVrZDhEbG9iVEdudjVpZ01jUDJIRjd1OXRlelJTUDBPNjUyMkh4cktlMFJDbDZmYUNZRl9OTGtyb2JGLXNwRG9YaXpyaE1zRkpHZ3JoYlkwa0lxU1RLWmhUNjRHSW51dkVLUGdCUG9R0gGMAUFVX3lxTE5aU0JyTHRZaTVMRFpCQ2Zrd0ZWNi0tU3BSalFoRmZuXzRCbHZmNzZEU2tmX25vNHhWUVBQbmZBYUN5TUVGS25ONm9vSnB1VHIwNkg1U01lZzk0ckRjc2dMaktqOThCcVg1LU1tMHdaS1ZUcFdsT0thbF9UdFQ2Skd4MlpEMC1aRFlneUwy?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-08-21T04:09:00+00:00",
    "count": 4,
+   "sources": [
+    "PR TIMES",
+    "Yahoo!ファイナンス",
+    "株探",
+    "ｄメニューニュース"
+   ],
+   "score": 3.15
+  },
+  {
+   "title": "人型ロボットは「人間超え」 中国Unitree新型機、垂直跳び2メートル・時速45キロ",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vdUt3YTVkaGtxR1FkVi02U0U5VVBrajhRaWhtY2lHaG96MThOcGxiMEdMcVM3S1lZazlseEJYNVF2V3lmV1JfamVWNVc0bG5ja3oxazZwQjZmSVZDd0owRXMxR1BoYmNSNVBhYTFiUTYybUl1OXdRcWFRYmkxY00?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-08-21T03:03:39+00:00",
+   "count": 4,
+   "sources": [
+    "ITmedia",
+    "Yahoo!ニュース",
+    "ロボスタ"
+   ],
+   "score": 3.1
+  },
+  {
+   "title": "日立ハイテク、フィジカルAIで全固体電池向け正極活物質のコーティング最適化支援：製造現場向けAI技術",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91LWVEd0U0Zzd6d2NndGI1bVZLUnppQl9sUkh3MW40X1pFRGpDVVhjNEhNMmVnM0xjMDR0N1VpdmozdkRjbElFc2l0dmVxTGVnUk5EWl9PVXROYjlyeWJXTEIxQVVfLWkxUDNETzBQRQ?oc=5",
+   "source": "MONOist",
+   "published": "2026-08-20T20:45:00+00:00",
+   "count": 4,
+   "sources": [
+    "MONOist",
+    "au Webポータル",
+    "ロボスタ",
+    "化学工業日報 電子版"
+   ],
+   "score": 2.84
+  },
+  {
+   "title": "Massive Robot March! 2nd World Humanoid Robot Games Rehearsals In Beijing",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43VzIxWGNKTjVnanRoVkVhQUNxZ2JPUWtxTVlzNVRkcGcydEYwMGVwbzJPdU9SY1VPakQ0LUhTbDQ3QUs5QldHTHBhN2JmeGhHZHEzdmNVcHBFeWdkMVp3VGFB?oc=5",
+   "source": "Global Times",
+   "published": "2026-08-21T16:49:00+00:00",
+   "count": 3,
+   "sources": [
+    "China Daily",
+    "Global Times",
+    "Startup Fortune"
+   ],
+   "score": 2.82
+  },
+  {
+   "title": "CEO of viral backflipping robot company says robots may be years from their ‘ChatGPT moment",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX054TkpfN3FOWU1QLXJaY0RuN2FPUlBidHVhcDRLakN1WVdmZl93cURmT013OWV5c1BSNEpFUTR2VjY1TXZ2NFBycnR5THpsbTFCTU53WWdONkR1LXN0NVF3Wk9ETmFHWUxtNDBFZkp2M05QT016VGZzbklNUVFDYThNVzBmb0tCaVlGajNPTnhoZjZEUUdPR3Nqem81Rm5NU0x0ZTFHM3g0MU54WWFXNlZjdi1iWGUxem0wQ3hJU0dYRUlOR1E?oc=5",
+   "source": "Fortune",
+   "published": "2026-08-21T15:05:00+00:00",
+   "count": 3,
    "sources": [
     "Business Standard",
-    "CNBC",
-    "Reuters",
+    "Fortune",
     "calcalistech.com"
    ],
-   "score": 3.74
+   "score": 2.75
   },
   {
-   "title": "Unitree unveils 'Superman' humanoid robot with vertical jump of 2 meters",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5nVkdnZ3haZWVtcjltMU1qRFlxUnlmb09YcEdQaGxRMWFUUlVKbVF0aTh1dzFDdVhXUXE3UXY1NnFMcC1QWTRsTWZhRnhPNGF4a2VjWm9EQmZ1V01KTldCdnBtc3lWNDJHQmN5SUpNcVdLWWo0X3FJa2tycnJRZw?oc=5",
-   "source": "China Daily",
-   "published": "2026-08-20T12:16:23+00:00",
-   "count": 4,
-   "sources": [
-    "AFR",
-    "China Daily",
-    "Gagadget.com",
-    "NBC News"
-   ],
-   "score": 3.52
-  },
-  {
-   "title": "What's new at the 2nd World Humanoid Robot Games",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE00UFp4dndKU0NWWE5mTVZYalNhaVR5eFZla2owWWhKeGtXSmxwV1hsWTZSa2xncEFTanE1X2VHSFg5TjJ3SElNN0F4dUtpbUFma1BqQkRzTVpMeTNGbnIyMTRn?oc=5",
-   "source": "Global Times",
-   "published": "2026-08-20T11:50:00+00:00",
-   "count": 4,
-   "sources": [
-    "Global Times",
-    "Xinhua",
-    "news.cgtn.com"
-   ],
-   "score": 3.5
-  },
-  {
-   "title": "Georgia Southern University unveils state-of-the-art humanoid robot at Savannah campus",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNd180SVJDSXNuNVgtMG42cEFXUG9RSkNhVERqZEtZVW13UUs2VWxZMlRIV25aLUdZUVU4bDh0em1sRENhVHhYNG05VklPazZ5X08tVklMUWhxbEF1eU5iaWF0dVpodkF2VHpvSHExQ1VSZE50V2xzUTdaOUZiRlpqNnRFUTk0NEljcHgxRTBtczNzSUdjX2JObHpNYUQ2Nm5JQnR1bjJJeVFDckJpeno2aVZwRDZJTHM?oc=5",
-   "source": "WTOC",
-   "published": "2026-08-20T20:56:00+00:00",
+   "title": "Humanoid Robots Poised for Breakthrough in Embodied AI by 2024",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcUZ0TEZOV3RId2lBTVRRTTNJTUFFbGgyMHUtVXQ0NmhBeTNKMnpxN0dzVWZjdDZndnNOa1hzUUh6TVJXT3FybjBTSGNoTktMbk82RFFNM20xWW90UW5hSnF2YWtYY1R2Q2dpOF9zQmJNaVRXRUxYNXBwTFZlNmJ3OEhwUHNLOWZFYjFmcWVfRW1hZXNHLVIySjlTM0hWa2pSZjdJNktNREVDWHQ5Z1ZROWpUUmx5S2thTWfSAb8BQVVfeXFMTzhZTHBHdUljTDhHSFA3RTYtZEdjS3E1bks2dktCYlVaS0xWelhlSWZlb1EtODVFbENoNFoyVkF5UTFMY2xXMWZHRzZZeWNrVUZZejlKYUY2YnpxUjdKTVN3UU45S0MxZ092eFo1N0FObF96bHRzNHV0N1ctTnJLRjNtcHA4TkZvRFNFX3BhSkxoZG1yWHY4bE85MWRXR1djdWctWnpHNVFMNTNMREZhcjJKTG95NmZYNW1xanV5OHc?oc=5",
+   "source": "Devdiscourse",
+   "published": "2026-08-21T10:01:23+00:00",
    "count": 3,
    "sources": [
-    "Georgia Southern University",
-    "WTOC",
-    "Yahoo"
+    "Devdiscourse",
+    "Reuters",
+    "The News International"
    ],
-   "score": 2.98
-  },
-  {
-   "title": "レポートオーシャン、フィジカルAI市場を分析",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9xQlpTaGlHMDZ5UzcxLXZiU0xzbVB3NFpIaEVwSnd2ek1YN0V0bzVkRXkzTkNsQUNWS19hLTlQM25WREQ5RkVGeQ?oc=5",
-   "source": "LOGISTICS TODAY",
-   "published": "2026-08-20T20:26:15+00:00",
-   "count": 3,
-   "sources": [
-    "LOGISTICS TODAY",
-    "RBB TODAY",
-    "アットプレス"
-   ],
-   "score": 2.96
-  },
-  {
-   "title": "Chinese robot makers seek to turn humanoid hype into useful work",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPemRIRWxNUGVqQlVXSnJvUmR0TlZvUUNwWVVsblV3Qno0cGtfMW85bHB3WUtHNkU1WG1zTFBQcXVVblVRVHZYcWdUd0o4azFPY0dLVWg2MWV0NUZ2Q2hubGpSNS16UGlsdXFBMW9OY1I5M0ZvWEQtRVNKejVBcG9OaUlqRkNmZktUVFBSMDNpbklTU25Ta2JWMk5vRjBnZzVtemZscld1SlU0eHlyQy00eWx2a203R0ZiTVlLZjl6U2k0UVdwYUl4eFljTndaSFZPU3A1U0RyN2ZiZWVfM0c3Y1RlNUlfVm53a3BPVlJIVUtuc1Rj?oc=5",
-   "source": "Lee News Central",
-   "published": "2026-08-20T18:15:00+00:00",
-   "count": 3,
-   "sources": [
-    "Lee News Central",
-    "Omaha World-Herald",
-    "reuters.com"
-   ],
-   "score": 2.87
-  },
-  {
-   "title": "FORT Robotics enters agreement with Newbury Street, with plans to go public - Pennsylvania Business Report -",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWmg4NmhabzEwRVlTOVhnb3ZtRG15RTJJY3V0eXhhYmxFVjI2XzUwZXA5SE5PVXo5bzRfQkoxZXg3bkRwclZxb0VtdUxPSjdEajJVVG5JN2pmaVBrX2NKa1FLSWJkSTVsWFZnR2EtQ25uUTlOR3RWczBmRlpNQWZHTm54LUNuTVVBbURWV3g2aUVfMV81ejZuWnpRZjV0UFhfU2xoTlllb01mbmw1VUc0bXlB?oc=5",
-   "source": "Pennsylvania Business Report -",
-   "published": "2026-08-20T12:22:06+00:00",
-   "count": 3,
-   "sources": [
-    "PR Newswire",
-    "Pennsylvania Business Report -",
-    "Robotics & Automation News"
-   ],
-   "score": 2.65
+   "score": 2.56
   }
  ],
  "trend": {
   "dates": [
-   "2026-07-22",
    "2026-07-23",
    "2026-07-24",
    "2026-07-25",
@@ -489,14 +488,14 @@
    "2026-08-17",
    "2026-08-18",
    "2026-08-19",
-   "2026-08-20"
+   "2026-08-20",
+   "2026-08-21"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     41,
      52,
      31,
      16,
@@ -524,15 +523,15 @@
      5,
      38,
      34,
-     40,
-     35
+     42,
+     37,
+     19
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     53,
      37,
      23,
      8,
@@ -559,16 +558,16 @@
      5,
      10,
      22,
-     34,
+     35,
      28,
-     31
+     37,
+     14
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     12,
      17,
      4,
      0,
@@ -597,14 +596,14 @@
      6,
      0,
      18,
-     4
+     5,
+     12
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     26,
      31,
      33,
      11,
@@ -633,14 +632,14 @@
      41,
      50,
      72,
-     45
+     53,
+     50
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     17,
      15,
      12,
      4,
@@ -648,7 +647,7 @@
      6,
      14,
      26,
-     27,
+     28,
      22,
      6,
      5,
@@ -666,10 +665,11 @@
      22,
      4,
      3,
+     28,
+     27,
      26,
-     26,
-     26,
-     23
+     28,
+     19
     ]
    }
   ]
@@ -691,7 +691,7 @@
    "name": "GOOGLE LLC",
    "core": "GOOGLE",
    "patents": 275,
-   "news": 30
+   "news": 28
   },
   {
    "name": "HONDA MOTOR CO LTD",
@@ -703,7 +703,7 @@
    "name": "SAMSUNG ELECTRONICS CO LTD",
    "core": "SAMSUNG ELECTRONICS",
    "patents": 260,
-   "news": 24
+   "news": 17
   },
   {
    "name": "X DEV LLC",
@@ -715,7 +715,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 110
+   "news": 108
   },
   {
    "name": "QUALCOMM INC",
