@@ -1,124 +1,120 @@
 {
- "updated_at": "2026-08-23T21:17:14.062865+00:00",
+ "updated_at": "2026-08-24T21:24:37.285612+00:00",
  "kpi": {
-  "articles_7d": 881,
-  "articles_prev_7d": 582,
-  "sources_7d": 395,
-  "articles_30d": 2806,
-  "total_articles": 5181,
-  "oldest_news": "2025-12-18"
+  "articles_7d": 922,
+  "articles_prev_7d": 587,
+  "sources_7d": 406,
+  "articles_30d": 2924,
+  "total_articles": 5379,
+  "oldest_news": "2021-03-15"
  },
  "wordcloud": [
   [
    "world",
+   127
+  ],
+  [
+   "games",
    109
   ],
   [
    "china",
-   104
+   107
   ],
   [
    "unitree",
-   98
-  ],
-  [
-   "games",
-   87
-  ],
-  [
-   "chinese",
-   62
-  ],
-  [
-   "record",
-   53
+   85
   ],
   [
    "bolt",
-   52
+   65
   ],
   [
-   "beijing",
-   51
-  ],
-  [
-   "usain",
-   50
+   "record",
+   64
   ],
   [
    "中国",
-   48
+   63
+  ],
+  [
+   "chinese",
+   63
+  ],
+  [
+   "usain",
+   62
+  ],
+  [
+   "beijing",
+   62
   ],
   [
    "世界",
-   33
-  ],
-  [
-   "ipo",
-   33
-  ],
-  [
-   "nvidia",
-   31
+   34
   ],
   [
    "debut",
-   31
+   29
+  ],
+  [
+   "ipo",
+   28
   ],
   [
    "market",
-   28
+   27
   ],
   [
    "市場",
    27
   ],
   [
-   "日本",
-   26
+   "beats",
+   27
   ],
   [
    "開発",
-   25
-  ],
-  [
-   "unveils",
    24
   ],
   [
-   "data",
-   23
-  ],
-  [
-   "beats",
-   23
-  ],
-  [
-   "launches",
+   "nvidia",
    22
   ],
   [
-   "画像",
-   22
-  ],
-  [
-   "写真",
-   22
-  ],
-  [
-   "Unitree",
+   "raises",
    21
   ],
   [
-   "platform",
+   "産業",
+   21
+  ],
+  [
+   "data",
+   20
+  ],
+  [
+   "画像",
+   20
+  ],
+  [
+   "写真",
+   20
+  ],
+  [
+   "Unitree",
+   20
+  ],
+  [
+   "開催",
    19
   ],
   [
-   "shanghai",
+   "日本",
    19
   ],
   [
-   "superman",
+   "技術",
    19
   ],
   [
@@ -126,63 +122,95 @@
    19
   ],
   [
-   "開催",
+   "unveils",
    19
-  ],
-  [
-   "産業",
-   19
-  ],
-  [
-   "ceo",
-   18
   ],
   [
    "chatgpt",
+   19
+  ],
+  [
+   "北京",
+   19
+  ],
+  [
+   "launches",
    18
   ],
   [
-   "技術",
+   "human",
+   18
+  ],
+  [
+   "million",
    17
   ],
   [
    "国産",
-   16
+   17
   ],
   [
    "conference",
+   17
+  ],
+  [
+   "startup",
    16
   ],
   [
-   "北京",
+   "ceo",
    16
   ],
   [
-   "human",
+   "shanghai",
+   16
+  ],
+  [
+   "watch",
    15
   ],
   [
-   "企業",
+   "training",
    15
   ],
   [
-   "race",
+   "moment",
+   15
+  ],
+  [
+   "funding",
    14
   ],
   [
-   "machines",
+   "platform",
+   14
+  ],
+  [
+   "superman",
+   14
+  ],
+  [
+   "meter",
+   14
+  ],
+  [
+   "wrc",
+   14
+  ],
+  [
+   "sprint",
+   14
+  ],
+  [
+   "breaks",
    14
   ],
   [
    "共同",
-   14
+   13
   ],
   [
-   "training",
-   14
-  ],
-  [
-   "raises",
+   "企業",
    13
   ],
   [
@@ -190,288 +218,265 @@
    13
   ],
   [
-   "partner",
+   "race",
    13
+  ],
+  [
+   "披露",
+   13
+  ],
+  [
+   "xpeng",
+   13
+  ],
+  [
+   "billion",
+   12
+  ],
+  [
+   "競争",
+   12
+  ],
+  [
+   "データ",
+   12
   ],
   [
    "支援",
-   13
-  ],
-  [
-   "moment",
-   13
-  ],
-  [
-   "wrc",
-   13
-  ],
-  [
-   "open",
    12
   ],
   [
-   "korea",
+   "model",
    12
-  ],
-  [
-   "global",
-   12
-  ],
-  [
-   "industry",
-   12
-  ],
-  [
-   "sprint",
-   12
-  ],
-  [
-   "meter",
-   12
-  ],
-  [
-   "レポート",
-   12
-  ],
-  [
-   "公開",
-   12
-  ],
-  [
-   "funding",
-   11
-  ],
-  [
-   "com",
-   11
-  ],
-  [
-   "活用",
-   11
   ]
  ],
  "today_top5": [
   {
-   "title": "Chinese humanoid robot beats Usain Bolt’s 100m record",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUEhMTHBxcUZLT1FSR0t2REZEakcybDBuSlVUOERaYWFKNDgxRUo1V2RhaThQX2FxUlo5eEljM001UGh0Ql8wd0piYnJBQlJ4SHE3QWljY0NMV3lqQjRjMjZ4dzYzNzlMeWhPUWxIOXh4NU9Fdm4xdUdETzRfWTcydl82WnI3V3I0eUQ1T0hlTWhYTGhZYkEtUWxwTDRNdGtZb0k3dTdB?oc=5",
-   "source": "The American Bazaar",
-   "published": "2026-08-23T19:35:40+00:00",
-   "count": 17,
+   "title": "Photos: World Humanoid Robot Games",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbkhCcUxJa1pvbmxmU2x2T2xvSW9aOUpqcXNTMlh6SGtjbDZBU2NnWXRpNjh5TXpXZGdLR25qMl9FaVAyRWpiZFItbGl6WFdvVnRYVU5wR29lb1M0cEhoYWtBSHYyejZlS05XYmhvVVFSam1sYmFqNjYteC1TWEtJTU5pR0lBLU92TzNn?oc=5",
+   "source": "Boston 25 News",
+   "published": "2026-08-24T17:50:49+00:00",
+   "count": 6,
    "sources": [
-    "Al Jazeera",
-    "AnewZ",
-    "Bloomberg.com",
-    "CBS News",
-    "Engadget",
-    "Fox News"
+    "Boston 25 News",
+    "DW.com",
+    "The Lufkin Daily News",
+    "livetube.tv",
+    "news.cgtn.com"
    ],
-   "score": 16.6
+   "score": 5.71
   },
   {
-   "title": "Chinese Humanoid Robot Breaks Usain Bolt’s 100m World Record",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR2dLaVVMYTF1Q255cFBfVTVBajN0YjZEb0Q3UUtsRUNtQU9ucGxXM2pZWkdsNThwMGNpSy1rYmYzSm5JQWNnXzZqVllhVDZVS0pncFN0d09JWkFNNGNmaHJ2TnkwTjRuS3UtY2ZIZy1pVWRIZ0lxV3FtR2RjU1BLTjJUWS1MTnlRV3l1eEtEamJtdV9oREpEdl9vc09LYzN0cHhOdk1JV0YteEJHRm1UYg?oc=5",
-   "source": "صوت الإمارات",
-   "published": "2026-08-23T17:15:16+00:00",
+   "title": "Watch: Humanoid robot breaks Usain Bolt’s 100m dash record at 9.39 seconds",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLVFXWk84azBUVktycFV5LWVvYXhESDAtaXhQZkg2T2ZqbkczV3JId3ZXaWRtUUplRG5USUM4c1Q1Nk43elgtZUplNW9kMlFuM0NfZ1ZGc2NNcC1jWEhIOXJNV2dFQUprbm1WWUNZSVdiQk5DWWdPYURPSEVzdzkwNG5qN3hUcHNyQmlndm9uSkR3UQ?oc=5",
+   "source": "WCVB",
+   "published": "2026-08-24T14:58:00+00:00",
+   "count": 6,
+   "sources": [
+    "2oceansvibe News",
+    "El Mundo America",
+    "Fox News",
+    "Inside The Games",
+    "WBAL-TV",
+    "WCVB"
+   ],
+   "score": 5.49
+  },
+  {
+   "title": "Neura Acquires Adlatus Robotics to Expand its Physical AI to Professional Cleaning",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNDc3VWFESXZnVXFTZlg0UjBwWUlDOUg0YlV0b01kVGgxcVh3Qnh4c1NaZUhsOHBQVFhYN3VTYVFJRVBFV0VoUi04dS1QdXgxYVpQSEVBSVdhRzR4VEVDVlhQMG1yQnpnanBLMDlZZDBPMXl0ak8xQUZFRFJ1bDVyNF9RdDcySUdPRFRudDViQjhWd0wyX2hRZkp5YmdHWTlqZ19aU3oxRXRFYk9aRWI1YjdhcTRHMzR2ZjdoWA?oc=5",
+   "source": "AI Insider",
+   "published": "2026-08-24T12:49:21+00:00",
+   "count": 4,
+   "sources": [
+    "AI Insider",
+    "Robotics & Automation News",
+    "Tech.eu",
+    "Yahoo! Finance Canada"
+   ],
+   "score": 3.55
+  },
+  {
+   "title": "日鉄興和不動産がフィジカルAI清掃ロボット「Loki」の国内初実証を開始し業務革新を目指す",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5hS1p2V0I4WU5NUTdNN29ENGVpbWJFQUpyLVBsQm4zandhaTYyNWp6dTlRbU0zaGczU0doeFNRSS1FVERNclJsbDdHNWstdDVncWJBS1M4TGR0N01DMjlvMzlJeEVQS3VSdVgxcmlZeF8?oc=5",
+   "source": "ニュースメディアVOIX",
+   "published": "2026-08-24T06:36:26+00:00",
+   "count": 4,
+   "sources": [
+    "PR TIMES",
+    "au Webポータル",
+    "トレーダーズ・ウェブ",
+    "ニュースメディアVOIX"
+   ],
+   "score": 3.26
+  },
+  {
+   "title": "XPeng Motors humanoid robot unit Dogotix raises $900M",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVnVENGpfYWoyRUNMWEEzZHFkbGVIU09xNFhVWWRpalJHUDdfOEZqbnUyV1JHNC12ZTJkZ0MzTmdsYnZaa2hPX0VjQ3RXRldraVI5eG56a2NmZGxpTHlTS0JQQTVNbDdqNURGRW5DRHlCWGt2LS1ZWkt6NnVWUW0wMU1FSVllSFd3SzRpRg?oc=5",
+   "source": "The Robot Report",
+   "published": "2026-08-24T20:15:00+00:00",
    "count": 3,
    "sources": [
-    "Bleacher Report",
-    "Daily Sabah",
-    "صوت الإمارات"
+    "AI Insider",
+    "The Mighty 790 KFGO",
+    "The Robot Report"
    ],
-   "score": 2.84
-  },
-  {
-   "title": "China showcases robots at Beijing games",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnZHVvM0NacXAzNXlsSUhuYkpwYzJ2QnFVVlVORVhDU0dHUXpyU3g4NDV6bEk1ZGdoeDVvSzFjaTAyU0x1NjNkRTh1RmZDY1VhTG1Ja1dVZ0IwellhUnY5UzhRUHZkTEZOTU80OVpDU3JoXzZRSEFqag?oc=5",
-   "source": "Taipei Times",
-   "published": "2026-08-23T16:00:00+00:00",
-   "count": 3,
-   "sources": [
-    "Daily Gate City",
-    "People's Daily Online",
-    "Taipei Times"
-   ],
-   "score": 2.79
-  },
-  {
-   "title": "Humanoid robots sprint, play soccer and set records at Beiji...",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWmVMUHo2dXZCTXNrc0hvN1BfX3lOclN3b3VSWUU0Y3lZT3NxaDhnWHlMd3pqNXhGZXhEQkh1WGo3MGZBNmUwNF9XZlRha0wxMTJNbDBhZmVxaVotOGptdmlGM3E3QmpEaHZwZTFiTllJN0JFSXhkTUJVR2FDNDU2Yk5RM2tGRWpfa05KRldFS3d5MlZaTWpmUVdvd281MmdUVkU4ZVBCNnpHNGkxUGJweTVGWTU0N1NzWkZyazFB?oc=5",
-   "source": "seMissourian",
-   "published": "2026-08-23T19:39:36+00:00",
-   "count": 2,
-   "sources": [
-    "WDRB",
-    "seMissourian"
-   ],
-   "score": 1.96
-  },
-  {
-   "title": "Humanoid robot takes on Chinese tennis star in world's 1st human-robot match",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQc0k2X1pCQmxIRl9uVVl4eW5abWVJVUF4VnlydldyMXZ4N1NsMUNGM1FWdGtWUjhWcmw3OUwyQjg5bTZRT3NXUmlQcU5FeUJKSlg0NzJrYlB2ZVFWM1JvcDRBdGVZbEUwUlJVN2NJLWNmT25GejFHVm1PQk5tN0VhNkwzOFN5bGZfcVhfNm0zSWl6MXJSUTNkZ1F3NEJveUkyak8wbTN6LTVzQzBaM2RqWWN6N1JqRVBYZElMbXpR?oc=5",
-   "source": "Anadolu Ajansı",
-   "published": "2026-08-23T15:50:31+00:00",
-   "count": 2,
-   "sources": [
-    "Anadolu Ajansı",
-    "Global Times"
-   ],
-   "score": 1.85
+   "score": 2.95
   }
  ],
  "hot_news": [
   {
-   "title": "Chinese humanoid robot beats Usain Bolt’s 100m record",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUEhMTHBxcUZLT1FSR0t2REZEakcybDBuSlVUOERaYWFKNDgxRUo1V2RhaThQX2FxUlo5eEljM001UGh0Ql8wd0piYnJBQlJ4SHE3QWljY0NMV3lqQjRjMjZ4dzYzNzlMeWhPUWxIOXh4NU9Fdm4xdUdETzRfWTcydl82WnI3V3I0eUQ1T0hlTWhYTGhZYkEtUWxwTDRNdGtZb0k3dTdB?oc=5",
-   "source": "The American Bazaar",
-   "published": "2026-08-23T19:35:40+00:00",
-   "count": 22,
+   "title": "Watch: Humanoid robot breaks Usain Bolt’s 100m dash record at 9.39 seconds",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLVFXWk84azBUVktycFV5LWVvYXhESDAtaXhQZkg2T2ZqbkczV3JId3ZXaWRtUUplRG5USUM4c1Q1Nk43elgtZUplNW9kMlFuM0NfZ1ZGc2NNcC1jWEhIOXJNV2dFQUprbm1WWUNZSVdiQk5DWWdPYURPSEVzdzkwNG5qN3hUcHNyQmlndm9uSkR3UQ?oc=5",
+   "source": "WCVB",
+   "published": "2026-08-24T14:58:00+00:00",
+   "count": 24,
    "sources": [
+    "2oceansvibe News",
     "AP News",
     "Al Jazeera",
-    "AnewZ",
-    "Bleacher Report",
     "Bloomberg.com",
-    "CBS News"
+    "CBS News",
+    "El Mundo America"
    ],
-   "score": 21.49
+   "score": 21.95
   },
   {
-   "title": "China showcases robots at Beijing games",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnZHVvM0NacXAzNXlsSUhuYkpwYzJ2QnFVVlVORVhDU0dHUXpyU3g4NDV6bEk1ZGdoeDVvSzFjaTAyU0x1NjNkRTh1RmZDY1VhTG1Ja1dVZ0IwellhUnY5UzhRUHZkTEZOTU80OVpDU3JoXzZRSEFqag?oc=5",
-   "source": "Taipei Times",
-   "published": "2026-08-23T16:00:00+00:00",
+   "title": "Photos: World Humanoid Robot Games",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbkhCcUxJa1pvbmxmU2x2T2xvSW9aOUpqcXNTMlh6SGtjbDZBU2NnWXRpNjh5TXpXZGdLR25qMl9FaVAyRWpiZFItbGl6WFdvVnRYVU5wR29lb1M0cEhoYWtBSHYyejZlS05XYmhvVVFSam1sYmFqNjYteC1TWEtJTU5pR0lBLU92TzNn?oc=5",
+   "source": "Boston 25 News",
+   "published": "2026-08-24T17:50:49+00:00",
+   "count": 12,
+   "sources": [
+    "ABC News - Breaking News, Latest News and Videos",
+    "Boston 25 News",
+    "DW.com",
+    "Daily Gate City",
+    "Taipei Times",
+    "The Lufkin Daily News"
+   ],
+   "score": 11.42
+  },
+  {
+   "title": "Humanoid robot beats Usain Bolt's 100m world record",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTDNBRGt2eDFTTnQxeEFqUUVhbGh0NkFIRk1fOTliZE9mVnlEX3JLVEpxaHhlcVo4X3JzbFJBcDc2VEx5S3VmTHF6c0VLRWlvcFoxRmlycW5SLVdXZDE3NHBjamJhdG9PY1NPUmZOdjEyTDZqSmtVNlVoLV9LSlpNaFdRdmlVeUlhc1FUV2ZGNU5sOUNiUDRKc29n?oc=5",
+   "source": "France 24",
+   "published": "2026-08-24T10:51:17+00:00",
    "count": 9,
+   "sources": [
+    "AnewZ",
+    "Engadget",
+    "France 24",
+    "Interesting Engineering",
+    "Kurdistan24",
+    "Modern Ghana"
+   ],
+   "score": 7.77
+  },
+  {
+   "title": "中国の人型ロボットは9.39秒を記録し、ウサイン・ボルトの記録を破る",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE92TmdYYzl1SFVDNmJCeFZUbkNZcmh6ODVyWW1SYllWYW1CTkVjRmtJLVVsdVBKTEliRW1qYUZFNmd3akswcWxjYVpB0gFCQVVfeXFMTWhsSHYwVVRMX1J6NDNNYWNOMVkwd3lLdWVwUWhHdmNnaVp0NExSLXVXOFBSQ0ZLUWpwN0ZkRkQxNlRR?oc=5",
+   "source": "VOI.ID",
+   "published": "2026-08-24T17:13:16+00:00",
+   "count": 6,
+   "sources": [
+    "Moomoo",
+    "VOI.ID",
+    "Vietnam.vn"
+   ],
+   "score": 5.66
+  },
+  {
+   "title": "Day 3 of World Humanoid Robot Games highlights speed, agility, stability",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlSHRGT29KRXVzLXc2YVBoRHNoTmJ0ZkVFU2laQXpPRW9PQko2enFJRURIQkVycjNiMWN2ZVk5X3lPWnZqV0tGaFBoU2p3eGpWcnlIN20ySWFUTEVvR2VNeEJB?oc=5",
+   "source": "Global Times",
+   "published": "2026-08-24T14:51:00+00:00",
+   "count": 6,
    "sources": [
     "Anadolu Ajansı",
     "China Daily",
-    "Daily Gate City",
     "Global Times",
-    "People's Daily Online",
-    "Taipei Times"
+    "news.cgtn.com"
    ],
-   "score": 8.36
+   "score": 5.48
   },
   {
-   "title": "Humanoid robots sprint, play soccer and set records at Beiji...",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWmVMUHo2dXZCTXNrc0hvN1BfX3lOclN3b3VSWUU0Y3lZT3NxaDhnWHlMd3pqNXhGZXhEQkh1WGo3MGZBNmUwNF9XZlRha0wxMTJNbDBhZmVxaVotOGptdmlGM3E3QmpEaHZwZTFiTllJN0JFSXhkTUJVR2FDNDU2Yk5RM2tGRWpfa05KRldFS3d5MlZaTWpmUVdvd281MmdUVkU4ZVBCNnpHNGkxUGJweTVGWTU0N1NzWkZyazFB?oc=5",
-   "source": "seMissourian",
-   "published": "2026-08-23T19:39:36+00:00",
-   "count": 5,
+   "title": "Humanoid Robot Claims Faster 100-Meter Time Than Usain Bolt at Beijing Games",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbUZHU2lhTkVsWlhvTW9KTEFYeHA2WE1GVi1UOWFJbVUyV2RRNmFxRUdzSUFPZHFocFRvd0xMZkg2Ykw4V3U4N1prMVdFV1kzMHZtZldia056ZWpHd3NaQmNUMlpiMXppdDZUdTFnMHduZnAzbE1tXy01NGl4TzkyMDliVjNOTnZKRlBqQ0ZsNW1pWjQza3dLTFdsMzJqWWVfaUZDOGRrRFRWTllBYi1QZkUxa3B5U3dXa2JJd3J2UU1oT3ZTcFBmVGZUbWw3TTgxWU04?oc=5",
+   "source": "NBC Palm Springs",
+   "published": "2026-08-24T03:18:53+00:00",
+   "count": 6,
    "sources": [
-    "AP News",
-    "Michael West Media",
-    "The Tribune-Democrat",
-    "WDRB",
-    "seMissourian"
-   ],
-   "score": 4.89
-  },
-  {
-   "title": "Robot beats Usain Bolt record, then hits a wall",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQncweUJuTm8yVzN4clRsdTl5U29CRDR3OE5HOW5kTTloS1ZMRGNackxHRWwxUFA2WEszVE5WdFgtSjk0SEJ0TUR4TllvYkI2YWk3RlZvOXgxUlNtdEpoWW5TUmo2aGx0U280ODd6VmR4aUtYcGQ0YTAzNk9CTXdnTjQtRmhVdXRMSXpLRC1NTEoyMVRRQXY3eFhR?oc=5",
-   "source": "CNN",
-   "published": "2026-08-23T11:20:00+00:00",
-   "count": 5,
-   "sources": [
-    "CNN",
-    "Modern Ghana",
-    "The Guardian",
+    "ABC News & Headlines – Australian Broadcasting Corporation",
+    "NBC News",
+    "NBC Palm Springs",
+    "New York Post",
     "The Lufkin Daily News",
-    "WION"
+    "The Telegraph"
    ],
-   "score": 4.35
+   "score": 4.67
   },
   {
-   "title": "Chinese humanoid robot beats Bolt's 100-metre world record time",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc1Vub0dGekhVd3NmaVp1djJCYU5TeGFxZlFsQVlHZFpFQTREMnJsb2xZTmN1bU5tdUxic0Z6VEFuUExJcWhWN2dGYVRCY0ZWZmg0b1kxOEE3RUN1bXpSMG1UTldvaThTbHVTcUE1UFYtRTVMS2M2enJUaTNuMm5pV1M4VVFnel93c09wREc4empETUxWYkxNcU9Ldk5Pa2c?oc=5",
-   "source": "Euronews.com",
-   "published": "2026-08-23T09:59:13+00:00",
+   "title": "NSKとアトム、国産ヒューマノイドAIロボットの開発・実装でMOUを締結",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rTnhMOUNBWkFlS3Ftc0ZfSk9adFFkbWJGYk8xanBRTDBiaExqeFE0QndqRDc1bnJBM0ptUmNMLUg3cW5DWmdnQjNpb2FPRXpEWTZmQVpNUXhKWWd0T0F3ckZnVQ?oc=5",
+   "source": "株式会社インプレス",
+   "published": "2026-08-24T08:00:00+00:00",
    "count": 5,
    "sources": [
-    "BBC",
-    "Euronews.com",
-    "The Telegraph",
-    "Yahoo News UK",
-    "chinadailyasia.com"
+    "PR TIMES",
+    "au Webポータル",
+    "ニュースメディアVOIX",
+    "ロボスタ",
+    "株式会社インプレス"
    ],
-   "score": 4.27
+   "score": 4.15
+  },
+  {
+   "title": "Robots top human records at China’s humanoid games",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhT05Ia0ZiT1hVMVlMci04UFhkWEVoQlE4UmZJcU50NG55Uk1Sa0ZOQVVjR1U2Z3Rjc3ZSV2Z5WFhpeGFTY29la1YyZHRNUW1UaTFpd0JZZ21GRndyeXJ0bg?oc=5",
+   "source": "The Week",
+   "published": "2026-08-24T17:43:26+00:00",
+   "count": 4,
+   "sources": [
+    "Bloomberg.com",
+    "South China Morning Post",
+    "The Week"
+   ],
+   "score": 3.8
   },
   {
    "title": "Moments from opening ceremony of World Humanoid Robot Games in Beijing",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdVRaeEJuWkNlT3QtdzVNUVZSeGNDZHYyTVZwcGhKbW5DR2xxc3E3RnViUmk2U09EcXpjaEt4aVR1VjJFSkRfSU92YUczUHdRUDFRS3hjX0pnQzRzUjR1d3Z0V1EyQzNiUVNPTnBtejBhUE5uQVpjYVVEbkJ0N3RubXFmM2h2QXlKVmVsTG12MC1xZ05BeXdKYkZmb2ZPZ0s2dDRlamlSU25YQQ?oc=5",
    "source": "Sky News",
    "published": "2026-08-23T09:32:30+00:00",
-   "count": 5,
+   "count": 6,
    "sources": [
+    "People's Daily Online",
     "Sky News",
     "Startup Fortune",
     "Xinhua",
     "Yeni Safak English",
     "news.cgtn.com"
    ],
-   "score": 4.25
+   "score": 3.65
   },
   {
-   "title": "Chinese Humanoid Robot Breaks Usain Bolt’s 100m World Record",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR2dLaVVMYTF1Q255cFBfVTVBajN0YjZEb0Q3UUtsRUNtQU9ucGxXM2pZWkdsNThwMGNpSy1rYmYzSm5JQWNnXzZqVllhVDZVS0pncFN0d09JWkFNNGNmaHJ2TnkwTjRuS3UtY2ZIZy1pVWRIZ0lxV3FtR2RjU1BLTjJUWS1MTnlRV3l1eEtEamJtdV9oREpEdl9vc09LYzN0cHhOdk1JV0YteEJHRm1UYg?oc=5",
-   "source": "صوت الإمارات",
-   "published": "2026-08-23T17:15:16+00:00",
+   "title": "Neura Acquires Adlatus Robotics to Expand its Physical AI to Professional Cleaning",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNDc3VWFESXZnVXFTZlg0UjBwWUlDOUg0YlV0b01kVGgxcVh3Qnh4c1NaZUhsOHBQVFhYN3VTYVFJRVBFV0VoUi04dS1QdXgxYVpQSEVBSVdhRzR4VEVDVlhQMG1yQnpnanBLMDlZZDBPMXl0ak8xQUZFRFJ1bDVyNF9RdDcySUdPRFRudDViQjhWd0wyX2hRZkp5YmdHWTlqZ19aU3oxRXRFYk9aRWI1YjdhcTRHMzR2ZjdoWA?oc=5",
+   "source": "AI Insider",
+   "published": "2026-08-24T12:49:21+00:00",
    "count": 4,
    "sources": [
-    "ABC News & Headlines – Australian Broadcasting Corporation",
-    "Bleacher Report",
-    "Daily Sabah",
-    "صوت الإمارات"
+    "AI Insider",
+    "Robotics & Automation News",
+    "Tech.eu",
+    "Yahoo! Finance Canada"
    ],
-   "score": 3.78
-  },
-  {
-   "title": "Unitree CEO: Humanoid Robot 'ChatGPT Moment' May Take 10 Years",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUzB6NEpMRmlVdGQxRVgzbkt3TjFJdE42Z1lhUC1LY1NtNTFUN2RtQnZKRDBiVFdTRzBEQ1E5SThqRDhxYlE1MnNQYmpUMmQ2UFMtSTVSU0pGaC05WlJOWjBYQXduenpjTzEyN1RTRDFJd3U4WTNmbzNzVk9WQW1fSENUUUdPNnVE?oc=5",
-   "source": "조선일보",
-   "published": "2026-08-23T15:35:40+00:00",
-   "count": 4,
-   "sources": [
-    "Business Standard",
-    "Fortune",
-    "calcalistech.com",
-    "조선일보"
-   ],
-   "score": 3.7
-  },
-  {
-   "title": "Video World Humanoid Robot Games open in Beijing - ABC News",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TRGRuSWVFNHV0OUlFbVFkak9FOTVia3E0YTU5UFNtM0NWNzkxZFpIZlJwOHBubE95MkxFdFdLd2JjaUVkRVVCNVdGaVk?oc=5",
-   "source": "ABC News - Breaking News, Latest News and Videos",
-   "published": "2026-08-23T15:06:16+00:00",
-   "count": 4,
-   "sources": [
-    "ABC News - Breaking News, Latest News and Videos",
-    "China Daily",
-    "finance.biggo.com",
-    "livetube.tv"
-   ],
-   "score": 3.67
-  },
-  {
-   "title": "2026 World Humanoid Robot Games opens with 666 teams, 2,056 droids",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSFlCaFFzU09SOHpWemJTNDA3aTgzbzNQT0RFbkQxTmJRV1lSdEN0X1lhSmZUdllOT0pPWXJQRWJxai05TWx3Y1VBQkFkSVF3YnlWUGJkdTNRNVFNc0czV2kwVzlKSEVFOHBWMU9nOUlUWHZ1dUNUWmR1T25CS2h3b0FvMzdjWWhJcHhITXFjelltUjVKZE9TajFmQWtDc1BzZTZsNjBzSklCSUJKZnBnaWEwdnZWajg?oc=5",
-   "source": "bastillepost.com",
-   "published": "2026-08-22T13:07:00+00:00",
-   "count": 5,
-   "sources": [
-    "Global Times",
-    "Xinhua",
-    "Yahoo News Australia",
-    "bastillepost.com",
-    "news.cgtn.com"
-   ],
-   "score": 3.2
+   "score": 3.55
   }
  ],
  "trend": {
   "dates": [
-   "2026-07-25",
    "2026-07-26",
    "2026-07-27",
    "2026-07-28",
@@ -500,14 +505,14 @@
    "2026-08-20",
    "2026-08-21",
    "2026-08-22",
-   "2026-08-23"
+   "2026-08-23",
+   "2026-08-24"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     16,
      15,
      53,
      17,
@@ -536,14 +541,14 @@
      38,
      20,
      10,
-     2
+     3,
+     41
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     8,
      21,
      39,
      28,
@@ -567,19 +572,19 @@
      5,
      10,
      22,
-     35,
+     36,
      30,
      38,
      17,
      3,
-     6
+     7,
+     27
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     0,
      2,
      6,
      4,
@@ -606,16 +611,16 @@
      0,
      18,
      6,
-     13,
-     0,
-     1
+     14,
+     1,
+     2,
+     15
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     11,
      17,
      26,
      43,
@@ -643,15 +648,15 @@
      72,
      53,
      51,
-     46,
-     52
+     47,
+     55,
+     49
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     4,
      14,
      6,
      14,
@@ -677,10 +682,11 @@
      28,
      27,
      26,
-     29,
+     30,
      20,
-     12,
-     17
+     13,
+     21,
+     25
     ]
    }
   ]
@@ -696,7 +702,7 @@
    "name": "BOSCH GMBH ROBERT",
    "core": "BOSCH GMBH ROBERT",
    "patents": 533,
-   "news": 3
+   "news": 4
   },
   {
    "name": "GOOGLE LLC",
@@ -714,7 +720,7 @@
    "name": "SAMSUNG ELECTRONICS CO LTD",
    "core": "SAMSUNG ELECTRONICS",
    "patents": 260,
-   "news": 12
+   "news": 11
   },
   {
    "name": "X DEV LLC",
@@ -726,7 +732,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 97
+   "news": 92
   },
   {
    "name": "QUALCOMM INC",
