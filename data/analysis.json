@@ -1,124 +1,104 @@
 {
- "updated_at": "2026-08-25T21:23:54.863736+00:00",
+ "updated_at": "2026-08-27T00:24:55.052355+00:00",
  "kpi": {
-  "articles_7d": 931,
-  "articles_prev_7d": 625,
-  "sources_7d": 413,
-  "articles_30d": 3020,
-  "total_articles": 5533,
+  "articles_7d": 899,
+  "articles_prev_7d": 727,
+  "sources_7d": 405,
+  "articles_30d": 3044,
+  "total_articles": 5699,
   "oldest_news": "2021-03-15"
  },
  "wordcloud": [
   [
    "world",
-   138
+   136
   ],
   [
    "games",
-   121
+   133
   ],
   [
    "china",
-   101
+   91
   ],
   [
    "record",
-   68
-  ],
-  [
-   "unitree",
-   67
-  ],
-  [
-   "中国",
-   66
+   74
   ],
   [
    "beijing",
-   66
-  ],
-  [
-   "chinese",
-   63
+   69
   ],
   [
    "bolt",
-   62
+   66
   ],
   [
    "usain",
-   59
+   62
+  ],
+  [
+   "中国",
+   60
+  ],
+  [
+   "chinese",
+   50
   ],
   [
    "世界",
-   37
+   36
   ],
   [
-   "開発",
-   28
+   "unitree",
+   27
   ],
   [
    "beats",
    27
   ],
   [
-   "市場",
+   "開発",
    26
   ],
   [
-   "debut",
-   25
+   "nvidia",
+   24
+  ],
+  [
+   "meter",
+   24
   ],
   [
    "北京",
    23
   ],
   [
-   "raises",
+   "データ",
    22
-  ],
-  [
-   "ipo",
-   22
-  ],
-  [
-   "写真",
-   22
-  ],
-  [
-   "market",
-   21
-  ],
-  [
-   "国産",
-   21
   ],
   [
    "画像",
    21
   ],
   [
-   "maker",
+   "開催",
    21
   ],
   [
-   "nvidia",
-   20
+   "sprint",
+   21
   ],
   [
    "chatgpt",
    20
   ],
   [
-   "startup",
-   19
+   "写真",
+   20
   ],
   [
-   "産業",
-   19
-  ],
-  [
-   "conference",
+   "raises",
    19
   ],
   [
@@ -126,23 +106,27 @@
    19
   ],
   [
-   "開催",
-   18
-  ],
-  [
-   "wrc",
-   18
-  ],
-  [
-   "技術",
-   17
-  ],
-  [
    "ceo",
+   18
+  ],
+  [
+   "startup",
+   18
+  ],
+  [
+   "市場",
+   18
+  ],
+  [
+   "国産",
+   18
+  ],
+  [
+   "産業",
    17
   ],
   [
-   "sprint",
+   "実装",
    17
   ],
   [
@@ -150,7 +134,7 @@
    17
   ],
   [
-   "meter",
+   "披露",
    17
   ],
   [
@@ -162,11 +146,7 @@
    16
   ],
   [
-   "Unitree",
-   16
-  ],
-  [
-   "shanghai",
+   "国内",
    16
   ],
   [
@@ -174,23 +154,47 @@
    16
   ],
   [
+   "records",
+   16
+  ],
+  [
+   "funding",
+   15
+  ],
+  [
+   "現場",
+   15
+  ],
+  [
+   "実証",
+   15
+  ],
+  [
    "watch",
    15
   ],
   [
-   "披露",
-   15
-  ],
-  [
-   "million",
+   "seconds",
    14
   ],
   [
-   "training",
+   "wrc",
    14
   ],
   [
-   "事業",
+   "edge",
+   14
+  ],
+  [
+   "技術",
+   14
+  ],
+  [
+   "活用",
+   14
+  ],
+  [
+   "conference",
    14
   ],
   [
@@ -198,192 +202,233 @@
    14
   ],
   [
-   "race",
+   "稼働",
    14
-  ],
-  [
-   "実証",
-   14
-  ],
-  [
-   "stock",
-   13
-  ],
-  [
-   "future",
-   13
-  ],
-  [
-   "活用",
-   13
-  ],
-  [
-   "日本",
-   13
-  ],
-  [
-   "unveils",
-   13
-  ],
-  [
-   "国内",
-   13
-  ],
-  [
-   "seconds",
-   13
-  ],
-  [
-   "edge",
-   13
-  ],
-  [
-   "records",
-   13
-  ],
-  [
-   "funding",
-   12
   ],
   [
    "model",
+   13
+  ],
+  [
+   "戦略",
+   13
+  ],
+  [
+   "事業",
+   13
+  ],
+  [
+   "open",
+   13
+  ],
+  [
+   "infrastructure",
+   12
+  ],
+  [
+   "日本",
+   12
+  ],
+  [
+   "共同",
+   12
+  ],
+  [
+   "日立",
+   12
+  ],
+  [
+   "アトム",
+   12
+  ],
+  [
+   "企業",
+   12
+  ],
+  [
+   "race",
    12
   ]
  ],
  "today_top5": [
   {
-   "title": "The Best Robot Fails From the 2026 World Humanoid Robot Games",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mUE53Uk5Xa1ZxTnRoWXBZbTBQR2Z6LU5Mby1QQ0Nhdm9lejdXMTJrMFJCYTdWN2ZuT2FLc2J5U2Yyd1JSd3FLV0cySFFiOE9TTDM1ZmVHcHF1ajctLXVxZUhWS1RzUmZkdndDZTBabFlGNkotbnoxSnVsbw?oc=5",
-   "source": "AOL.com",
-   "published": "2026-08-25T19:40:14+00:00",
-   "count": 5,
+   "title": "ヒューマノイド35台が稼働 J-HRTIがフィジカルAIのデータ収集拠点を千葉県習志野市に開設",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IQ2xKa1hxYlVNa0VxRGNsZVFZWm5fNlFBYk5XNmotTThuRWhoeHptb1FiLTFSNDQ1MjdDZXdhMTk1eVBnT2FSTVpuRnhCeUE4amp3?oc=5",
+   "source": "ビジネスネットワーク",
+   "published": "2026-08-26T22:56:32+00:00",
+   "count": 4,
    "sources": [
-    "AOL.com",
-    "Adafruit",
-    "Newsday",
-    "South China Morning Post",
-    "Xinhua"
+    "ビジネスネットワーク",
+    "共同通信PRワイヤー",
+    "株式会社インプレス",
+    "物流ニュースのLNEWS"
    ],
-   "score": 4.88
+   "score": 3.92
   },
   {
-   "title": "NEC fund invests in California robot startup Dexmate, maker of VEGA",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcVc1WmpxdFFlRVZ3YUNlZFVPQkxHRjIydlBxWFljMFdkLURDWUVSZzNmVjVvNkdxeFBfOFRmNjVhaU9rTTNoaEpSRUpibWN3dTdNWnY1R2ExSkhZV3pLWE42dl9TZk9abGI3RkNSRnR4bmJOVXlvckYyMmUzbVFtSC1MNTJQSlVncUhHZ0tibHNxRXZR?oc=5",
-   "source": "International Business Times",
-   "published": "2026-08-25T16:03:55+00:00",
-   "count": 5,
-   "sources": [
-    "International Business Times",
-    "Quantum Zeitgeist",
-    "Robotics & Automation News",
-    "Telecompaper",
-    "eWeek"
-   ],
-   "score": 4.64
-  },
-  {
-   "title": "NVIDIA targets entry-level physical AI with Jetson Orin Nano 2, doubling inference performance while cutting power consumption by 40%",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOS0FPR3k4VElrU1k4WEhJYnplb0EtMFY4Nl9KQ3NBNUhfRm9EcVhJeXltRk9BOXRxUGlXSmtaOWxoOExiNDdSbWt1Y1lwSFNTQm9Sd1VUOWd5X3ZicFI2bGcxUzZWT0tGWW9qdHF1Z2tkbFdtOGRsandCXzlfb1BkY1hXTHYwcXJ0NHIzcXNXZjFkNTgwTFZwZDQtaGhPM21hUmNVbg?oc=5",
-   "source": "Moomoo",
-   "published": "2026-08-25T18:00:54+00:00",
+   "title": "Robots prove their mettle at China's World Humanoid Robot Games",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNmpPM2R6d2VUaEtlUVd1VUs1ZmN4REFNWWtWZmFkSWh3VkZSUDVRR1ZVYXZYR1loUUtMaDBNbS1OaWJGU2x3Z1VsLVdFclo5SUhwWTZwXzZzeWZJeWdCUmlReXNjTThvZFhCMUZDWDc2b2syM0xtTVd2V0RFUGp5d0hFVzR2SGR3TV9zcG5pRS1BTFc0dTZncERZZkl1Q2U2c28yS05zOGMyVG83czJsWl9xSE85TU5TczZObzRxT0tqZ3ZTaDlEUzJXeUtqbGlKcW5BYTZKZW9sc2hrVE9jZ0x3b0hKcldzVlBTclMzdXVHREZKZ2c?oc=5",
+   "source": "Central Oregon Daily",
+   "published": "2026-08-26T22:56:12+00:00",
    "count": 3,
    "sources": [
-    "Moomoo",
-    "Unite.AI",
-    "Wccftech"
+    "Central Oregon Daily",
+    "Fox News",
+    "The Lufkin Daily News"
    ],
-   "score": 2.86
+   "score": 2.94
   },
   {
-   "title": "シリコンスタとジーデップが戦略的協業開始、フィジカルＡＩ分野でワンパッケージ提供",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1xSnNrVXpJVFdVX1JQdzJ1bzJwVFZsdEFJRHIwRTdZRnB4TTZkNG91d1hpNlhfUmRNZS1LeXJPaFBnelI3MWJ4WFFPRE0xWDFaSWc?oc=5",
-   "source": "株探",
-   "published": "2026-08-25T08:06:00+00:00",
+   "title": "World Humanoid Robot Games In Beijing Break Records",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVk1ELXJVR000RFpMSGNEdGxBWEN5RGxyendDd2toVUdtbjV5bFAyenZkUG84ZHBDbElxdC0weWljbDBOR2M5b1hSMzh6SGx3OGxyXzNZRmdPVDBFbjFiVlVGSkR4bkNlNzRKZTlxMFlxYlRSenhCTUVmblhLSjBjQnJJb3hOMWVrUTFWOFZ1azVfX3dTNFhxcTZRRQ?oc=5",
+   "source": "KLVI AM 560",
+   "published": "2026-08-26T21:25:00+00:00",
    "count": 3,
    "sources": [
-    "gamebiz【ゲームビズ】",
-    "ニュースメディアVOIX",
-    "株探"
+    "Global Times",
+    "KLVI AM 560",
+    "WHAS11"
    ],
-   "score": 2.49
+   "score": 2.88
   },
   {
-   "title": "Aptiv PLC Supports NVIDIA Corporation Jetson Orin Nano 2 with Production-Ready Physical AI Solutions",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQa1E3NkNPSThNRl9WTE0zT25lX0dXV3RqWlJ0ekRwTm5kdDZyNGhiZHZ4MG1Nd2ZTaHhQYU4yY3FvUFd0OUZTWF9nUVQ1WXVUcURYWFljc2oydURlZWhiMjBJS25sdnBXOUdzbTFMcElzQnhLeVZqQUpiYWIzem9TTzFtWC04VEgxaU1oeWZONFFKdmV3Q2JYNkVjNTRqLW5KTVRuZWpfYVlLUDJFMTFCWEJvSDFmZGRxdEh5Ni10Y0g5cl8zaml4c3FLV0thZjljYnlIalRIYkhQNVZRb0JKa00xeTJ4bWJT?oc=5",
-   "source": "marketscreener.com",
-   "published": "2026-08-25T16:35:43+00:00",
+   "title": "Transfyr Launches With $25 Million Seed Round to Build Physical AI for Science",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT3ZIQVVvSTlZdzBoUGo3ajdUNUhSZzhwbXhvQ1g3bDJvOTM0eFJTckxTajF4dGJJZlZwSW9PN1FGQlNXYTZBNzBISEdFWUpsVXdIWUtjMVgweThSTVNJQVhsTDZwUm5oMFRMZDQxb2FtNC0tUjNTSFF1SHFaRXNlNlNleFJWOXdxMVBEdzBoSU5QUUhOYk9iajVlaVUyelduOFJ0OVJQbEhQUWwyd213eVNXTThrWHc?oc=5",
+   "source": "citybiz",
+   "published": "2026-08-26T18:57:58+00:00",
+   "count": 3,
+   "sources": [
+    "01net",
+    "TradingView",
+    "citybiz"
+   ],
+   "score": 2.78
+  },
+  {
+   "title": "AWS and NVIDIA to Deliver 2 Million Additional GPUs and Next-Generation Infrastructure for Agentic and Physical AI",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZUNocGNzT2FJb01QNmVWTHpoSXkxUUNVdlRDTVZET3hZZVBDN0JGTVBTUFF5aEdERTJOcU9LeV9VMW12ZlZSck5uQ194MjFmYVlMWGt1SzdVODFjY2hkV2RFamlFdzVaWkNYNUdnbXcxbF9rTGJwY005LTlwN1BtUDdTWDVaMk1kejdPRzJKaVRTUVB4X3FWVnVlNnNPcUxUZGNHSzNTV0liVVJaNTMwdEdYcENaOFVtZVc5TXFIY0xsUlZJZUg2bkJKVnJ2OUhqSVg3bDZrQTd3eWdTVmNvMlJkcw?oc=5",
+   "source": "NVIDIA Newsroom",
+   "published": "2026-08-26T23:31:32+00:00",
    "count": 2,
    "sources": [
-    "Yahoo Finance Singapore",
-    "marketscreener.com"
+    "NVIDIA Newsroom",
+    "Stock Titan"
    ],
-   "score": 1.87
+   "score": 1.98
   }
  ],
  "hot_news": [
   {
-   "title": "Humanoid Robot Breaks Usain Bolt’s 100-Meter Record",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAybWQ2MVZYS29ET1V3MVNGRlV5cFpPdVdZRi1meEJwaThTc0FtOTU4UlMxaFowQzN2Ymw5X0xVN0xzR2trRVZxaVAzcGdjQVdGbXIzeUdkSnRvX01rWEpsMG5vQ1BVa3hzVDhKWnRFdXluZ0ozcGx5azNJXzNJcjA?oc=5",
-   "source": "ColombiaOne.com",
-   "published": "2026-08-25T19:55:00+00:00",
-   "count": 25,
+   "title": "Robot runs faster than human holding 100-meter sprint record",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNWJfdzhYa054eUZOZ2hWY3RFdU1jM1QxTVY4TV9NTXJHLWxIRmF0VlZrVWx2RklXa3NQelplX2lkY05QZU4tel9ObGV6ZHJ5cjNOWUFuVzlNS1VBNjlHOWt0Mm9uQVpYUWpiRkJsSlBKZk41NlR1cmRJd2t6MzJOVTh3UnI5MUhiQTZNUVJsZ01jZHl6XzhwUXRR?oc=5",
+   "source": "wng.org",
+   "published": "2026-08-26T18:43:00+00:00",
+   "count": 14,
    "sources": [
-    "2oceansvibe News",
     "AP News",
-    "Al Jazeera",
-    "Bloomberg.com",
+    "Bleacher Report",
     "CBS News",
-    "ColombiaOne.com"
+    "Fox News",
+    "Oskaloosa Herald",
+    "Reuters"
    ],
-   "score": 24.49
+   "score": 12.93
   },
   {
-   "title": "China Humanoid Robot Games - Springfield News-Sun",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVzFfYTViM3k1VWhSZ0pVc0JMUFZTRlByckZEaC1obVZ1Wk5KQXJaM2E2TTdmNDNrMFl1WUJwRXBkSW1pdlVMOGdvS2dIQy1BOU5PeGtKLTN3SW5GOXctd0xYQ01yOHlZaGtaclBJVklhLVRIaXRmV2syUC1Nd2lHalZyaVUxc2xRUmhjSW1nU0xGaGsxS01vTzh0a3NRV0pJT1FRTjRrTUVkY0tHUkZ2bFNldktGR1VRNEpqUDZGZw?oc=5",
-   "source": "Springfield News-Sun",
-   "published": "2026-08-25T13:24:03+00:00",
+   "title": "Humanoid robot outruns Usain Bolt as China races ahead",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0VLTUZveklxcFJOR2RQdExVeXlBR0k0ajVoSzNSZ1RNR19qa1V0dlNXTXBpUUJzTWZVWG5jdjdCTVBDR1FDWHlDZndNRnRMMXdyZ00zeERoSTk0M3o4aXpWU1VuZFFCVlZoU0g4bGx2Zm03eXpEX1ZZbTVJQnlNc3RKMDV6WHQxY2hqVA?oc=5",
+   "source": "Kurt the CyberGuy",
+   "published": "2026-08-26T14:00:00+00:00",
    "count": 11,
    "sources": [
-    "ABC News - Breaking News, Latest News and Videos",
-    "DW.com",
-    "Daily Gate City",
-    "Springfield News-Sun",
-    "The Lufkin Daily News",
-    "finance.biggo.com"
+    "Bleacher Report",
+    "France 24",
+    "Kurt the CyberGuy",
+    "Reuters",
+    "The Detroit News",
+    "The Guardian"
    ],
-   "score": 9.84
+   "score": 9.52
   },
   {
-   "title": "The Best Robot Fails From the 2026 World Humanoid Robot Games",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mUE53Uk5Xa1ZxTnRoWXBZbTBQR2Z6LU5Mby1QQ0Nhdm9lejdXMTJrMFJCYTdWN2ZuT2FLc2J5U2Yyd1JSd3FLV0cySFFiOE9TTDM1ZmVHcHF1ajctLXVxZUhWS1RzUmZkdndDZTBabFlGNkotbnoxSnVsbw?oc=5",
-   "source": "AOL.com",
-   "published": "2026-08-25T19:40:14+00:00",
+   "title": "Robot at the World Humanoid Robot Games break Usain Bolt's 100m speed record twice",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONlZBWUlob2hTZDVZR3JPRHY4ajBqN3lsMFllQ2NTNDFFanhKclR4bU5rQTVhMXhGU1AxT18wRnY1bU9NRGV3ZE1DLTNacFJGc05IRkkyWkEzUXdFajhZekVWV3ltSW9zUzBOM1ItSnhpNk9wWmdrdHpESkEta2dWaWgxTDk1cGY4ZXR0bVN5dEtkZE82b2JSTjdNaDh0ZldWSExNUDEyc3RMaDZ2bnBVSlhzbmpwd1ZQ?oc=5",
+   "source": "Gamereactor UK",
+   "published": "2026-08-26T11:58:53+00:00",
+   "count": 11,
+   "sources": [
+    "ABC News & Headlines – Australian Broadcasting Corporation",
+    "Al Jazeera",
+    "Bloomberg.com",
+    "ColombiaOne.com",
+    "Fox News",
+    "France 24"
+   ],
+   "score": 9.26
+  },
+  {
+   "title": "Robots prove their mettle at China's World Humanoid Robot Games",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNmpPM2R6d2VUaEtlUVd1VUs1ZmN4REFNWWtWZmFkSWh3VkZSUDVRR1ZVYXZYR1loUUtMaDBNbS1OaWJGU2x3Z1VsLVdFclo5SUhwWTZwXzZzeWZJeWdCUmlReXNjTThvZFhCMUZDWDc2b2syM0xtTVd2V0RFUGp5d0hFVzR2SGR3TV9zcG5pRS1BTFc0dTZncERZZkl1Q2U2c28yS05zOGMyVG83czJsWl9xSE85TU5TczZObzRxT0tqZ3ZTaDlEUzJXeUtqbGlKcW5BYTZKZW9sc2hrVE9jZ0x3b0hKcldzVlBTclMzdXVHREZKZ2c?oc=5",
+   "source": "Central Oregon Daily",
+   "published": "2026-08-26T22:56:12+00:00",
    "count": 9,
    "sources": [
-    "AOL.com",
-    "Adafruit",
-    "Anadolu Ajansı",
-    "China Daily",
-    "Global Times",
-    "Newsday"
+    "Central Oregon Daily",
+    "DW.com",
+    "Daily Gate City",
+    "Fox News",
+    "The Lufkin Daily News",
+    "livetube.tv"
    ],
-   "score": 8.79
+   "score": 8.82
   },
   {
-   "title": "Chinese Humanoid Robots Smash Usain Bolt’s 100-Meter Record",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRzNPWmFSRHFMQ0cwbndvY2F2NG93RUN6QTIxRVdPci0tbEZJYm1ZRldrTGswb0p0QUZ3a3ROZFZud2UwSGxGaWdkWjd1aVFzbGJwUmM5ZWVnTWhRMzJQT19JelZEX0Z5dXhaWDBNUDBoY2llcjJLbVFRUzl6YWhPVU0wQU9Bajc5TC1pMGwwa3hxRC1taDJKMEp1UnNaMVNjTkE?oc=5",
-   "source": "TODAY.com",
-   "published": "2026-08-24T12:34:08+00:00",
-   "count": 12,
+   "title": "Engineers live alongside their machines at World Humanoid Robot Games",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMVWVIT3BvdjE0OWtuM05Dc3pzVFFBUDdOQ0JlUlRuVGxLbkRZSjc4cGpxNnJtRk9DbXlwenk3ZWtmcFpoaWxxOHBUNHJfd1JLWUZZS1JPem1VQU5E?oc=5",
+   "source": "Reuters",
+   "published": "2026-08-26T10:33:44+00:00",
+   "count": 10,
    "sources": [
-    "AnewZ",
-    "Bleacher Report",
-    "Engadget",
-    "France 24",
-    "Kurdistan24",
-    "New York Post"
+    "ABC News - Breaking News, Latest News and Videos",
+    "Anadolu Ajansı",
+    "China Daily",
+    "Reuters",
+    "Startup Fortune",
+    "Xinhua"
    ],
-   "score": 7.61
+   "score": 8.25
+  },
+  {
+   "title": "World Humanoid Robot Games In Beijing Break Records",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVk1ELXJVR000RFpMSGNEdGxBWEN5RGxyendDd2toVUdtbjV5bFAyenZkUG84ZHBDbElxdC0weWljbDBOR2M5b1hSMzh6SGx3OGxyXzNZRmdPVDBFbjFiVlVGSkR4bkNlNzRKZTlxMFlxYlRSenhCTUVmblhLSjBjQnJJb3hOMWVrUTFWOFZ1azVfX3dTNFhxcTZRRQ?oc=5",
+   "source": "KLVI AM 560",
+   "published": "2026-08-26T21:25:00+00:00",
+   "count": 6,
+   "sources": [
+    "Global Times",
+    "KLVI AM 560",
+    "Newsday",
+    "People's Daily Online",
+    "Sky News",
+    "WHAS11"
+   ],
+   "score": 5.76
+  },
+  {
+   "title": "水回りを清掃できるフィジカルAIロボ「Loki」のオフィスビル実証開始、日鉄興和不動産：FM",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rUjlyc2RGU0dNTDJQOEtxdmJiV2gyWm11TDluTUhHcWRlbWlLYTB3OEwxMXJZS2UwVDJwelA3amVxRUJTSE9uYWZPQzJPMG14c293TFhCdlBUUVRpbDRFS0tuLTU3MVBWaXRBZw?oc=5",
+   "source": "ITmedia",
+   "published": "2026-08-26T02:00:00+00:00",
+   "count": 6,
+   "sources": [
+    "ITmedia",
+    "LOGI-BIZ online",
+    "PR TIMES",
+    "au Webポータル",
+    "innovaTopia",
+    "ロボスタ"
+   ],
+   "score": 4.39
   },
   {
    "title": "ロボットはウサイン・ボルトよりも速く走る：なぜまだ祝ってはいけないのか？",
@@ -396,89 +441,40 @@
     "VOI.ID",
     "Vietnam.vn"
    ],
-   "score": 5.87
+   "score": 4.03
   },
   {
-   "title": "フィジカルAI清掃ロボット「Loki」国内初実証 床を掃く機械から便器に触れる機械へ",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pTlpZaFRvdzB6X2pWNU5aRDRvQTBCMEJJRlRLWWhvRG1HV2oyLWNUXzNQWHFnNzM5cU40bWljTVdZd3l1UHJLalMyME5UR2YxaEx5SlJDZjdSZUk?oc=5",
-   "source": "innovaTopia",
-   "published": "2026-08-25T06:35:03+00:00",
-   "count": 6,
+   "title": "ヒューマノイド35台が稼働 J-HRTIがフィジカルAIのデータ収集拠点を千葉県習志野市に開設",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IQ2xKa1hxYlVNa0VxRGNsZVFZWm5fNlFBYk5XNmotTThuRWhoeHptb1FiLTFSNDQ1MjdDZXdhMTk1eVBnT2FSTVpuRnhCeUE4amp3?oc=5",
+   "source": "ビジネスネットワーク",
+   "published": "2026-08-26T22:56:32+00:00",
+   "count": 4,
    "sources": [
+    "ビジネスネットワーク",
+    "共同通信PRワイヤー",
+    "株式会社インプレス",
+    "物流ニュースのLNEWS"
+   ],
+   "score": 3.92
+  },
+  {
+   "title": "アトムと日本精工、国産ヒューマノイドAIロボットで提携",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UVldSSXZYZHBvTEJEUEhPbWVuYWpSR2lGVEN6WUFxMG80eWkwWWJhN3A5VDdiM2p1VHB0NTN6RTJNd2N1T3Fyd1B0aUdvUVQtU0NTLWFEUHFVSGc?oc=5",
+   "source": "Mogura VR",
+   "published": "2026-08-26T04:13:25+00:00",
+   "count": 5,
+   "sources": [
+    "Mogura VR",
     "PR TIMES",
     "au Webポータル",
-    "innovaTopia",
-    "トレーダーズ・ウェブ",
     "ニュースメディアVOIX",
     "ロボスタ"
    ],
-   "score": 4.88
-  },
-  {
-   "title": "NEC fund invests in California robot startup Dexmate, maker of VEGA",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcVc1WmpxdFFlRVZ3YUNlZFVPQkxHRjIydlBxWFljMFdkLURDWUVSZzNmVjVvNkdxeFBfOFRmNjVhaU9rTTNoaEpSRUpibWN3dTdNWnY1R2ExSkhZV3pLWE42dl9TZk9abGI3RkNSRnR4bmJOVXlvckYyMmUzbVFtSC1MNTJQSlVncUhHZ0tibHNxRXZR?oc=5",
-   "source": "International Business Times",
-   "published": "2026-08-25T16:03:55+00:00",
-   "count": 5,
-   "sources": [
-    "International Business Times",
-    "Quantum Zeitgeist",
-    "Robotics & Automation News",
-    "Telecompaper",
-    "eWeek"
-   ],
-   "score": 4.64
-  },
-  {
-   "title": "NSKとアトム、国産ヒューマノイドAIロボットの開発・実装でMOUを締結",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rTnhMOUNBWkFlS3Ftc0ZfSk9adFFkbWJGYk8xanBRTDBiaExqeFE0QndqRDc1bnJBM0ptUmNMLUg3cW5DWmdnQjNpb2FPRXpEWTZmQVpNUXhKWWd0T0F3ckZnVQ?oc=5",
-   "source": "株式会社インプレス",
-   "published": "2026-08-24T08:00:00+00:00",
-   "count": 7,
-   "sources": [
-    "PR TIMES",
-    "au Webポータル",
-    "ゴムタイムス",
-    "ニュースメディアVOIX",
-    "レスポンス（Response.jp）",
-    "ロボスタ"
-   ],
-   "score": 4.16
-  },
-  {
-   "title": "東京衡機－上げ幅拡大 フィジカルAI関連の取り組み開始 28年度の事業化を計画(トレーダーズ・ウェブ)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMDJEQkxTUko4Ym9XM09qRGhyUVppcm5zNF9pSE5jWThiQU9wdEY5X0ExRDlXMThKclBVOG5QQnZZQVY5RTRhTWdUa08zSEtlRGF0Qmkyc1EtLW1sTUpabmU0dVlvNnczSGw5cUU2bWRuVmdBVjktQnRtUlV3SEZrSWl2NEFhVEE?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "published": "2026-08-25T01:04:00+00:00",
-   "count": 5,
-   "sources": [
-    "PR TIMES",
-    "Yahoo!ファイナンス",
-    "ｄメニューニュース"
-   ],
-   "score": 3.77
-  },
-  {
-   "title": "Usain Bolt's 100m sprint record shattered by Honor's humanoid robot",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYmRRU3dpcGtwYVY3RHJmR1JRblVFRWJWZ19ieVM1cHNxMndXOFJUQ3hzbHNYSGw3OU42LUwxTTBMUURaX1ppUnpMSmo4SVczQ2FzT3liQWY4ZXVHeVdjV2xXd1NLZ1pZTGtxTm9yWHVXX1lMV0RKek16TVpXTjZOVE51WUdfbEYtYXM1dThjdXBFbVFhbmtj?oc=5",
-   "source": "Interesting Engineering",
-   "published": "2026-08-24T10:08:00+00:00",
-   "count": 6,
-   "sources": [
-    "ABC News & Headlines – Australian Broadcasting Corporation",
-    "France 24",
-    "Interesting Engineering",
-    "Modern Ghana",
-    "The Guardian",
-    "upi.com"
-   ],
-   "score": 3.68
+   "score": 3.78
   }
  ],
  "trend": {
   "dates": [
-   "2026-07-27",
-   "2026-07-28",
    "2026-07-29",
    "2026-07-30",
    "2026-07-31",
@@ -506,15 +502,15 @@
    "2026-08-22",
    "2026-08-23",
    "2026-08-24",
-   "2026-08-25"
+   "2026-08-25",
+   "2026-08-26",
+   "2026-08-27"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     53,
-     17,
      35,
      49,
      31,
@@ -541,16 +537,16 @@
      20,
      10,
      3,
-     44,
-     45
+     45,
+     49,
+     43,
+     2
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     39,
-     28,
      41,
      32,
      22,
@@ -578,15 +574,15 @@
      3,
      7,
      39,
-     30
+     36,
+     41,
+     0
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     6,
-     4,
      7,
      5,
      5,
@@ -610,19 +606,19 @@
      0,
      18,
      6,
-     14,
+     15,
      1,
      3,
      20,
-     9
+     9,
+     6,
+     0
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     26,
-     43,
      65,
      46,
      33,
@@ -648,17 +644,17 @@
      53,
      51,
      47,
-     55,
-     53,
-     26
+     56,
+     56,
+     29,
+     32,
+     1
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     6,
-     14,
      26,
      28,
      22,
@@ -685,8 +681,10 @@
      20,
      14,
      21,
-     32,
-     18
+     34,
+     23,
+     28,
+     0
     ]
    }
   ]
@@ -732,13 +730,13 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 94
+   "news": 99
   },
   {
    "name": "QUALCOMM INC",
    "core": "QUALCOMM",
    "patents": 206,
-   "news": 7
+   "news": 8
   }
  ]
 }
