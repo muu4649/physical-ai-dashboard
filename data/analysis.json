@@ -1,85 +1,85 @@
 {
- "updated_at": "2026-08-27T00:24:55.052355+00:00",
+ "updated_at": "2026-08-28T05:04:45.330170+00:00",
  "kpi": {
-  "articles_7d": 899,
-  "articles_prev_7d": 727,
-  "sources_7d": 405,
-  "articles_30d": 3044,
-  "total_articles": 5699,
+  "articles_7d": 881,
+  "articles_prev_7d": 802,
+  "sources_7d": 408,
+  "articles_30d": 3060,
+  "total_articles": 5862,
   "oldest_news": "2021-03-15"
  },
  "wordcloud": [
   [
-   "world",
+   "games",
    136
   ],
   [
-   "games",
+   "world",
    133
   ],
   [
    "china",
-   91
+   80
   ],
   [
    "record",
-   74
+   76
   ],
   [
    "beijing",
-   69
+   73
   ],
   [
    "bolt",
-   66
+   69
   ],
   [
    "usain",
-   62
+   64
   ],
   [
    "中国",
-   60
+   62
   ],
   [
    "chinese",
-   50
+   47
   ],
   [
    "世界",
-   36
+   39
   ],
   [
-   "unitree",
-   27
+   "データ",
+   28
   ],
   [
    "beats",
    27
   ],
   [
-   "開発",
-   26
-  ],
-  [
-   "nvidia",
-   24
-  ],
-  [
    "meter",
-   24
+   25
   ],
   [
    "北京",
-   23
+   24
   ],
   [
-   "データ",
+   "開発",
    22
   ],
   [
-   "画像",
-   21
+   "nvidia",
+   22
+  ],
+  [
+   "現場",
+   22
+  ],
+  [
+   "実装",
+   22
   ],
   [
    "開催",
@@ -90,59 +90,63 @@
    21
   ],
   [
-   "chatgpt",
-   20
-  ],
-  [
-   "写真",
-   20
-  ],
-  [
-   "raises",
-   19
-  ],
-  [
    "human",
-   19
-  ],
-  [
-   "ceo",
-   18
-  ],
-  [
-   "startup",
-   18
-  ],
-  [
-   "市場",
-   18
-  ],
-  [
-   "国産",
-   18
-  ],
-  [
-   "産業",
-   17
-  ],
-  [
-   "実装",
-   17
-  ],
-  [
-   "breaks",
-   17
+   20
   ],
   [
    "披露",
+   20
+  ],
+  [
+   "xpeng",
+   18
+  ],
+  [
+   "breaks",
+   18
+  ],
+  [
+   "画像",
+   18
+  ],
+  [
+   "写真",
+   18
+  ],
+  [
+   "活用",
+   18
+  ],
+  [
+   "records",
+   18
+  ],
+  [
+   "稼働",
+   18
+  ],
+  [
+   "funding",
    17
   ],
   [
-   "data",
-   16
+   "startup",
+   17
   ],
   [
-   "moment",
+   "open",
+   17
+  ],
+  [
+   "raises",
+   17
+  ],
+  [
+   "収集",
+   17
+  ],
+  [
+   "日本",
    16
   ],
   [
@@ -150,67 +154,27 @@
    16
   ],
   [
-   "xpeng",
-   16
-  ],
-  [
-   "records",
-   16
-  ],
-  [
-   "funding",
-   15
-  ],
-  [
-   "現場",
-   15
-  ],
-  [
    "実証",
-   15
-  ],
-  [
-   "watch",
-   15
-  ],
-  [
-   "seconds",
-   14
-  ],
-  [
-   "wrc",
-   14
+   16
   ],
   [
    "edge",
-   14
+   15
   ],
   [
-   "技術",
-   14
+   "運動会",
+   15
   ],
   [
-   "活用",
-   14
-  ],
-  [
-   "conference",
-   14
-  ],
-  [
-   "global",
-   14
-  ],
-  [
-   "稼働",
-   14
-  ],
-  [
-   "model",
+   "国産",
    13
   ],
   [
-   "戦略",
+   "時代",
+   13
+  ],
+  [
+   "seconds",
    13
   ],
   [
@@ -218,103 +182,139 @@
    13
   ],
   [
-   "open",
-   13
+   "chatgpt",
+   12
+  ],
+  [
+   "ceo",
+   12
+  ],
+  [
+   "学習",
+   12
   ],
   [
    "infrastructure",
    12
   ],
   [
-   "日本",
+   "million",
    12
   ],
   [
-   "共同",
+   "ボルト",
    12
   ],
   [
-   "日立",
+   "技術",
    12
   ],
   [
-   "アトム",
+   "導入",
    12
   ],
   [
-   "企業",
+   "拠点",
    12
   ],
   [
-   "race",
-   12
+   "model",
+   11
+  ],
+  [
+   "moment",
+   11
+  ],
+  [
+   "戦略",
+   11
+  ],
+  [
+   "live",
+   11
+  ],
+  [
+   "wrc",
+   11
+  ],
+  [
+   "second",
+   11
+  ],
+  [
+   "競技",
+   11
+  ],
+  [
+   "data",
+   11
   ]
  ],
  "today_top5": [
   {
-   "title": "ヒューマノイド35台が稼働 J-HRTIがフィジカルAIのデータ収集拠点を千葉県習志野市に開設",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IQ2xKa1hxYlVNa0VxRGNsZVFZWm5fNlFBYk5XNmotTThuRWhoeHptb1FiLTFSNDQ1MjdDZXdhMTk1eVBnT2FSTVpuRnhCeUE4amp3?oc=5",
-   "source": "ビジネスネットワーク",
-   "published": "2026-08-26T22:56:32+00:00",
+   "title": "エコモット－買い気配 ヒグマ対策にフィジカルAI活用 Go-Tech事業に採択(トレーダーズ・ウェブ)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQTNreHlsZjdUQ1AtRDVORmQtUHMyYW1velJJY2JrOE9YRVRIUThlTW9lUk5MLXhZVkpKWFd1QjFjWmxkTUVKMXpUMG84X0pHdWk1Z19ma3FvS1pjOTVCOUhibm5FSzBIQ1RabzBTcFR3Z1YtM3JrRHJHRTNtelM5SWNPU01rdFU?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "published": "2026-08-28T00:02:00+00:00",
+   "count": 6,
+   "sources": [
+    "PR TIMES",
+    "Yahoo!ファイナンス",
+    "ロボスタ",
+    "日本経済新聞"
+   ],
+   "score": 5.59
+  },
+  {
+   "title": "Renesas opens Beijing physical AI and robotics lab",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWTNqLUNJNkpJVGZ4RzVFUWE5SU9qaDlxZl80cGsyOU5pd2JheUREZ0ZmNThvNmJSNy04XzhHcTVJSTBWVV9sN0huYzhta1B1YnhJNnB6TE1xaXlaVDFQWWpaZHFWcXA4NWtKMHk2aWhlSkNDVGZVbUFYdEFhSVdUa2RR?oc=5",
+   "source": "International Business Times",
+   "published": "2026-08-27T15:47:41+00:00",
    "count": 4,
    "sources": [
-    "ビジネスネットワーク",
-    "共同通信PRワイヤー",
-    "株式会社インプレス",
-    "物流ニュースのLNEWS"
+    "AI Insider",
+    "Engineering.com",
+    "Evertiq",
+    "International Business Times"
    ],
-   "score": 3.92
+   "score": 3.33
   },
   {
-   "title": "Robots prove their mettle at China's World Humanoid Robot Games",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNmpPM2R6d2VUaEtlUVd1VUs1ZmN4REFNWWtWZmFkSWh3VkZSUDVRR1ZVYXZYR1loUUtMaDBNbS1OaWJGU2x3Z1VsLVdFclo5SUhwWTZwXzZzeWZJeWdCUmlReXNjTThvZFhCMUZDWDc2b2syM0xtTVd2V0RFUGp5d0hFVzR2SGR3TV9zcG5pRS1BTFc0dTZncERZZkl1Q2U2c28yS05zOGMyVG83czJsWl9xSE85TU5TczZObzRxT0tqZ3ZTaDlEUzJXeUtqbGlKcW5BYTZKZW9sc2hrVE9jZ0x3b0hKcldzVlBTclMzdXVHREZKZ2c?oc=5",
-   "source": "Central Oregon Daily",
-   "published": "2026-08-26T22:56:12+00:00",
+   "title": "RobotMateHub主催、関西初のヒューマノイドハッカソン「ウイルテック フィジカルAIハッカソン」の参加者募集開始",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YMmtmMUVmMFcweU11WkNOY3JuYWVCMTFVRmdGUE02ZUZWUXJTYXh3SS00bmtuQTZnTUVONEJxV2tJazVxc1hMRFVNNTAzOWo1Rnh5eHhTcDN0TXV6MVBGNi1IY3Uxemp1?oc=5",
+   "source": "ニュースメディアVOIX",
+   "published": "2026-08-28T02:54:13+00:00",
    "count": 3,
    "sources": [
-    "Central Oregon Daily",
-    "Fox News",
-    "The Lufkin Daily News"
+    "ニコニコニュース",
+    "ニュースメディアVOIX",
+    "愛媛新聞"
    ],
-   "score": 2.94
+   "score": 2.91
   },
   {
-   "title": "World Humanoid Robot Games In Beijing Break Records",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVk1ELXJVR000RFpMSGNEdGxBWEN5RGxyendDd2toVUdtbjV5bFAyenZkUG84ZHBDbElxdC0weWljbDBOR2M5b1hSMzh6SGx3OGxyXzNZRmdPVDBFbjFiVlVGSkR4bkNlNzRKZTlxMFlxYlRSenhCTUVmblhLSjBjQnJJb3hOMWVrUTFWOFZ1azVfX3dTNFhxcTZRRQ?oc=5",
-   "source": "KLVI AM 560",
-   "published": "2026-08-26T21:25:00+00:00",
+   "title": "タイミー、フィジカルAI時代の新たな仕事創出に向けた共創パートナーシップをジールスと締結 ——米中で急速に拡大するフィジカルAI向け現実世界データ収集領域において、スポットワークを通じた新たな仕事カテゴリを共創｜ニュース",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FbVluVkNYMkdGX3k5cTVUa2tidTlLeUd2aTRrcjU5aWNqQ0Y3dEdwLWJnZlU2NllHcWxXNHBfM195aVRNUDljU0pGUVI5eUlYNXl5Ug?oc=5",
+   "source": "株式会社タイミー",
+   "published": "2026-08-27T07:56:48+00:00",
    "count": 3,
    "sources": [
-    "Global Times",
-    "KLVI AM 560",
-    "WHAS11"
+    "PR TIMES",
+    "株式会社タイミー"
    ],
-   "score": 2.88
+   "score": 2.24
   },
   {
-   "title": "Transfyr Launches With $25 Million Seed Round to Build Physical AI for Science",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQT3ZIQVVvSTlZdzBoUGo3ajdUNUhSZzhwbXhvQ1g3bDJvOTM0eFJTckxTajF4dGJJZlZwSW9PN1FGQlNXYTZBNzBISEdFWUpsVXdIWUtjMVgweThSTVNJQVhsTDZwUm5oMFRMZDQxb2FtNC0tUjNTSFF1SHFaRXNlNlNleFJWOXdxMVBEdzBoSU5QUUhOYk9iajVlaVUyelduOFJ0OVJQbEhQUWwyd213eVNXTThrWHc?oc=5",
-   "source": "citybiz",
-   "published": "2026-08-26T18:57:58+00:00",
-   "count": 3,
-   "sources": [
-    "01net",
-    "TradingView",
-    "citybiz"
-   ],
-   "score": 2.78
-  },
-  {
-   "title": "AWS and NVIDIA to Deliver 2 Million Additional GPUs and Next-Generation Infrastructure for Agentic and Physical AI",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZUNocGNzT2FJb01QNmVWTHpoSXkxUUNVdlRDTVZET3hZZVBDN0JGTVBTUFF5aEdERTJOcU9LeV9VMW12ZlZSck5uQ194MjFmYVlMWGt1SzdVODFjY2hkV2RFamlFdzVaWkNYNUdnbXcxbF9rTGJwY005LTlwN1BtUDdTWDVaMk1kejdPRzJKaVRTUVB4X3FWVnVlNnNPcUxUZGNHSzNTV0liVVJaNTMwdEdYcENaOFVtZVc5TXFIY0xsUlZJZUg2bkJKVnJ2OUhqSVg3bDZrQTd3eWdTVmNvMlJkcw?oc=5",
-   "source": "NVIDIA Newsroom",
-   "published": "2026-08-26T23:31:32+00:00",
+   "title": "ディーエムエス、J-HRTI関東データファクトリーの本格稼働を発表し物流の未来を切り開く",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CdVVkWWc2dG1LMnlSczJZbUkzQVdxbU52cmVzUDNFVGpMcWx3TnM5THVVU1NFcHlpeUpKYUFHQUs2RVpPT1dXdlhLcy1ldk9WMU5XU2NuUW5XOTUtM2ZZd282U2NKNGt3UkE?oc=5",
+   "source": "ニュースメディアVOIX",
+   "published": "2026-08-28T02:55:58+00:00",
    "count": 2,
    "sources": [
-    "NVIDIA Newsroom",
-    "Stock Titan"
+    "PR TIMES",
+    "ニュースメディアVOIX"
    ],
-   "score": 1.98
+   "score": 1.94
   }
  ],
  "hot_news": [
@@ -332,7 +332,39 @@
     "Oskaloosa Herald",
     "Reuters"
    ],
-   "score": 12.93
+   "score": 8.69
+  },
+  {
+   "title": "China World Humanoid Robot Games",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVzZxUGIzbXByR1hKTTlidXJwYXIxVkhXclBGeWlzd1FuYXJhcWp0bkd4eS0zY20yMnB5ZnRtRlNTZ0YyVzRsUkMzUVZMSDRDd3BLLS1HWllVRFpBWXhXdS1QMDEyQllmaVBQVkJ1ejRFVTE2NWEwUXFHNWtTRVFyX19kSHVIR2FXaFVXeHhpdzRwREJ2bGJGUGs1cDRZYktHcElZUlE5VXRZWnB6SjVGRXU4VVZ1UUxXVGZxdy0ydndNYmNoSFNUYTAzbHNFQTQ?oc=5",
+   "source": "dailyrecordnews.com",
+   "published": "2026-08-27T09:09:06+00:00",
+   "count": 11,
+   "sources": [
+    "Central Oregon Daily",
+    "DW.com",
+    "Daily Gate City",
+    "Fox News",
+    "KXLY.com",
+    "The Lufkin Daily News"
+   ],
+   "score": 8.34
+  },
+  {
+   "title": "Robot at the World Humanoid Robot Games break Usain Bolt's 100m speed record twice",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONlZBWUlob2hTZDVZR3JPRHY4ajBqN3lsMFllQ2NTNDFFanhKclR4bU5rQTVhMXhGU1AxT18wRnY1bU9NRGV3ZE1DLTNacFJGc05IRkkyWkEzUXdFajhZekVWV3ltSW9zUzBOM1ItSnhpNk9wWmdrdHpESkEta2dWaWgxTDk1cGY4ZXR0bVN5dEtkZE82b2JSTjdNaDh0ZldWSExNUDEyc3RMaDZ2bnBVSlhzbmpwd1ZQ?oc=5",
+   "source": "Gamereactor UK",
+   "published": "2026-08-26T11:58:53+00:00",
+   "count": 12,
+   "sources": [
+    "ABC News & Headlines – Australian Broadcasting Corporation",
+    "Al Jazeera",
+    "AnewZ",
+    "Bloomberg.com",
+    "Daily Sabah",
+    "Fox News"
+   ],
+   "score": 6.78
   },
   {
    "title": "Humanoid robot outruns Usain Bolt as China races ahead",
@@ -348,134 +380,101 @@
     "The Detroit News",
     "The Guardian"
    ],
-   "score": 9.52
+   "score": 6.39
   },
   {
-   "title": "Robot at the World Humanoid Robot Games break Usain Bolt's 100m speed record twice",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONlZBWUlob2hTZDVZR3JPRHY4ajBqN3lsMFllQ2NTNDFFanhKclR4bU5rQTVhMXhGU1AxT18wRnY1bU9NRGV3ZE1DLTNacFJGc05IRkkyWkEzUXdFajhZekVWV3ltSW9zUzBOM1ItSnhpNk9wWmdrdHpESkEta2dWaWgxTDk1cGY4ZXR0bVN5dEtkZE82b2JSTjdNaDh0ZldWSExNUDEyc3RMaDZ2bnBVSlhzbmpwd1ZQ?oc=5",
-   "source": "Gamereactor UK",
-   "published": "2026-08-26T11:58:53+00:00",
-   "count": 11,
+   "title": "Chinese robots beat Usain Bolt 100m record in Beijing",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBpbGFELUZLUmxYSTZQdGRwSmhZdEwxTnlyWThqNFBFaW04VGFiYXRNZ3lOUTBnTVZPbkh2bXd3WXNQRUh0b1licUVFQVVFYm1qWTFvVUpKZHN3VHdPX0xGQkRHMEVQWjE4WEpIdXI2RjBZTlpLRjkzS0x4NA?oc=5",
+   "source": "qz.com",
+   "published": "2026-08-28T00:51:30+00:00",
+   "count": 6,
    "sources": [
-    "ABC News & Headlines – Australian Broadcasting Corporation",
-    "Al Jazeera",
-    "Bloomberg.com",
     "ColombiaOne.com",
-    "Fox News",
-    "France 24"
+    "El Mundo America",
+    "Inside The Games",
+    "bgr.com",
+    "facebook.com",
+    "qz.com"
    ],
-   "score": 9.26
+   "score": 5.66
   },
   {
-   "title": "Robots prove their mettle at China's World Humanoid Robot Games",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNmpPM2R6d2VUaEtlUVd1VUs1ZmN4REFNWWtWZmFkSWh3VkZSUDVRR1ZVYXZYR1loUUtMaDBNbS1OaWJGU2x3Z1VsLVdFclo5SUhwWTZwXzZzeWZJeWdCUmlReXNjTThvZFhCMUZDWDc2b2syM0xtTVd2V0RFUGp5d0hFVzR2SGR3TV9zcG5pRS1BTFc0dTZncERZZkl1Q2U2c28yS05zOGMyVG83czJsWl9xSE85TU5TczZObzRxT0tqZ3ZTaDlEUzJXeUtqbGlKcW5BYTZKZW9sc2hrVE9jZ0x3b0hKcldzVlBTclMzdXVHREZKZ2c?oc=5",
-   "source": "Central Oregon Daily",
-   "published": "2026-08-26T22:56:12+00:00",
-   "count": 9,
+   "title": "エコモット－買い気配 ヒグマ対策にフィジカルAI活用 Go-Tech事業に採択(トレーダーズ・ウェブ)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQTNreHlsZjdUQ1AtRDVORmQtUHMyYW1velJJY2JrOE9YRVRIUThlTW9lUk5MLXhZVkpKWFd1QjFjWmxkTUVKMXpUMG84X0pHdWk1Z19ma3FvS1pjOTVCOUhibm5FSzBIQ1RabzBTcFR3Z1YtM3JrRHJHRTNtelM5SWNPU01rdFU?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "published": "2026-08-28T00:02:00+00:00",
+   "count": 6,
    "sources": [
-    "Central Oregon Daily",
-    "DW.com",
-    "Daily Gate City",
-    "Fox News",
-    "The Lufkin Daily News",
-    "livetube.tv"
+    "PR TIMES",
+    "Yahoo!ファイナンス",
+    "ロボスタ",
+    "日本経済新聞"
    ],
-   "score": 8.82
+   "score": 5.59
   },
   {
    "title": "Engineers live alongside their machines at World Humanoid Robot Games",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMVWVIT3BvdjE0OWtuM05Dc3pzVFFBUDdOQ0JlUlRuVGxLbkRZSjc4cGpxNnJtRk9DbXlwenk3ZWtmcFpoaWxxOHBUNHJfd1JLWUZZS1JPem1VQU5E?oc=5",
    "source": "Reuters",
    "published": "2026-08-26T10:33:44+00:00",
-   "count": 10,
+   "count": 9,
    "sources": [
     "ABC News - Breaking News, Latest News and Videos",
     "Anadolu Ajansı",
     "China Daily",
     "Reuters",
-    "Startup Fortune",
-    "Xinhua"
+    "Xinhua",
+    "finance.biggo.com"
    ],
-   "score": 8.25
+   "score": 4.99
   },
   {
-   "title": "World Humanoid Robot Games In Beijing Break Records",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVk1ELXJVR000RFpMSGNEdGxBWEN5RGxyendDd2toVUdtbjV5bFAyenZkUG84ZHBDbElxdC0weWljbDBOR2M5b1hSMzh6SGx3OGxyXzNZRmdPVDBFbjFiVlVGSkR4bkNlNzRKZTlxMFlxYlRSenhCTUVmblhLSjBjQnJJb3hOMWVrUTFWOFZ1azVfX3dTNFhxcTZRRQ?oc=5",
-   "source": "KLVI AM 560",
-   "published": "2026-08-26T21:25:00+00:00",
-   "count": 6,
-   "sources": [
-    "Global Times",
-    "KLVI AM 560",
-    "Newsday",
-    "People's Daily Online",
-    "Sky News",
-    "WHAS11"
-   ],
-   "score": 5.76
-  },
-  {
-   "title": "水回りを清掃できるフィジカルAIロボ「Loki」のオフィスビル実証開始、日鉄興和不動産：FM",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1rUjlyc2RGU0dNTDJQOEtxdmJiV2gyWm11TDluTUhHcWRlbWlLYTB3OEwxMXJZS2UwVDJwelA3amVxRUJTSE9uYWZPQzJPMG14c293TFhCdlBUUVRpbDRFS0tuLTU3MVBWaXRBZw?oc=5",
-   "source": "ITmedia",
-   "published": "2026-08-26T02:00:00+00:00",
-   "count": 6,
-   "sources": [
-    "ITmedia",
-    "LOGI-BIZ online",
-    "PR TIMES",
-    "au Webポータル",
-    "innovaTopia",
-    "ロボスタ"
-   ],
-   "score": 4.39
-  },
-  {
-   "title": "ロボットはウサイン・ボルトよりも速く走る：なぜまだ祝ってはいけないのか？",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ1RYUjF2RVdqOTB5VTJJRUlhSUg3NC1GN0M4RF9DU1NGYk1nbDlDZDM5RHU1UV95Q05GWTdXS3p1eGpBQlR6UThrOXcxVnYwMTlYdGdETkdHTl9IRElvSkdDSUFSVmJlZXFRSEFDTTh5MG9nT0F4R3h3V3Q4N3hVOWxwTFlsTG9uY0E?oc=5",
-   "source": "Vietnam.vn",
-   "published": "2026-08-25T08:40:53+00:00",
-   "count": 7,
-   "sources": [
-    "Moomoo",
-    "VOI.ID",
-    "Vietnam.vn"
-   ],
-   "score": 4.03
-  },
-  {
-   "title": "ヒューマノイド35台が稼働 J-HRTIがフィジカルAIのデータ収集拠点を千葉県習志野市に開設",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1IQ2xKa1hxYlVNa0VxRGNsZVFZWm5fNlFBYk5XNmotTThuRWhoeHptb1FiLTFSNDQ1MjdDZXdhMTk1eVBnT2FSTVpuRnhCeUE4amp3?oc=5",
-   "source": "ビジネスネットワーク",
-   "published": "2026-08-26T22:56:32+00:00",
-   "count": 4,
-   "sources": [
-    "ビジネスネットワーク",
-    "共同通信PRワイヤー",
-    "株式会社インプレス",
-    "物流ニュースのLNEWS"
-   ],
-   "score": 3.92
-  },
-  {
-   "title": "アトムと日本精工、国産ヒューマノイドAIロボットで提携",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5UVldSSXZYZHBvTEJEUEhPbWVuYWpSR2lGVEN6WUFxMG80eWkwWWJhN3A5VDdiM2p1VHB0NTN6RTJNd2N1T3Fyd1B0aUdvUVQtU0NTLWFEUHFVSGc?oc=5",
-   "source": "Mogura VR",
-   "published": "2026-08-26T04:13:25+00:00",
+   "title": "Renesas opens Beijing physical AI and robotics lab",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWTNqLUNJNkpJVGZ4RzVFUWE5SU9qaDlxZl80cGsyOU5pd2JheUREZ0ZmNThvNmJSNy04XzhHcTVJSTBWVV9sN0huYzhta1B1YnhJNnB6TE1xaXlaVDFQWWpaZHFWcXA4NWtKMHk2aWhlSkNDVGZVbUFYdEFhSVdUa2RR?oc=5",
+   "source": "International Business Times",
+   "published": "2026-08-27T15:47:41+00:00",
    "count": 5,
    "sources": [
-    "Mogura VR",
-    "PR TIMES",
-    "au Webポータル",
-    "ニュースメディアVOIX",
-    "ロボスタ"
+    "AI Insider",
+    "Business Wire",
+    "Engineering.com",
+    "Evertiq",
+    "International Business Times"
    ],
-   "score": 3.78
+   "score": 4.16
+  },
+  {
+   "title": "Transfyr launches with $25M seed to close science's physical-to-digital gap",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ3B6MkkyaTZSM01hdHNjcjdDSE5XMVRZMTl3NzBLSzNReHF6bDBGZkl0S1cycWE5dXlORUZLR3pSSjI2N1F6d2VUM1c3Y1lsYmVIUjBteG95emQ4VzJ5NDI5NmdadURJZ2UyNHVOd3AzMjFoWXBYS3h0TktVM2JzQ3JJZXdnYUpPSF9uWHpiZzU0bXBVVmJtRU8tTXBsRTZuMG80RlFXR3FfX3lB?oc=5",
+   "source": "Dealroom",
+   "published": "2026-08-27T15:14:44+00:00",
+   "count": 5,
+   "sources": [
+    "01net",
+    "AI Insider",
+    "Dealroom",
+    "TradingView",
+    "citybiz"
+   ],
+   "score": 4.13
+  },
+  {
+   "title": "ディーエムエス、J-HRTI関東データファクトリーの本格稼働を発表し物流の未来を切り開く",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9CdVVkWWc2dG1LMnlSczJZbUkzQVdxbU52cmVzUDNFVGpMcWx3TnM5THVVU1NFcHlpeUpKYUFHQUs2RVpPT1dXdlhLcy1ldk9WMU5XU2NuUW5XOTUtM2ZZd282U2NKNGt3UkE?oc=5",
+   "source": "ニュースメディアVOIX",
+   "published": "2026-08-28T02:55:58+00:00",
+   "count": 4,
+   "sources": [
+    "PR TIMES",
+    "ニュースメディアVOIX",
+    "共同通信PRワイヤー",
+    "物流ニュースのLNEWS"
+   ],
+   "score": 3.88
   }
  ],
  "trend": {
   "dates": [
-   "2026-07-29",
    "2026-07-30",
    "2026-07-31",
    "2026-08-01",
@@ -504,14 +503,14 @@
    "2026-08-24",
    "2026-08-25",
    "2026-08-26",
-   "2026-08-27"
+   "2026-08-27",
+   "2026-08-28"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     35,
      49,
      31,
      2,
@@ -539,15 +538,15 @@
      3,
      45,
      49,
-     43,
-     2
+     47,
+     38,
+     4
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     41,
      32,
      22,
      9,
@@ -573,17 +572,17 @@
      17,
      3,
      7,
-     39,
+     40,
      36,
+     44,
      41,
-     0
+     9
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     7,
      5,
      5,
      1,
@@ -611,7 +610,8 @@
      3,
      20,
      9,
-     6,
+     7,
+     7,
      0
     ]
    },
@@ -619,7 +619,6 @@
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     65,
      46,
      33,
      8,
@@ -642,20 +641,20 @@
      50,
      72,
      53,
-     51,
+     52,
      47,
      56,
-     56,
-     29,
-     32,
-     1
+     57,
+     30,
+     34,
+     19,
+     5
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     26,
      28,
      22,
      6,
@@ -679,12 +678,13 @@
      26,
      30,
      20,
-     14,
+     15,
      21,
      34,
-     23,
-     28,
-     0
+     24,
+     36,
+     21,
+     6
     ]
    }
   ]
@@ -730,7 +730,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 99
+   "news": 100
   },
   {
    "name": "QUALCOMM INC",
