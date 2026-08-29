@@ -1,112 +1,104 @@
 {
- "updated_at": "2026-08-29T03:03:30.774250+00:00",
+ "updated_at": "2026-08-29T22:58:21.795470+00:00",
  "kpi": {
-  "articles_7d": 884,
-  "articles_prev_7d": 789,
-  "sources_7d": 403,
-  "articles_30d": 3014,
-  "total_articles": 5963,
+  "articles_7d": 870,
+  "articles_prev_7d": 841,
+  "sources_7d": 407,
+  "articles_30d": 2934,
+  "total_articles": 6019,
   "oldest_news": "2021-03-15"
  },
  "wordcloud": [
   [
    "games",
-   133
+   102
   ],
   [
    "world",
-   127
-  ],
-  [
-   "record",
-   77
-  ],
-  [
-   "china",
-   72
-  ],
-  [
-   "beijing",
-   71
-  ],
-  [
-   "bolt",
-   69
+   97
   ],
   [
    "中国",
-   67
+   71
+  ],
+  [
+   "china",
+   69
+  ],
+  [
+   "record",
+   59
+  ],
+  [
+   "bolt",
+   51
+  ],
+  [
+   "beijing",
+   50
   ],
   [
    "usain",
-   64
+   46
   ],
   [
    "chinese",
-   48
-  ],
-  [
-   "世界",
-   35
+   36
   ],
   [
    "データ",
-   34
+   35
+  ],
+  [
+   "世界",
+   31
   ],
   [
    "実装",
-   30
-  ],
-  [
-   "beats",
-   27
+   31
   ],
   [
    "現場",
-   27
-  ],
-  [
-   "meter",
-   25
-  ],
-  [
-   "nvidia",
-   25
-  ],
-  [
-   "sprint",
-   21
+   28
   ],
   [
    "開発",
+   27
+  ],
+  [
+   "nvidia",
+   26
+  ],
+  [
+   "meter",
+   23
+  ],
+  [
+   "活用",
    21
   ],
   [
-   "北京",
-   20
+   "写真",
+   21
+  ],
+  [
+   "画像",
+   21
   ],
   [
    "raises",
    20
   ],
   [
-   "human",
-   19
-  ],
-  [
-   "活用",
-   19
+   "企業",
+   20
   ],
   [
    "収集",
    19
   ],
   [
-   "画像",
-   19
-  ],
-  [
-   "写真",
+   "国産",
    19
   ],
   [
@@ -114,16 +106,12 @@
    19
   ],
   [
-   "records",
+   "sprint",
    18
   ],
   [
    "日本",
    18
-  ],
-  [
-   "breaks",
-   17
   ],
   [
    "国内",
@@ -142,15 +130,19 @@
    17
   ],
   [
-   "startup",
+   "human",
    16
   ],
   [
-   "funding",
+   "records",
    16
   ],
   [
-   "開催",
+   "breaks",
+   16
+  ],
+  [
+   "beats",
    16
   ],
   [
@@ -158,15 +150,27 @@
    16
   ],
   [
+   "共同",
+   16
+  ],
+  [
+   "事業",
+   16
+  ],
+  [
+   "製造",
+   16
+  ],
+  [
    "披露",
    16
   ],
   [
-   "open",
+   "startup",
    15
   ],
   [
-   "opens",
+   "funding",
    15
   ],
   [
@@ -178,36 +182,32 @@
    15
   ],
   [
-   "運動会",
+   "実用",
    14
   ],
   [
-   "事業",
-   14
+   "技術",
+   13
   ],
   [
-   "国産",
-   14
+   "北京",
+   13
+  ],
+  [
+   "開催",
+   13
+  ],
+  [
+   "opens",
+   13
   ],
   [
    "学習",
    13
   ],
   [
-   "時代",
-   13
-  ],
-  [
-   "seconds",
-   13
-  ],
-  [
-   "ボルト",
-   13
-  ],
-  [
-   "技術",
-   13
+   "運動会",
+   12
   ],
   [
    "million",
@@ -218,7 +218,7 @@
    12
   ],
   [
-   "共同",
+   "研究",
    12
   ],
   [
@@ -230,11 +230,15 @@
    12
   ],
   [
-   "競技",
+   "seconds",
    11
   ],
   [
-   "記録",
+   "unitree",
+   11
+  ],
+  [
+   "ボルト",
    11
   ],
   [
@@ -244,73 +248,69 @@
   [
    "jetson",
    11
-  ],
-  [
-   "研究",
-   11
   ]
  ],
  "today_top5": [
   {
-   "title": "Renesas Opens Physical AI and Robotics Lab in Beijing, Targets 70% Humanoid Robot BOM Coverage",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSkxiMHgyajlBUGV6STV4dDVMVU1HQ0NZV0ZuejNjc1BBdVItME1Zcnc0NC1iLUpGYVNFTy00Ti10eWZLVHFlR2ZQOG9BcXc5VUlNczhxZzhVWnJMSWNMUjhWV29wdUQ0MmtRUDdVOGE4ZDVjQ19pZUVrdzVYb2wzNi1Tcm9YQTF5bElNbEpNOHFGVmEzem1oRHlfaWRIQ1RoMnNOOHNNREc3X24zdC16WlZGcWYwbkItR0o4OEdZTHBPSG8yQjBrd0JJWnJxSU5mVmhDekhYNmR0R3YyQjZ1QVR0NkdHbXc?oc=5",
-   "source": "Gasgoo",
-   "published": "2026-08-28T15:59:31+00:00",
+   "title": "フィジカルAIの企業連合のイメージ - 国産AI工作ロボで企業連合 京セラなど20社程度が共同開発へ 切削や加工作業を自動で - 写真・画像(1/1)",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54blUwNG53a0J3OUNianFGMEdoWlFPS0dlazNnbGpYMzZLWENSUFZrcVZsN04xa0duZEIxWmFUbGJBVGUyQWhONHhpcHl6V2UtcTNiU0pfVQ?oc=5",
+   "source": "西日本新聞me",
+   "published": "2026-08-29T21:05:45+00:00",
+   "count": 5,
+   "sources": [
+    "新潟日報",
+    "沖縄タイムス社",
+    "西日本新聞me",
+    "ｄメニューニュース"
+   ],
+   "score": 4.87
+  },
+  {
+   "title": "フィジカルＡＩで企業連合 京セラ、神鋼含め２０社製造ロボ",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NUm9CcnVSblFoYVJXeUhvS01odnQzWDc1X0NhTXZRUWQ5N2lhRGdhZ1lGdGxmTktaTHhxUngtbUZyUVJnNmVyN3MtNzRFakhIOVR0bVZWc3JqXzBYV0pOX1pB?oc=5",
+   "source": "琉球新報デジタル",
+   "published": "2026-08-29T20:00:00+00:00",
    "count": 3,
    "sources": [
-    "Electronics Weekly",
-    "Gasgoo",
-    "New Electronics"
+    "デイリースポーツ",
+    "奈良新聞",
+    "琉球新報デジタル"
    ],
-   "score": 2.57
+   "score": 2.88
   },
   {
-   "title": "AWSとNVIDIA フィジカルAI・エージェント型AI向けにGPU200万基を導入、ロボットとの連携も拡大",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ITDdTSlZhbUp5TFExWEcyMW52U1FxSzFpNWloUDdXQzN4Z2Nod2x6R3ZqY19hSlNVZE03U0x6dW5jQXVZWGNxMTFWMnBxeHhtTHkwQkNpdlUwaFB2bDA1a1Y2M1dXeUY5bXJGTzNR?oc=5",
-   "source": "au Webポータル",
-   "published": "2026-08-28T07:51:38+00:00",
-   "count": 3,
-   "sources": [
-    "PR TIMES",
-    "au Webポータル",
-    "ロボスタ"
-   ],
-   "score": 2.3
-  },
-  {
-   "title": "Robots compete in World Humanoid Robot Games",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRVJHUmVTVHpxY2VUcTM4UW5CMWdvOTM1YktPYlM3cThNN3FCQXhmVkEtdk9PTzRocnJPQmtzVTJNaVI5WTJiZHVyN3NwX0tlTEdoWWtFbThkTWtMT3FiUU55NENkV1R1cFpzZ0ZMVUZuSXp2cnVpdy1Sb19Obk82UEZLeHJJUUZ5YzdwRHFmWS1vaTVWbHgwbUl3M1Y1ek12MjA4MXYyTFRyUQ?oc=5",
-   "source": "KVUE",
-   "published": "2026-08-28T22:52:00+00:00",
+   "title": "ヒューマノイドの「ボクシング・ショー」はもう終わり…中国ではトースト焼いて家事（朝鮮日報日本語版）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OeURvZG5HclBBUEpKaFlGSHlsYlNGWURaRTVaTVBTOTd4a2ZGQlljNW1aa1NsSUVaQWxCUmthdU4tTUdLM0xib2VnQ0xhQmYxb2dJRXQtNHU3RWY3a29aZFM0SDNqemlNZTN6VEZiV3BoSVMyZWFXSUpxcExHem8?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-08-29T02:20:00+00:00",
    "count": 2,
    "sources": [
-    "KVUE",
-    "U.S. News & World Report"
+    "Yahoo!ニュース",
+    "朝鮮日報"
    ],
-   "score": 1.89
+   "score": 1.5
   },
   {
-   "title": "Andreessen Horowitz Raises $1.1B to Fund Hardware Startups as AI Racks Near 1 Megawatt",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOa1BWYVRxY0k4Q2tuVlRzS2ZCWFB6bnNGOG93VC05M2lNS1lCdkZSQnhZSlM2NWplVzdFWXJmRWQ0c2NjdnU0TUFldW9QOWdKYkFyLXhzM0EzSFNHUlJHaFo5UnlLVUMtYTdxSU12bWFha3cxbTF6UkU2Rm9MeHE1aThHb2lfbDY0N3Z3WF85NnNIVmt2Q3pnaFB1azVwSUlvbnotalpORXh1bE9OdFdRcXROTVpGaUJMRDR2TmMtY01wWHluZHRfUlBkdVkydw?oc=5",
-   "source": "Tech Times",
-   "published": "2026-08-28T19:59:48+00:00",
-   "count": 2,
+   "title": "Physical AI Is Opening A New Frontier In Operational Analytics",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbFFkM1I5dEEwU2FkYThkeFdFd08tUFUyQzZfZmhfMnpqNVJqSVNqd1Jqc2JacDJ5THVpODg4VHBkQTFOb2ZfaHRkMElRLWR4QkhqMFZtOFRoVm5VRzREM2VscFpuRkttZE12Rk91elBxMUhjVDdjTzZxMEpyUUVWcWlwajUwSjVINDZ3TDlGWWh6UjVBazBoVVV6MmdjWXU1eS1EUHc0UlBfZnRvdy1oem5jUi1ZcC1lMDBzaGlDNA?oc=5",
+   "source": "Forbes",
+   "published": "2026-08-29T22:00:24+00:00",
+   "count": 1,
    "sources": [
-    "Tech Times",
-    "Unite.AI"
+    "Forbes"
    ],
-   "score": 1.81
+   "score": 0.99
   },
   {
-   "title": "ヒューマノイド3台の息が合ったダンス映像を公開 Toborlife AI活用のUnitree G1",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GSXR2ZldHeUp0eHVqbmRXTUktelFmRVNPWndVNG9JQm91Sl9QRk1Tb214NjdXNXVjSDB6aUtaWE8yZmJHNW8yRU1Bc2tsNjdfbnZ0aWE5T0g5MVdFVUFfVUhCTHo?oc=5",
-   "source": "ロボスタ",
-   "published": "2026-08-28T09:45:02+00:00",
-   "count": 2,
+   "title": "AI robots and drones to assist in Fukushima nuclear plant cleanup",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUG5Sc0lBWmxLazF5Y3JwZktwcEQzVlJocEtzTlR1enFMRURLX0R5enVscjFKMzBNN0RzMTkycjBjc3d0Yi1VT3FNM05xdUx3UlE4VDFpSEx1UGpXU2ExaDJsQTJhSlNtMVR0SXlET2JBcDR0MTdlVVBHUEJSeXJib3g3TTFXeWl2bHBuMG5hblpaQ2o4bHcxNnAtRUZJMlFncmVjamoxN0c2NDFCYkVpZ1JhUGc0VXRCa1NIbFZtT1NBOFFvdGJ0RkVBZVNnUQ?oc=5",
+   "source": "Nikkei Asia",
+   "published": "2026-08-29T21:07:00+00:00",
+   "count": 1,
    "sources": [
-    "ロボスタ"
+    "Nikkei Asia"
    ],
-   "score": 1.57
+   "score": 0.97
   }
  ],
  "hot_news": [
@@ -319,7 +319,7 @@
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRVJHUmVTVHpxY2VUcTM4UW5CMWdvOTM1YktPYlM3cThNN3FCQXhmVkEtdk9PTzRocnJPQmtzVTJNaVI5WTJiZHVyN3NwX0tlTEdoWWtFbThkTWtMT3FiUU55NENkV1R1cFpzZ0ZMVUZuSXp2cnVpdy1Sb19Obk82UEZLeHJJUUZ5YzdwRHFmWS1vaTVWbHgwbUl3M1Y1ek12MjA4MXYyTFRyUQ?oc=5",
    "source": "KVUE",
    "published": "2026-08-28T22:52:00+00:00",
-   "count": 11,
+   "count": 10,
    "sources": [
     "ABC News - Breaking News, Latest News and Videos",
     "Boston 25 News",
@@ -328,7 +328,7 @@
     "KVUE",
     "Newsday"
    ],
-   "score": 10.38
+   "score": 7.15
   },
   {
    "title": "Renesas Opens Physical AI and Robotics Lab in Beijing, Targets 70% Humanoid Robot BOM Coverage",
@@ -344,30 +344,28 @@
     "Gasgoo",
     "International Business Times"
    ],
-   "score": 6.86
+   "score": 5.2
   },
   {
-   "title": "Robot runs faster than human holding 100-meter sprint record",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNWJfdzhYa054eUZOZ2hWY3RFdU1jM1QxTVY4TV9NTXJHLWxIRmF0VlZrVWx2RklXa3NQelplX2lkY05QZU4tel9ObGV6ZHJ5cjNOWUFuVzlNS1VBNjlHOWt0Mm9uQVpYUWpiRkJsSlBKZk41NlR1cmRJd2t6MzJOVTh3UnI5MUhiQTZNUVJsZ01jZHl6XzhwUXRR?oc=5",
-   "source": "wng.org",
-   "published": "2026-08-26T18:43:00+00:00",
-   "count": 14,
+   "title": "フィジカルAIの企業連合のイメージ - 国産AI工作ロボで企業連合 京セラなど20社程度が共同開発へ 切削や加工作業を自動で - 写真・画像(1/1)",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54blUwNG53a0J3OUNianFGMEdoWlFPS0dlazNnbGpYMzZLWENSUFZrcVZsN04xa0duZEIxWmFUbGJBVGUyQWhONHhpcHl6V2UtcTNiU0pfVQ?oc=5",
+   "source": "西日本新聞me",
+   "published": "2026-08-29T21:05:45+00:00",
+   "count": 5,
    "sources": [
-    "AP News",
-    "Bleacher Report",
-    "CBS News",
-    "Fox News",
-    "Oskaloosa Herald",
-    "Reuters"
+    "新潟日報",
+    "沖縄タイムス社",
+    "西日本新聞me",
+    "ｄメニューニュース"
    ],
-   "score": 6.4
+   "score": 4.87
   },
   {
    "title": "China World Humanoid Robot Games",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVzZxUGIzbXByR1hKTTlidXJwYXIxVkhXclBGeWlzd1FuYXJhcWp0bkd4eS0zY20yMnB5ZnRtRlNTZ0YyVzRsUkMzUVZMSDRDd3BLLS1HWllVRFpBWXhXdS1QMDEyQllmaVBQVkJ1ejRFVTE2NWEwUXFHNWtTRVFyX19kSHVIR2FXaFVXeHhpdzRwREJ2bGJGUGs1cDRZYktHcElZUlE5VXRZWnB6SjVGRXU4VVZ1UUxXVGZxdy0ydndNYmNoSFNUYTAzbHNFQTQ?oc=5",
    "source": "dailyrecordnews.com",
    "published": "2026-08-27T09:09:06+00:00",
-   "count": 10,
+   "count": 11,
    "sources": [
     "Central Oregon Daily",
     "DW.com",
@@ -376,39 +374,36 @@
     "KXLY.com",
     "The Lufkin Daily News"
    ],
-   "score": 5.59
+   "score": 4.66
   },
   {
-   "title": "Robot at the World Humanoid Robot Games break Usain Bolt's 100m speed record twice",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONlZBWUlob2hTZDVZR3JPRHY4ajBqN3lsMFllQ2NTNDFFanhKclR4bU5rQTVhMXhGU1AxT18wRnY1bU9NRGV3ZE1DLTNacFJGc05IRkkyWkEzUXdFajhZekVWV3ltSW9zUzBOM1ItSnhpNk9wWmdrdHpESkEta2dWaWgxTDk1cGY4ZXR0bVN5dEtkZE82b2JSTjdNaDh0ZldWSExNUDEyc3RMaDZ2bnBVSlhzbmpwd1ZQ?oc=5",
-   "source": "Gamereactor UK",
-   "published": "2026-08-26T11:58:53+00:00",
-   "count": 12,
+   "title": "Humanoid robot outruns Usain Bolt record as China races ahead",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZEw4bXZ1VUtGWmhjRlFuR2RvNnB2QmNfWmZTZ1ZQOWRRYnhtYVgyZGpBbFEzMTlqbVhIMjduV0xOa3V3Ql93N19rTlBRN3V1MlU5WHZ0UzU3Tmt3UEU0bWhfVWlDWGljc21aUHkzb2MxYXk1T2pmZ3UwMGFEYXJWTmhKaWV5OFU4UG05LTBuSXDSAZYBQVVfeXFMTVE0VTR4azFtN0pOS3hhdzFIS1NudmszbGFxRXJndG85aldVVGNFeHFDaWQtOFhnZ2J6Z00zc005bDkxT09KLTJQZWt5dUxMLUdxTFQwaXhJQVFadHJseXk1SDlsNE1mZ2Q1NE9HZ1ktWnpCVXlMWjJmNTV2cFRPeTVZeE1fN0hCUnNzc1d5MVVDb2gtSk53?oc=5",
+   "source": "Fox News",
+   "published": "2026-08-27T15:28:49+00:00",
+   "count": 10,
    "sources": [
-    "ABC News & Headlines – Australian Broadcasting Corporation",
     "Al Jazeera",
-    "AnewZ",
-    "Bloomberg.com",
-    "Daily Sabah",
-    "Fox News"
+    "CBS News",
+    "Fox News",
+    "Kurdistan24",
+    "Kurt the CyberGuy",
+    "TODAY.com"
    ],
-   "score": 5.0
+   "score": 4.63
   },
   {
-   "title": "Humanoid robot outruns Usain Bolt as China races ahead",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ0VLTUZveklxcFJOR2RQdExVeXlBR0k0ajVoSzNSZ1RNR19qa1V0dlNXTXBpUUJzTWZVWG5jdjdCTVBDR1FDWHlDZndNRnRMMXdyZ00zeERoSTk0M3o4aXpWU1VuZFFCVlZoU0g4bGx2Zm03eXpEX1ZZbTVJQnlNc3RKMDV6WHQxY2hqVA?oc=5",
-   "source": "Kurt the CyberGuy",
-   "published": "2026-08-26T14:00:00+00:00",
-   "count": 11,
+   "title": "踊りはするがネジは締められない…中国ヒューマノイドの実用性（2）（中央日報日本語版）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yQVVEM1Z2V0Jud19Fd211VVl1ZXk0NWJJQm5MWEY3Tkd2dDAtd25OVjd5d3VLOEEzbWtJeTZjTWJxbFZZZ0twWTZ4LWgxeHFCOER0YXhodWVrQ1B3T09XWkV4WVJMREl3Z0tiLWFRVEs4Q3QxNXpHbkxCZDhMNm8?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-08-28T06:09:22+00:00",
+   "count": 7,
    "sources": [
-    "Bleacher Report",
-    "France 24",
-    "Kurt the CyberGuy",
-    "Reuters",
-    "The Detroit News",
-    "The Guardian"
+    "Yahoo!ニュース",
+    "s.japanese.joins.com",
+    "中央日報"
    ],
-   "score": 4.71
+   "score": 3.97
   },
   {
    "title": "Chinese robots beat Usain Bolt 100m record in Beijing",
@@ -424,21 +419,35 @@
     "facebook.com",
     "qz.com"
    ],
-   "score": 4.17
+   "score": 3.16
   },
   {
-   "title": "エコモット－買い気配 ヒグマ対策にフィジカルAI活用 Go-Tech事業に採択(トレーダーズ・ウェブ)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQTNreHlsZjdUQ1AtRDVORmQtUHMyYW1velJJY2JrOE9YRVRIUThlTW9lUk5MLXhZVkpKWFd1QjFjWmxkTUVKMXpUMG84X0pHdWk1Z19ma3FvS1pjOTVCOUhibm5FSzBIQ1RabzBTcFR3Z1YtM3JrRHJHRTNtelM5SWNPU01rdFU?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "published": "2026-08-28T00:02:00+00:00",
-   "count": 6,
+   "title": "Robot at the World Humanoid Robot Games break Usain Bolt's 100m speed record twice",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONlZBWUlob2hTZDVZR3JPRHY4ajBqN3lsMFllQ2NTNDFFanhKclR4bU5rQTVhMXhGU1AxT18wRnY1bU9NRGV3ZE1DLTNacFJGc05IRkkyWkEzUXdFajhZekVWV3ltSW9zUzBOM1ItSnhpNk9wWmdrdHpESkEta2dWaWgxTDk1cGY4ZXR0bVN5dEtkZE82b2JSTjdNaDh0ZldWSExNUDEyc3RMaDZ2bnBVSlhzbmpwd1ZQ?oc=5",
+   "source": "Gamereactor UK",
+   "published": "2026-08-26T11:58:53+00:00",
+   "count": 10,
    "sources": [
-    "PR TIMES",
-    "Yahoo!ファイナンス",
-    "ロボスタ",
-    "日本経済新聞"
+    "Bloomberg.com",
+    "Fox News",
+    "France 24",
+    "Gamereactor UK",
+    "The American Bazaar",
+    "The Independent"
    ],
-   "score": 4.12
+   "score": 3.16
+  },
+  {
+   "title": "ヒューマノイドの「ボクシング・ショー」はもう終わり…中国ではトースト焼いて家事（朝鮮日報日本語版）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1OeURvZG5HclBBUEpKaFlGSHlsYlNGWURaRTVaTVBTOTd4a2ZGQlljNW1aa1NsSUVaQWxCUmthdU4tTUdLM0xib2VnQ0xhQmYxb2dJRXQtNHU3RWY3a29aZFM0SDNqemlNZTN6VEZiV3BoSVMyZWFXSUpxcExHem8?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-08-29T02:20:00+00:00",
+   "count": 4,
+   "sources": [
+    "Yahoo!ニュース",
+    "朝鮮日報"
+   ],
+   "score": 3.0
   },
   {
    "title": "STMicroelectronics, NUS Establish Joint Edge AI Research Lab",
@@ -453,19 +462,7 @@
     "WebWire",
     "thelec.net"
    ],
-   "score": 3.87
-  },
-  {
-   "title": "踊りはするがネジは締められない…中国ヒューマノイドの実用性（2）（中央日報日本語版）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5yQVVEM1Z2V0Jud19Fd211VVl1ZXk0NWJJQm5MWEY3Tkd2dDAtd25OVjd5d3VLOEEzbWtJeTZjTWJxbFZZZ0twWTZ4LWgxeHFCOER0YXhodWVrQ1B3T09XWkV4WVJMREl3Z0tiLWFRVEs4Q3QxNXpHbkxCZDhMNm8?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-08-28T06:09:22+00:00",
-   "count": 5,
-   "sources": [
-    "Yahoo!ニュース",
-    "中央日報"
-   ],
-   "score": 3.74
+   "score": 2.93
   }
  ],
  "trend": {
@@ -532,10 +529,10 @@
      3,
      45,
      49,
-     47,
-     43,
-     23,
-     0
+     48,
+     44,
+     25,
+     9
     ]
    },
    {
@@ -567,11 +564,11 @@
      3,
      7,
      40,
-     37,
-     45,
-     44,
-     26,
-     1
+     38,
+     46,
+     48,
+     28,
+     14
     ]
    },
    {
@@ -599,15 +596,15 @@
      0,
      18,
      6,
-     15,
+     16,
      1,
      3,
-     20,
+     22,
      10,
      8,
      11,
      8,
-     0
+     2
     ]
    },
    {
@@ -640,10 +637,10 @@
      56,
      57,
      30,
-     35,
-     22,
-     27,
-     2
+     37,
+     24,
+     28,
+     8
     ]
    },
    {
@@ -678,8 +675,8 @@
      25,
      36,
      24,
-     18,
-     4
+     20,
+     8
     ]
    }
   ]
@@ -701,7 +698,7 @@
    "name": "GOOGLE LLC",
    "core": "GOOGLE",
    "patents": 275,
-   "news": 29
+   "news": 23
   },
   {
    "name": "HONDA MOTOR CO LTD",
@@ -725,13 +722,13 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 101
+   "news": 100
   },
   {
    "name": "QUALCOMM INC",
    "core": "QUALCOMM",
    "patents": 206,
-   "news": 8
+   "news": 7
   }
  ]
 }
