@@ -1,128 +1,116 @@
 {
- "updated_at": "2026-09-01T00:21:34.728945+00:00",
+ "updated_at": "2026-09-01T22:58:11.119147+00:00",
  "kpi": {
-  "articles_7d": 837,
-  "articles_prev_7d": 962,
-  "sources_7d": 387,
-  "articles_30d": 3043,
-  "total_articles": 6268,
+  "articles_7d": 786,
+  "articles_prev_7d": 961,
+  "sources_7d": 357,
+  "articles_30d": 3096,
+  "total_articles": 6358,
   "oldest_news": "2021-03-15"
  },
  "wordcloud": [
   [
    "china",
-   64
-  ],
-  [
-   "games",
-   63
+   55
   ],
   [
    "実装",
-   56
-  ],
-  [
-   "world",
-   53
-  ],
-  [
-   "中国",
-   51
+   54
   ],
   [
    "現場",
    50
   ],
   [
-   "データ",
-   43
+   "中国",
+   48
+  ],
+  [
+   "games",
+   47
   ],
   [
    "開発",
-   40
+   46
+  ],
+  [
+   "データ",
+   45
+  ],
+  [
+   "world",
+   41
   ],
   [
    "画像",
-   38
-  ],
-  [
-   "写真",
    37
   ],
   [
-   "HRTI",
-   35
+   "写真",
+   36
   ],
   [
    "j-hrti",
    35
   ],
   [
+   "HRTI",
+   35
+  ],
+  [
    "社会",
-   34
+   35
   ],
   [
    "拠点",
    32
   ],
   [
-   "nvidia",
-   30
+   "技術",
+   27
   ],
   [
-   "beijing",
+   "nvidia",
    26
+  ],
+  [
+   "企業",
+   25
   ],
   [
    "ツムラ",
    25
   ],
   [
-   "企業",
+   "支援",
    24
-  ],
-  [
-   "技術",
-   24
-  ],
-  [
-   "世界",
-   22
-  ],
-  [
-   "導入",
-   22
   ],
   [
    "製造",
-   22
+   24
   ],
   [
    "稼働",
    22
   ],
   [
-   "record",
-   21
-  ],
-  [
    "学習",
-   21
+   22
   ],
   [
-   "支援",
-   21
-  ],
-  [
-   "活用",
+   "全国",
    20
   ],
   [
-   "日本",
+   "収集",
    19
   ],
   [
-   "収集",
+   "beijing",
+   19
+  ],
+  [
+   "導入",
    19
   ],
   [
@@ -130,11 +118,15 @@
    19
   ],
   [
-   "全国",
+   "構想",
    19
   ],
   [
-   "国産",
+   "開催",
+   18
+  ],
+  [
+   "活用",
    18
   ],
   [
@@ -146,79 +138,67 @@
    18
   ],
   [
-   "DMS",
-   18
-  ],
-  [
    "dms",
    18
   ],
   [
-   "構想",
+   "DMS",
    18
   ],
   [
-   "chinese",
+   "opens",
    17
+  ],
+  [
+   "国産",
+   17
+  ],
+  [
+   "日本",
+   17
+  ],
+  [
+   "世界",
+   16
   ],
   [
    "公開",
    16
   ],
   [
-   "opens",
+   "サービス",
    16
-  ],
-  [
-   "lab",
-   15
-  ],
-  [
-   "事業",
-   15
-  ],
-  [
-   "不足",
-   15
   ],
   [
    "連合",
    15
   ],
   [
-   "サービス",
-   15
-  ],
-  [
-   "共同",
+   "不足",
    14
   ],
   [
-   "時代",
+   "事業",
    14
-  ],
-  [
-   "raises",
-   13
-  ],
-  [
-   "戦略",
-   13
-  ],
-  [
-   "bolt",
-   13
-  ],
-  [
-   "開催",
-   13
   ],
   [
    "launches",
    13
   ],
   [
-   "edge",
+   "共同",
+   13
+  ],
+  [
+   "record",
+   13
+  ],
+  [
+   "lab",
+   13
+  ],
+  [
+   "japan",
    12
   ],
   [
@@ -226,19 +206,19 @@
    12
   ],
   [
+   "時代",
+   12
+  ],
+  [
+   "unitree",
+   12
+  ],
+  [
    "京セラ",
    12
   ],
   [
-   "jetson",
-   11
-  ],
-  [
-   "nec",
-   11
-  ],
-  [
-   "fund",
+   "aws",
    11
   ],
   [
@@ -246,73 +226,88 @@
    11
   ],
   [
-   "実現",
+   "raises",
+   11
+  ],
+  [
+   "bolt",
+   11
+  ],
+  [
+   "anthropic",
+   11
+  ],
+  [
+   "タイミー",
+   11
+  ],
+  [
+   "GMO",
+   11
+  ],
+  [
+   "gmo",
    11
   ]
  ],
  "today_top5": [
   {
-   "title": "「乗り換えは？」人型ロボットが駅で回答 大阪メトロが梅田駅で生成AI「Gemini」活用したロボット実証実験 人手不足の解消へ",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfQzV5RC1OTHZqN3IzdHJScldUSTVTa0dFdUhjYXR4N0h0c3N3dkFPWDNGVTAxamlDbjNzYUFVMjBOT2VhX3RaRUZlSDJTZEhlalBNSg?oc=5",
-   "source": "ktv.jp",
-   "published": "2026-08-31T13:18:37+00:00",
-   "count": 4,
+   "title": "日立製作所が設備保全向けフィジカルAIを開発、音や振動を自然言語で解析し異常診断を効率化",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xc2RYQzJrMFZTd0sxb2wwVjFfeWdWVU9GbHZYcjM4UFNPMVF5amhWcUFSVGx0dXZ1TWdvVUY5SHo3N1NjRzVTTEhhb2RkUEtMaksxdDZEaGM2WDRPTnJmMzIwa2w?oc=5",
+   "source": "ロボスタ",
+   "published": "2026-09-01T07:40:03+00:00",
+   "count": 3,
    "sources": [
-    "TBS NEWS DIG",
-    "ktv.jp",
-    "日テレNEWS NNN",
-    "産経ニュース"
+    "PR TIMES",
+    "ロボスタ"
    ],
-   "score": 3.43
+   "score": 2.43
   },
   {
-   "title": "リコー、フィジカルAI技術を開発＝動画から人の動き学習、ロボットに適用(時事通信)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbXNsTnB1cGJ6VF83TVh3RkZERklIV042ek9nQTdydTUzOXRCby1kLUpWQ0ZhN0pIVjZ3NzctVzdoeVVVa2FxTFhJQjNjM2ZfRXRGMjBZQzJKNFdrQXZWaTRUc09TQ3FlelhSQjZRM3hBU2M1UnhSbndKWUZnUXRjVXRuOVJ1TGs?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "published": "2026-08-31T11:36:00+00:00",
-   "count": 4,
-   "sources": [
-    "Ricoh",
-    "Yahoo!ファイナンス",
-    "ZDNET Japan",
-    "ｄメニューニュース"
-   ],
-   "score": 3.35
-  },
-  {
-   "title": "ブレインテク、「フィジカルＡＩ現場実装・ロボット導入支援サービス」の提供開始(ウエルスアドバイザー)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU44cHoxeWdjRUR0eWxLZWU5ZUtTRkl1eXhrMFVaa1Q3NFk0SVpWeGZvZlBUMWVYbklPRGFZNVVuczlwcXNzWjhzSUtVaUZxMGtIeXpnQVJBWGplMHZCb1I0WU8zb1l4ckw3LW1lUUVLU1hJWjVYUl9falYxZW9fY3BBTVhteFk?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "published": "2026-08-31T06:51:00+00:00",
-   "count": 4,
-   "sources": [
-    "Yahoo!ファイナンス",
-    "kabushiki.jp",
-    "ｄメニューニュース"
-   ],
-   "score": 3.14
-  },
-  {
-   "title": "韓国ROBOTIS、大学生が人型ロボットの高難度動作を開発…「逆立ち」やK-POPダンスも",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZbnhaS19fZHc3SHdtZHQwbkh3blNvQlIwM2lLbjNkaExvVmw0MGtPa0c3RzVPekNhSnFVZ2VUU1JwTnJpMnBoaEVqc2g0VWFpTGfSAVRBVV95cUxNLVhvaEJkbXFOWTNwaGg2YVk3eHk0VEVxUE93OFBRc280WlBkakZwMDJRUXlyeVhNZVN0VFNnQzJHRU16eWJDMkdQdjVPVHFBT0tSY1A?oc=5",
-   "source": "AFPBB News",
-   "published": "2026-08-31T22:28:40+00:00",
+   "title": "フィジカルAI Summit初開催、日本の次世代産業競争力を決める1日",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBUTkJtMEpHeWNhNW9pZDBzeDJRTm1hd21QN3oxYXlISDVIMFRZUTYzTXh3d2VlOXh1V3REcGRDVWVvMXc5LXc?oc=5",
+   "source": "Koubo",
+   "published": "2026-09-01T18:54:00+00:00",
    "count": 2,
    "sources": [
-    "AFPBB News",
-    "Yahoo!ニュース"
+    "Koubo",
+    "LOGISTICS TODAY"
    ],
-   "score": 1.95
+   "score": 1.89
   },
   {
-   "title": "China's Humanoid Robot Games: Biggest Highlights",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkS3oxNVBFVjhESUNrMzBicmZ4OFpXU2YxRXIwdWpMaHZCTm1FdFdRS2x4OEpXRjdQdFdCblpLTGtvN1d5c19LcjJ3OXd3UGJyWkl6dm9LTlNWWVp1clV4b3FQV3dnRkRQQjFQMVEwcjdjN3FOMUJvU0M4MA?oc=5",
-   "source": "mashable.com",
-   "published": "2026-08-31T12:14:39+00:00",
+   "title": "Aeris Names Suresh Sathyamurthy CMO to Expand Physical AI Strategy",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNmJDaDNLTmJWUjN6U1c4ZDJXNU5EeDdwQXpwRThJU2Zmblg2M2t6bUk5c3B4Ry1Dbkw0UUJQakxZTXJPelc3WDA4MmpHTkF2eHhDNEhBeTVjdFl5ZFFUOVJXVkI3OWhVcmM1WXctVkdLRXBGbFFBR2xXSUJWcE1KTHVKUUlRRktJemRjRTFaaldKRUtPdkZrUUxzamxZQjZBUWQyN1hUV2s?oc=5",
+   "source": "citybiz",
+   "published": "2026-09-01T18:05:08+00:00",
    "count": 2,
    "sources": [
-    "CNET",
-    "mashable.com"
+    "Business Wire",
+    "citybiz"
+   ],
+   "score": 1.87
+  },
+  {
+   "title": "Anthropic Unveils MHS for AI Agents in Physical Labs",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTXRPdTBDdG16RWlSLWNmbWIxeEx3MHV1WEFWcThodnRXc3ZjZUFRWkhsOFBEcF9aajFFV2otZUpBWDhUMXdYY1gyTy0wV1gzSXBLQ2xpNVEwRnJoRWt5LVlXM1N2SFIydEdlZkZ1UkFnMEtuajMxcmZoOERaWjAxUWJ6WElldkk?oc=5",
+   "source": "AI Magazine",
+   "published": "2026-09-01T15:53:03+00:00",
+   "count": 2,
+   "sources": [
+    "AI Magazine",
+    "thelec.net"
+   ],
+   "score": 1.81
+  },
+  {
+   "title": "EXILE HIRO、『第4回 GMO大会議 秋 フィジカルAI 2026』出演を見合わせ LDH JAPANが発表 (オリコン)",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa0doR0xGb29YYWgyNkhhM1RjT081RmdRX3lKUVlPTDdEaTlRT29RSVRld2NLZ3haTlBra2FuVWNOaHhVQXpmRXM0aUpjSjYxdGV6b0tobjB5bG9LTnpCeE0ySjFacXZNcEJBYTUyMGdxLW1qZ0R4TnZLOG5CaE9aQW9TYkV3M09KSUppMFJR?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-09-01T10:51:03+00:00",
+   "count": 2,
+   "sources": [
+    "Yahoo!ニュース",
+    "オリコンニュース"
    ],
    "score": 1.69
   }
@@ -327,7 +322,7 @@
    "sources": [
     "ロボスタ"
    ],
-   "score": 12.88
+   "score": 9.41
   },
   {
    "title": "Renesas Launches Physical AI and Robotics Lab in Beijing",
@@ -343,7 +338,7 @@
     "Evertiq",
     "Gasgoo"
    ],
-   "score": 6.99
+   "score": 5.11
   },
   {
    "title": "ブレインテク、「フィジカルＡＩ現場実装・ロボット導入支援サービス」の提供開始(ウエルスアドバイザー)",
@@ -357,7 +352,21 @@
     "kabushiki.jp",
     "ｄメニューニュース"
    ],
-   "score": 5.49
+   "score": 4.01
+  },
+  {
+   "title": "フィジカルAI Summit初開催、日本の次世代産業競争力を決める1日",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBUTkJtMEpHeWNhNW9pZDBzeDJRTm1hd21QN3oxYXlISDVIMFRZUTYzTXh3d2VlOXh1V3REcGRDVWVvMXc5LXc?oc=5",
+   "source": "Koubo",
+   "published": "2026-09-01T18:54:00+00:00",
+   "count": 4,
+   "sources": [
+    "Koubo",
+    "LOGISTICS TODAY",
+    "article.auone.jp",
+    "ロボスタ"
+   ],
+   "score": 3.78
   },
   {
    "title": "〈夕刊ワイド〉ロボに託す「職人技」継承 開発進むフィジカルＡＩに熱視線 高齢化、担い手不足の製造業｜全国のニュース",
@@ -372,7 +381,35 @@
     "熊本日日新聞社",
     "西日本新聞me"
    ],
-   "score": 4.71
+   "score": 3.44
+  },
+  {
+   "title": "「スピード、現場の力、クラウドが不可欠」 AWSがフィジカルAI開発支援プログラムの成果発表会を開催",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3MnoyaVBKY3VEVm5uWUJsQVFJdGpLZEVWbjBzbHBBV245NU53ZVdYd2d5RVJpU2lVQlVGaXhGbEhOZjZXVUpwaXRyS2NCanVXSEE?oc=5",
+   "source": "ビジネスネットワーク",
+   "published": "2026-09-01T10:02:36+00:00",
+   "count": 4,
+   "sources": [
+    "Amazon Web Services (AWS)",
+    "IT Leaders",
+    "PR TIMES",
+    "ビジネスネットワーク"
+   ],
+   "score": 3.34
+  },
+  {
+   "title": "リコーは年初来高値更新、さまざまなロボットに適用可能なフィジカルＡＩ技術を開発",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9oMlhqV0YxZUVodGlWekl4ZEF3aXpHcXZoY2pocklJaHhFYUVKM0oteXVIU2RQQmRIR0s4cDZSc2ZxaElnTVE?oc=5",
+   "source": "みんかぶ",
+   "published": "2026-09-01T04:45:50+00:00",
+   "count": 4,
+   "sources": [
+    "Ricoh",
+    "Yahoo!ファイナンス",
+    "ZDNET Japan",
+    "みんかぶ"
+   ],
+   "score": 3.11
   },
   {
    "title": "「J-HRTI 関東データファクトリー」稼働に伴い、物流現場におけるヒューマノイドロボット実装活動を本格始動 - LOGI-BIZ online",
@@ -387,23 +424,20 @@
     "共同通信PRワイヤー",
     "物流ニュースのLNEWS"
    ],
-   "score": 3.93
+   "score": 2.87
   },
   {
-   "title": "NVIDIA Jetson Orin Nano 2 Doubles Edge AI Performance for Robotics",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVzR1eGstLTBEQW4zOUlIeTR1emlubjFZSHFYNm9SS3pYdHdEakdwd1h6N0lGaE4yMldjN0lQTGVsSy1OTzFmaTFsNjBvQ1JHbzluTlVXbjU5ZDRjYVFaT2dhTHFWLXpHa1oyX0p6STdkeG9tUDZrT2xmUXNrMTRhU0l3aXdqU1YyaTlLWVpBenlNUQ?oc=5",
-   "source": "Memeburn",
-   "published": "2026-08-30T06:15:26+00:00",
-   "count": 7,
+   "title": "Anthropic Unveils MHS for AI Agents in Physical Labs",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTXRPdTBDdG16RWlSLWNmbWIxeEx3MHV1WEFWcThodnRXc3ZjZUFRWkhsOFBEcF9aajFFV2otZUpBWDhUMXdYY1gyTy0wV1gzSXBLQ2xpNVEwRnJoRWt5LVlXM1N2SFIydEdlZkZ1UkFnMEtuajMxcmZoOERaWjAxUWJ6WElldkk?oc=5",
+   "source": "AI Magazine",
+   "published": "2026-09-01T15:53:03+00:00",
+   "count": 3,
    "sources": [
-    "AI Business",
     "AI Magazine",
-    "AI News",
-    "Memeburn",
-    "Moomoo",
-    "NVIDIA Newsroom"
+    "Wowtale",
+    "thelec.net"
    ],
-   "score": 3.9
+   "score": 2.72
   },
   {
    "title": "J-HRTIが習志野に学習データ拠点｜ヒューマノイド35台を5社で運用",
@@ -417,52 +451,7 @@
     "ロボスタ",
     "株式会社インプレス"
    ],
-   "score": 3.66
-  },
-  {
-   "title": "「乗り換えは？」人型ロボットが駅で回答 大阪メトロが梅田駅で生成AI「Gemini」活用したロボット実証実験 人手不足の解消へ",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfQzV5RC1OTHZqN3IzdHJScldUSTVTa0dFdUhjYXR4N0h0c3N3dkFPWDNGVTAxamlDbjNzYUFVMjBOT2VhX3RaRUZlSDJTZEhlalBNSg?oc=5",
-   "source": "ktv.jp",
-   "published": "2026-08-31T13:18:37+00:00",
-   "count": 4,
-   "sources": [
-    "TBS NEWS DIG",
-    "ktv.jp",
-    "日テレNEWS NNN",
-    "産経ニュース"
-   ],
-   "score": 3.43
-  },
-  {
-   "title": "フィジカルAIの企業連合のイメージ - 国産AI工作ロボで企業連合 京セラなど20社程度が共同開発へ 切削や加工作業を自動で - 写真・画像(1/1)",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54blUwNG53a0J3OUNianFGMEdoWlFPS0dlazNnbGpYMzZLWENSUFZrcVZsN04xa0duZEIxWmFUbGJBVGUyQWhONHhpcHl6V2UtcTNiU0pfVQ?oc=5",
-   "source": "西日本新聞me",
-   "published": "2026-08-29T21:05:45+00:00",
-   "count": 7,
-   "sources": [
-    "Yahoo!ニュース",
-    "okinawatimes.co.jp",
-    "新潟日報",
-    "沖縄タイムス社",
-    "西日本新聞me",
-    "ｄメニューニュース"
-   ],
-   "score": 3.43
-  },
-  {
-   "title": "Transfyr Raises $25 Million Seed Led By General Catalyst To Build Physical AI Infrastructure For Science",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ1pHQVluMDlNdG5fa2ZBU3UtX184aVc3WUJvZ2hseHlSRlNyNmNfNm1FSUFRSVhFd2RsQjNEcnMwRmhYYnVaTVFfd0RTZUMtS2pLWDdhODdadS16MkN6TEx3cTFNeG9NMU94VTBHQjRpbjJRQzlmc2llUldFek5wd0pnM0FwRkNkT1dRVnRUV1F0S1pwZXFfOGJIbjJQTkw1VnU3SWRudkdsTGtrMzRXdjNabDJWU1RJRzI2WWdoUHjSAcYBQVVfeXFMTUxsX0JKRFF6NUE3NW9sRXZaQnpUWDZCWXZ5eTRnRmROaTBaOGVPLVFYbFR5bnV0Zk9QcVBoU1Q0WXE0MzJicU1kb0VUaHRfbE9LeHN0SjZuSjU4NFl2cHMtWS0yRDhqWmpndl9mbDF1ZG1WZTZhYm9TWmhIMnQ1VTVVZmRTYjVRZ1h0dXdMRXhDYlNlZjFpNktpZnBXZlBKaWp1bHZfb2V3TWEtWlBHdzZXak1EcEdBMDhIblQ1TF9MUUhQbFR3?oc=5",
-   "source": "Pulse 2.0",
-   "published": "2026-08-30T20:25:04+00:00",
-   "count": 5,
-   "sources": [
-    "01net",
-    "AI Insider",
-    "Pulse 2.0",
-    "TradingView",
-    "citybiz"
-   ],
-   "score": 3.39
+   "score": 2.68
   }
  ],
  "trend": {
@@ -531,8 +520,8 @@
      26,
      9,
      9,
-     40,
-     0
+     43,
+     25
     ]
    },
    {
@@ -566,9 +555,9 @@
      49,
      28,
      16,
-     32,
-     40,
-     3
+     33,
+     42,
+     33
     ]
    },
    {
@@ -599,12 +588,12 @@
      24,
      11,
      8,
-     11,
+     12,
      8,
      2,
      2,
      4,
-     0
+     2
     ]
    },
    {
@@ -632,15 +621,15 @@
      52,
      47,
      56,
-     57,
+     58,
      30,
      38,
      25,
      32,
-     10,
-     22,
-     26,
-     0
+     11,
+     23,
+     29,
+     12
     ]
    },
    {
@@ -661,7 +650,7 @@
      22,
      4,
      3,
-     28,
+     29,
      27,
      26,
      31,
@@ -674,9 +663,9 @@
      27,
      21,
      8,
-     12,
+     13,
      44,
-     0
+     8
     ]
    }
   ]
@@ -698,7 +687,7 @@
    "name": "GOOGLE LLC",
    "core": "GOOGLE",
    "patents": 275,
-   "news": 8
+   "news": 7
   },
   {
    "name": "HONDA MOTOR CO LTD",
@@ -722,7 +711,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 102
+   "news": 104
   },
   {
    "name": "QUALCOMM INC",
