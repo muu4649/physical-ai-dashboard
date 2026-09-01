@@ -1,334 +1,393 @@
 {
- "updated_at": "2026-08-30T23:06:52.023138+00:00",
+ "updated_at": "2026-09-01T00:21:34.728945+00:00",
  "kpi": {
-  "articles_7d": 863,
-  "articles_prev_7d": 899,
-  "sources_7d": 413,
-  "articles_30d": 2905,
-  "total_articles": 6101,
+  "articles_7d": 837,
+  "articles_prev_7d": 962,
+  "sources_7d": 387,
+  "articles_30d": 3043,
+  "total_articles": 6268,
   "oldest_news": "2021-03-15"
  },
  "wordcloud": [
   [
-   "games",
-   87
-  ],
-  [
-   "world",
-   75
-  ],
-  [
    "china",
-   69
+   64
   ],
   [
-   "中国",
-   65
-  ],
-  [
-   "データ",
-   39
-  ],
-  [
-   "beijing",
-   36
-  ],
-  [
-   "record",
-   34
+   "games",
+   63
   ],
   [
    "実装",
-   33
+   56
   ],
   [
-   "開発",
-   31
+   "world",
+   53
+  ],
+  [
+   "中国",
+   51
   ],
   [
    "現場",
-   30
+   50
+  ],
+  [
+   "データ",
+   43
+  ],
+  [
+   "開発",
+   40
+  ],
+  [
+   "画像",
+   38
+  ],
+  [
+   "写真",
+   37
+  ],
+  [
+   "HRTI",
+   35
+  ],
+  [
+   "j-hrti",
+   35
+  ],
+  [
+   "社会",
+   34
+  ],
+  [
+   "拠点",
+   32
   ],
   [
    "nvidia",
-   29
+   30
   ],
   [
-   "世界",
+   "beijing",
    26
   ],
   [
-   "bolt",
-   26
-  ],
-  [
-   "usain",
+   "ツムラ",
    25
   ],
   [
    "企業",
+   24
+  ],
+  [
+   "技術",
+   24
+  ],
+  [
+   "世界",
    22
   ],
   [
-   "画像",
+   "導入",
    22
   ],
   [
-   "写真",
+   "製造",
    22
   ],
   [
-   "raises",
+   "稼働",
+   22
+  ],
+  [
+   "record",
+   21
+  ],
+  [
+   "学習",
+   21
+  ],
+  [
+   "支援",
    21
   ],
   [
    "活用",
-   21
+   20
   ],
   [
    "日本",
-   21
-  ],
-  [
-   "稼働",
-   21
+   19
   ],
   [
    "収集",
-   20
+   19
   ],
   [
-   "製造",
-   20
+   "山善",
+   19
   ],
   [
-   "xpeng",
+   "全国",
    19
   ],
   [
    "国産",
-   19
+   18
   ],
   [
-   "edge",
-   17
+   "実用",
+   18
   ],
   [
-   "共同",
-   17
+   "芙蓉",
+   18
   ],
   [
-   "事業",
-   17
+   "DMS",
+   18
   ],
   [
-   "導入",
-   17
+   "dms",
+   18
   ],
   [
-   "lab",
-   17
+   "構想",
+   18
   ],
   [
    "chinese",
    17
   ],
   [
-   "社会",
-   17
-  ],
-  [
-   "実用",
-   17
-  ],
-  [
-   "startup",
+   "公開",
    16
-  ],
-  [
-   "実証",
-   16
-  ],
-  [
-   "国内",
-   16
-  ],
-  [
-   "披露",
-   16
-  ],
-  [
-   "meter",
-   16
-  ],
-  [
-   "学習",
-   16
-  ],
-  [
-   "funding",
-   15
-  ],
-  [
-   "j-hrti",
-   15
-  ],
-  [
-   "HRTI",
-   15
   ],
   [
    "opens",
-   14
+   16
   ],
   [
-   "human",
-   14
+   "lab",
+   15
   ],
   [
-   "million",
-   13
+   "事業",
+   15
   ],
   [
-   "infrastructure",
-   13
-  ],
-  [
-   "日立",
-   13
-  ],
-  [
-   "技術",
-   13
-  ],
-  [
-   "拠点",
-   13
+   "不足",
+   15
   ],
   [
    "連合",
+   15
+  ],
+  [
+   "サービス",
+   15
+  ],
+  [
+   "共同",
+   14
+  ],
+  [
+   "時代",
+   14
+  ],
+  [
+   "raises",
    13
   ],
   [
-   "valuation",
+   "戦略",
+   13
+  ],
+  [
+   "bolt",
+   13
+  ],
+  [
+   "開催",
+   13
+  ],
+  [
+   "launches",
+   13
+  ],
+  [
+   "edge",
+   12
+  ],
+  [
+   "新た",
+   12
+  ],
+  [
+   "京セラ",
    12
   ],
   [
    "jetson",
-   12
-  ],
-  [
-   "data",
-   12
-  ],
-  [
-   "研究",
-   12
-  ],
-  [
-   "com",
-   12
-  ],
-  [
-   "開催",
-   12
-  ],
-  [
-   "戦略",
-   12
-  ],
-  [
-   "時代",
-   12
-  ],
-  [
-   "orin",
    11
   ],
   [
-   "model",
+   "nec",
+   11
+  ],
+  [
+   "fund",
+   11
+  ],
+  [
+   "data",
+   11
+  ],
+  [
+   "実現",
    11
   ]
  ],
  "today_top5": [
   {
-   "title": "【フィジカルＡＩ】「職人技」継承に熱視線",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jX3RKSWFTeV9jTDN6YURERXVPR3MzQmdISnJsUGxCWWRNZW9VZTN3c2RMemh3d0lDQk5FdmJjQ2pxUDhWVFFoZ1pYVzlxYTh4Z3hrRVJoS0QxZmc?oc=5",
-   "source": "下野新聞社",
-   "published": "2026-08-30T01:20:34+00:00",
-   "count": 5,
+   "title": "「乗り換えは？」人型ロボットが駅で回答 大阪メトロが梅田駅で生成AI「Gemini」活用したロボット実証実験 人手不足の解消へ",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfQzV5RC1OTHZqN3IzdHJScldUSTVTa0dFdUhjYXR4N0h0c3N3dkFPWDNGVTAxamlDbjNzYUFVMjBOT2VhX3RaRUZlSDJTZEhlalBNSg?oc=5",
+   "source": "ktv.jp",
+   "published": "2026-08-31T13:18:37+00:00",
+   "count": 4,
    "sources": [
-    "下野新聞社",
-    "中国新聞デジタル",
-    "沖縄タイムス社",
-    "熊本日日新聞社",
-    "西日本新聞me"
+    "TBS NEWS DIG",
+    "ktv.jp",
+    "日テレNEWS NNN",
+    "産経ニュース"
    ],
-   "score": 3.7
+   "score": 3.43
   },
   {
-   "title": "J-HRTIが習志野に学習データ拠点｜ヒューマノイド35台を5社で運用",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3Sjh2U3hHYVpoSzVQdWJEaTVJVTVuOU9PR1RBZnlWblR4b2U2Vm5BWHB1Q2FCX1hyaUpzTktXamdhV1piM1Y5Z2M4bGdWclF0bXp1MTcyd0xVaFk?oc=5",
-   "source": "innovaTopia",
-   "published": "2026-08-30T12:49:52+00:00",
-   "count": 3,
+   "title": "リコー、フィジカルAI技術を開発＝動画から人の動き学習、ロボットに適用(時事通信)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbXNsTnB1cGJ6VF83TVh3RkZERklIV042ek9nQTdydTUzOXRCby1kLUpWQ0ZhN0pIVjZ3NzctVzdoeVVVa2FxTFhJQjNjM2ZfRXRGMjBZQzJKNFdrQXZWaTRUc09TQ3FlelhSQjZRM3hBU2M1UnhSbndKWUZnUXRjVXRuOVJ1TGs?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "published": "2026-08-31T11:36:00+00:00",
+   "count": 4,
    "sources": [
-    "innovaTopia",
-    "ロボスタ"
+    "Ricoh",
+    "Yahoo!ファイナンス",
+    "ZDNET Japan",
+    "ｄメニューニュース"
    ],
-   "score": 2.6
+   "score": 3.35
   },
   {
-   "title": "エル・ティー・エス、フィジカルＡＩ社会実装支援を開始、「レイバーコストゼロ」時代へ - kabu-ir.com",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MZU9KRUxMNUpOVTRBZkJLcXRJRW1ZdHlzcVhOQkwxZlJaeDFRcGFVMjdjU3hCcFJWQ0FjYlQ2V29UNWNwRVhtX2pFbWZoclZKby1rNw?oc=5",
-   "source": "kabu-ir.com",
-   "published": "2026-08-30T21:53:12+00:00",
+   "title": "ブレインテク、「フィジカルＡＩ現場実装・ロボット導入支援サービス」の提供開始(ウエルスアドバイザー)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU44cHoxeWdjRUR0eWxLZWU5ZUtTRkl1eXhrMFVaa1Q3NFk0SVpWeGZvZlBUMWVYbklPRGFZNVVuczlwcXNzWjhzSUtVaUZxMGtIeXpnQVJBWGplMHZCb1I0WU8zb1l4ckw3LW1lUUVLU1hJWjVYUl9falYxZW9fY3BBTVhteFk?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "published": "2026-08-31T06:51:00+00:00",
+   "count": 4,
+   "sources": [
+    "Yahoo!ファイナンス",
+    "kabushiki.jp",
+    "ｄメニューニュース"
+   ],
+   "score": 3.14
+  },
+  {
+   "title": "韓国ROBOTIS、大学生が人型ロボットの高難度動作を開発…「逆立ち」やK-POPダンスも",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZbnhaS19fZHc3SHdtZHQwbkh3blNvQlIwM2lLbjNkaExvVmw0MGtPa0c3RzVPekNhSnFVZ2VUU1JwTnJpMnBoaEVqc2g0VWFpTGfSAVRBVV95cUxNLVhvaEJkbXFOWTNwaGg2YVk3eHk0VEVxUE93OFBRc280WlBkakZwMDJRUXlyeVhNZVN0VFNnQzJHRU16eWJDMkdQdjVPVHFBT0tSY1A?oc=5",
+   "source": "AFPBB News",
+   "published": "2026-08-31T22:28:40+00:00",
    "count": 2,
    "sources": [
-    "kabu-ir.com"
+    "AFPBB News",
+    "Yahoo!ニュース"
    ],
-   "score": 1.97
+   "score": 1.95
   },
   {
-   "title": "MARK-TO-MARKET: AI breakthroughs on display at the World Humanoid Robot Games - The Quad-City Times",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWjJKTjRQY0ljNkpPM015WmxlLTJUSC1EdFY5SzVxOEI5UUZnXzFXRElacXphZVdkeXZ4b240MDFENFF6Z09iQW0xWnVnaGpWVnBTN2hWRzJqRGFGc2pRaDR4MWstcHFMZktidFNuUDRlWm5fcENFWWpuYVNnaUd2aXRPWk5oTmRtRkJPVHVKTHpZX0k?oc=5",
-   "source": "The Quad-City Times",
-   "published": "2026-08-30T11:30:00+00:00",
+   "title": "China's Humanoid Robot Games: Biggest Highlights",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkS3oxNVBFVjhESUNrMzBicmZ4OFpXU2YxRXIwdWpMaHZCTm1FdFdRS2x4OEpXRjdQdFdCblpLTGtvN1d5c19LcjJ3OXd3UGJyWkl6dm9LTlNWWVp1clV4b3FQV3dnRkRQQjFQMVEwcjdjN3FOMUJvU0M4MA?oc=5",
+   "source": "mashable.com",
+   "published": "2026-08-31T12:14:39+00:00",
    "count": 2,
    "sources": [
-    "Dispatch Argus",
-    "The Quad-City Times"
+    "CNET",
+    "mashable.com"
    ],
-   "score": 1.7
-  },
-  {
-   "title": "LexxPluss 阿蘓将也、「Tokyo Physical AI Summit」パネルディスカッションに登壇",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RXzRYUFJXX3VYUmxrYUNvY0lQT09PSHBKR0J5cGpIT0xVZTVXam9jZXRwY043ekc3b1JuUDlCWHJGWElmMHJlQlFEM2VJcVlKSFdWMTFUSnRkWkd0TUxnTEZoaWt3aFc2OWc?oc=5",
-   "source": "PR TIMES",
-   "published": "2026-08-30T23:00:01+00:00",
-   "count": 1,
-   "sources": [
-    "PR TIMES"
-   ],
-   "score": 1.0
+   "score": 1.69
   }
  ],
  "hot_news": [
   {
-   "title": "J-HRTIが習志野に学習データ拠点｜ヒューマノイド35台を5社で運用",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3Sjh2U3hHYVpoSzVQdWJEaTVJVTVuOU9PR1RBZnlWblR4b2U2Vm5BWHB1Q2FCX1hyaUpzTktXamdhV1piM1Y5Z2M4bGdWclF0bXp1MTcyd0xVaFk?oc=5",
-   "source": "innovaTopia",
-   "published": "2026-08-30T12:49:52+00:00",
+   "title": "ヒューマノイドを現場でどう使う？ J-HRTI「全国10拠点」構想、ツムラやDMS、山善、芙蓉らが描くフィジカルAIの社会実装",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1yUGl1eFNXZ3RhRmN5T1BicHNtaWpoSG1VeUZNRmFKZC02NlZJWUlBZmZhWV9DcFZxQ0F4bjdvaGJNbURFSHZ5Q3gwNWxlNzlPWVJNRjVNNW1jV3M3aS1ja2hzZFc?oc=5",
+   "source": "ロボスタ",
+   "published": "2026-08-31T00:15:03+00:00",
+   "count": 18,
+   "sources": [
+    "ロボスタ"
+   ],
+   "score": 12.88
+  },
+  {
+   "title": "Renesas Launches Physical AI and Robotics Lab in Beijing",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNi1ZYzUtdGZNS2NqTTA1U01vOGtiTzVtYmlZMU9fUHpyLTIxSWFjUDJIUUxlZ2QzZEpfQTZ2OVh2bHlrU3VwTE5Oa0U4X1phUUhkN0tqTUtVVUF0VU0teFpQT1paU1VLNDNZRVhNcFprZzNBS1BEUUhhWjNLODBYeHpTbFZUNTBoaWY2OEt3?oc=5",
+   "source": "Bisinfotech",
+   "published": "2026-08-31T06:12:23+00:00",
+   "count": 9,
+   "sources": [
+    "AI Insider",
+    "Bisinfotech",
+    "Electronics Weekly",
+    "Engineering.com",
+    "Evertiq",
+    "Gasgoo"
+   ],
+   "score": 6.99
+  },
+  {
+   "title": "ブレインテク、「フィジカルＡＩ現場実装・ロボット導入支援サービス」の提供開始(ウエルスアドバイザー)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSU44cHoxeWdjRUR0eWxLZWU5ZUtTRkl1eXhrMFVaa1Q3NFk0SVpWeGZvZlBUMWVYbklPRGFZNVVuczlwcXNzWjhzSUtVaUZxMGtIeXpnQVJBWGplMHZCb1I0WU8zb1l4ckw3LW1lUUVLU1hJWjVYUl9falYxZW9fY3BBTVhteFk?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "published": "2026-08-31T06:51:00+00:00",
    "count": 7,
    "sources": [
-    "innovaTopia",
-    "ビジネスネットワーク",
-    "ロボスタ",
+    "PR TIMES",
+    "Yahoo!ファイナンス",
+    "kabushiki.jp",
+    "ｄメニューニュース"
+   ],
+   "score": 5.49
+  },
+  {
+   "title": "〈夕刊ワイド〉ロボに託す「職人技」継承 開発進むフィジカルＡＩに熱視線 高齢化、担い手不足の製造業｜全国のニュース",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83TkdDbVZXd1o0dmF1cWg1NmVfcF81WkloY1A4M3hxS3JWdmY0d0hEVlkyeXg3bE14UkhUUks0dEdtbHdEZE9uWDNRdXozbms0cjdSX250dw?oc=5",
+   "source": "北國新聞",
+   "published": "2026-08-31T07:00:00+00:00",
+   "count": 6,
+   "sources": [
+    "中国新聞デジタル",
+    "北國新聞",
+    "沖縄タイムス社",
+    "熊本日日新聞社",
+    "西日本新聞me"
+   ],
+   "score": 4.71
+  },
+  {
+   "title": "「J-HRTI 関東データファクトリー」稼働に伴い、物流現場におけるヒューマノイドロボット実装活動を本格始動 - LOGI-BIZ online",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5abVN2TXM1YzVoUFIwU2tIM0RkYi1YcXljUkppNUp6UTRJUmZYcWVPN0k5Yjl5aVp4X3pLN3luUndZVmQ0ZXFCWkUzRQ?oc=5",
+   "source": "LOGI-BIZ online",
+   "published": "2026-08-31T07:00:53+00:00",
+   "count": 5,
+   "sources": [
+    "LOGI-BIZ online",
+    "PR TIMES",
+    "ニュースメディアVOIX",
     "共同通信PRワイヤー",
-    "株式会社インプレス",
     "物流ニュースのLNEWS"
    ],
-   "score": 6.07
+   "score": 3.93
   },
   {
    "title": "NVIDIA Jetson Orin Nano 2 Doubles Edge AI Performance for Robotics",
@@ -344,22 +403,51 @@
     "Moomoo",
     "NVIDIA Newsroom"
    ],
-   "score": 5.54
+   "score": 3.9
   },
   {
-   "title": "【フィジカルＡＩ】「職人技」継承に熱視線",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jX3RKSWFTeV9jTDN6YURERXVPR3MzQmdISnJsUGxCWWRNZW9VZTN3c2RMemh3d0lDQk5FdmJjQ2pxUDhWVFFoZ1pYVzlxYTh4Z3hrRVJoS0QxZmc?oc=5",
-   "source": "下野新聞社",
-   "published": "2026-08-30T01:20:34+00:00",
+   "title": "J-HRTIが習志野に学習データ拠点｜ヒューマノイド35台を5社で運用",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3Sjh2U3hHYVpoSzVQdWJEaTVJVTVuOU9PR1RBZnlWblR4b2U2Vm5BWHB1Q2FCX1hyaUpzTktXamdhV1piM1Y5Z2M4bGdWclF0bXp1MTcyd0xVaFk?oc=5",
+   "source": "innovaTopia",
+   "published": "2026-08-30T12:49:52+00:00",
+   "count": 6,
+   "sources": [
+    "innovaTopia",
+    "ビジネスネットワーク",
+    "ロボスタ",
+    "株式会社インプレス"
+   ],
+   "score": 3.66
+  },
+  {
+   "title": "「乗り換えは？」人型ロボットが駅で回答 大阪メトロが梅田駅で生成AI「Gemini」活用したロボット実証実験 人手不足の解消へ",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfQzV5RC1OTHZqN3IzdHJScldUSTVTa0dFdUhjYXR4N0h0c3N3dkFPWDNGVTAxamlDbjNzYUFVMjBOT2VhX3RaRUZlSDJTZEhlalBNSg?oc=5",
+   "source": "ktv.jp",
+   "published": "2026-08-31T13:18:37+00:00",
+   "count": 4,
+   "sources": [
+    "TBS NEWS DIG",
+    "ktv.jp",
+    "日テレNEWS NNN",
+    "産経ニュース"
+   ],
+   "score": 3.43
+  },
+  {
+   "title": "フィジカルAIの企業連合のイメージ - 国産AI工作ロボで企業連合 京セラなど20社程度が共同開発へ 切削や加工作業を自動で - 写真・画像(1/1)",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54blUwNG53a0J3OUNianFGMEdoWlFPS0dlazNnbGpYMzZLWENSUFZrcVZsN04xa0duZEIxWmFUbGJBVGUyQWhONHhpcHl6V2UtcTNiU0pfVQ?oc=5",
+   "source": "西日本新聞me",
+   "published": "2026-08-29T21:05:45+00:00",
    "count": 7,
    "sources": [
-    "下野新聞社",
-    "中国新聞デジタル",
+    "Yahoo!ニュース",
+    "okinawatimes.co.jp",
+    "新潟日報",
     "沖縄タイムス社",
-    "熊本日日新聞社",
-    "西日本新聞me"
+    "西日本新聞me",
+    "ｄメニューニュース"
    ],
-   "score": 5.17
+   "score": 3.43
   },
   {
    "title": "Transfyr Raises $25 Million Seed Led By General Catalyst To Build Physical AI Infrastructure For Science",
@@ -374,101 +462,11 @@
     "TradingView",
     "citybiz"
    ],
-   "score": 4.82
-  },
-  {
-   "title": "フィジカルAIの企業連合のイメージ - 国産AI工作ロボで企業連合 京セラなど20社程度が共同開発へ 切削や加工作業を自動で - 写真・画像(1/1)",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE54blUwNG53a0J3OUNianFGMEdoWlFPS0dlazNnbGpYMzZLWENSUFZrcVZsN04xa0duZEIxWmFUbGJBVGUyQWhONHhpcHl6V2UtcTNiU0pfVQ?oc=5",
-   "source": "西日本新聞me",
-   "published": "2026-08-29T21:05:45+00:00",
-   "count": 6,
-   "sources": [
-    "Yahoo!ニュース",
-    "新潟日報",
-    "沖縄タイムス社",
-    "西日本新聞me",
-    "ｄメニューニュース"
-   ],
-   "score": 4.18
-  },
-  {
-   "title": "Robots compete in World Humanoid Robot Games",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRVJHUmVTVHpxY2VUcTM4UW5CMWdvOTM1YktPYlM3cThNN3FCQXhmVkEtdk9PTzRocnJPQmtzVTJNaVI5WTJiZHVyN3NwX0tlTEdoWWtFbThkTWtMT3FiUU55NENkV1R1cFpzZ0ZMVUZuSXp2cnVpdy1Sb19Obk82UEZLeHJJUUZ5YzdwRHFmWS1vaTVWbHgwbUl3M1Y1ek12MjA4MXYyTFRyUQ?oc=5",
-   "source": "KVUE",
-   "published": "2026-08-28T22:52:00+00:00",
-   "count": 8,
-   "sources": [
-    "Boston 25 News",
-    "Global Times",
-    "KLVI AM 560",
-    "KVUE",
-    "Newsday",
-    "U.S. News & World Report"
-   ],
-   "score": 4.09
-  },
-  {
-   "title": "China’s humanoid runners outpace Usain Bolt at World Robot Games",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd24tRDFLWXJDVDJWdGp5cU5uUjRlODNuTGNzX0hsZndRaDU4cUFNSDl3Q1lBX3cyQnF1T21JWlFWNUh6eGdzTGl6V2h3U1llT3hUZDR0ZUJKbGo4WEhnX0xud3dockhiVHQ1SWJ4UlAyUFpvcFg0OXdsTkVNa0VpQVpRamlJbnJ1UTlmRXJ2SHM?oc=5",
-   "source": "novanews.co.za",
-   "published": "2026-08-30T05:00:00+00:00",
-   "count": 5,
-   "sources": [
-    "Central Oregon Daily",
-    "Fox News",
-    "KXLY.com",
-    "dailyrecordnews.com",
-    "novanews.co.za"
-   ],
-   "score": 3.89
-  },
-  {
-   "title": "山善など、フィジカルＡＩデータ収集センター稼働",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JTWlDR1RQU1RkYlhmLVBwVi1VR1ZtOV9wNk9LWUQzWVdKRnduNXNCOTdGeTU1VjZob3FIa2RoNXBGS1REVmJaTTBETlZuTzVPYmFv?oc=5",
-   "source": "化学工業日報 電子版",
-   "published": "2026-08-30T20:03:59+00:00",
-   "count": 4,
-   "sources": [
-    "ITmedia",
-    "PR TIMES",
-    "化学工業日報 電子版",
-    "株式会社インプレス"
-   ],
-   "score": 3.83
-  },
-  {
-   "title": "Renesas Opens Physical AI and Robotics Lab in Beijing, Targets 70% Humanoid Robot BOM Coverage",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQSkxiMHgyajlBUGV6STV4dDVMVU1HQ0NZV0ZuejNjc1BBdVItME1Zcnc0NC1iLUpGYVNFTy00Ti10eWZLVHFlR2ZQOG9BcXc5VUlNczhxZzhVWnJMSWNMUjhWV29wdUQ0MmtRUDdVOGE4ZDVjQ19pZUVrdzVYb2wzNi1Tcm9YQTF5bElNbEpNOHFGVmEzem1oRHlfaWRIQ1RoMnNOOHNNREc3X24zdC16WlZGcWYwbkItR0o4OEdZTHBPSG8yQjBrd0JJWnJxSU5mVmhDekhYNmR0R3YyQjZ1QVR0NkdHbXc?oc=5",
-   "source": "Gasgoo",
-   "published": "2026-08-28T15:59:31+00:00",
-   "count": 8,
-   "sources": [
-    "AI Insider",
-    "Electronics Weekly",
-    "Engineering.com",
-    "Evertiq",
-    "Gasgoo",
-    "International Business Times"
-   ],
-   "score": 3.72
-  },
-  {
-   "title": "エル・ティー・エス、フィジカルＡＩ社会実装支援を開始、「レイバーコストゼロ」時代へ - kabu-ir.com",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MZU9KRUxMNUpOVTRBZkJLcXRJRW1ZdHlzcVhOQkwxZlJaeDFRcGFVMjdjU3hCcFJWQ0FjYlQ2V29UNWNwRVhtX2pFbWZoclZKby1rNw?oc=5",
-   "source": "kabu-ir.com",
-   "published": "2026-08-30T21:53:12+00:00",
-   "count": 3,
-   "sources": [
-    "PR TIMES",
-    "kabu-ir.com"
-   ],
-   "score": 2.95
+   "score": 3.39
   }
  ],
  "trend": {
   "dates": [
-   "2026-08-01",
-   "2026-08-02",
    "2026-08-03",
    "2026-08-04",
    "2026-08-05",
@@ -496,15 +494,15 @@
    "2026-08-27",
    "2026-08-28",
    "2026-08-29",
-   "2026-08-30"
+   "2026-08-30",
+   "2026-08-31",
+   "2026-09-01"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     2,
-     6,
      22,
      29,
      24,
@@ -532,15 +530,15 @@
      46,
      26,
      9,
-     9
+     9,
+     40,
+     0
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     9,
-     18,
      19,
      39,
      32,
@@ -564,19 +562,19 @@
      7,
      40,
      38,
-     46,
-     48,
+     47,
+     49,
      28,
-     15,
-     30
+     16,
+     32,
+     40,
+     3
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     1,
-     1,
      3,
      7,
      5,
@@ -598,21 +596,21 @@
      16,
      1,
      3,
-     23,
+     24,
      11,
      8,
      11,
      8,
      2,
-     2
+     2,
+     4,
+     0
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     8,
-     11,
      33,
      21,
      19,
@@ -639,16 +637,16 @@
      38,
      25,
      32,
-     9,
-     20
+     10,
+     22,
+     26,
+     0
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     6,
-     5,
      11,
      20,
      16,
@@ -666,17 +664,19 @@
      28,
      27,
      26,
-     30,
+     31,
      20,
      15,
      21,
      34,
      25,
      37,
-     26,
-     20,
+     27,
+     21,
      8,
-     10
+     12,
+     44,
+     0
     ]
    }
   ]
@@ -698,7 +698,7 @@
    "name": "GOOGLE LLC",
    "core": "GOOGLE",
    "patents": 275,
-   "news": 9
+   "news": 8
   },
   {
    "name": "HONDA MOTOR CO LTD",
@@ -722,7 +722,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 101
+   "news": 102
   },
   {
    "name": "QUALCOMM INC",
