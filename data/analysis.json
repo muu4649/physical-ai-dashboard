@@ -1,116 +1,112 @@
 {
- "updated_at": "2026-09-01T22:58:11.119147+00:00",
+ "updated_at": "2026-09-02T22:57:55.714153+00:00",
  "kpi": {
-  "articles_7d": 786,
-  "articles_prev_7d": 961,
-  "sources_7d": 357,
-  "articles_30d": 3096,
-  "total_articles": 6358,
+  "articles_7d": 706,
+  "articles_prev_7d": 946,
+  "sources_7d": 341,
+  "articles_30d": 3106,
+  "total_articles": 6453,
   "oldest_news": "2021-03-15"
  },
  "wordcloud": [
   [
-   "china",
-   55
-  ],
-  [
-   "実装",
-   54
-  ],
-  [
    "現場",
-   50
-  ],
-  [
-   "中国",
-   48
-  ],
-  [
-   "games",
-   47
+   49
   ],
   [
    "開発",
-   46
+   49
+  ],
+  [
+   "実装",
+   47
+  ],
+  [
+   "china",
+   43
+  ],
+  [
+   "中国",
+   43
   ],
   [
    "データ",
-   45
-  ],
-  [
-   "world",
-   41
-  ],
-  [
-   "画像",
-   37
+   35
   ],
   [
    "写真",
-   36
-  ],
-  [
-   "j-hrti",
    35
   ],
   [
-   "HRTI",
-   35
+   "画像",
+   34
   ],
   [
    "社会",
-   35
+   31
+  ],
+  [
+   "HRTI",
+   31
+  ],
+  [
+   "j-hrti",
+   31
   ],
   [
    "拠点",
-   32
-  ],
-  [
-   "技術",
-   27
-  ],
-  [
-   "nvidia",
-   26
+   30
   ],
   [
    "企業",
-   25
+   28
   ],
   [
-   "ツムラ",
-   25
+   "nvidia",
+   27
   ],
   [
-   "支援",
-   24
+   "games",
+   27
+  ],
+  [
+   "world",
+   26
   ],
   [
    "製造",
+   26
+  ],
+  [
+   "支援",
+   26
+  ],
+  [
+   "技術",
    24
   ],
   [
-   "稼働",
+   "ツムラ",
    22
   ],
   [
-   "学習",
-   22
+   "導入",
+   20
   ],
   [
    "全国",
    20
   ],
   [
-   "収集",
+   "構想",
+   20
+  ],
+  [
+   "学習",
    19
   ],
   [
-   "beijing",
-   19
-  ],
-  [
-   "導入",
+   "活用",
    19
   ],
   [
@@ -118,15 +114,7 @@
    19
   ],
   [
-   "構想",
-   19
-  ],
-  [
-   "開催",
-   18
-  ],
-  [
-   "活用",
+   "日本",
    18
   ],
   [
@@ -146,35 +134,35 @@
    18
   ],
   [
+   "beijing",
+   17
+  ],
+  [
+   "サービス",
+   17
+  ],
+  [
    "opens",
-   17
-  ],
-  [
-   "国産",
-   17
-  ],
-  [
-   "日本",
-   17
+   16
   ],
   [
    "世界",
    16
   ],
   [
+   "開催",
+   16
+  ],
+  [
+   "raises",
+   16
+  ],
+  [
    "公開",
-   16
-  ],
-  [
-   "サービス",
-   16
-  ],
-  [
-   "連合",
    15
   ],
   [
-   "不足",
+   "aws",
    14
   ],
   [
@@ -182,134 +170,147 @@
    14
   ],
   [
-   "launches",
-   13
+   "タイミー",
+   14
   ],
   [
-   "共同",
-   13
+   "新た",
+   14
   ],
   [
-   "record",
-   13
+   "japan",
+   14
   ],
   [
    "lab",
    13
   ],
   [
-   "japan",
-   12
+   "収集",
+   13
   ],
   [
-   "新た",
-   12
+   "NVIDIA",
+   13
   ],
   [
    "時代",
-   12
+   13
+  ],
+  [
+   "モデル",
+   13
   ],
   [
    "unitree",
-   12
+   13
+  ],
+  [
+   "連合",
+   13
   ],
   [
    "京セラ",
+   13
+  ],
+  [
+   "国産",
    12
   ],
   [
-   "aws",
-   11
+   "AWS",
+   12
   ],
   [
-   "data",
-   11
-  ],
-  [
-   "raises",
-   11
-  ],
-  [
-   "bolt",
-   11
+   "com",
+   12
   ],
   [
    "anthropic",
    11
   ],
   [
-   "タイミー",
+   "産業",
    11
   ],
   [
-   "GMO",
+   "創出",
    11
   ],
   [
-   "gmo",
+   "chinese",
    11
+  ],
+  [
+   "billion",
+   10
+  ],
+  [
+   "renesas",
+   10
   ]
  ],
  "today_top5": [
   {
-   "title": "日立製作所が設備保全向けフィジカルAIを開発、音や振動を自然言語で解析し異常診断を効率化",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xc2RYQzJrMFZTd0sxb2wwVjFfeWdWVU9GbHZYcjM4UFNPMVF5amhWcUFSVGx0dXZ1TWdvVUY5SHo3N1NjRzVTTEhhb2RkUEtMaksxdDZEaGM2WDRPTnJmMzIwa2w?oc=5",
-   "source": "ロボスタ",
-   "published": "2026-09-01T07:40:03+00:00",
-   "count": 3,
+   "title": "Lyte Raises $165 Million Series C At $1.6 Billion Valuation For Physical AI Perception Platform",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa0dLMzdmazJYeWs5emoxNVNnb3VOUG4xSjhuQ2FMYklmMG9KUERBRTU0ZEhEM3I3cTEwaFEyQ1pGNkl3NkJGd0oxWWtBdFRrRTg0N2ZZSXZxVks5eHFqNzdiUVlwM3pYanZDMDgtNXdWbTVhLTF3ZFhPOWtUeEhUNXp6a9IBiAFBVV95cUxOX0F6OHVUV2V2Tk5oZG5CM0NIeVhVVjRkWmFhTXZUc2gwcG9HVEs5RGFxNDlGdld0YmdraU5lN25XOVFQakxDYWpOYlF4SzJDTXRka203YUJLX3hhYVJYdktEQVd0aHVhbjRTRFhOZG94YTJoTlB1bUExa1IwdjBpa2ZuRzRTbXVV?oc=5",
+   "source": "Pulse 2.0",
+   "published": "2026-09-02T18:11:43+00:00",
+   "count": 4,
    "sources": [
-    "PR TIMES",
+    "Pulse 2.0",
+    "calcalistech.com",
+    "en.globes.co.il",
+    "theaiinsider.tech"
+   ],
+   "score": 3.74
+  },
+  {
+   "title": "Caterpillar and FieldAI Advance AI-Powered Industrial Innovation",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNV3RZZUVLN20tc2FFclY4VlMxeldPN0NYS2hRWFVQdzhJMzktMElpMDhxSzR0UEZ4d0VWNXkwNzFXNmk5TGVwbWozb3JpOWZkdUdpNFFRZFp6ZndoQ3pCZWZ6YXpDc05pV20zX29MbXM0bVcxMTUta0xEbVZEVTZudjMxOGlVTVowcU5CcjhmR0E?oc=5",
+   "source": "Yahoo Finance Singapore",
+   "published": "2026-09-02T13:15:00+00:00",
+   "count": 2,
+   "sources": [
+    "Yahoo Finance Singapore",
+    "constructionequipmentguide.com"
+   ],
+   "score": 1.75
+  },
+  {
+   "title": "米国の主要フィジカルAI企業142社を調査した「米国フィジカルAI関連企業カオスマップ」を公開",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tcVRfS2Y3ZjRBTkw5TUZReHAwbHZ1RG5keHU3VFhmNC00WnYxX2RkTC03VjlMdXBYbDFJZnJ6WktDeHdTYmswSHA0Q2xCX1d1ZGFqMjdVTGY0aFZmc3dtd1U0bEY2TTlUaDBTaEVlenlETnREZ3VEUkstdw?oc=5",
+   "source": "ニコニコニュース",
+   "published": "2026-09-02T12:30:10+00:00",
+   "count": 2,
+   "sources": [
+    "Excite エキサイト",
+    "ニコニコニュース"
+   ],
+   "score": 1.73
+  },
+  {
+   "title": "NVIDIAのGPUを採用した開発環境「GPUクラウド for フィジカルAI」",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1BUF93TTBHT0xpUklkZXhQeEdVV25BSGVmd2R3M0ZvT2xhdDhRNDYyMEFGcTIxdU9HWk1HdTNVVXVzOFRoVVQ5LUQ3OE4xcEJ0VVZHOGVfUEhKcFNaWmxpejRXMA?oc=5",
+   "source": "株式会社インプレス",
+   "published": "2026-09-02T10:30:38+00:00",
+   "count": 2,
+   "sources": [
+    "ビジネスネットワーク",
+    "株式会社インプレス"
+   ],
+   "score": 1.68
+  },
+  {
+   "title": "ヒューマノイド、VLA、世界モデル開発が加速 AWSがフィジカルAI企業51社を支援、14社が成果発表",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UaHI1NmVqcTBDcW9OQ0Z5c2ltcjVTNkF4eHJHa0xYWV8tdmJpUERveFowRDhzMEtQZjBSUV81R3RncDlfRTBELVRoUG1oT1c4ZXVlbU8zaFZwQmo4N1RyTTFLUHM?oc=5",
+   "source": "ロボスタ",
+   "published": "2026-09-02T07:46:45+00:00",
+   "count": 2,
+   "sources": [
     "ロボスタ"
    ],
-   "score": 2.43
-  },
-  {
-   "title": "フィジカルAI Summit初開催、日本の次世代産業競争力を決める1日",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBUTkJtMEpHeWNhNW9pZDBzeDJRTm1hd21QN3oxYXlISDVIMFRZUTYzTXh3d2VlOXh1V3REcGRDVWVvMXc5LXc?oc=5",
-   "source": "Koubo",
-   "published": "2026-09-01T18:54:00+00:00",
-   "count": 2,
-   "sources": [
-    "Koubo",
-    "LOGISTICS TODAY"
-   ],
-   "score": 1.89
-  },
-  {
-   "title": "Aeris Names Suresh Sathyamurthy CMO to Expand Physical AI Strategy",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNmJDaDNLTmJWUjN6U1c4ZDJXNU5EeDdwQXpwRThJU2Zmblg2M2t6bUk5c3B4Ry1Dbkw0UUJQakxZTXJPelc3WDA4MmpHTkF2eHhDNEhBeTVjdFl5ZFFUOVJXVkI3OWhVcmM1WXctVkdLRXBGbFFBR2xXSUJWcE1KTHVKUUlRRktJemRjRTFaaldKRUtPdkZrUUxzamxZQjZBUWQyN1hUV2s?oc=5",
-   "source": "citybiz",
-   "published": "2026-09-01T18:05:08+00:00",
-   "count": 2,
-   "sources": [
-    "Business Wire",
-    "citybiz"
-   ],
-   "score": 1.87
-  },
-  {
-   "title": "Anthropic Unveils MHS for AI Agents in Physical Labs",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTXRPdTBDdG16RWlSLWNmbWIxeEx3MHV1WEFWcThodnRXc3ZjZUFRWkhsOFBEcF9aajFFV2otZUpBWDhUMXdYY1gyTy0wV1gzSXBLQ2xpNVEwRnJoRWt5LVlXM1N2SFIydEdlZkZ1UkFnMEtuajMxcmZoOERaWjAxUWJ6WElldkk?oc=5",
-   "source": "AI Magazine",
-   "published": "2026-09-01T15:53:03+00:00",
-   "count": 2,
-   "sources": [
-    "AI Magazine",
-    "thelec.net"
-   ],
-   "score": 1.81
-  },
-  {
-   "title": "EXILE HIRO、『第4回 GMO大会議 秋 フィジカルAI 2026』出演を見合わせ LDH JAPANが発表 (オリコン)",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa0doR0xGb29YYWgyNkhhM1RjT081RmdRX3lKUVlPTDdEaTlRT29RSVRld2NLZ3haTlBra2FuVWNOaHhVQXpmRXM0aUpjSjYxdGV6b0tobjB5bG9LTnpCeE0ySjFacXZNcEJBYTUyMGdxLW1qZ0R4TnZLOG5CaE9aQW9TYkV3M09KSUppMFJR?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-09-01T10:51:03+00:00",
-   "count": 2,
-   "sources": [
-    "Yahoo!ニュース",
-    "オリコンニュース"
-   ],
-   "score": 1.69
+   "score": 1.62
   }
  ],
  "hot_news": [
@@ -322,7 +323,64 @@
    "sources": [
     "ロボスタ"
    ],
-   "score": 9.41
+   "score": 6.74
+  },
+  {
+   "title": "タイミー---フィジカルAI時代の新たな仕事創出へジールスと共創",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQX1NpZUxKdmI1cmpGYmJ6RFdpUVIwS1FJT3RaeTJyMnhXc3hMc2daM1dEanNlYV9wWFMzdHZhNGZoWTlMM1o1cUt0TmZIVFluWDg3Y3NQbTNZVFo4c2RvUmNmeklMN1NVQ1g2dW5KVEcxeS1LZGpWamhhMWJUb1U0NW82dm5nUC05UzJVZk1HZ05rS3FvWHNxbWlR0gGMAUFVX3lxTE9WUVFjd2dySUZCMmI3eVJ2UlU4MlVQZE9nTk10cG5QZ3VtZ3dHcklTV3B5UnM4OS1pT2R1Z0hsYUdkWTZ0MU9COGRmT0drWGdKVzhiUVp5RGNsaUpSd1hJR3pLZk5wUGlOeWVCRDJKTUdiOUd6TEMxcWxSdTlDa2JudWtHWGdLZlpkQ2hr?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-09-02T10:21:00+00:00",
+   "count": 5,
+   "sources": [
+    "EnterpriseZine",
+    "PR TIMES",
+    "日本経済新聞",
+    "ｄメニューニュース"
+   ],
+   "score": 4.2
+  },
+  {
+   "title": "AWSのフィジカルAI導入支援プログラム、病院や物流施設用ロボの検証で成果",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ySHQtd2lZTExyVEdWMk82d1VqMWNfeFdJd3hReXJSSHhOYldjQlR3MlpxRXJERTZiMUNWaVFLQnBRa2VmSXVobjJCU3dWYjVPbmxOUzFmNENFNWtQc2duYkJ3d0hIdzFUenQ3cnpkQ2xoVlNldUNrMFJJUHUxVkU?oc=5",
+   "source": "日経クロステック",
+   "published": "2026-09-02T08:40:00+00:00",
+   "count": 5,
+   "sources": [
+    "Amazon Web Services",
+    "Amazon Web Services (AWS)",
+    "IT Leaders",
+    "PR TIMES",
+    "日経クロステック"
+   ],
+   "score": 4.1
+  },
+  {
+   "title": "Lyte Raises $165 Million Series C At $1.6 Billion Valuation For Physical AI Perception Platform",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa0dLMzdmazJYeWs5emoxNVNnb3VOUG4xSjhuQ2FMYklmMG9KUERBRTU0ZEhEM3I3cTEwaFEyQ1pGNkl3NkJGd0oxWWtBdFRrRTg0N2ZZSXZxVks5eHFqNzdiUVlwM3pYanZDMDgtNXdWbTVhLTF3ZFhPOWtUeEhUNXp6a9IBiAFBVV95cUxOX0F6OHVUV2V2Tk5oZG5CM0NIeVhVVjRkWmFhTXZUc2gwcG9HVEs5RGFxNDlGdld0YmdraU5lN25XOVFQakxDYWpOYlF4SzJDTXRka203YUJLX3hhYVJYdktEQVd0aHVhbjRTRFhOZG94YTJoTlB1bUExa1IwdjBpa2ZuRzRTbXVV?oc=5",
+   "source": "Pulse 2.0",
+   "published": "2026-09-02T18:11:43+00:00",
+   "count": 4,
+   "sources": [
+    "Pulse 2.0",
+    "calcalistech.com",
+    "en.globes.co.il",
+    "theaiinsider.tech"
+   ],
+   "score": 3.74
+  },
+  {
+   "title": "タイミーとZEALS、フィジカルAIの学習データ収集をスポットワークに 新たな仕事カテゴリー創出へ",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNjNuNWl0Nllpa3BBZnhYVWhPQWtQS0kxVVNvQzJiOV9oUXdhMFIwN01QY3NsbjQwYUhJR1VuTjhIUC1IR25Fclc0VlEyRmo3aGtURldKQXhtX3FEYkNJNmFYa0JQdGJjUzBxQW1jTTlPZzFGazItaEZEakxiaS1hMQ?oc=5",
+   "source": "Ledge.ai",
+   "published": "2026-09-02T01:05:30+00:00",
+   "count": 5,
+   "sources": [
+    "Ledge.ai",
+    "Yahoo!ファイナンス",
+    "リアルサウンド",
+    "株式会社タイミー"
+   ],
+   "score": 3.69
   },
   {
    "title": "Renesas Launches Physical AI and Robotics Lab in Beijing",
@@ -338,7 +396,7 @@
     "Evertiq",
     "Gasgoo"
    ],
-   "score": 5.11
+   "score": 3.66
   },
   {
    "title": "ブレインテク、「フィジカルＡＩ現場実装・ロボット導入支援サービス」の提供開始(ウエルスアドバイザー)",
@@ -352,7 +410,7 @@
     "kabushiki.jp",
     "ｄメニューニュース"
    ],
-   "score": 4.01
+   "score": 2.87
   },
   {
    "title": "フィジカルAI Summit初開催、日本の次世代産業競争力を決める1日",
@@ -366,7 +424,7 @@
     "article.auone.jp",
     "ロボスタ"
    ],
-   "score": 3.78
+   "score": 2.71
   },
   {
    "title": "〈夕刊ワイド〉ロボに託す「職人技」継承 開発進むフィジカルＡＩに熱視線 高齢化、担い手不足の製造業｜全国のニュース",
@@ -381,82 +439,24 @@
     "熊本日日新聞社",
     "西日本新聞me"
    ],
-   "score": 3.44
+   "score": 2.47
   },
   {
-   "title": "「スピード、現場の力、クラウドが不可欠」 AWSがフィジカルAI開発支援プログラムの成果発表会を開催",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3MnoyaVBKY3VEVm5uWUJsQVFJdGpLZEVWbjBzbHBBV245NU53ZVdYd2d5RVJpU2lVQlVGaXhGbEhOZjZXVUpwaXRyS2NCanVXSEE?oc=5",
-   "source": "ビジネスネットワーク",
-   "published": "2026-09-01T10:02:36+00:00",
-   "count": 4,
-   "sources": [
-    "Amazon Web Services (AWS)",
-    "IT Leaders",
-    "PR TIMES",
-    "ビジネスネットワーク"
-   ],
-   "score": 3.34
-  },
-  {
-   "title": "リコーは年初来高値更新、さまざまなロボットに適用可能なフィジカルＡＩ技術を開発",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9oMlhqV0YxZUVodGlWekl4ZEF3aXpHcXZoY2pocklJaHhFYUVKM0oteXVIU2RQQmRIR0s4cDZSc2ZxaElnTVE?oc=5",
-   "source": "みんかぶ",
-   "published": "2026-09-01T04:45:50+00:00",
-   "count": 4,
-   "sources": [
-    "Ricoh",
-    "Yahoo!ファイナンス",
-    "ZDNET Japan",
-    "みんかぶ"
-   ],
-   "score": 3.11
-  },
-  {
-   "title": "「J-HRTI 関東データファクトリー」稼働に伴い、物流現場におけるヒューマノイドロボット実装活動を本格始動 - LOGI-BIZ online",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5abVN2TXM1YzVoUFIwU2tIM0RkYi1YcXljUkppNUp6UTRJUmZYcWVPN0k5Yjl5aVp4X3pLN3luUndZVmQ0ZXFCWkUzRQ?oc=5",
-   "source": "LOGI-BIZ online",
-   "published": "2026-08-31T07:00:53+00:00",
-   "count": 5,
-   "sources": [
-    "LOGI-BIZ online",
-    "PR TIMES",
-    "ニュースメディアVOIX",
-    "共同通信PRワイヤー",
-    "物流ニュースのLNEWS"
-   ],
-   "score": 2.87
-  },
-  {
-   "title": "Anthropic Unveils MHS for AI Agents in Physical Labs",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTXRPdTBDdG16RWlSLWNmbWIxeEx3MHV1WEFWcThodnRXc3ZjZUFRWkhsOFBEcF9aajFFV2otZUpBWDhUMXdYY1gyTy0wV1gzSXBLQ2xpNVEwRnJoRWt5LVlXM1N2SFIydEdlZkZ1UkFnMEtuajMxcmZoOERaWjAxUWJ6WElldkk?oc=5",
-   "source": "AI Magazine",
-   "published": "2026-09-01T15:53:03+00:00",
+   "title": "J-HRTI、千葉県習志野市のフィジカルAI学習データの収集拠点が本格稼働ヒューマノイドロボットの社会実装目指す",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BNkYteUNDSUdENlBXcjk5a0F0bEZXUFN2RE9SblZ4OFFXeUFwYWN4ZHJacDB0R2t1SHRsTFFpMHdqcHNYQlhlcFBqS1JUd2h5S2hKQjNUbW1GZw?oc=5",
+   "source": "オートメーション新聞WEB",
+   "published": "2026-09-02T07:00:00+00:00",
    "count": 3,
    "sources": [
-    "AI Magazine",
-    "Wowtale",
-    "thelec.net"
+    "daiunji-nobeoka.or.jp",
+    "yakuji.co.jp",
+    "オートメーション新聞WEB"
    ],
-   "score": 2.72
-  },
-  {
-   "title": "J-HRTIが習志野に学習データ拠点｜ヒューマノイド35台を5社で運用",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB3Sjh2U3hHYVpoSzVQdWJEaTVJVTVuOU9PR1RBZnlWblR4b2U2Vm5BWHB1Q2FCX1hyaUpzTktXamdhV1piM1Y5Z2M4bGdWclF0bXp1MTcyd0xVaFk?oc=5",
-   "source": "innovaTopia",
-   "published": "2026-08-30T12:49:52+00:00",
-   "count": 6,
-   "sources": [
-    "innovaTopia",
-    "ビジネスネットワーク",
-    "ロボスタ",
-    "株式会社インプレス"
-   ],
-   "score": 2.68
+   "score": 2.4
   }
  ],
  "trend": {
   "dates": [
-   "2026-08-03",
    "2026-08-04",
    "2026-08-05",
    "2026-08-06",
@@ -485,14 +485,14 @@
    "2026-08-29",
    "2026-08-30",
    "2026-08-31",
-   "2026-09-01"
+   "2026-09-01",
+   "2026-09-02"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     22,
      29,
      24,
      23,
@@ -513,22 +513,22 @@
      20,
      10,
      3,
-     45,
+     46,
      49,
-     48,
+     49,
      46,
      26,
      9,
      9,
-     43,
-     25
+     44,
+     28,
+     22
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     19,
      39,
      32,
      24,
@@ -551,20 +551,20 @@
      7,
      40,
      38,
-     47,
-     49,
+     48,
+     50,
      28,
      16,
-     33,
-     42,
-     33
+     34,
+     43,
+     38,
+     24
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     3,
      7,
      5,
      9,
@@ -575,12 +575,12 @@
      5,
      12,
      5,
-     5,
+     6,
      3,
      0,
      6,
      1,
-     18,
+     19,
      6,
      16,
      1,
@@ -593,6 +593,7 @@
      2,
      2,
      4,
+     2,
      2
     ]
    },
@@ -600,7 +601,6 @@
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     33,
      21,
      19,
      30,
@@ -615,20 +615,21 @@
      10,
      16,
      41,
-     50,
+     51,
      72,
      53,
      52,
-     47,
+     48,
      56,
-     58,
+     59,
      30,
      38,
      25,
      32,
      11,
-     23,
-     29,
+     24,
+     30,
+     15,
      12
     ]
    },
@@ -636,7 +637,6 @@
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     11,
      20,
      16,
      9,
@@ -644,16 +644,16 @@
      1,
      7,
      13,
-     12,
+     13,
      9,
      16,
      22,
      4,
      3,
      29,
-     27,
+     28,
      26,
-     31,
+     32,
      20,
      15,
      21,
@@ -664,8 +664,9 @@
      21,
      8,
      13,
-     44,
-     8
+     46,
+     12,
+     4
     ]
    }
   ]
@@ -687,7 +688,7 @@
    "name": "GOOGLE LLC",
    "core": "GOOGLE",
    "patents": 275,
-   "news": 7
+   "news": 6
   },
   {
    "name": "HONDA MOTOR CO LTD",
@@ -699,7 +700,7 @@
    "name": "SAMSUNG ELECTRONICS CO LTD",
    "core": "SAMSUNG ELECTRONICS",
    "patents": 260,
-   "news": 11
+   "news": 9
   },
   {
    "name": "X DEV LLC",
@@ -711,13 +712,13 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 104
+   "news": 106
   },
   {
    "name": "QUALCOMM INC",
    "core": "QUALCOMM",
    "patents": 206,
-   "news": 5
+   "news": 6
   }
  ]
 }
