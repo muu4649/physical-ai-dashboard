@@ -1,72 +1,76 @@
 {
- "updated_at": "2026-09-03T22:57:13.535645+00:00",
+ "updated_at": "2026-09-04T22:45:24.940720+00:00",
  "kpi": {
-  "articles_7d": 725,
-  "articles_prev_7d": 936,
-  "sources_7d": 357,
-  "articles_30d": 3164,
-  "total_articles": 6627,
+  "articles_7d": 733,
+  "articles_prev_7d": 928,
+  "sources_7d": 361,
+  "articles_30d": 3201,
+  "total_articles": 6755,
   "oldest_news": "2021-03-15"
  },
  "wordcloud": [
   [
    "開発",
-   57
-  ],
-  [
-   "実装",
-   48
+   61
   ],
   [
    "現場",
-   47
+   43
   ],
   [
-   "china",
-   42
-  ],
-  [
-   "中国",
-   41
-  ],
-  [
-   "画像",
-   35
-  ],
-  [
-   "写真",
-   35
-  ],
-  [
-   "支援",
-   34
-  ],
-  [
-   "社会",
-   32
-  ],
-  [
-   "データ",
-   31
-  ],
-  [
-   "製造",
-   31
+   "実装",
+   43
   ],
   [
    "企業",
-   31
+   37
+  ],
+  [
+   "中国",
+   36
+  ],
+  [
+   "製造",
+   36
+  ],
+  [
+   "支援",
+   35
+  ],
+  [
+   "画像",
+   33
+  ],
+  [
+   "china",
+   32
+  ],
+  [
+   "写真",
+   32
   ],
   [
    "nvidia",
-   28
+   31
+  ],
+  [
+   "社会",
+   29
   ],
   [
    "技術",
-   26
+   29
+  ],
+  [
+   "データ",
+   27
   ],
   [
    "拠点",
+   27
+  ],
+  [
+   "j-hrti",
    26
   ],
   [
@@ -74,27 +78,23 @@
    26
   ],
   [
-   "j-hrti",
-   26
-  ],
-  [
-   "world",
-   26
-  ],
-  [
-   "games",
-   23
-  ],
-  [
    "構想",
    23
   ],
   [
-   "学習",
-   22
+   "world",
+   21
   ],
   [
-   "導入",
+   "日本",
+   20
+  ],
+  [
+   "学習",
+   20
+  ],
+  [
+   "山善",
    20
   ],
   [
@@ -106,15 +106,19 @@
    20
   ],
   [
-   "山善",
+   "DMS",
    19
   ],
   [
-   "aws",
+   "dms",
+   19
+  ],
+  [
+   "NVIDIA",
    18
   ],
   [
-   "DMS",
+   "開催",
    18
   ],
   [
@@ -122,95 +126,103 @@
    18
   ],
   [
-   "dms",
-   18
-  ],
-  [
-   "日本",
-   17
-  ],
-  [
-   "AWS",
-   17
-  ],
-  [
-   "サービス",
-   17
-  ],
-  [
-   "raises",
-   17
-  ],
-  [
-   "開催",
-   17
-  ],
-  [
-   "活用",
-   16
-  ],
-  [
-   "NVIDIA",
-   16
-  ],
-  [
-   "japan",
-   15
-  ],
-  [
-   "unitree",
-   15
-  ],
-  [
-   "世界",
-   15
-  ],
-  [
-   "公開",
-   15
-  ],
-  [
-   "実用",
-   15
-  ],
-  [
-   "国産",
-   15
-  ],
-  [
    "時代",
-   13
-  ],
-  [
-   "京セラ",
-   13
-  ],
-  [
-   "連合",
-   13
-  ],
-  [
-   "launches",
-   13
-  ],
-  [
-   "事業",
-   12
-  ],
-  [
-   "実証",
-   12
+   17
   ],
   [
    "物流",
-   12
+   16
   ],
   [
-   "opens",
-   12
+   "世界",
+   16
+  ],
+  [
+   "導入",
+   16
+  ],
+  [
+   "AWS",
+   16
+  ],
+  [
+   "aws",
+   16
   ],
   [
    "自動",
+   15
+  ],
+  [
+   "launches",
+   15
+  ],
+  [
+   "実証",
+   15
+  ],
+  [
+   "games",
+   14
+  ],
+  [
+   "国産",
+   14
+  ],
+  [
+   "japan",
+   14
+  ],
+  [
+   "京セラ",
+   14
+  ],
+  [
+   "連合",
+   14
+  ],
+  [
+   "raises",
+   14
+  ],
+  [
+   "日立",
+   14
+  ],
+  [
+   "産業",
+   13
+  ],
+  [
+   "プロジェクト",
+   13
+  ],
+  [
+   "活用",
+   13
+  ],
+  [
+   "サービス",
+   13
+  ],
+  [
+   "abeja",
+   13
+  ],
+  [
+   "実用",
+   12
+  ],
+  [
+   "summit",
+   12
+  ],
+  [
+   "センター",
+   12
+  ],
+  [
+   "公開",
    12
   ],
   [
@@ -218,131 +230,202 @@
    12
   ],
   [
-   "summit",
+   "戦略",
+   12
+  ],
+  [
+   "ロボティクス",
+   12
+  ],
+  [
+   "hmax",
+   12
+  ],
+  [
+   "投資",
    11
   ],
   [
-   "Summit",
+   "事業",
    11
-  ],
-  [
-   "成果",
-   11
-  ],
-  [
-   "billion",
-   10
-  ],
-  [
-   "開設",
-   10
-  ],
-  [
-   "実験",
-   10
-  ],
-  [
-   "market",
-   10
-  ],
-  [
-   "新た",
-   10
   ]
  ],
  "today_top5": [
   {
-   "title": "ABEJAがJR東と連携、フィジカルAI活用した館内デリバリー自動化の実証開始 - online.logi-biz.com",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBFMVF6OFQ1RFkwbGczSWFUM2Myem9IU0JRU1RVSFhRM3NBUWl2V0duOV9qSkduX0FFVmVtd25PWFdtWVFqaDVDanlCSQ?oc=5",
-   "source": "online.logi-biz.com",
-   "published": "2026-09-03T21:00:04+00:00",
-   "count": 4,
-   "sources": [
-    "PR TIMES",
-    "au Webポータル",
-    "online.logi-biz.com",
-    "ロボスタ"
-   ],
-   "score": 3.89
-  },
-  {
-   "title": "Nscale and Figure Sign Strategic Partnership to Power the Next Generation of Physical AI",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fZWplQWJ1YU5WWi1SeWE5TUdWNHVDZklhUmoxUV9pTTJwMExwdTB6YTlldnFxQkVJeVB1dGFyYTVWTmpTN2pyRk5QaGNhcG5obGNwQkd2N0F6U01PRGE2YTJzalcydw?oc=5",
-   "source": "Nscale",
-   "published": "2026-09-03T16:00:04+00:00",
+   "title": "ＡＢＥＪＡが大幅高で４日ぶり反発、ＪＲ東日本とフィジカルＡＩを用いた実証プロジェクト開始(ウエルスアドバイザー)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY1BlVXZRQi14WF8xU29XcHlGVWZXZkNMMHR6emdEZWZLb2ZseEJPSUttdkFrbFl2LXJiMkJ4ZlZ2SFRnbEduQWo4clhoclFSSEFEeW90V3RoTTM3Vjc0NHJ3TFhwR0U4VzZ2ejhtM1o5bFBwWFgtUHpsdTVHRDlTQ1E1N0JqOUE?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "published": "2026-09-04T02:37:00+00:00",
    "count": 3,
    "sources": [
-    "AI Insider",
-    "Figure",
-    "Nscale"
-   ],
-   "score": 2.72
-  },
-  {
-   "title": "日立、フィジカルAI の社会実装を加速させる「HMAX」を拡充",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00akN1UHR5X3FrZkxocGlIaTBUSnBEbVJvTHF5T3Vqcms3amlTWjVKNVNGUEVqQXBUQ1FyNFM1OHBEUHI2WWN4a0xNTWVKMXU3b0x3cFhVX0M5X0tITm9pYXRYOG0xZw?oc=5",
-   "source": "電波タイムズ",
-   "published": "2026-09-03T08:44:26+00:00",
-   "count": 3,
-   "sources": [
-    "PR TIMES",
-    "ZDNET Japan",
-    "電波タイムズ"
-   ],
-   "score": 2.46
-  },
-  {
-   "title": "韓国ロボット業界、フィジカルAI投資で「手・関節・触覚」に注目…駆動系が製造原価の40～60％",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpVU0yZVZZQXNMamxnVmtDSzdLN3VjRFJSTWk4S1A1dmdyc0dJNUtjQVBiTTVzcmxUYmZ1UlJpbk9FeDZtU3hsNG1abnJSQlozMnJBdk1peU0tME5EVjVjV19iR2hpOG5hYkJxTVFSWnRHd9IBVEFVX3lxTE0zdUhWclByTEJiNzJneVZpN2VGSkdMR3VicndoU2dYWTVZWVBPRUtwS2tVbl81MlhfTlBpdjJubzBMU1E3QXkwU0pDbVctNlBGVUQydg?oc=5",
-   "source": "AFPBB News",
-   "published": "2026-09-03T02:48:26+00:00",
-   "count": 3,
-   "sources": [
-    "AFPBB News",
-    "Yahoo!ニュース"
+    "Yahoo!ファイナンス",
+    "株探"
    ],
    "score": 2.27
   },
   {
-   "title": "「近所のディーラーで人型ロボットを買う時代へ」…ヒョンデCEO、ロボット販売構想を明かす（海外）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1pbndudENRZlB3cDFGU05PR1NYdW9IR0pVbFFDaC1tVWs1WjJNYUdDMW5BUnJPbVpZMkVDUmpTTlU1c2RZRWVRZ20tbjVMQlZYazl1VFZKY09FWGpMRXRvRUtNVktvbGNYYkRYR3FNcHEyUVRvcG1sU19qU1Y5cHM?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-09-03T22:16:09+00:00",
+   "title": "OpenAI Is Building a Humanoid Robot. Sam Altman Says You Should Have One.",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVG0xUm1Wc1VjVTlZekZWVUk5aDRRZGlHLWNnVUNUVGRENmVEUVNKam5lZDk3VkdCRGdTTjBZUVZ1NW0tbzRnV1RfaTkzWFJCNld3SXNYSVpkT1Y3M0ZRM0djTEFvS3RZYjRIM0lHbUhuNWpDU1NIV25qSHo3dk42Mm9DOWs2eFEzaExNS2E2TEJjd1daQkVRWFd0WmxYN2hkU0E?oc=5",
+   "source": "Gadget Review",
+   "published": "2026-09-04T18:30:35+00:00",
    "count": 2,
    "sources": [
-    "Business Insider Japan",
-    "Yahoo!ニュース"
+    "36 Kr",
+    "Gadget Review"
    ],
-   "score": 1.98
+   "score": 1.89
+  },
+  {
+   "title": "Humanoid Robot Shipments Forecast to Reach 26 Million Annually by 2040",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcTdxaTJLR2dVNnZrZFduLXRFNjZiRTdoOExTQ3JmZEhTWDVsSS0waXVPZzZlQ1RfV3BPRUdycURHU2pwcVUxQXdmcEpXcHV4VWUwUlFMLS00WmNRbkl0MGpSZlZ5Z1VESW8xVEZ2OFB1MU1idjNKUDNlSU9ZM0EtSFYxRkdEaWxEOEx1b05YVVpuc0E1VnBTNEtiR0llMjkxOWhETGxJa2VKZEpFd2FZ?oc=5",
+   "source": "IoT Business News",
+   "published": "2026-09-04T14:27:52+00:00",
+   "count": 2,
+   "sources": [
+    "AZoRobotics",
+    "IoT Business News"
+   ],
+   "score": 1.78
+  },
+  {
+   "title": "製造・物流企業、フィジカルAIの本番稼働は7.5％",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE80YnpzZDcxYTM4VEI2UXZtWmlxcUhSdGtralpTM2JXbmljOXFpVGpjU2xCbm9zLXdZY3g5dE9jRXFKMS1kZG96Yg?oc=5",
+   "source": "LOGISTICS TODAY",
+   "published": "2026-09-04T08:23:58+00:00",
+   "count": 2,
+   "sources": [
+    "LOGISTICS TODAY",
+    "PR TIMES"
+   ],
+   "score": 1.64
+  },
+  {
+   "title": "日立、HMAX拡充でフィジカルAI実装を支援",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01eDJtUERKYnZMX1hjR2dDRlhwNE1tTHlSaDF1SnhaMUF0NXQ1b256UVp0ck9MOXZQdEJsYVdlRDNtaGtsd3pteQ?oc=5",
+   "source": "LOGISTICS TODAY",
+   "published": "2026-09-04T04:25:35+00:00",
+   "count": 2,
+   "sources": [
+    "LOGISTICS TODAY",
+    "xtech.nikkei.com"
+   ],
+   "score": 1.55
   }
  ],
  "hot_news": [
   {
-   "title": "ヒューマノイドを現場でどう使う？ J-HRTI「全国10拠点」構想、ツムラやDMS、山善、芙蓉らが描くフィジカルAIの社会実装",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1yUGl1eFNXZ3RhRmN5T1BicHNtaWpoSG1VeUZNRmFKZC02NlZJWUlBZmZhWV9DcFZxQ0F4bjdvaGJNbURFSHZ5Q3gwNWxlNzlPWVJNRjVNNW1jV3M3aS1ja2hzZFc?oc=5",
-   "source": "ロボスタ",
-   "published": "2026-08-31T00:15:03+00:00",
-   "count": 18,
+   "title": "J-HRTIのフィジカルAIのデータ拠点、千葉にメイン拠点センター DMSや山善など参画",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE00LWRLekZJMFlITUZQMTJ1VG1sUTBYdTVBT29BUmVvVzFPaWZzRlhHYllENGFsVERMRlJ5clpJNkY0U1UtZHlmT3ZjZmlVRlBkakhUclpMaXFIZ2hsUUZz?oc=5",
+   "source": "通販新聞社",
+   "published": "2026-09-03T01:54:58+00:00",
+   "count": 19,
    "sources": [
-    "ロボスタ"
+    "ロボスタ",
+    "通販新聞社"
    ],
-   "score": 4.83
+   "score": 10.19
   },
   {
-   "title": "AWSのフィジカルAI導入支援プログラム、病院や物流施設用ロボの検証で成果",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ySHQtd2lZTExyVEdWMk82d1VqMWNfeFdJd3hReXJSSHhOYldjQlR3MlpxRXJERTZiMUNWaVFLQnBRa2VmSXVobjJCU3dWYjVPbmxOUzFmNENFNWtQc2duYkJ3d0hIdzFUenQ3cnpkQ2xoVlNldUNrMFJJUHUxVkU?oc=5",
-   "source": "日経クロステック",
-   "published": "2026-09-02T08:40:00+00:00",
-   "count": 7,
+   "title": "京セラや神戸製鋼など約20社、国産フィジカルAIの共同開発に向け企業連合を発足",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aa2FhTHdTd1NOclBVSS15cmt4RE9FTTJ0Z09iaTY3SDNGeldYM2Zkd2gxY29TX3RrTVpUc3VQblhGaWE1dUx3NndWTkluQkk?oc=5",
+   "source": "ビジネス+IT",
+   "published": "2026-09-03T22:00:00+00:00",
+   "count": 9,
+   "sources": [
+    "BigGo ファイナンス",
+    "Yahoo!ニュース",
+    "okinawatimes.co.jp",
+    "ビジネス+IT",
+    "新潟日報",
+    "沖縄タイムス社"
+   ],
+   "score": 6.38
+  },
+  {
+   "title": "とにかく「データが足りない」フィジカルAI AWS支援プログラム採択各社が示す突破口",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAxMXlQcVRIcjNubVpiOVE3Rl9hR0ttcGFTLVZUM0NSM1k5VE9Qb1JWeVNIRmZXeVJxTkJldmd5eWdYYXpyXzdzSktHbGdSVzhjRXZuQzVWMTZvR0hwekRWalZJQjFtano5QmVnNg?oc=5",
+   "source": "ITmedia",
+   "published": "2026-09-04T02:00:43+00:00",
+   "count": 8,
    "sources": [
     "Amazon Web Services",
     "Amazon Web Services (AWS)",
     "IT Leaders",
-    "PR TIMES",
+    "ITmedia",
     "クラウド Watch",
-    "日経クロステック"
+    "ビジネスネットワーク"
    ],
-   "score": 4.11
+   "score": 6.0
+  },
+  {
+   "title": "リコー、動画像から人の動きを学習し多様なロボットに適用可能なフィジカルAI技術を開発",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XcUpvN0lzWVpWUVZHOERnWGFwM3NnMjVuUWJCNTdpb2I5QVpSdFdrQW9lR0JDUUNmd2t3ZzVkSjFITGQtYTJaVE9xM1JGMUx3bjUwYdIBWkFVX3lxTE5CVnlUbEtjUmQ0cXB6YTlkajJSczRIM3gtTFdySXdSaDJKNDNTdGM0bHFBLW1fN0tEQVBrNmMzMUlxUDlobmItR1dDWHdISEVHTDFkOEo5Z1o5QQ?oc=5",
+   "source": "iotnews.jp",
+   "published": "2026-09-04T05:09:25+00:00",
+   "count": 5,
+   "sources": [
+    "MONOist",
+    "Ricoh",
+    "Yahoo!ファイナンス",
+    "ZDNET Japan",
+    "iotnews.jp"
+   ],
+   "score": 3.92
+  },
+  {
+   "title": "日立、HMAX拡充でフィジカルAI実装を支援",
+   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01eDJtUERKYnZMX1hjR2dDRlhwNE1tTHlSaDF1SnhaMUF0NXQ1b256UVp0ck9MOXZQdEJsYVdlRDNtaGtsd3pteQ?oc=5",
+   "source": "LOGISTICS TODAY",
+   "published": "2026-09-04T04:25:35+00:00",
+   "count": 5,
+   "sources": [
+    "LOGISTICS TODAY",
+    "PR TIMES",
+    "xtech.nikkei.com",
+    "ロボスタ",
+    "電波タイムズ"
+   ],
+   "score": 3.88
+  },
+  {
+   "title": "NTTPC、NVIDIA RTX PRO 6000 Blackwellを搭載した「GPUクラウド for フィジカルAI」を提供",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MaFZpbmhKN0hMZ1k5bGRUYnFtOHJ2WHVnUF95ZFNnNUgteWMyUnNXSlB6ZnJZYTFmRlg3bGk2YXh1Q1Z0b2IzdVRJX1RzMmhGNk1oTWtzMG1pV1BLNUpwUzRMWlFkQ0U?oc=5",
+   "source": "クラウド Watch",
+   "published": "2026-09-04T00:00:00+00:00",
+   "count": 5,
+   "sources": [
+    "Excite エキサイト",
+    "atpress.ne.jp",
+    "クラウド Watch",
+    "ビジネスネットワーク",
+    "株式会社インプレス"
+   ],
+   "score": 3.65
+  },
+  {
+   "title": "ＡＢＥＪＡが大幅高で４日ぶり反発、ＪＲ東日本とフィジカルＡＩを用いた実証プロジェクト開始(ウエルスアドバイザー)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY1BlVXZRQi14WF8xU29XcHlGVWZXZkNMMHR6emdEZWZLb2ZseEJPSUttdkFrbFl2LXJiMkJ4ZlZ2SFRnbEduQWo4clhoclFSSEFEeW90V3RoTTM3Vjc0NHJ3TFhwR0U4VzZ2ejhtM1o5bFBwWFgtUHpsdTVHRDlTQ1E1N0JqOUE?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "published": "2026-09-04T02:37:00+00:00",
+   "count": 4,
+   "sources": [
+    "Yahoo!ファイナンス",
+    "株探"
+   ],
+   "score": 3.02
+  },
+  {
+   "title": "OpenAI Is Building a Humanoid Robot. Sam Altman Says You Should Have One.",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVG0xUm1Wc1VjVTlZekZWVUk5aDRRZGlHLWNnVUNUVGRENmVEUVNKam5lZDk3VkdCRGdTTjBZUVZ1NW0tbzRnV1RfaTkzWFJCNld3SXNYSVpkT1Y3M0ZRM0djTEFvS3RZYjRIM0lHbUhuNWpDU1NIV25qSHo3dk42Mm9DOWs2eFEzaExNS2E2TEJjd1daQkVRWFd0WmxYN2hkU0E?oc=5",
+   "source": "Gadget Review",
+   "published": "2026-09-04T18:30:35+00:00",
+   "count": 3,
+   "sources": [
+    "36 Kr",
+    "Forbes",
+    "Gadget Review"
+   ],
+   "score": 2.83
   },
   {
    "title": "ABEJAがJR東と連携、フィジカルAI活用した館内デリバリー自動化の実証開始 - online.logi-biz.com",
@@ -356,104 +439,24 @@
     "online.logi-biz.com",
     "ロボスタ"
    ],
-   "score": 3.89
+   "score": 2.8
   },
   {
-   "title": "Caterpillar, FieldAI to advance AI-powered industrial innovation",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaENYalJqaWNkOUx1VDI5WHNpaTVuX2VhcHNUYkJlV1FtOGhfQmV2dC1JVl82cF9Ib1dJNHpZUVJUMXYyUlRpNVV4bGV2ODc4OXlfeWs4cExnS2lXUlF6RjBtTjJCZzZJMHlWTTQ4R0NoTXRVSkNFeG9BYlRHUnN6bXY0cTVnWUdTN1JRSmZsM08wUHo3LUR1elNjem1BUQ?oc=5",
-   "source": "International Mining",
-   "published": "2026-09-03T04:22:09+00:00",
-   "count": 4,
-   "sources": [
-    "Equipment Journal",
-    "International Mining",
-    "Yahoo Finance Singapore",
-    "constructionequipmentguide.com"
-   ],
-   "score": 3.09
-  },
-  {
-   "title": "The biggest fails from the 2026 World Humanoid Robot Games",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92UWtkZ21zUEc5SllBSWJUd2thWHViYmY4STdEcFdQeHY2dnpQSnUtMHlHVWRCM2NERkZRcFJCQ1NJOVdleW9VbmU4UUUzNnBMRXkzcFpPR29SVU40alB1WXBacDNpYnA5U0lvd2dEbkVNYWJXN2fSAXtBVV95cUxQaGMwbE9aRGQ1UEpVbkFUTlZBbjU4NnU1RlQ0LWhodmZ0MWJjdU9TeVlZMmRuTDJtd1RRX3RmSWZPb1FsMkZESWJ1MXJ6UGphdkI0RUxVWGF1bDlqbU9SZFlBWWo3S0oxLXM4blRoTkVKeF95Rkppa1FkSjA?oc=5",
-   "source": "KTLA",
-   "published": "2026-09-03T18:17:59+00:00",
+   "title": "Hitachi expands HMAX for physical AI ...",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JUl90UmFjSnNmUkQxdlVmd2t3Mnd6cXEtdGVzb0lOOE14Xy0yVXFFNncwejF1bGxkS1YwR2stMEJIczMwajB5bzNJVTlzWThCRDc1ZjF6dS1peHBlV2lVa2N5bnJkN2FfMWZuZl9VUjloR2p6UjJPdQ?oc=5",
+   "source": "eeNews Europe",
+   "published": "2026-09-04T08:43:07+00:00",
    "count": 3,
    "sources": [
-    "KTLA",
-    "mashable.com",
-    "novanews.co.za"
+    "Business Wire",
+    "International Business Times",
+    "eeNews Europe"
    ],
-   "score": 2.81
-  },
-  {
-   "title": "Tokyo Machine to Perform at Riyadh Humanoid Robot Kickboxing Event on September 9",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSkxSZEQtaWVkejdkeWpaTzFiQ1lBSDV4b3IxM2c1OGZfd0pHSnZsSHFCTFFBYmxrYVp2SWhibzJ6eDAwaGxab1FXUnVGdUN3NHBOS0RHOXJETlE4bjZxNVJoUmtUZGpaajVNNWpfUS11Z3hmdV9qd3paZG1NUmdEYXdEdFp2d2E1UDUybFRET1BhR0M3YkdEeFFhZC1paHBrZVJvNml0VFpzQ3pqUUE?oc=5",
-   "source": "geneonline.com",
-   "published": "2026-09-03T17:29:45+00:00",
-   "count": 3,
-   "sources": [
-    "PR Newswire",
-    "geneonline.com"
-   ],
-   "score": 2.78
-  },
-  {
-   "title": "Nscale and Figure Sign Strategic Partnership to Power the Next Generation of Physical AI",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fZWplQWJ1YU5WWi1SeWE5TUdWNHVDZklhUmoxUV9pTTJwMExwdTB6YTlldnFxQkVJeVB1dGFyYTVWTmpTN2pyRk5QaGNhcG5obGNwQkd2N0F6U01PRGE2YTJzalcydw?oc=5",
-   "source": "Nscale",
-   "published": "2026-09-03T16:00:04+00:00",
-   "count": 3,
-   "sources": [
-    "AI Insider",
-    "Figure",
-    "Nscale"
-   ],
-   "score": 2.72
-  },
-  {
-   "title": "Man Pushes Humanoid Robot and Gets a “Terminator” Moment Caught on Camera",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZm9OS2wzR3dRSTU5QjA4NF9NREdNSlRKM2hsbmtEWXNhSUtQaDNMRno3aTI5bkpNT1pveUZTMUJKLUNmcU9FdXQzZHozTlNUVVpMa0pLVEdaeU1sVGl1azVPakNlbUtseUtUTFNYajVmRHRMOWlpNEgwZTQ5NWdtWE16SDlFX3ZzaFA1dkhR?oc=5",
-   "source": "Yahoo Tech",
-   "published": "2026-09-03T15:09:51+00:00",
-   "count": 3,
-   "sources": [
-    "Tom's Guide",
-    "Yahoo Tech",
-    "indiatoday.in"
-   ],
-   "score": 2.69
-  },
-  {
-   "title": "Lyte Raises $165 Million Series C At $1.6 Billion Valuation For Physical AI Perception Platform",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa0dLMzdmazJYeWs5emoxNVNnb3VOUG4xSjhuQ2FMYklmMG9KUERBRTU0ZEhEM3I3cTEwaFEyQ1pGNkl3NkJGd0oxWWtBdFRrRTg0N2ZZSXZxVks5eHFqNzdiUVlwM3pYanZDMDgtNXdWbTVhLTF3ZFhPOWtUeEhUNXp6a9IBiAFBVV95cUxOX0F6OHVUV2V2Tk5oZG5CM0NIeVhVVjRkWmFhTXZUc2gwcG9HVEs5RGFxNDlGdld0YmdraU5lN25XOVFQakxDYWpOYlF4SzJDTXRka203YUJLX3hhYVJYdktEQVd0aHVhbjRTRFhOZG94YTJoTlB1bUExa1IwdjBpa2ZuRzRTbXVV?oc=5",
-   "source": "Pulse 2.0",
-   "published": "2026-09-02T18:11:43+00:00",
-   "count": 4,
-   "sources": [
-    "Pulse 2.0",
-    "calcalistech.com",
-    "en.globes.co.il",
-    "theaiinsider.tech"
-   ],
-   "score": 2.68
-  },
-  {
-   "title": "日立、フィジカルAI の社会実装を加速させる「HMAX」を拡充",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00akN1UHR5X3FrZkxocGlIaTBUSnBEbVJvTHF5T3Vqcms3amlTWjVKNVNGUEVqQXBUQ1FyNFM1OHBEUHI2WWN4a0xNTWVKMXU3b0x3cFhVX0M5X0tITm9pYXRYOG0xZw?oc=5",
-   "source": "電波タイムズ",
-   "published": "2026-09-03T08:44:26+00:00",
-   "count": 3,
-   "sources": [
-    "PR TIMES",
-    "ZDNET Japan",
-    "電波タイムズ"
-   ],
-   "score": 2.46
+   "score": 2.47
   }
  ],
  "trend": {
   "dates": [
-   "2026-08-05",
    "2026-08-06",
    "2026-08-07",
    "2026-08-08",
@@ -482,14 +485,14 @@
    "2026-08-31",
    "2026-09-01",
    "2026-09-02",
-   "2026-09-03"
+   "2026-09-03",
+   "2026-09-04"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     24,
      23,
      15,
      4,
@@ -517,15 +520,15 @@
      9,
      45,
      29,
-     31,
-     41
+     33,
+     43,
+     30
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     32,
      24,
      16,
      8,
@@ -552,36 +555,36 @@
      16,
      34,
      45,
+     41,
      40,
      39,
-     34
+     36
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     5,
      9,
      7,
      1,
      1,
      10,
      5,
-     12,
+     14,
      5,
-     6,
+     7,
      3,
      0,
      6,
      1,
-     19,
+     20,
      6,
      16,
      1,
      3,
-     24,
-     11,
+     25,
+     12,
      8,
      12,
      8,
@@ -589,15 +592,15 @@
      2,
      4,
      2,
-     3,
-     4
+     5,
+     5,
+     5
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     19,
      30,
      16,
      7,
@@ -616,7 +619,7 @@
      52,
      48,
      56,
-     59,
+     60,
      30,
      38,
      25,
@@ -625,15 +628,15 @@
      24,
      31,
      17,
-     17,
-     32
+     18,
+     33,
+     24
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     16,
      9,
      12,
      1,
@@ -649,7 +652,7 @@
      28,
      27,
      32,
-     20,
+     21,
      15,
      21,
      34,
@@ -660,9 +663,10 @@
      8,
      13,
      46,
-     15,
-     8,
-     17
+     16,
+     9,
+     22,
+     8
     ]
    }
   ]
@@ -672,7 +676,7 @@
    "name": "INTEL CORP",
    "core": "INTEL",
    "patents": 1051,
-   "news": 8
+   "news": 9
   },
   {
    "name": "BOSCH GMBH ROBERT",
@@ -708,7 +712,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 108
+   "news": 115
   },
   {
    "name": "QUALCOMM INC",
