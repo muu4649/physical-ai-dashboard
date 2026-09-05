@@ -1,65 +1,65 @@
 {
- "updated_at": "2026-09-04T22:45:24.940720+00:00",
+ "updated_at": "2026-09-05T22:37:40.628305+00:00",
  "kpi": {
-  "articles_7d": 733,
-  "articles_prev_7d": 928,
-  "sources_7d": 361,
-  "articles_30d": 3201,
-  "total_articles": 6755,
+  "articles_7d": 720,
+  "articles_prev_7d": 904,
+  "sources_7d": 367,
+  "articles_30d": 3148,
+  "total_articles": 6793,
   "oldest_news": "2021-03-15"
  },
  "wordcloud": [
   [
    "開発",
-   61
+   56
+  ],
+  [
+   "実装",
+   45
   ],
   [
    "現場",
    43
   ],
   [
-   "実装",
-   43
-  ],
-  [
-   "企業",
-   37
-  ],
-  [
-   "中国",
-   36
-  ],
-  [
-   "製造",
-   36
-  ],
-  [
    "支援",
-   35
-  ],
-  [
-   "画像",
-   33
+   36
   ],
   [
    "china",
    32
   ],
   [
-   "写真",
-   32
-  ],
-  [
-   "nvidia",
+   "画像",
    31
   ],
   [
-   "社会",
-   29
+   "技術",
+   31
   ],
   [
-   "技術",
-   29
+   "nvidia",
+   30
+  ],
+  [
+   "社会",
+   30
+  ],
+  [
+   "中国",
+   30
+  ],
+  [
+   "写真",
+   30
+  ],
+  [
+   "製造",
+   28
+  ],
+  [
+   "企業",
+   28
   ],
   [
    "データ",
@@ -70,11 +70,11 @@
    27
   ],
   [
-   "j-hrti",
+   "HRTI",
    26
   ],
   [
-   "HRTI",
+   "j-hrti",
    26
   ],
   [
@@ -82,15 +82,11 @@
    23
   ],
   [
-   "world",
-   21
-  ],
-  [
-   "日本",
+   "学習",
    20
   ],
   [
-   "学習",
+   "日本",
    20
   ],
   [
@@ -98,7 +94,7 @@
    20
   ],
   [
-   "全国",
+   "world",
    20
   ],
   [
@@ -106,11 +102,15 @@
    20
   ],
   [
-   "DMS",
-   19
+   "全国",
+   20
   ],
   [
    "dms",
+   19
+  ],
+  [
+   "DMS",
    19
   ],
   [
@@ -130,27 +130,23 @@
    17
   ],
   [
-   "物流",
-   16
+   "AWS",
+   17
   ],
   [
-   "世界",
-   16
+   "aws",
+   17
   ],
   [
    "導入",
    16
   ],
   [
-   "AWS",
+   "物流",
    16
   ],
   [
-   "aws",
-   16
-  ],
-  [
-   "自動",
+   "japan",
    15
   ],
   [
@@ -162,27 +158,15 @@
    15
   ],
   [
-   "games",
-   14
-  ],
-  [
-   "国産",
-   14
-  ],
-  [
-   "japan",
-   14
-  ],
-  [
-   "京セラ",
-   14
-  ],
-  [
-   "連合",
-   14
+   "ifa",
+   15
   ],
   [
    "raises",
+   14
+  ],
+  [
+   "プロジェクト",
    14
   ],
   [
@@ -190,28 +174,28 @@
    14
   ],
   [
-   "産業",
-   13
+   "世界",
+   14
   ],
   [
-   "プロジェクト",
-   13
+   "サービス",
+   14
+  ],
+  [
+   "自動",
+   14
   ],
   [
    "活用",
    13
   ],
   [
-   "サービス",
+   "公開",
    13
   ],
   [
    "abeja",
    13
-  ],
-  [
-   "実用",
-   12
   ],
   [
    "summit",
@@ -222,7 +206,7 @@
    12
   ],
   [
-   "公開",
+   "産業",
    12
   ],
   [
@@ -242,74 +226,86 @@
    12
   ],
   [
+   "基盤",
+   11
+  ],
+  [
+   "Summit",
+   11
+  ],
+  [
    "投資",
    11
   ],
   [
-   "事業",
+   "billion",
+   11
+  ],
+  [
+   "games",
+   11
+  ],
+  [
+   "成果",
    11
   ]
  ],
  "today_top5": [
   {
-   "title": "ＡＢＥＪＡが大幅高で４日ぶり反発、ＪＲ東日本とフィジカルＡＩを用いた実証プロジェクト開始(ウエルスアドバイザー)",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQY1BlVXZRQi14WF8xU29XcHlGVWZXZkNMMHR6emdEZWZLb2ZseEJPSUttdkFrbFl2LXJiMkJ4ZlZ2SFRnbEduQWo4clhoclFSSEFEeW90V3RoTTM3Vjc0NHJ3TFhwR0U4VzZ2ejhtM1o5bFBwWFgtUHpsdTVHRDlTQ1E1N0JqOUE?oc=5",
-   "source": "Yahoo!ファイナンス",
-   "published": "2026-09-04T02:37:00+00:00",
-   "count": 3,
-   "sources": [
-    "Yahoo!ファイナンス",
-    "株探"
-   ],
-   "score": 2.27
-  },
-  {
-   "title": "OpenAI Is Building a Humanoid Robot. Sam Altman Says You Should Have One.",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVG0xUm1Wc1VjVTlZekZWVUk5aDRRZGlHLWNnVUNUVGRENmVEUVNKam5lZDk3VkdCRGdTTjBZUVZ1NW0tbzRnV1RfaTkzWFJCNld3SXNYSVpkT1Y3M0ZRM0djTEFvS3RZYjRIM0lHbUhuNWpDU1NIV25qSHo3dk42Mm9DOWs2eFEzaExNS2E2TEJjd1daQkVRWFd0WmxYN2hkU0E?oc=5",
-   "source": "Gadget Review",
-   "published": "2026-09-04T18:30:35+00:00",
+   "title": "フィジカルAI到来。UBSが語る3つの「ツルハシとシャベル」セクター（海外）（BUSINESS INSIDER JAPAN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqZDVjZzJjbnJ1eGZrRDVMVlZBVHdWUGFxY1NnYkM3Tk95Yng4ckVpTUxVaWt2U1dJUjR0cE1tazNhc0VZdDc5WG5QMlZyQk4zcVFva3NWOHhEdloyY1dkdTBscG52YXd3MzRLbDlkVU55Rjg3SGdSOXhJbm54Q2s?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-09-05T22:10:02+00:00",
    "count": 2,
    "sources": [
-    "36 Kr",
-    "Gadget Review"
+    "Business Insider Japan",
+    "Yahoo!ニュース"
    ],
-   "score": 1.89
+   "score": 1.99
   },
   {
-   "title": "Humanoid Robot Shipments Forecast to Reach 26 Million Annually by 2040",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcTdxaTJLR2dVNnZrZFduLXRFNjZiRTdoOExTQ3JmZEhTWDVsSS0waXVPZzZlQ1RfV3BPRUdycURHU2pwcVUxQXdmcEpXcHV4VWUwUlFMLS00WmNRbkl0MGpSZlZ5Z1VESW8xVEZ2OFB1MU1idjNKUDNlSU9ZM0EtSFYxRkdEaWxEOEx1b05YVVpuc0E1VnBTNEtiR0llMjkxOWhETGxJa2VKZEpFd2FZ?oc=5",
-   "source": "IoT Business News",
-   "published": "2026-09-04T14:27:52+00:00",
-   "count": 2,
+   "title": "Korea Bets Its Physical AI Advantage on Manufacturing Depth",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN0tMWTJjLV9XZXRsOVVFU2d4OEx6c3BvX2F2NHV2MXFtYkNsY0w1Wjd2VDlaYUp4ZzRzX3JhWm4yTGt5amM5R0Vscm5ENmYxRjhQcHFPZEZIQ0VvU3NQZXlGU21lbnc3V3VXUzJmRkdjOWJVOHAtNmExT1FER01DTFBmSVVIM1Ju?oc=5",
+   "source": "KoreaTechDesk",
+   "published": "2026-09-05T22:19:34+00:00",
+   "count": 1,
    "sources": [
-    "AZoRobotics",
-    "IoT Business News"
+    "KoreaTechDesk"
    ],
-   "score": 1.78
+   "score": 1.0
   },
   {
-   "title": "製造・物流企業、フィジカルAIの本番稼働は7.5％",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE80YnpzZDcxYTM4VEI2UXZtWmlxcUhSdGtralpTM2JXbmljOXFpVGpjU2xCbm9zLXdZY3g5dE9jRXFKMS1kZG96Yg?oc=5",
-   "source": "LOGISTICS TODAY",
-   "published": "2026-09-04T08:23:58+00:00",
-   "count": 2,
+   "title": "The 5 Best Humanoid Robots Of IFA 2026",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4wOEFfcWdHV0d6czlSMjVFVkk4QTFPVlBFcjRPS2JJM0ROQXloTDNpTmhaUlFNV2J0V3NFZUd4dHRHYkVhUVhNOUFELTk4SllnNVVHUzJZRDVXRGhTcG5wUFBqMTNpSm9kLVE?oc=5",
+   "source": "bgr.com",
+   "published": "2026-09-05T21:08:24+00:00",
+   "count": 1,
    "sources": [
-    "LOGISTICS TODAY",
-    "PR TIMES"
+    "bgr.com"
    ],
-   "score": 1.64
+   "score": 0.98
   },
   {
-   "title": "日立、HMAX拡充でフィジカルAI実装を支援",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE01eDJtUERKYnZMX1hjR2dDRlhwNE1tTHlSaDF1SnhaMUF0NXQ1b256UVp0ck9MOXZQdEJsYVdlRDNtaGtsd3pteQ?oc=5",
-   "source": "LOGISTICS TODAY",
-   "published": "2026-09-04T04:25:35+00:00",
-   "count": 2,
+   "title": "Pudu Robotics Makes Its IFA Debut, Bringing Its Full Robotics Portfolio to Europe",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcERwWTh5VEFMQmg5VFJfWjNOQnk4SGtmazRBY3BTUFJDZGZ5RXJpVHhnQWFBSW5FalJRQjNfN0ozdVdCQjdKZFM2QzdrdEx3bjdGNUNWRVpkclJqbnJmb2FIQTJObDVFSVVzUGowdEhDQVBxdG9sd3RkUXJ3cFRibzJDQjhCT2N2UnlHMzhCaHVHWDRYZGNRYnZrbk1PckJiRlFlNFNRQTFxV284bkJSVTcxWGo0U00tdDRGSHg4a1AzaXBzcWNvSE5CSk5EcnkwQnd5c1k4RU03UzB3OXlnUXNzQUwtM2tZSFE?oc=5",
+   "source": "Adnkronos",
+   "published": "2026-09-05T19:01:53+00:00",
+   "count": 1,
    "sources": [
-    "LOGISTICS TODAY",
-    "xtech.nikkei.com"
+    "Adnkronos"
    ],
-   "score": 1.55
+   "score": 0.95
+  },
+  {
+   "title": "Shoppers interact with Hong Kong’s first robot shopkeeper",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWE1UUkFkTjcxRzJJWS0zRUZzTGNnWHota3FOR0NVVFhkUFkya2JNZkxYR2t3TzVmWEl0Z1BidnlsY0p0bkM5NWo3SlBHOFVxenJ2MkkwR0FfMjZ5WlE1NHdmdmp1STJiV296MmxxVzNSWmpfRkhhOG9Kei1hajdJV2pHSTBwOXdtQkxXcnZZWGpjTWI1SGhTaFRHQTZ1ZkZwVFM1Nk54eVBPd9IBrwFBVV95cUxOR0hncGpwcldQZ1FnWEZPOUdtMW1oaGRlcGxmZlJpWXRvX3N4MGJCcG9JbmJEWXZGaVVvS01NbUdWMXFCeFFHMUN3bW9kWVU1aXFkSDVLMXVPT3ptZ0ppMlE5SW5kcFVkZ3RUYWl0Tk5haERjcFcwcjQ3dWJMNWZlZndsb3hhY21obE51d0ZpQ2ZfdEdlYlg4SWlzUTNuZzhFMkJHcjlDMXJQMG9vd05v?oc=5",
+   "source": "Al Jazeera",
+   "published": "2026-09-05T18:58:18+00:00",
+   "count": 1,
+   "sources": [
+    "Al Jazeera"
+   ],
+   "score": 0.95
   }
  ],
  "hot_news": [
@@ -323,23 +319,7 @@
     "ロボスタ",
     "通販新聞社"
    ],
-   "score": 10.19
-  },
-  {
-   "title": "京セラや神戸製鋼など約20社、国産フィジカルAIの共同開発に向け企業連合を発足",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1aa2FhTHdTd1NOclBVSS15cmt4RE9FTTJ0Z09iaTY3SDNGeldYM2Zkd2gxY29TX3RrTVpUc3VQblhGaWE1dUx3NndWTkluQkk?oc=5",
-   "source": "ビジネス+IT",
-   "published": "2026-09-03T22:00:00+00:00",
-   "count": 9,
-   "sources": [
-    "BigGo ファイナンス",
-    "Yahoo!ニュース",
-    "okinawatimes.co.jp",
-    "ビジネス+IT",
-    "新潟日報",
-    "沖縄タイムス社"
-   ],
-   "score": 6.38
+   "score": 7.32
   },
   {
    "title": "とにかく「データが足りない」フィジカルAI AWS支援プログラム採択各社が示す突破口",
@@ -355,7 +335,7 @@
     "クラウド Watch",
     "ビジネスネットワーク"
    ],
-   "score": 6.0
+   "score": 4.3
   },
   {
    "title": "リコー、動画像から人の動きを学習し多様なロボットに適用可能なフィジカルAI技術を開発",
@@ -370,7 +350,7 @@
     "ZDNET Japan",
     "iotnews.jp"
    ],
-   "score": 3.92
+   "score": 2.81
   },
   {
    "title": "日立、HMAX拡充でフィジカルAI実装を支援",
@@ -385,7 +365,7 @@
     "ロボスタ",
     "電波タイムズ"
    ],
-   "score": 3.88
+   "score": 2.78
   },
   {
    "title": "NTTPC、NVIDIA RTX PRO 6000 Blackwellを搭載した「GPUクラウド for フィジカルAI」を提供",
@@ -400,7 +380,7 @@
     "ビジネスネットワーク",
     "株式会社インプレス"
    ],
-   "score": 3.65
+   "score": 2.62
   },
   {
    "title": "ＡＢＥＪＡが大幅高で４日ぶり反発、ＪＲ東日本とフィジカルＡＩを用いた実証プロジェクト開始(ウエルスアドバイザー)",
@@ -412,7 +392,7 @@
     "Yahoo!ファイナンス",
     "株探"
    ],
-   "score": 3.02
+   "score": 2.17
   },
   {
    "title": "OpenAI Is Building a Humanoid Robot. Sam Altman Says You Should Have One.",
@@ -425,7 +405,7 @@
     "Forbes",
     "Gadget Review"
    ],
-   "score": 2.83
+   "score": 2.03
   },
   {
    "title": "ABEJAがJR東と連携、フィジカルAI活用した館内デリバリー自動化の実証開始 - online.logi-biz.com",
@@ -439,25 +419,36 @@
     "online.logi-biz.com",
     "ロボスタ"
    ],
-   "score": 2.8
+   "score": 2.01
   },
   {
-   "title": "Hitachi expands HMAX for physical AI ...",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9JUl90UmFjSnNmUkQxdlVmd2t3Mnd6cXEtdGVzb0lOOE14Xy0yVXFFNncwejF1bGxkS1YwR2stMEJIczMwajB5bzNJVTlzWThCRDc1ZjF6dS1peHBlV2lVa2N5bnJkN2FfMWZuZl9VUjloR2p6UjJPdQ?oc=5",
-   "source": "eeNews Europe",
-   "published": "2026-09-04T08:43:07+00:00",
+   "title": "フィジカルAI到来。UBSが語る3つの「ツルハシとシャベル」セクター（海外）（BUSINESS INSIDER JAPAN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqZDVjZzJjbnJ1eGZrRDVMVlZBVHdWUGFxY1NnYkM3Tk95Yng4ckVpTUxVaWt2U1dJUjR0cE1tazNhc0VZdDc5WG5QMlZyQk4zcVFva3NWOHhEdloyY1dkdTBscG52YXd3MzRLbDlkVU55Rjg3SGdSOXhJbm54Q2s?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-09-05T22:10:02+00:00",
+   "count": 2,
+   "sources": [
+    "Business Insider Japan",
+    "Yahoo!ニュース"
+   ],
+   "score": 1.99
+  },
+  {
+   "title": "Humanoid Robot Shipments Forecast to Reach 26 Million Annually by 2040",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcTdxaTJLR2dVNnZrZFduLXRFNjZiRTdoOExTQ3JmZEhTWDVsSS0waXVPZzZlQ1RfV3BPRUdycURHU2pwcVUxQXdmcEpXcHV4VWUwUlFMLS00WmNRbkl0MGpSZlZ5Z1VESW8xVEZ2OFB1MU1idjNKUDNlSU9ZM0EtSFYxRkdEaWxEOEx1b05YVVpuc0E1VnBTNEtiR0llMjkxOWhETGxJa2VKZEpFd2FZ?oc=5",
+   "source": "IoT Business News",
+   "published": "2026-09-04T14:27:52+00:00",
    "count": 3,
    "sources": [
-    "Business Wire",
-    "International Business Times",
-    "eeNews Europe"
+    "AZoRobotics",
+    "I-Connect007",
+    "IoT Business News"
    ],
-   "score": 2.47
+   "score": 1.92
   }
  ],
  "trend": {
   "dates": [
-   "2026-08-06",
    "2026-08-07",
    "2026-08-08",
    "2026-08-09",
@@ -486,14 +477,14 @@
    "2026-09-01",
    "2026-09-02",
    "2026-09-03",
-   "2026-09-04"
+   "2026-09-04",
+   "2026-09-05"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     23,
      15,
      4,
      5,
@@ -514,22 +505,22 @@
      46,
      49,
      49,
-     46,
+     47,
      26,
      9,
      9,
      45,
      29,
-     33,
-     43,
-     30
+     34,
+     44,
+     32,
+     8
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     24,
      16,
      8,
      7,
@@ -555,17 +546,17 @@
      16,
      34,
      45,
-     41,
+     42,
      40,
-     39,
-     36
+     42,
+     36,
+     5
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     9,
      7,
      1,
      1,
@@ -594,14 +585,14 @@
      2,
      5,
      5,
-     5
+     5,
+     2
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     30,
      16,
      7,
      13,
@@ -628,16 +619,16 @@
      24,
      31,
      17,
-     18,
-     33,
-     24
+     19,
+     36,
+     26,
+     7
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     9,
      12,
      1,
      7,
@@ -664,9 +655,10 @@
      13,
      46,
      16,
-     9,
+     10,
      22,
-     8
+     8,
+     6
     ]
    }
   ]
@@ -688,7 +680,7 @@
    "name": "GOOGLE LLC",
    "core": "GOOGLE",
    "patents": 275,
-   "news": 5
+   "news": 4
   },
   {
    "name": "HONDA MOTOR CO LTD",
@@ -700,7 +692,7 @@
    "name": "SAMSUNG ELECTRONICS CO LTD",
    "core": "SAMSUNG ELECTRONICS",
    "patents": 260,
-   "news": 9
+   "news": 8
   },
   {
    "name": "X DEV LLC",
@@ -712,7 +704,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 115
+   "news": 114
   },
   {
    "name": "QUALCOMM INC",
