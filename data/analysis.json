@@ -1,200 +1,220 @@
 {
- "updated_at": "2026-09-07T23:15:46.157445+00:00",
+ "updated_at": "2026-09-08T23:09:35.617655+00:00",
  "kpi": {
-  "articles_7d": 624,
-  "articles_prev_7d": 863,
-  "sources_7d": 333,
-  "articles_30d": 3210,
-  "total_articles": 6942,
+  "articles_7d": 690,
+  "articles_prev_7d": 827,
+  "sources_7d": 367,
+  "articles_30d": 3353,
+  "total_articles": 7116,
   "oldest_news": "2021-03-15"
  },
  "wordcloud": [
   [
-   "開発",
-   47
+   "china",
+   38
   ],
   [
-   "china",
-   30
+   "開発",
+   34
+  ],
+  [
+   "xpeng",
+   31
   ],
   [
    "企業",
    29
   ],
   [
-   "データ",
-   25
-  ],
-  [
    "ifa",
-   25
+   29
   ],
   [
-   "中国",
+   "production",
+   28
+  ],
+  [
+   "物流",
    24
   ],
   [
-   "nvidia",
+   "中国",
    22
   ],
   [
-   "実装",
+   "launches",
    21
   ],
   [
-   "支援",
+   "製造",
+   21
+  ],
+  [
+   "世界",
    21
   ],
   [
    "技術",
+   21
+  ],
+  [
+   "nvidia",
    20
   ],
   [
-   "製造",
+   "日本",
+   20
+  ],
+  [
+   "実装",
    20
   ],
   [
    "戦略",
-   17
+   19
   ],
   [
-   "現場",
-   16
+   "データ",
+   19
   ],
   [
-   "日立",
-   16
+   "platform",
+   18
   ],
   [
-   "学習",
-   15
-  ],
-  [
-   "日本",
-   15
-  ],
-  [
-   "時代",
-   15
-  ],
-  [
-   "物流",
-   15
-  ],
-  [
-   "自動",
-   14
-  ],
-  [
-   "AWS",
-   14
-  ],
-  [
-   "aws",
-   14
-  ],
-  [
-   "画像",
-   14
-  ],
-  [
-   "launches",
-   14
-  ],
-  [
-   "世界",
-   14
-  ],
-  [
-   "hmax",
-   14
-  ],
-  [
-   "プロジェクト",
-   13
-  ],
-  [
-   "NVIDIA",
-   13
+   "支援",
+   18
   ],
   [
    "写真",
-   13
+   18
+  ],
+  [
+   "画像",
+   18
+  ],
+  [
+   "gmo",
+   18
+  ],
+  [
+   "日立",
+   18
+  ],
+  [
+   "iron",
+   18
+  ],
+  [
+   "edge",
+   15
+  ],
+  [
+   "現場",
+   15
+  ],
+  [
+   "GMO",
+   15
+  ],
+  [
+   "hmax",
+   15
+  ],
+  [
+   "data",
+   14
+  ],
+  [
+   "NVIDIA",
+   14
+  ],
+  [
+   "時代",
+   14
+  ],
+  [
+   "arm",
+   14
+  ],
+  [
+   "line",
+   14
   ],
   [
    "world",
    13
   ],
   [
-   "産業",
-   12
+   "autonomous",
+   13
   ],
   [
-   "japan",
-   12
+   "自動",
+   13
   ],
   [
    "社会",
-   12
-  ],
-  [
-   "autonomous",
-   11
-  ],
-  [
-   "data",
-   11
-  ],
-  [
-   "ロボティクス",
-   11
-  ],
-  [
-   "開催",
-   11
-  ],
-  [
-   "活用",
-   11
-  ],
-  [
-   "edge",
-   11
+   13
   ],
   [
    "実証",
+   13
+  ],
+  [
+   "導入",
+   12
+  ],
+  [
+   "ロボティクス",
+   12
+  ],
+  [
+   "push",
    11
   ],
   [
-   "拠点",
-   10
+   "brings",
+   11
   ],
   [
-   "収集",
-   10
+   "industrial",
+   11
   ],
   [
-   "one",
-   10
+   "japan",
+   11
   ],
   [
-   "モデル",
-   10
-  ],
-  [
-   "billion",
-   10
-  ],
-  [
-   "market",
-   10
+   "aws",
+   11
   ],
   [
    "加速",
-   10
+   11
   ],
   [
-   "platform",
+   "AWS",
+   11
+  ],
+  [
+   "モデル",
+   11
+  ],
+  [
+   "学習",
+   11
+  ],
+  [
+   "産業",
+   11
+  ],
+  [
+   "歩行",
+   11
+  ],
+  [
+   "サービス",
    10
   ],
   [
@@ -202,31 +222,19 @@
    10
   ],
   [
-   "abeja",
-   10
-  ],
-  [
    "ABEJA",
    10
   ],
   [
-   "raises",
-   9
-  ],
-  [
-   "korea",
-   9
-  ],
-  [
-   "次世代",
-   9
-  ],
-  [
-   "センター",
-   9
+   "abeja",
+   10
   ],
   [
    "unitree",
+   10
+  ],
+  [
+   "billion",
    9
   ],
   [
@@ -234,86 +242,182 @@
    9
   ],
   [
-   "push",
+   "tech",
    9
   ],
   [
-   "韓国",
+   "活用",
    9
-  ],
-  [
-   "brings",
-   8
-  ],
-  [
-   "global",
-   8
   ]
  ],
  "today_top5": [
   {
-   "title": "HLQ EDGE発表｜耐荷重60kg、独自歩行AIで溝地形を走破",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nVk5NOUpjWV9RM2k2WFo0N1VlNlBkVGc3b1hwdzV0MERsS0ZGY2Q4dGFQaFozSnRhNzAxa2xyRm5WUTd2NERpRzMxRVRqdTdfMkY5U2FxUXlGQVU?oc=5",
-   "source": "innovaTopia",
-   "published": "2026-09-07T07:37:27+00:00",
-   "count": 3,
-   "sources": [
-    "innovaTopia",
-    "prtimes.jp",
-    "株式会社インプレス"
-   ],
-   "score": 2.41
-  },
-  {
-   "title": "China readies humanoid robots for potential battlefield use",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa1lPU0Y1b19QOVgweDhXZVhFcUxLbkIzWlVUUjVvMEdwcHNoaWFoZGt4cU4zV01aMHY0cVFvYWJreVlhaU5zdDU5NXdpM1dsUTVnUUh1SjRaNUhsN3BIUkRNY1oxbk1IMnVSUGlEbXRVMFNjeXFfbEM2R2IzaGNmM2c1TlNlSkt3RzRXWnR0SQ?oc=5",
-   "source": "Caliber.Az",
-   "published": "2026-09-07T20:30:51+00:00",
-   "count": 2,
-   "sources": [
-    "Caliber.Az",
-    "Modern Diplomacy"
-   ],
-   "score": 1.93
-  },
-  {
-   "title": "China's Military Pushes Humanoid Robots Toward Battlefield Deployment",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XbW43NHZ1X3dxbzd6TENsM1dTWTAyYmE5TGlwalJrWlhTRzZVM0pPVThMV3VTOVhxeGNEWVI2Y1B5b0VEYkxwWFc5MUhNSGliWjZLbndwSDhlMHJaejJ2NFotYjdHWHI4RlZwUjhYWkNIXzBkdFE?oc=5",
-   "source": "finance.biggo.com",
-   "published": "2026-09-07T18:06:00+00:00",
-   "count": 2,
-   "sources": [
-    "arise.tv",
-    "finance.biggo.com"
-   ],
-   "score": 1.86
-  },
-  {
-   "title": "Samsung may unveil humanoid robot in 2027",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdVdDUGx5UVZWNW52SExpdTBWakVCcGY0cTNuY0dlUFp5ejM0MFNWSzA3c0xnQU1KUnRtcVdERDZaamlFeXJ6Y1hfVHRYeEJxQzBOSVJwWGp4azc5UzVfeHRJRG16REI3RTBxVVRyWmp2Uk9NUjFySjlWNlhDOHpaNGVJbUExMHVqSHl2MW9rSQ?oc=5",
-   "source": "Breakingthenews.net",
-   "published": "2026-09-07T12:20:00+00:00",
-   "count": 2,
-   "sources": [
-    "Breakingthenews.net",
-    "Seoul Economic Daily"
-   ],
-   "score": 1.72
-  },
-  {
-   "title": "Neura Robotics, Seco Partner on Physical AI, Robot Compute and Industrial Automation",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWW5EaXc3M19mUjE4VVF0UU95WUJUeGpibi1LSXpYRUVrU2pKQkxxaDNFQVNab0FHRFNvcTUzdXhPOExTbTA1WXM0SWRYRXAyTmRMMGJZczYySk5JYWp1OHV2WkQ0dzBwMXBVTFZvSXVwRFp1d29laHcyNVpWOEFZVnpoaFc3a0tBZXVuaXVMQVN1N296TDQ4WU52ZUNORzdLajYwWVJDazBwbzVkUkN3emY1b2c2Umpsa3ZoSw?oc=5",
-   "source": "AI Insider",
-   "published": "2026-09-07T09:43:26+00:00",
-   "count": 2,
+   "title": "XPeng starts humanoid robot production line, targets mass production by year-end",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vNTR1a1Fmcmw2bTd6UlhCRzJnZklWTFVqRUYzdUFLZ2ZZS1NoRFYwWTZrNXBKVWcxYUZpMXQtcXFqUWt2bEs3eEIxX3pad3h5Mld3N0pzNndjOXpSbjRLb1Mxa3J2eDhtS216Y1lFRVN1OGZQM0RSRnJJV0U?oc=5",
+   "source": "Xinhua",
+   "published": "2026-09-08T15:53:15+00:00",
+   "count": 8,
    "sources": [
     "AI Insider",
-    "Unite.AI"
+    "CleanTechnica",
+    "TechEBlog -",
+    "The Gadgeteer",
+    "Unite.AI",
+    "XPENG"
    ],
-   "score": 1.66
+   "score": 7.23
+  },
+  {
+   "title": "GMO AI＆ロボティクスが東京で人型ロボット専用の修理車を導入",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zM3hVcTI3Nkl4OXJWc0lzWDVWQTI3T0NPWUdGclliVXNmcnNaTGIyNHZyRU5MWTBBSU54YkRzMExiX3hnNE9rd0gyazBpN1BuT3lDbFdB?oc=5",
+   "source": "Межа. Новини України.",
+   "published": "2026-09-08T10:43:29+00:00",
+   "count": 5,
+   "sources": [
+    "ITmedia",
+    "PR TIMES",
+    "dreamseed.blog",
+    "Межа. Новини України.",
+    "株式会社インプレス"
+   ],
+   "score": 4.21
+  },
+  {
+   "title": "XPENG just put its humanoid robot on the production line, and it walked itself out",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaFJMaW5pVGZuaU15YkFwbjVJTmFWZ05KTDlCSk1oQnBYalZ3RlpHY3pvMFRhZTZBRkxXcGFmSWJHYjBaQlNoNTJLcWNUZHpVNUVTdUNHMldUN3JMZ3BvSlREYjhpQ1Exc04tSmNoY2ZzMTM1WDl6WGd1UUpUam1id196ZlphLUVES2ZZX0xLMVp0U1ZpNjRaMVJxZ19OMDZmemdDeHZNV2lEUzJXQ2lxdmRjMHBwTnBqWEpGY2N3OA?oc=5",
+   "source": "Digital Trends",
+   "published": "2026-09-08T11:20:11+00:00",
+   "count": 4,
+   "sources": [
+    "Digital Trends",
+    "Stock Titan",
+    "StreetInsider",
+    "TechNode"
+   ],
+   "score": 3.39
+  },
+  {
+   "title": "なぜ日本の製造・物流は「フィジカルAI」で足踏みを続けるのか？ 本番稼働は7.5%にとどまる現実！ 「他社待ち」が生む負の循環とは（Merkmal）",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNEdaM2FDc0EtMHFPOVltVVZCVmpZcHhQeTFqU0NCZ3ZUQ2NJVmEyb1hLMktGSkVjMHlfTDFJUjdYVExyRkc2aW9RdWlqeDY4VFowMXA4Vm96OGZCRHpweXJIVUxJWGxKMi1qN1VBcXJEcFFZLTFXeVljNzVnMFhPeXJJY0l0RjNuU1JndGRn?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-09-08T20:26:47+00:00",
+   "count": 3,
+   "sources": [
+    "Yahoo!ニュース",
+    "carview!",
+    "merkmal-biz.jp"
+   ],
+   "score": 2.89
+  },
+  {
+   "title": "ZaiNar brings location awareness expertise to Arm® Total Design for Physical AI",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNjE3VTVBaHdCeUx6LTc2bk5vM1pwSlp0V3o4SXhCa2p5UnZ5Z2ZQcUpkZy1EaXBqLU8yUVdISDdPYUpYSV9LSy1HYm4wR2lja2dyUWFWWWNqMVd5SGJnMk1oYkZlUDYxY2V5c1FNRkJveEdYUHkwLXdjUUR0ZU90M281aVVKLVVGMExfWXZmWHJpV3RTU2x3UUZZa1lhYlRycEF4TVJqaGpicFRKWEQ0RVhsSHVQNWZiZTZLNndMTzAyOGhUcmZ3Um5XaEZiMUk?oc=5",
+   "source": "PR Newswire",
+   "published": "2026-09-08T14:00:00+00:00",
+   "count": 3,
+   "sources": [
+    "AI News",
+    "PR Newswire"
+   ],
+   "score": 2.64
   }
  ],
  "hot_news": [
+  {
+   "title": "XPeng starts humanoid robot production line, targets mass production by year-end",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vNTR1a1Fmcmw2bTd6UlhCRzJnZklWTFVqRUYzdUFLZ2ZZS1NoRFYwWTZrNXBKVWcxYUZpMXQtcXFqUWt2bEs3eEIxX3pad3h5Mld3N0pzNndjOXpSbjRLb1Mxa3J2eDhtS216Y1lFRVN1OGZQM0RSRnJJV0U?oc=5",
+   "source": "Xinhua",
+   "published": "2026-09-08T15:53:15+00:00",
+   "count": 8,
+   "sources": [
+    "AI Insider",
+    "CleanTechnica",
+    "TechEBlog -",
+    "The Gadgeteer",
+    "Unite.AI",
+    "XPENG"
+   ],
+   "score": 7.23
+  },
+  {
+   "title": "GMO AI＆ロボティクスが東京で人型ロボット専用の修理車を導入",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zM3hVcTI3Nkl4OXJWc0lzWDVWQTI3T0NPWUdGclliVXNmcnNaTGIyNHZyRU5MWTBBSU54YkRzMExiX3hnNE9rd0gyazBpN1BuT3lDbFdB?oc=5",
+   "source": "Межа. Новини України.",
+   "published": "2026-09-08T10:43:29+00:00",
+   "count": 5,
+   "sources": [
+    "ITmedia",
+    "PR TIMES",
+    "dreamseed.blog",
+    "Межа. Новини України.",
+    "株式会社インプレス"
+   ],
+   "score": 4.21
+  },
+  {
+   "title": "XPENG just put its humanoid robot on the production line, and it walked itself out",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaFJMaW5pVGZuaU15YkFwbjVJTmFWZ05KTDlCSk1oQnBYalZ3RlpHY3pvMFRhZTZBRkxXcGFmSWJHYjBaQlNoNTJLcWNUZHpVNUVTdUNHMldUN3JMZ3BvSlREYjhpQ1Exc04tSmNoY2ZzMTM1WDl6WGd1UUpUam1id196ZlphLUVES2ZZX0xLMVp0U1ZpNjRaMVJxZ19OMDZmemdDeHZNV2lEUzJXQ2lxdmRjMHBwTnBqWEpGY2N3OA?oc=5",
+   "source": "Digital Trends",
+   "published": "2026-09-08T11:20:11+00:00",
+   "count": 4,
+   "sources": [
+    "Digital Trends",
+    "Stock Titan",
+    "StreetInsider",
+    "TechNode"
+   ],
+   "score": 3.39
+  },
+  {
+   "title": "JDSC、ダイフクと物流の完全無人化へフィジカルAI技術を検証 - LOGI-BIZ online",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9DSmw5empZVVZuclVBemJ2amVYTXc0TEwtVnRQTDlJM2diQVZiOHFVVU1rcjNnNy00UVpUV0taOEp5Rkl3U0VzUlVMNA?oc=5",
+   "source": "LOGI-BIZ online",
+   "published": "2026-09-08T21:00:56+00:00",
+   "count": 3,
+   "sources": [
+    "LOGI-BIZ online",
+    "PR TIMES"
+   ],
+   "score": 2.91
+  },
+  {
+   "title": "なぜ日本の製造・物流は「フィジカルAI」で足踏みを続けるのか？ 本番稼働は7.5%にとどまる現実！ 「他社待ち」が生む負の循環とは（Merkmal）",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNEdaM2FDc0EtMHFPOVltVVZCVmpZcHhQeTFqU0NCZ3ZUQ2NJVmEyb1hLMktGSkVjMHlfTDFJUjdYVExyRkc2aW9RdWlqeDY4VFowMXA4Vm96OGZCRHpweXJIVUxJWGxKMi1qN1VBcXJEcFFZLTFXeVljNzVnMFhPeXJJY0l0RjNuU1JndGRn?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-09-08T20:26:47+00:00",
+   "count": 3,
+   "sources": [
+    "Yahoo!ニュース",
+    "carview!",
+    "merkmal-biz.jp"
+   ],
+   "score": 2.89
+  },
+  {
+   "title": "China Prepares Humanoid Robots For Future Warfare",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSlN5MGktZTBBYmY2TDRZd1AydXRsb3g3M3VHRjhzYmhIRWVlTE9rdWpnR1djZDhHS1BEQWdyQnlwS2FvZ1BQU1NxUDF6RHVRUXowZFJYMzByRGVpcTJrTnYwUGNVaGItMFBvaXdHMV9fLW5wUE53REhndlFsZEhzdWpEdG0zQdIBiwFBVV95cUxQUnFhTTdCLUppaVRNOHVaN1NYSUdyS2gzM3AtVG1XRmZlbUZTQ0ZXbU8zT3U3M3JfRHNPN205SG9ZZmdNd0JrUXJsd29NYnhVaW5vRHRfOW9meWsxak5GcWp1TVVBS01adW1xWTk3YkM2X3FPd2pSN18wWVhseE5rMFJXdzVNMnp0NHVN?oc=5",
+   "source": "tovima.com",
+   "published": "2026-09-08T18:17:54+00:00",
+   "count": 3,
+   "sources": [
+    "Caliber.Az",
+    "arise.tv",
+    "tovima.com"
+   ],
+   "score": 2.8
+  },
+  {
+   "title": "ZaiNar brings location awareness expertise to Arm® Total Design for Physical AI",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNjE3VTVBaHdCeUx6LTc2bk5vM1pwSlp0V3o4SXhCa2p5UnZ5Z2ZQcUpkZy1EaXBqLU8yUVdISDdPYUpYSV9LSy1HYm4wR2lja2dyUWFWWWNqMVd5SGJnMk1oYkZlUDYxY2V5c1FNRkJveEdYUHkwLXdjUUR0ZU90M281aVVKLVVGMExfWXZmWHJpV3RTU2x3UUZZa1lhYlRycEF4TVJqaGpicFRKWEQ0RVhsSHVQNWZiZTZLNndMTzAyOGhUcmZ3Um5XaEZiMUk?oc=5",
+   "source": "PR Newswire",
+   "published": "2026-09-08T14:00:00+00:00",
+   "count": 3,
+   "sources": [
+    "AI News",
+    "PR Newswire"
+   ],
+   "score": 2.64
+  },
   {
    "title": "４日の動意株＞ＡＢＥＪＡが４日ぶり反発、ＪＲ東日本とフィジカルＡＩを用いた実証プロジェクト開始(ウエルスアドバイザー)",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQjRSNlZCRGF1Z0p1cWdFN2ZtWkN5enhRZ3BVOFRzc1ZKMVRWdFlBcnlycTAzLV9hVnhMcWoxTThVXzZIcjUxcC0zVk9QRzkydmE3dU5YXzgxN1IxMnhYaWhQbS1mNmN6WXMzV0haVUZTZXFiLUVzRFlZbUVBb1AtSkZTaHRydHM?oc=5",
@@ -324,124 +428,37 @@
     "Yahoo!ファイナンス",
     "株探"
    ],
-   "score": 3.55
+   "score": 2.55
   },
   {
-   "title": "日立、設備保全向けフィジカルAI技術を開発、自然言語で異常音を説明・検索可能に",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KWDg5VW1fWG5HcW5XXzRNOE9waFlMTFJ5eEFsWWdXQk9TaWNEb2dac0tleXJpYW9pLURnRVFZdkRjazl5VWY0R28wX2NFeDU2RWJZ?oc=5",
-   "source": "IT Leaders",
-   "published": "2026-09-07T01:01:58+00:00",
-   "count": 4,
-   "sources": [
-    "IT Leaders",
-    "PR TIMES",
-    "ロボスタ"
-   ],
-   "score": 2.94
-  },
-  {
-   "title": "フィジカルAI本番稼働7.5％、7割超が未着手",
-   "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBuMnJmdy03VjhsUWJ0Sno1cUlrajUyem5LQ2RSTGlsT2Znank1OXR0cGRTb0Y2RExrcDhMc2hQSkhXTzJ6M1ZYRA?oc=5",
-   "source": "LOGISTICS TODAY",
-   "published": "2026-09-07T19:13:08+00:00",
+   "title": "XPeng has launched production of its IRON humanoids – the first robot rolled off the production line unaided",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkNjJ0cmJxa3JMYjYzX05ONmpjTmpVMHZTUmhiblU3M0dYYUVkcldzRG9TV1FyNmg0VXp5SkhvS1J3ZjhYVEtBX19HUXBneFlvcUtYd19OYVVvcW9ZQnNSdXdra3FQdnRnMW1UQmo4TERFdU3SAXhBVV95cUxOMGF6Yi1xVU1GM3pJT2NXeDhtZTd6WFZNMjQ0LXhpR20tem55dVBBMG41ZGNEM0pWYnN4TGd6aGpwc1JHWHM5S2VBaERrZzR4MTlRUUVma0Q1U0JmLVJmZGRlZ1pyUTFLZkdtY18zbDVBRmRROHg3MEo?oc=5",
+   "source": "mezha.ua",
+   "published": "2026-09-08T10:38:00+00:00",
    "count": 3,
    "sources": [
-    "LOGISTICS TODAY",
-    "PR TIMES"
+    "Electrek",
+    "interestingengineering.com",
+    "mezha.ua"
    ],
-   "score": 2.84
+   "score": 2.52
   },
   {
-   "title": "HLQ EDGE発表｜耐荷重60kg、独自歩行AIで溝地形を走破",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nVk5NOUpjWV9RM2k2WFo0N1VlNlBkVGc3b1hwdzV0MERsS0ZGY2Q4dGFQaFozSnRhNzAxa2xyRm5WUTd2NERpRzMxRVRqdTdfMkY5U2FxUXlGQVU?oc=5",
-   "source": "innovaTopia",
-   "published": "2026-09-07T07:37:27+00:00",
+   "title": "XPeng Begins Production of Iron Humanoid Robot",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRmFpWHBRbi0zUHRmVFpwUklXNGNQTUJkTzNsVkdyNTJyTndldXE1RkVfZENWT0tYNHdUVUxYdlRKQ01NTjVOemg3QXFjYm5vdW00NkxpMUstbmRScUM5Zkd0bXdhaEZwSEJYMG80aXFLXzRHRG1seXV5eWcwZ1RWeTN6Sk1vT1h1dlRBazJ2Q2lPV21kWjF3elBiS0FZNVBD?oc=5",
+   "source": "marketscreener.com",
+   "published": "2026-09-08T08:19:33+00:00",
    "count": 3,
    "sources": [
-    "innovaTopia",
-    "prtimes.jp",
-    "株式会社インプレス"
+    "UA.NEWS",
+    "eletric-vehicles.com",
+    "marketscreener.com"
    ],
-   "score": 2.41
-  },
-  {
-   "title": "2026 World Humanoid Robot Games in Beijing",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbGpmMVBLWFo0dldrNkcxM3ZSczV5OFJQajdqa3Jac2x6eFU3OUYwbnNTbjRRRmJHcE1zODRwTmF6NWFuekhybUFrbDFDMk80SnYzTks1LVNHbmRmVzZqak0wNkdaWmhOZGFURThOZFpaUmxwd2d2UkNNQkFFMmlZcnpJa1ZoQ09KdE51OGdHaHU3Wk9VeHJCSVpYSVJjU1gwR1ZoTDRqVUtoeXFjV2xJanA3SUhqaTQwRTJDYUFqVnpZNExueFgxX0NYbVhnekZoZjFqUmRvcw?oc=5",
-   "source": "The Lufkin Daily News",
-   "published": "2026-09-07T06:17:33+00:00",
-   "count": 3,
-   "sources": [
-    "Alwihda Info",
-    "South China Morning Post",
-    "The Lufkin Daily News"
-   ],
-   "score": 2.37
-  },
-  {
-   "title": "Caterpillar And FieldAI Drive Physical AI Forward",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT3h2cUEyOXRKSVRzUVRmWnBWTXpYV0hGeGV0YTNlS1JDRE82Q2ZvZk5uTFFyelU4cXAxNVJ3eFdIa0JBaENvNWJVSEtpaWpzdHVFc3dkRXowVFozVGI0S0ozSDROTzVEVHFscjg1ckZxTGFnWElqSXlMMlluUUVRYXB5Qkx3ZE1DeElwaV9LMDBraWdzZ3pB?oc=5",
-   "source": "Construction Digital",
-   "published": "2026-09-06T09:03:10+00:00",
-   "count": 4,
-   "sources": [
-    "Construction Digital",
-    "Equipment Journal",
-    "Yahoo Finance Singapore",
-    "constructionequipmentguide.com"
-   ],
-   "score": 2.35
-  },
-  {
-   "title": "China readies humanoid robots for potential battlefield use",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa1lPU0Y1b19QOVgweDhXZVhFcUxLbkIzWlVUUjVvMEdwcHNoaWFoZGt4cU4zV01aMHY0cVFvYWJreVlhaU5zdDU5NXdpM1dsUTVnUUh1SjRaNUhsN3BIUkRNY1oxbk1IMnVSUGlEbXRVMFNjeXFfbEM2R2IzaGNmM2c1TlNlSkt3RzRXWnR0SQ?oc=5",
-   "source": "Caliber.Az",
-   "published": "2026-09-07T20:30:51+00:00",
-   "count": 2,
-   "sources": [
-    "Caliber.Az",
-    "Modern Diplomacy"
-   ],
-   "score": 1.93
-  },
-  {
-   "title": "China's Military Pushes Humanoid Robots Toward Battlefield Deployment",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1XbW43NHZ1X3dxbzd6TENsM1dTWTAyYmE5TGlwalJrWlhTRzZVM0pPVThMV3VTOVhxeGNEWVI2Y1B5b0VEYkxwWFc5MUhNSGliWjZLbndwSDhlMHJaejJ2NFotYjdHWHI4RlZwUjhYWkNIXzBkdFE?oc=5",
-   "source": "finance.biggo.com",
-   "published": "2026-09-07T18:06:00+00:00",
-   "count": 2,
-   "sources": [
-    "arise.tv",
-    "finance.biggo.com"
-   ],
-   "score": 1.86
-  },
-  {
-   "title": "Humanoid robot-operated convenience stores debut in Hong Kong: in pictures",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdUM0WGNrQi01VGtBX1FZYmI5Uy1JbkdHN3drTU1HQUYwZjRPSEFjYS1HSU1RME5uM0pkZHZBd2Y4U0RMd0JRdm1Ldzk5bC1JWGZwQm1pVlFlekEwdGN5Y3A1THJGMG1pZGN4S2xJNzBBWnJsd19VT1F1alNzbDFPNlFlcW5GaGZsWnhrc0hxVHRleEljRDV4eWpSWU1hbmo1dmdjR3c1emE3dGxSVGZjaG1PZw?oc=5",
-   "source": "scmp.com",
-   "published": "2026-09-06T09:31:48+00:00",
-   "count": 3,
-   "sources": [
-    "South China Morning Post",
-    "scmp.com"
-   ],
-   "score": 1.78
-  },
-  {
-   "title": "Ouster: Waiting For Physical AI Liftoff (NASDAQ:OUST)",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbzFVWEJmOHZFaEcwdzd3aHgwY0tCQjJXNnBpRHJrRVlUTzZZYVFOZUtMOUtOMkVsNlI5dlN4QmQtUl9lTWgyMmxWWEdfWnFENkZsX3ZqM25VV1FmOXA4cFF2T0lvdXJlVXFKSlo4OFpiZmhQYWFXSHZDYTI0Zkh4bktJcVl2dw?oc=5",
-   "source": "Seeking Alpha",
-   "published": "2026-09-07T14:30:00+00:00",
-   "count": 2,
-   "sources": [
-    "Seeking Alpha"
-   ],
-   "score": 1.77
+   "score": 2.44
   }
  ],
  "trend": {
   "dates": [
-   "2026-08-09",
    "2026-08-10",
    "2026-08-11",
    "2026-08-12",
@@ -470,14 +487,14 @@
    "2026-09-04",
    "2026-09-05",
    "2026-09-06",
-   "2026-09-07"
+   "2026-09-07",
+   "2026-09-08"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     5,
      48,
      33,
      34,
@@ -506,14 +523,14 @@
      33,
      8,
      6,
-     26
+     26,
+     47
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     7,
      10,
      8,
      19,
@@ -542,14 +559,14 @@
      36,
      7,
      14,
-     33
+     39,
+     39
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     1,
      10,
      5,
      14,
@@ -578,14 +595,14 @@
      6,
      2,
      4,
-     4
+     4,
+     6
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     13,
      45,
      47,
      17,
@@ -614,14 +631,14 @@
      29,
      8,
      9,
-     19
+     21,
+     49
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     7,
      13,
      13,
      9,
@@ -646,11 +663,12 @@
      46,
      17,
      10,
-     24,
+     26,
      8,
      8,
      8,
-     8
+     11,
+     27
     ]
    }
   ]
@@ -672,7 +690,7 @@
    "name": "GOOGLE LLC",
    "core": "GOOGLE",
    "patents": 275,
-   "news": 4
+   "news": 5
   },
   {
    "name": "HONDA MOTOR CO LTD",
@@ -684,7 +702,7 @@
    "name": "SAMSUNG ELECTRONICS CO LTD",
    "core": "SAMSUNG ELECTRONICS",
    "patents": 260,
-   "news": 11
+   "news": 12
   },
   {
    "name": "X DEV LLC",
