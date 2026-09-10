@@ -1,25 +1,25 @@
 {
- "updated_at": "2026-09-09T22:53:24.742468+00:00",
+ "updated_at": "2026-09-10T22:55:32.191598+00:00",
  "kpi": {
-  "articles_7d": 734,
-  "articles_prev_7d": 770,
-  "sources_7d": 378,
-  "articles_30d": 3382,
-  "total_articles": 7267,
+  "articles_7d": 721,
+  "articles_prev_7d": 759,
+  "sources_7d": 368,
+  "articles_30d": 3410,
+  "total_articles": 7398,
   "oldest_news": "2021-03-15"
  },
  "wordcloud": [
   [
    "china",
-   44
+   46
   ],
   [
    "xpeng",
-   36
+   37
   ],
   [
    "production",
-   33
+   37
   ],
   [
    "開発",
@@ -27,35 +27,19 @@
   ],
   [
    "ifa",
-   30
+   31
   ],
   [
    "中国",
    26
   ],
   [
-   "launches",
-   22
-  ],
-  [
-   "物流",
-   22
-  ],
-  [
-   "企業",
-   21
-  ],
-  [
-   "実装",
-   21
+   "画像",
+   23
   ],
   [
    "写真",
-   21
-  ],
-  [
-   "画像",
-   21
+   23
   ],
   [
    "世界",
@@ -66,23 +50,35 @@
    21
   ],
   [
-   "製造",
+   "gmo",
    20
   ],
   [
-   "platform",
+   "nvidia",
    19
   ],
   [
-   "日立",
+   "launches",
    19
   ],
   [
-   "gmo",
+   "物流",
    19
   ],
   [
    "技術",
+   19
+  ],
+  [
+   "arm",
+   19
+  ],
+  [
+   "データ",
+   18
+  ],
+  [
+   "日本",
    18
   ],
   [
@@ -90,59 +86,63 @@
    18
   ],
   [
+   "platform",
+   17
+  ],
+  [
+   "企業",
+   17
+  ],
+  [
    "戦略",
    17
   ],
   [
-   "日本",
-   17
-  ],
-  [
-   "データ",
-   17
-  ],
-  [
    "実証",
-   16
-  ],
-  [
-   "産業",
-   16
-  ],
-  [
-   "GMO",
-   16
-  ],
-  [
-   "arm",
-   16
+   17
   ],
   [
    "line",
+   17
+  ],
+  [
+   "GMO",
+   17
+  ],
+  [
+   "実装",
    16
   ],
   [
-   "hmax",
+   "industrial",
    15
   ],
   [
-   "社会",
+   "産業",
    15
+  ],
+  [
+   "市場",
+   15
+  ],
+  [
+   "導入",
+   15
+  ],
+  [
+   "日立",
+   14
+  ],
+  [
+   "製造",
+   14
   ],
   [
    "data",
    14
   ],
   [
-   "edge",
-   14
-  ],
-  [
-   "支援",
-   14
-  ],
-  [
-   "現場",
+   "歩行",
    14
   ],
   [
@@ -150,39 +150,43 @@
    14
   ],
   [
-   "autonomous",
+   "救急",
+   14
+  ],
+  [
+   "tech",
    13
   ],
   [
-   "nvidia",
+   "サービス",
    13
   ],
   [
-   "ロボティクス",
+   "現場",
    13
   ],
   [
-   "brings",
-   12
+   "調査",
+   13
   ],
   [
-   "world",
-   12
-  ],
-  [
-   "hitachi",
-   12
-  ],
-  [
-   "japan",
-   12
-  ],
-  [
-   "自動",
-   12
+   "edge",
+   13
   ],
   [
    "com",
+   13
+  ],
+  [
+   "autonomous",
+   12
+  ],
+  [
+   "push",
+   12
+  ],
+  [
+   "NVIDIA",
    12
   ],
   [
@@ -190,47 +194,43 @@
    12
   ],
   [
-   "時代",
+   "chinese",
    12
   ],
   [
-   "サービス",
+   "japan",
    12
   ],
   [
-   "調査",
-   12
-  ],
-  [
-   "歩行",
-   12
-  ],
-  [
-   "million",
+   "ロボティクス",
    11
   ],
   [
-   "industrial",
+   "社会",
    11
   ],
   [
-   "学習",
+   "opens",
    11
   ],
   [
-   "導入",
+   "world",
    11
   ],
   [
-   "tech",
+   "収集",
    11
   ],
   [
-   "Unitree",
+   "専用",
    11
   ],
   [
-   "push",
+   "研究",
+   11
+  ],
+  [
+   "lab",
    11
   ],
   [
@@ -238,98 +238,185 @@
    11
   ],
   [
-   "救急",
-   11
-  ],
-  [
-   "humanoids",
+   "factory",
    10
   ],
   [
-   "lab",
+   "research",
+   10
+  ],
+  [
+   "global",
    10
   ]
  ],
  "today_top5": [
   {
-   "title": "モノづくりとしてのAgibotフィジカルAIを中国語資料を中心に調査した報告書【産業調査】",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13d0lmdEp4TUNTaU8tVmRQV3l4ZGNHX0VOcjJxT2lVOTczUl80dVNra2w4dklCNEQ1eVZjUmFKTzE3MHp1b2tDTUpGT0ZabmlMVkVCX18yQ0o?oc=5",
-   "source": "さっつーのAIエージェント",
-   "published": "2026-09-09T21:50:41+00:00",
+   "title": "Cuebus株式会社・矢崎総業株式会社・株式会社山善「リニアモータ式ロボット倉庫」の実証実験を開始",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DTXh0UE9TWDhPU1pvNk4zdlFMVFdId3dQMjk3dHJtOGtnYnd4c2xZNjdrcDB3X2NJd3NEWGhTQ3dRZW1FVkl6VWtwdlJlYm80RDE2V3dSSm11MDBXcTRkcVE5ZjB2RVNn?oc=5",
+   "source": "ニコニコニュース",
+   "published": "2026-09-10T16:15:41+00:00",
    "count": 4,
    "sources": [
-    "さっつーのAIエージェント"
+    "ニコニコニュース",
+    "ロボスタ",
+    "物流ニュースのLNEWS"
    ],
-   "score": 3.94
+   "score": 3.65
   },
   {
-   "title": "Vention opens Physical AI Lab for manufacturing in Montreal",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcTVnVWpQVzBJMzl1Zk9odlc4QUFiN2xmLUU2Z0ptTWpPTVg2czJhMjF1aXBsWlJnNDRmZFIzTzU5OFp5NDlYdm55eDg2MmxpOEl1SUZ0VGZISmdUXzBKNXRORVpqMjZ6eGhqbjg1a000UGo4cXhCQUg2VmJDbFJDUGRrOGhka3ludUJiMQ?oc=5",
-   "source": "The Robot Report",
-   "published": "2026-09-09T15:48:50+00:00",
+   "title": "Analog to acquire Alif for $1.3B in physical AI bid",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdS1QV3pvXzZ5YWtnaDhtMEJUdE9VVmc1Rm1EZVFIRTJRaFJTWGVYR1NVRWFqbTRIWGFUYTZhV2VRbHA1WW9NQzNwaG5IN2ZwNE9ORzFtd2NaVGtjZHE2dHl3VGsyWU5LZElWWTh0UVFzcEJLVGFIeWdGYnNaQ2NSQUcxajhzV2p0cE5MNA?oc=5",
+   "source": "Fierce Sensors",
+   "published": "2026-09-10T16:58:54+00:00",
+   "count": 3,
+   "sources": [
+    "Electronics For You BUSINESS",
+    "Fierce Sensors",
+    "pulse2.com"
+   ],
+   "score": 2.76
+  },
+  {
+   "title": "Vention opens physical AI lab for research and scalable industrial deployment",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWmNISVlrellkZ3d1RU42WHNFRDVsUC0tZy1FZmRTWGd2WUZWSTJjSlE2cGxLX0VDRXNRRWlKZkpoZXdHWmdxV09MdmtYSlBnTWYxTWZDSG10ZnlHaFNobkFRenozeHRYbVYzbEwtM1RQSjl2bUx4eTNkQ1lxQUExTDRwV0hteDNOaU9mdzd1VGxQY3VyaWRWRlJSNTFCaGpZNmczWUtsOVBLb0FESHNiMVRQdDZ0V3hKblN4MTJXUUxENlBGNnBySzFESUtNc3c4?oc=5",
+   "source": "Smart Industry",
+   "published": "2026-09-10T16:55:15+00:00",
+   "count": 3,
+   "sources": [
+    "AI Insider",
+    "Robotics & Automation News",
+    "Smart Industry"
+   ],
+   "score": 2.76
+  },
+  {
+   "title": "What's next for TianGong Ultra, the Chinese robot that outran Usain Bolt?",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdExqQ1p6SV9BZWJEQ01xRUQtbDkxajBBRmFfZExuRkxvMGttLWJ4ZVJHM2JrUkZvWDlJMkJfaEpvUU92RnJ6Y2dSSDQxc2xPbEdZNjR3eXdueHU1TVptQ0ZQVFdEUFpPeTNlQVJDTVhUaU1Nc1BzUVVJeGQxSUlJYW5wNnhzeFgzaElMeTcxZ3BrUWU0U2hHeTJ4ZEhtUFg5MXFMU01adklzcElKMmc?oc=5",
+   "source": "Open Magazine",
+   "published": "2026-09-10T10:41:48+00:00",
+   "count": 3,
+   "sources": [
+    "Open Magazine",
+    "Startup Fortune",
+    "Межа. Новини України."
+   ],
+   "score": 2.53
+  },
+  {
+   "title": "フィジカルAIの社会実装を支える実機データ収集拠点をAPTOが豊洲に開設",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DYmswcVVVMU0tYmdPcjdKZ3QtWnhmNlFMNm50Vk1hSE1PWjJ1aXlnWko4SVlMUDM1QXlEQzRySXVWVW9FaElhQk1pT2U5LUpILTJFdTBval9sR0EwWEF1bGhPMEtBZV9xWEZKYURR?oc=5",
+   "source": "au Webポータル",
+   "published": "2026-09-10T03:53:31+00:00",
+   "count": 3,
+   "sources": [
+    "au Webポータル",
+    "ニコニコニュース",
+    "ロボスタ"
+   ],
+   "score": 2.3
+  }
+ ],
+ "hot_news": [
+  {
+   "title": "Vention opens physical AI lab for research and scalable industrial deployment",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWmNISVlrellkZ3d1RU42WHNFRDVsUC0tZy1FZmRTWGd2WUZWSTJjSlE2cGxLX0VDRXNRRWlKZkpoZXdHWmdxV09MdmtYSlBnTWYxTWZDSG10ZnlHaFNobkFRenozeHRYbVYzbEwtM1RQSjl2bUx4eTNkQ1lxQUExTDRwV0hteDNOaU9mdzd1VGxQY3VyaWRWRlJSNTFCaGpZNmczWUtsOVBLb0FESHNiMVRQdDZ0V3hKblN4MTJXUUxENlBGNnBySzFESUtNc3c4?oc=5",
+   "source": "Smart Industry",
+   "published": "2026-09-10T16:55:15+00:00",
+   "count": 7,
+   "sources": [
+    "AI Insider",
+    "Design Engineering Magazine",
+    "PR Newswire",
+    "Robotics & Automation News",
+    "Smart Industry",
+    "The Robot Report"
+   ],
+   "score": 6.44
+  },
+  {
+   "title": "XPeng’s IRON Gets a Production Makeover Ahead of Mass Manufacturing",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDTjhDZHBKUGpSY0c0SmhJTDBlcUNNZ2ZydHdJYl9ubEtrUEJ6Sm5QQXptRTMwOVBONWtLUHRrdE1faWdlV3lCRzh0NUE4SEJxOUZvQUFCQVFfUW9xS3dyaWU2NFU?oc=5",
+   "source": "mikekalil.com",
+   "published": "2026-09-10T18:28:59+00:00",
+   "count": 6,
+   "sources": [
+    "CleanTechnica",
+    "TechNode",
+    "TechRepublic",
+    "XPENG",
+    "Xinhua",
+    "mikekalil.com"
+   ],
+   "score": 5.64
+  },
+  {
+   "title": "GMO AIR、人型ロボット専用「GMOヒューマノイド救急車」導入 故障現場へエンジニアが駆けつけ",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GREl6enQ5MFh6M0l2OUpQYW85ZzJXVlI0V0owMm1Ld2ZSVkUzZ2g1dUloRWZaRzV6ZGZXbGE0andrbmtubFJtbVBMNzF5SzdnVjVWWngxVmt1TWxI?oc=5",
+   "source": "Ledge.ai",
+   "published": "2026-09-10T06:02:38+00:00",
+   "count": 5,
+   "sources": [
+    "DRONE.jp",
+    "ITmedia",
+    "Ledge.ai",
+    "digitaltoday.co.kr",
+    "dreamseed.blog"
+   ],
+   "score": 3.95
+  },
+  {
+   "title": "Analog to acquire Alif for $1.3B in physical AI bid",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdS1QV3pvXzZ5YWtnaDhtMEJUdE9VVmc1Rm1EZVFIRTJRaFJTWGVYR1NVRWFqbTRIWGFUYTZhV2VRbHA1WW9NQzNwaG5IN2ZwNE9ORzFtd2NaVGtjZHE2dHl3VGsyWU5LZElWWTh0UVFzcEJLVGFIeWdGYnNaQ2NSQUcxajhzV2p0cE5MNA?oc=5",
+   "source": "Fierce Sensors",
+   "published": "2026-09-10T16:58:54+00:00",
    "count": 4,
    "sources": [
-    "Canadian Manufacturing",
-    "Design Engineering Magazine",
-    "The Robot Report",
-    "betakit.com"
+    "Electronics For You BUSINESS",
+    "Fierce Sensors",
+    "Unite.AI",
+    "pulse2.com"
    ],
-   "score": 3.63
+   "score": 3.68
+  },
+  {
+   "title": "Cuebus株式会社・矢崎総業株式会社・株式会社山善「リニアモータ式ロボット倉庫」の実証実験を開始",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DTXh0UE9TWDhPU1pvNk4zdlFMVFdId3dQMjk3dHJtOGtnYnd4c2xZNjdrcDB3X2NJd3NEWGhTQ3dRZW1FVkl6VWtwdlJlYm80RDE2V3dSSm11MDBXcTRkcVE5ZjB2RVNn?oc=5",
+   "source": "ニコニコニュース",
+   "published": "2026-09-10T16:15:41+00:00",
+   "count": 4,
+   "sources": [
+    "ニコニコニュース",
+    "ロボスタ",
+    "物流ニュースのLNEWS"
+   ],
+   "score": 3.65
+  },
+  {
+   "title": "ダイフク、JDSCと物流の完全無人化に向けたフィジカルAI技術を検証 - LOGI-BIZ online",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XeERpWlREUW5Obm5Hb2xHQ1BpdjNUem9uYVJsYXFLZjcycHU2U09yMmxBU2RtWkRGSkxKUGVoSHlNNFh3ckk5M2xadw?oc=5",
+   "source": "LOGI-BIZ online",
+   "published": "2026-09-10T10:18:58+00:00",
+   "count": 4,
+   "sources": [
+    "LOGI-BIZ online",
+    "PR TIMES"
+   ],
+   "score": 3.36
   },
   {
    "title": "アングル：都市戦から敵陣潜入まで、中国軍が描く人型ロボットの戦場活用",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41RUo4TXIyeHdKclJ4WWFYVXZGYU5BWEh6eEhJTWdNVG41VE92WHBJNWtZVXVuVUlhMmhkUEFMbHMtZ0JWQVlQeXU1YjFOZUFMTmxEWGcyWDBtQQ?oc=5",
    "source": "ニューズウィーク日本版",
    "published": "2026-09-09T22:26:31+00:00",
-   "count": 3,
+   "count": 4,
    "sources": [
     "Infoseek",
+    "Reuters",
     "Yahoo!ニュース",
     "ニューズウィーク日本版"
    ],
-   "score": 2.98
-  },
-  {
-   "title": "ロボティクスとフィジカルAI領域のサービス開発目指すAlgomatic Dynamics、DMMから50億円調達 - LOGI-BIZ online",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wZTBraGRDSmtCd0hac2RZTGpGbzkxNDFyTi1EUU1zVFg5NU5rak12NHQ2OU5NQ1VXVHhycE1MY0NlR2JBclJGbzg5VQ?oc=5",
-   "source": "LOGI-BIZ online",
-   "published": "2026-09-09T21:00:23+00:00",
-   "count": 3,
-   "sources": [
-    "LOGI-BIZ online",
-    "PR TIMES"
-   ],
-   "score": 2.92
-  },
-  {
-   "title": "XPENG’s IRON Walks Off the Assembly Line: Is Mass Production Next?",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ09qREVMYzhQOXJKb3B2cTB6NU9hamhRLURBMDY1T0p6ZjJsNkV5THpha29Ea1FpMkhYcjJCdGVxWm9qRENCSWZqQkprNi1KOTJLMXhKNmNWLV9oNEZtZU9rTkgtQ1QwLThsWlhDZ0ZWOVZBWU40WWhWeEl3ZlFCaGYzTE8?oc=5",
-   "source": "TechRepublic",
-   "published": "2026-09-09T17:29:54+00:00",
-   "count": 2,
-   "sources": [
-    "TechNode",
-    "TechRepublic"
-   ],
-   "score": 1.86
-  }
- ],
- "hot_news": [
-  {
-   "title": "XPENG’s IRON Walks Off the Assembly Line: Is Mass Production Next?",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ09qREVMYzhQOXJKb3B2cTB6NU9hamhRLURBMDY1T0p6ZjJsNkV5THpha29Ea1FpMkhYcjJCdGVxWm9qRENCSWZqQkprNi1KOTJLMXhKNmNWLV9oNEZtZU9rTkgtQ1QwLThsWlhDZ0ZWOVZBWU40WWhWeEl3ZlFCaGYzTE8?oc=5",
-   "source": "TechRepublic",
-   "published": "2026-09-09T17:29:54+00:00",
-   "count": 7,
-   "sources": [
-    "CleanTechnica",
-    "TechEBlog -",
-    "TechNode",
-    "TechRepublic",
-    "XPENG",
-    "grafa.com"
-   ],
-   "score": 6.49
+   "score": 2.85
   },
   {
    "title": "モノづくりとしてのAgibotフィジカルAIを中国語資料を中心に調査した報告書【産業調査】",
@@ -340,21 +427,7 @@
    "sources": [
     "さっつーのAIエージェント"
    ],
-   "score": 3.94
-  },
-  {
-   "title": "Vention opens Physical AI Lab for manufacturing in Montreal",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcTVnVWpQVzBJMzl1Zk9odlc4QUFiN2xmLUU2Z0ptTWpPTVg2czJhMjF1aXBsWlJnNDRmZFIzTzU5OFp5NDlYdm55eDg2MmxpOEl1SUZ0VGZISmdUXzBKNXRORVpqMjZ6eGhqbjg1a000UGo4cXhCQUg2VmJDbFJDUGRrOGhka3ludUJiMQ?oc=5",
-   "source": "The Robot Report",
-   "published": "2026-09-09T15:48:50+00:00",
-   "count": 4,
-   "sources": [
-    "Canadian Manufacturing",
-    "Design Engineering Magazine",
-    "The Robot Report",
-    "betakit.com"
-   ],
-   "score": 3.63
+   "score": 2.82
   },
   {
    "title": "「ロボットが人間に勝てるか」は、わりとどうでもいい―Unitree「UnifoLM-X2-1.0」と世界モデルが示した本当の変化",
@@ -368,94 +441,24 @@
     "robotstart.info",
     "レスポンス（Response.jp）"
    ],
-   "score": 3.55
+   "score": 2.54
   },
   {
-   "title": "Neura Robotics, Seco Partner to Scale Physical AI in Europe",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVS1JV0ROOWJPeDdKU3lNUUtGejRqZ0RkN2l2SGpoeUZaTi1TcTVyMzBxQUl1QTFwS2h2VHRVcnQ3NEx3S1NjOURTcXRjT1J6Y0R4SGdCNDRoalBlQklJN1JaR0tOWWpKRXROSktwZElhMXh6clJXaldLT2hXa3REYkJLalZkM1VoQkZTXw?oc=5",
-   "source": "AI Business",
-   "published": "2026-09-09T13:06:04+00:00",
-   "count": 4,
-   "sources": [
-    "AI Business",
-    "Evertiq",
-    "New Electronics",
-    "Unite.AI"
-   ],
-   "score": 3.49
-  },
-  {
-   "title": "How Investors Are Reacting To XPeng (XPEV) IRON Robot Production Launch",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNckdoTDRQdjE1NXc4d0N6TzdsRXhNc3BNeXpCdEsxMWxyOUYxVVIzX3pXdHZWUmFNTmtFOUVjZ2JYMmlSMm9XemxtNFVsclhqRV95ejhYVURlNjVMSVQzeW5PcjJ3VzJScmtEZHB5LTY3RFRZSTJPeW9COHhoTUxSUTJnc1I4MHBPQ0RTTjhXd01fVGdOMFVEOGlsUF9Hc0ZZSHFiTGVQZDZrNnRSaks1ODB3MFRKOXVfUlM1YlVuaEF4LWPSAcgBQVVfeXFMT1h2ZVNSSS1feXppQTFEdEEza0VfSmgxbmZnVHRfOUtjN25qNkhBXzBVUFdEcnNqSFVwNkVxR1dRaTZfSTNadXB3TFRJTWsyS3lTcmhZRFpKbmxWcW90UTZOTjN0N0xPNzh0ckpfNWtUVEYzbHFUR19nd2JUZXpxN0JFbU43aEFZMkJ1bU1YbkFXYlRBajJBS0piWUVsUHJGa1RNWTZ4amZRNVNJM1M3dU5XVDFjUHh5UDM4ZmdtRXNieVFTX3I0Q1k?oc=5",
-   "source": "simplywall.st",
-   "published": "2026-09-09T12:34:39+00:00",
-   "count": 4,
-   "sources": [
-    "AI Insider",
-    "eletric-vehicles.com",
-    "marketscreener.com",
-    "simplywall.st"
-   ],
-   "score": 3.47
-  },
-  {
-   "title": "XPeng starts humanoid robot production line, targets mass production by year-end",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vNTR1a1Fmcmw2bTd6UlhCRzJnZklWTFVqRUYzdUFLZ2ZZS1NoRFYwWTZrNXBKVWcxYUZpMXQtcXFqUWt2bEs3eEIxX3pad3h5Mld3N0pzNndjOXpSbjRLb1Mxa3J2eDhtS216Y1lFRVN1OGZQM0RSRnJJV0U?oc=5",
-   "source": "Xinhua",
-   "published": "2026-09-08T15:53:15+00:00",
-   "count": 5,
-   "sources": [
-    "CnEVPost",
-    "Digital Trends",
-    "Stock Titan",
-    "The Gadgeteer",
-    "Xinhua"
-   ],
-   "score": 3.25
-  },
-  {
-   "title": "アングル：都市戦から敵陣潜入まで、中国軍が描く人型ロボットの戦場活用",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41RUo4TXIyeHdKclJ4WWFYVXZGYU5BWEh6eEhJTWdNVG41VE92WHBJNWtZVXVuVUlhMmhkUEFMbHMtZ0JWQVlQeXU1YjFOZUFMTmxEWGcyWDBtQQ?oc=5",
-   "source": "ニューズウィーク日本版",
-   "published": "2026-09-09T22:26:31+00:00",
+   "title": "What's next for TianGong Ultra, the Chinese robot that outran Usain Bolt?",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdExqQ1p6SV9BZWJEQ01xRUQtbDkxajBBRmFfZExuRkxvMGttLWJ4ZVJHM2JrUkZvWDlJMkJfaEpvUU92RnJ6Y2dSSDQxc2xPbEdZNjR3eXdueHU1TVptQ0ZQVFdEUFpPeTNlQVJDTVhUaU1Nc1BzUVVJeGQxSUlJYW5wNnhzeFgzaElMeTcxZ3BrUWU0U2hHeTJ4ZEhtUFg5MXFMU01adklzcElKMmc?oc=5",
+   "source": "Open Magazine",
+   "published": "2026-09-10T10:41:48+00:00",
    "count": 3,
    "sources": [
-    "Infoseek",
-    "Yahoo!ニュース",
-    "ニューズウィーク日本版"
+    "Open Magazine",
+    "Startup Fortune",
+    "Межа. Новини України."
    ],
-   "score": 2.98
-  },
-  {
-   "title": "GMO AIR、ヒューマノイド向け「救急車」公開 現場修理から代替機手配まで対応",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUFF2SmQ0NkliWFZ4dnU0eWpRZGI4RHhnSUl2ckJTbU96R2llU3FfWVIxUHlneGEyaUtzNDY0Y2JXZ1VXSVpWUDU2YUdYLV90VHlteW9UX3dnTnl2WDVGX0xaQW12d19iLVAweVpUX193VGk2X1cwS0RuNTJNeEYtal81WmxYVkdKckFKdE5FQmo3enY0Nll1eGpqTVo?oc=5",
-   "source": "digitaltoday.co.kr",
-   "published": "2026-09-09T01:44:45+00:00",
-   "count": 4,
-   "sources": [
-    "DRONE.jp",
-    "ITmedia",
-    "digitaltoday.co.kr",
-    "dreamseed.blog"
-   ],
-   "score": 2.98
-  },
-  {
-   "title": "ロボティクスとフィジカルAI領域のサービス開発目指すAlgomatic Dynamics、DMMから50億円調達 - LOGI-BIZ online",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1wZTBraGRDSmtCd0hac2RZTGpGbzkxNDFyTi1EUU1zVFg5NU5rak12NHQ2OU5NQ1VXVHhycE1MY0NlR2JBclJGbzg5VQ?oc=5",
-   "source": "LOGI-BIZ online",
-   "published": "2026-09-09T21:00:23+00:00",
-   "count": 3,
-   "sources": [
-    "LOGI-BIZ online",
-    "PR TIMES"
-   ],
-   "score": 2.92
+   "score": 2.53
   }
  ],
  "trend": {
   "dates": [
-   "2026-08-11",
    "2026-08-12",
    "2026-08-13",
    "2026-08-14",
@@ -484,14 +487,14 @@
    "2026-09-06",
    "2026-09-07",
    "2026-09-08",
-   "2026-09-09"
+   "2026-09-09",
+   "2026-09-10"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     33,
      34,
      24,
      42,
@@ -517,17 +520,17 @@
      47,
      34,
      8,
-     6,
+     7,
      26,
-     50,
-     43
+     51,
+     44,
+     46
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     8,
      19,
      16,
      16,
@@ -554,16 +557,16 @@
      36,
      7,
      14,
-     40,
-     40,
-     35
+     41,
+     41,
+     35,
+     33
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     5,
      15,
      5,
      7,
@@ -592,14 +595,14 @@
      4,
      5,
      6,
-     7
+     7,
+     1
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     47,
      17,
      29,
      54,
@@ -627,15 +630,15 @@
      8,
      9,
      21,
-     52,
-     33
+     53,
+     35,
+     20
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     13,
      9,
      16,
      22,
@@ -663,8 +666,9 @@
      8,
      8,
      12,
-     30,
-     25
+     33,
+     29,
+     18
     ]
    }
   ]
@@ -674,7 +678,7 @@
    "name": "INTEL CORP",
    "core": "INTEL",
    "patents": 1051,
-   "news": 3
+   "news": 2
   },
   {
    "name": "BOSCH GMBH ROBERT",
@@ -692,13 +696,13 @@
    "name": "HONDA MOTOR CO LTD",
    "core": "HONDA MOTOR",
    "patents": 263,
-   "news": 2
+   "news": 1
   },
   {
    "name": "SAMSUNG ELECTRONICS CO LTD",
    "core": "SAMSUNG ELECTRONICS",
    "patents": 260,
-   "news": 13
+   "news": 12
   },
   {
    "name": "X DEV LLC",
@@ -710,7 +714,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 111
+   "news": 114
   },
   {
    "name": "QUALCOMM INC",
