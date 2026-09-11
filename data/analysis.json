@@ -1,49 +1,53 @@
 {
- "updated_at": "2026-09-10T22:55:32.191598+00:00",
+ "updated_at": "2026-09-11T22:57:04.997925+00:00",
  "kpi": {
-  "articles_7d": 721,
-  "articles_prev_7d": 759,
-  "sources_7d": 368,
-  "articles_30d": 3410,
-  "total_articles": 7398,
+  "articles_7d": 706,
+  "articles_prev_7d": 765,
+  "sources_7d": 360,
+  "articles_30d": 3421,
+  "total_articles": 7502,
   "oldest_news": "2021-03-15"
  },
  "wordcloud": [
   [
    "china",
-   46
+   44
+  ],
+  [
+   "production",
+   38
   ],
   [
    "xpeng",
    37
   ],
   [
-   "production",
-   37
-  ],
-  [
    "開発",
-   32
-  ],
-  [
-   "ifa",
    31
   ],
   [
    "中国",
+   28
+  ],
+  [
+   "写真",
+   28
+  ],
+  [
+   "ifa",
    26
   ],
   [
    "画像",
-   23
+   26
   ],
   [
-   "写真",
-   23
+   "unitree",
+   22
   ],
   [
    "世界",
-   21
+   22
   ],
   [
    "iron",
@@ -54,55 +58,31 @@
    20
   ],
   [
-   "nvidia",
+   "arm",
    19
   ],
   [
-   "launches",
-   19
-  ],
-  [
-   "物流",
+   "line",
    19
   ],
   [
    "技術",
-   19
-  ],
-  [
-   "arm",
-   19
+   18
   ],
   [
    "データ",
    18
   ],
   [
-   "日本",
-   18
-  ],
-  [
-   "unitree",
-   18
-  ],
-  [
-   "platform",
+   "launches",
    17
   ],
   [
-   "企業",
+   "industrial",
    17
   ],
   [
-   "戦略",
-   17
-  ],
-  [
-   "実証",
-   17
-  ],
-  [
-   "line",
+   "モデル",
    17
   ],
   [
@@ -110,11 +90,31 @@
    17
   ],
   [
-   "実装",
+   "導入",
    16
   ],
   [
-   "industrial",
+   "platform",
+   16
+  ],
+  [
+   "実証",
+   16
+  ],
+  [
+   "実装",
+   15
+  ],
+  [
+   "現場",
+   15
+  ],
+  [
+   "戦略",
+   15
+  ],
+  [
+   "歩行",
    15
   ],
   [
@@ -122,19 +122,11 @@
    15
   ],
   [
-   "市場",
+   "raises",
    15
   ],
   [
-   "導入",
-   15
-  ],
-  [
-   "日立",
-   14
-  ],
-  [
-   "製造",
+   "japan",
    14
   ],
   [
@@ -142,11 +134,23 @@
    14
   ],
   [
-   "歩行",
+   "chinese",
    14
   ],
   [
-   "モデル",
+   "tech",
+   14
+  ],
+  [
+   "市場",
+   14
+  ],
+  [
+   "com",
+   14
+  ],
+  [
+   "物流",
    14
   ],
   [
@@ -154,19 +158,15 @@
    14
   ],
   [
-   "tech",
+   "world",
    13
   ],
   [
-   "サービス",
+   "収集",
    13
   ],
   [
-   "現場",
-   13
-  ],
-  [
-   "調査",
+   "scale",
    13
   ],
   [
@@ -174,19 +174,35 @@
    13
   ],
   [
-   "com",
+   "基盤",
    13
   ],
   [
-   "autonomous",
+   "日本",
+   13
+  ],
+  [
+   "off",
+   13
+  ],
+  [
+   "Unitree",
    12
   ],
   [
-   "push",
+   "研究",
    12
   ],
   [
-   "NVIDIA",
+   "nvidia",
+   12
+  ],
+  [
+   "調査",
+   12
+  ],
+  [
+   "lab",
    12
   ],
   [
@@ -194,15 +210,15 @@
    12
   ],
   [
-   "chinese",
+   "人間",
    12
   ],
   [
-   "japan",
+   "coreweave",
    12
   ],
   [
-   "ロボティクス",
+   "公開",
    11
   ],
   [
@@ -210,111 +226,87 @@
    11
   ],
   [
-   "opens",
-   11
-  ],
-  [
-   "world",
-   11
-  ],
-  [
-   "収集",
-   11
-  ],
-  [
    "専用",
    11
   ],
   [
-   "研究",
+   "million",
    11
   ],
   [
-   "lab",
+   "実機",
    11
   ],
   [
-   "off",
+   "製造",
    11
   ],
   [
-   "factory",
-   10
+   "opens",
+   11
   ],
   [
-   "research",
-   10
-  ],
-  [
-   "global",
+   "サービス",
    10
   ]
  ],
  "today_top5": [
   {
-   "title": "Cuebus株式会社・矢崎総業株式会社・株式会社山善「リニアモータ式ロボット倉庫」の実証実験を開始",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1DTXh0UE9TWDhPU1pvNk4zdlFMVFdId3dQMjk3dHJtOGtnYnd4c2xZNjdrcDB3X2NJd3NEWGhTQ3dRZW1FVkl6VWtwdlJlYm80RDE2V3dSSm11MDBXcTRkcVE5ZjB2RVNn?oc=5",
-   "source": "ニコニコニュース",
-   "published": "2026-09-10T16:15:41+00:00",
-   "count": 4,
+   "title": "GENIAC採択事業者による事業計画発表会レポート フィジカルAI時代のデータとロボットをどう育てるか",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4UEJjcmg0ak5TdkE4a190YlA0ZGRIQWNZdGdLVmprcWFXdHJVb1BwbUc3M1Z2M2VobWU3Z3lrVWRSVVV2N2czQlBGLXJNLW1JTkFFcTI0X1luNWJtaE0xckg5ZHo?oc=5",
+   "source": "ロボスタ",
+   "published": "2026-09-11T05:00:03+00:00",
+   "count": 2,
    "sources": [
-    "ニコニコニュース",
-    "ロボスタ",
-    "物流ニュースのLNEWS"
-   ],
-   "score": 3.65
-  },
-  {
-   "title": "Analog to acquire Alif for $1.3B in physical AI bid",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdS1QV3pvXzZ5YWtnaDhtMEJUdE9VVmc1Rm1EZVFIRTJRaFJTWGVYR1NVRWFqbTRIWGFUYTZhV2VRbHA1WW9NQzNwaG5IN2ZwNE9ORzFtd2NaVGtjZHE2dHl3VGsyWU5LZElWWTh0UVFzcEJLVGFIeWdGYnNaQ2NSQUcxajhzV2p0cE5MNA?oc=5",
-   "source": "Fierce Sensors",
-   "published": "2026-09-10T16:58:54+00:00",
-   "count": 3,
-   "sources": [
-    "Electronics For You BUSINESS",
-    "Fierce Sensors",
-    "pulse2.com"
-   ],
-   "score": 2.76
-  },
-  {
-   "title": "Vention opens physical AI lab for research and scalable industrial deployment",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWmNISVlrellkZ3d1RU42WHNFRDVsUC0tZy1FZmRTWGd2WUZWSTJjSlE2cGxLX0VDRXNRRWlKZkpoZXdHWmdxV09MdmtYSlBnTWYxTWZDSG10ZnlHaFNobkFRenozeHRYbVYzbEwtM1RQSjl2bUx4eTNkQ1lxQUExTDRwV0hteDNOaU9mdzd1VGxQY3VyaWRWRlJSNTFCaGpZNmczWUtsOVBLb0FESHNiMVRQdDZ0V3hKblN4MTJXUUxENlBGNnBySzFESUtNc3c4?oc=5",
-   "source": "Smart Industry",
-   "published": "2026-09-10T16:55:15+00:00",
-   "count": 3,
-   "sources": [
-    "AI Insider",
-    "Robotics & Automation News",
-    "Smart Industry"
-   ],
-   "score": 2.76
-  },
-  {
-   "title": "What's next for TianGong Ultra, the Chinese robot that outran Usain Bolt?",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdExqQ1p6SV9BZWJEQ01xRUQtbDkxajBBRmFfZExuRkxvMGttLWJ4ZVJHM2JrUkZvWDlJMkJfaEpvUU92RnJ6Y2dSSDQxc2xPbEdZNjR3eXdueHU1TVptQ0ZQVFdEUFpPeTNlQVJDTVhUaU1Nc1BzUVVJeGQxSUlJYW5wNnhzeFgzaElMeTcxZ3BrUWU0U2hHeTJ4ZEhtUFg5MXFMU01adklzcElKMmc?oc=5",
-   "source": "Open Magazine",
-   "published": "2026-09-10T10:41:48+00:00",
-   "count": 3,
-   "sources": [
-    "Open Magazine",
-    "Startup Fortune",
-    "Межа. Новини України."
-   ],
-   "score": 2.53
-  },
-  {
-   "title": "フィジカルAIの社会実装を支える実機データ収集拠点をAPTOが豊洲に開設",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DYmswcVVVMU0tYmdPcjdKZ3QtWnhmNlFMNm50Vk1hSE1PWjJ1aXlnWko4SVlMUDM1QXlEQzRySXVWVW9FaElhQk1pT2U5LUpILTJFdTBval9sR0EwWEF1bGhPMEtBZV9xWEZKYURR?oc=5",
-   "source": "au Webポータル",
-   "published": "2026-09-10T03:53:31+00:00",
-   "count": 3,
-   "sources": [
-    "au Webポータル",
-    "ニコニコニュース",
     "ロボスタ"
    ],
-   "score": 2.3
+   "score": 1.56
+  },
+  {
+   "title": "Kinetix AI raises $75M angel round backed by Temasek's Vertex Ventures",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWFFVVdvYzI0N1duYzNwWVRBNkpiclVjNFBqQXNZbXpmMDFZbFQ2R194VHdyaHBVeHlrS3lHQVpaUnpiN0ZGUW5teW9EVHZWWjhSMTNrT3ZmeVdUbGk5RHhseElRd2xOR2pOX1B3NlZSWld3SHRJSFl5Tm1nb1g0LUVUbVJUQVRUNzRtOUpMaUo2ZGhoQ3ZqWENpUW1iY2tHdERSc1JB?oc=5",
+   "source": "Dealroom",
+   "published": "2026-09-11T04:45:01+00:00",
+   "count": 2,
+   "sources": [
+    "Dealroom",
+    "finance.biggo.com"
+   ],
+   "score": 1.55
+  },
+  {
+   "title": "フィジカルAIの安全評価・運用基盤整備を推進 ElithがAIロボット協会に育成会員として入会",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94cmd6elNzd0Q4R2gxb3JUSzlXM2RBZU5aWHFBYTQzcllpSGlpdF9FX0tOd05mY0Z4T2FUTV8zN1FNVDNIendhdS1jbmNZdGduX2lhclYwVjVoNE1oYnA1dVVVT3dVNEhvQnpWSXBB?oc=5",
+   "source": "au Webポータル",
+   "published": "2026-09-11T02:22:49+00:00",
+   "count": 2,
+   "sources": [
+    "au Webポータル",
+    "ロボスタ"
+   ],
+   "score": 1.5
+  },
+  {
+   "title": "Chinese company releases video of humanoid robot walking off assembly line on its own",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY0hMYUxrSjVTeFlIVUxodU55V2IyQzlkVm56ek9LZVdjLV9Qb1hlNG4walVWVzhvZld4ODF3aWE4LXlsSmpVNC1JLWhVeDl3bFhPcjM2X2c4OE1iNFBpRi1Bd2lHTmVwX2dLWDAzMVUxdWlub1NZZ2N0VzJ2cFkxZUdXcl9XclNUWnl0THlqdFlCNTVUTWY4Yzg5ZXhLSksyTnA1MjNCODJzRll2WVBhVkdUNEJMeVpZ?oc=5",
+   "source": "NBC News",
+   "published": "2026-09-11T22:37:46+00:00",
+   "count": 1,
+   "sources": [
+    "NBC News"
+   ],
+   "score": 1.0
+  },
+  {
+   "title": "This humanoid robot was supposed to be a teaching assistant",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRzNDYTAxME5mdlhHMWdhcE9obl9Cd2hKTkJKSkduS2hnMnZ6ZjZGemVCcVZJQzIzbFF4WGNYT0owMXJkcmQtbHZDTmtWSkJ0Zjh0cTVsS2N1UUd6R1lUQlFpMnZva2RjRVVhUVFDNlVERVdiLTdPaWJVTXlES1ljMzVXc2ltdkhzMlE1Wmpmd2ZqN0xlWlE?oc=5",
+   "source": "yahoo.com",
+   "published": "2026-09-11T22:14:30+00:00",
+   "count": 1,
+   "sources": [
+    "yahoo.com"
+   ],
+   "score": 0.99
   }
  ],
  "hot_news": [
@@ -332,7 +324,23 @@
     "Smart Industry",
     "The Robot Report"
    ],
-   "score": 6.44
+   "score": 4.61
+  },
+  {
+   "title": "XPeng's IRON Humanoid Robot Walked Off a Real Production Line in Guangzhou",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdFdMeTM2ajg1MHNESnktMVg1V2NmbklFS3N1UkxXc2hUMm5yMU42VWh1TGRwRXNkQWhERXRNcFgxa0N1ZUZFZjIydFFEZEVsMDlXdkwtZ2xHRjlOUEJ2MnRpS2FMTGo5UF9YanVZNHhUNWxXY1lVb3ZIeWZSbXNuYVFCWXBXN0NGSE16RXYyaG5nbWhOQ0pfN1dVdzAyVDZkdDFn?oc=5",
+   "source": "Startup Fortune",
+   "published": "2026-09-10T14:24:59+00:00",
+   "count": 7,
+   "sources": [
+    "AI Insider",
+    "Digital Trends",
+    "Startup Fortune",
+    "TechEBlog -",
+    "The Gadgeteer",
+    "Unite.AI"
+   ],
+   "score": 4.46
   },
   {
    "title": "XPeng’s IRON Gets a Production Makeover Ahead of Mass Manufacturing",
@@ -348,7 +356,22 @@
     "Xinhua",
     "mikekalil.com"
    ],
-   "score": 5.64
+   "score": 4.04
+  },
+  {
+   "title": "Unitree、人型ロボットが人間と「完全自律」で格闘 世界モデル「UnifoLM-X2-1.0」で未来をリアルタイム予測",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81MFNyU1FwVVkyMXBYN3VJbWtaMGhEcmpCSXZiaWZRVlJ4dWgxLVFSOGt4NkNZWWd6bEZtbXg2bHo5M2hESl9XSDdSSERuQUQ5QXBpOEE0QlRYZWtnNklnODBRcUdzVEpCMFduWVRHTQ?oc=5",
+   "source": "Ledge.ai",
+   "published": "2026-09-11T05:58:39+00:00",
+   "count": 5,
+   "sources": [
+    "Ledge.ai",
+    "au Webポータル",
+    "note",
+    "robotstart.info",
+    "レスポンス（Response.jp）"
+   ],
+   "score": 3.95
   },
   {
    "title": "GMO AIR、人型ロボット専用「GMOヒューマノイド救急車」導入 故障現場へエンジニアが駆けつけ",
@@ -363,7 +386,7 @@
     "digitaltoday.co.kr",
     "dreamseed.blog"
    ],
-   "score": 3.95
+   "score": 2.83
   },
   {
    "title": "Analog to acquire Alif for $1.3B in physical AI bid",
@@ -377,7 +400,7 @@
     "Unite.AI",
     "pulse2.com"
    ],
-   "score": 3.68
+   "score": 2.64
   },
   {
    "title": "Cuebus株式会社・矢崎総業株式会社・株式会社山善「リニアモータ式ロボット倉庫」の実証実験を開始",
@@ -390,76 +413,49 @@
     "ロボスタ",
     "物流ニュースのLNEWS"
    ],
-   "score": 3.65
+   "score": 2.61
   },
   {
-   "title": "ダイフク、JDSCと物流の完全無人化に向けたフィジカルAI技術を検証 - LOGI-BIZ online",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XeERpWlREUW5Obm5Hb2xHQ1BpdjNUem9uYVJsYXFLZjcycHU2U09yMmxBU2RtWkRGSkxKUGVoSHlNNFh3ckk5M2xadw?oc=5",
-   "source": "LOGI-BIZ online",
-   "published": "2026-09-10T10:18:58+00:00",
-   "count": 4,
-   "sources": [
-    "LOGI-BIZ online",
-    "PR TIMES"
-   ],
-   "score": 3.36
-  },
-  {
-   "title": "アングル：都市戦から敵陣潜入まで、中国軍が描く人型ロボットの戦場活用",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41RUo4TXIyeHdKclJ4WWFYVXZGYU5BWEh6eEhJTWdNVG41VE92WHBJNWtZVXVuVUlhMmhkUEFMbHMtZ0JWQVlQeXU1YjFOZUFMTmxEWGcyWDBtQQ?oc=5",
-   "source": "ニューズウィーク日本版",
-   "published": "2026-09-09T22:26:31+00:00",
-   "count": 4,
-   "sources": [
-    "Infoseek",
-    "Reuters",
-    "Yahoo!ニュース",
-    "ニューズウィーク日本版"
-   ],
-   "score": 2.85
-  },
-  {
-   "title": "モノづくりとしてのAgibotフィジカルAIを中国語資料を中心に調査した報告書【産業調査】",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13d0lmdEp4TUNTaU8tVmRQV3l4ZGNHX0VOcjJxT2lVOTczUl80dVNra2w4dklCNEQ1eVZjUmFKTzE3MHp1b2tDTUpGT0ZabmlMVkVCX18yQ0o?oc=5",
-   "source": "さっつーのAIエージェント",
-   "published": "2026-09-09T21:50:41+00:00",
-   "count": 4,
-   "sources": [
-    "さっつーのAIエージェント"
-   ],
-   "score": 2.82
-  },
-  {
-   "title": "「ロボットが人間に勝てるか」は、わりとどうでもいい―Unitree「UnifoLM-X2-1.0」と世界モデルが示した本当の変化",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1SU053cVM4Xzh2bWdjZUJTVVRRVU96Nmw1Z1UxdWFZRkl1d1FmVWN3QWIyMXJtV2VWQlhiNXI2SDNmSEFkUTBFU0FDOUhiX2ZFdThwNg?oc=5",
-   "source": "note",
-   "published": "2026-09-09T14:22:07+00:00",
-   "count": 4,
-   "sources": [
-    "au Webポータル",
-    "note",
-    "robotstart.info",
-    "レスポンス（Response.jp）"
-   ],
-   "score": 2.54
-  },
-  {
-   "title": "What's next for TianGong Ultra, the Chinese robot that outran Usain Bolt?",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdExqQ1p6SV9BZWJEQ01xRUQtbDkxajBBRmFfZExuRkxvMGttLWJ4ZVJHM2JrUkZvWDlJMkJfaEpvUU92RnJ6Y2dSSDQxc2xPbEdZNjR3eXdueHU1TVptQ0ZQVFdEUFpPeTNlQVJDTVhUaU1Nc1BzUVVJeGQxSUlJYW5wNnhzeFgzaElMeTcxZ3BrUWU0U2hHeTJ4ZEhtUFg5MXFMU01adklzcElKMmc?oc=5",
-   "source": "Open Magazine",
-   "published": "2026-09-10T10:41:48+00:00",
+   "title": "AGIBOTのヒューマノイド『A3』と『X2』、イノベーションアワード受賞…IFA 2026",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9iYW5lNXBOemRudWZDdzVLbVFSVjV4TzBXNnJia3RoLXc3RU9FWkhfSl8wYWZyWmZIMDZYRzh2NnNQa0djYjhXdDZPYUhidGNGa2RiSW94NjFEaWVZNVBMZlN3?oc=5",
+   "source": "レスポンス（Response.jp）",
+   "published": "2026-09-11T06:00:04+00:00",
    "count": 3,
    "sources": [
-    "Open Magazine",
-    "Startup Fortune",
-    "Межа. Новини України."
+    "au Webポータル",
+    "レスポンス（Response.jp）",
+    "ロボスタ"
    ],
-   "score": 2.53
+   "score": 2.37
+  },
+  {
+   "title": "Songying raises hundreds of millions of yuan for physical-AI OS",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ2JSaUlET1BvQ0VpSi14dkJZSlN3allxd25zdmhTQTRnc1JvSHQtQV82YmZrakpVRVV3Z28zTGZRSExmWHRnMU1DZ3p2cTNrdmxFbDZGa2UxTFE3Z1g5cWNJaEpoQnhGYTFRY0ZweW5MZmE0aF9WUE52S0JrQWo2Smwyamp6dWQ3bThjbmZSamdVc2JES0lLS3lwbENrZw?oc=5",
+   "source": "Dealroom",
+   "published": "2026-09-10T21:48:06+00:00",
+   "count": 3,
+   "sources": [
+    "Dealroom",
+    "Gasgoo"
+   ],
+   "score": 2.12
+  },
+  {
+   "title": "日立建機、フィジカルAI研究 自律ショベル向け",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBweXFhd013WHluR3FhLTBpeHJTWERka0c0dzNxdWhzLW9haFFHTDA0YTFhX25iS3dpd3d6UGx2RWluVzNpR1lYSmJQRkFDLWh4ckNoSkh4Rk4?oc=5",
+   "source": "日刊工業新聞",
+   "published": "2026-09-10T20:00:00+00:00",
+   "count": 3,
+   "sources": [
+    "PR TIMES",
+    "kabushiki.jp",
+    "日刊工業新聞"
+   ],
+   "score": 2.06
   }
  ],
  "trend": {
   "dates": [
-   "2026-08-12",
    "2026-08-13",
    "2026-08-14",
    "2026-08-15",
@@ -488,14 +484,14 @@
    "2026-09-07",
    "2026-09-08",
    "2026-09-09",
-   "2026-09-10"
+   "2026-09-10",
+   "2026-09-11"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     34,
      24,
      42,
      3,
@@ -524,14 +520,14 @@
      26,
      51,
      44,
-     46
+     49,
+     20
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     19,
      16,
      16,
      5,
@@ -557,17 +553,17 @@
      36,
      7,
      14,
-     41,
-     41,
-     35,
-     33
+     42,
+     44,
+     37,
+     39,
+     20
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     15,
      5,
      7,
      3,
@@ -596,14 +592,14 @@
      5,
      6,
      7,
-     1
+     1,
+     8
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     17,
      29,
      54,
      10,
@@ -624,7 +620,7 @@
      24,
      31,
      17,
-     20,
+     21,
      36,
      29,
      8,
@@ -632,14 +628,14 @@
      21,
      53,
      35,
-     20
+     23,
+     31
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     9,
      16,
      22,
      4,
@@ -666,9 +662,10 @@
      8,
      8,
      12,
-     33,
-     29,
-     18
+     34,
+     30,
+     20,
+     9
     ]
    }
   ]
@@ -702,7 +699,7 @@
    "name": "SAMSUNG ELECTRONICS CO LTD",
    "core": "SAMSUNG ELECTRONICS",
    "patents": 260,
-   "news": 12
+   "news": 11
   },
   {
    "name": "X DEV LLC",
