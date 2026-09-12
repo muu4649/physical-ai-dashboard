@@ -1,49 +1,45 @@
 {
- "updated_at": "2026-09-11T22:57:04.997925+00:00",
+ "updated_at": "2026-09-12T22:48:29.905719+00:00",
  "kpi": {
-  "articles_7d": 706,
-  "articles_prev_7d": 765,
-  "sources_7d": 360,
-  "articles_30d": 3421,
-  "total_articles": 7502,
+  "articles_7d": 710,
+  "articles_prev_7d": 743,
+  "sources_7d": 358,
+  "articles_30d": 3369,
+  "total_articles": 7534,
   "oldest_news": "2021-03-15"
  },
  "wordcloud": [
   [
    "china",
-   44
+   42
   ],
   [
    "production",
-   38
+   41
   ],
   [
    "xpeng",
-   37
+   39
   ],
   [
    "開発",
-   31
+   33
+  ],
+  [
+   "写真",
+   29
   ],
   [
    "中国",
    28
   ],
   [
-   "写真",
-   28
-  ],
-  [
-   "ifa",
-   26
-  ],
-  [
    "画像",
-   26
+   27
   ],
   [
    "unitree",
-   22
+   24
   ],
   [
    "世界",
@@ -51,6 +47,14 @@
   ],
   [
    "iron",
+   22
+  ],
+  [
+   "ifa",
+   21
+  ],
+  [
+   "line",
    21
   ],
   [
@@ -58,27 +62,31 @@
    20
   ],
   [
+   "データ",
+   19
+  ],
+  [
    "arm",
    19
   ],
   [
-   "line",
-   19
-  ],
-  [
-   "技術",
-   18
-  ],
-  [
-   "データ",
-   18
-  ],
-  [
    "launches",
-   17
+   18
+  ],
+  [
+   "実証",
+   18
   ],
   [
    "industrial",
+   17
+  ],
+  [
+   "platform",
+   17
+  ],
+  [
+   "技術",
    17
   ],
   [
@@ -90,24 +98,20 @@
    17
   ],
   [
+   "data",
+   16
+  ],
+  [
+   "chinese",
+   16
+  ],
+  [
    "導入",
    16
   ],
   [
-   "platform",
+   "tech",
    16
-  ],
-  [
-   "実証",
-   16
-  ],
-  [
-   "実装",
-   15
-  ],
-  [
-   "現場",
-   15
   ],
   [
    "戦略",
@@ -126,19 +130,7 @@
    15
   ],
   [
-   "japan",
-   14
-  ],
-  [
-   "data",
-   14
-  ],
-  [
-   "chinese",
-   14
-  ],
-  [
-   "tech",
+   "収集",
    14
   ],
   [
@@ -146,7 +138,19 @@
    14
   ],
   [
+   "現場",
+   14
+  ],
+  [
+   "日本",
+   14
+  ],
+  [
    "com",
+   14
+  ],
+  [
+   "off",
    14
   ],
   [
@@ -158,11 +162,7 @@
    14
   ],
   [
-   "world",
-   13
-  ],
-  [
-   "収集",
+   "実装",
    13
   ],
   [
@@ -178,19 +178,19 @@
    13
   ],
   [
-   "日本",
+   "lab",
    13
   ],
   [
-   "off",
-   13
-  ],
-  [
-   "Unitree",
+   "japan",
    12
   ],
   [
    "研究",
+   12
+  ],
+  [
+   "Unitree",
    12
   ],
   [
@@ -199,10 +199,6 @@
   ],
   [
    "調査",
-   12
-  ],
-  [
-   "lab",
    12
   ],
   [
@@ -218,11 +214,7 @@
    12
   ],
   [
-   "公開",
-   11
-  ],
-  [
-   "社会",
+   "world",
    11
   ],
   [
@@ -238,78 +230,100 @@
    11
   ],
   [
+   "jp",
+   11
+  ],
+  [
+   "公開",
+   11
+  ],
+  [
+   "開催",
+   11
+  ],
+  [
    "製造",
    11
   ],
   [
    "opens",
    11
-  ],
-  [
-   "サービス",
-   10
   ]
  ],
  "today_top5": [
   {
-   "title": "GENIAC採択事業者による事業計画発表会レポート フィジカルAI時代のデータとロボットをどう育てるか",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4UEJjcmg0ak5TdkE4a190YlA0ZGRIQWNZdGdLVmprcWFXdHJVb1BwbUc3M1Z2M2VobWU3Z3lrVWRSVVV2N2czQlBGLXJNLW1JTkFFcTI0X1luNWJtaE0xckg5ZHo?oc=5",
-   "source": "ロボスタ",
-   "published": "2026-09-11T05:00:03+00:00",
-   "count": 2,
-   "sources": [
-    "ロボスタ"
-   ],
-   "score": 1.56
-  },
-  {
-   "title": "Kinetix AI raises $75M angel round backed by Temasek's Vertex Ventures",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZWFFVVdvYzI0N1duYzNwWVRBNkpiclVjNFBqQXNZbXpmMDFZbFQ2R194VHdyaHBVeHlrS3lHQVpaUnpiN0ZGUW5teW9EVHZWWjhSMTNrT3ZmeVdUbGk5RHhseElRd2xOR2pOX1B3NlZSWld3SHRJSFl5Tm1nb1g0LUVUbVJUQVRUNzRtOUpMaUo2ZGhoQ3ZqWENpUW1iY2tHdERSc1JB?oc=5",
-   "source": "Dealroom",
-   "published": "2026-09-11T04:45:01+00:00",
-   "count": 2,
-   "sources": [
-    "Dealroom",
-    "finance.biggo.com"
-   ],
-   "score": 1.55
-  },
-  {
-   "title": "フィジカルAIの安全評価・運用基盤整備を推進 ElithがAIロボット協会に育成会員として入会",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94cmd6elNzd0Q4R2gxb3JUSzlXM2RBZU5aWHFBYTQzcllpSGlpdF9FX0tOd05mY0Z4T2FUTV8zN1FNVDNIendhdS1jbmNZdGduX2lhclYwVjVoNE1oYnA1dVVVT3dVNEhvQnpWSXBB?oc=5",
-   "source": "au Webポータル",
-   "published": "2026-09-11T02:22:49+00:00",
-   "count": 2,
-   "sources": [
-    "au Webポータル",
-    "ロボスタ"
-   ],
-   "score": 1.5
-  },
-  {
-   "title": "Chinese company releases video of humanoid robot walking off assembly line on its own",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY0hMYUxrSjVTeFlIVUxodU55V2IyQzlkVm56ek9LZVdjLV9Qb1hlNG4walVWVzhvZld4ODF3aWE4LXlsSmpVNC1JLWhVeDl3bFhPcjM2X2c4OE1iNFBpRi1Bd2lHTmVwX2dLWDAzMVUxdWlub1NZZ2N0VzJ2cFkxZUdXcl9XclNUWnl0THlqdFlCNTVUTWY4Yzg5ZXhLSksyTnA1MjNCODJzRll2WVBhVkdUNEJMeVpZ?oc=5",
-   "source": "NBC News",
-   "published": "2026-09-11T22:37:46+00:00",
+   "title": "Consumer Tech (Sep 7-11): Apple Launches First Foldable iPhone, XPeng Commissioned IRON Humanoid Robot Pr",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPbHpSeDN0ZW5mb3pScjdKRERGeWRIbmNudk5UcVRoRDhtTzdBWmwxUE0yUVEzNXRzSFBLbjhueGtFalFUcHZqdTdsSVFUWFZVTVI0YXZVVkRMSFFLX0hZRHZXVU5QWC00MVpmSFc0eWNzQmRqeG03Rk5xdUFmU0Qxekl4VzlLcmc1Y19Zbk01UmZ5eVU2ZVNEYjBoY2poOXUySklxbk1aeU9Eb0xyakZ6bzloSjFWaXdTaDAydGZNdGFNTzVtVDdzaTByZm9wMkFRQ3B6YUJRWHVwQUpYeTRIV2loN1ZJaTN6V1cyR2ZlTFJRY2xOWVlITzhLMA?oc=5",
+   "source": "Benzinga",
+   "published": "2026-09-12T21:07:02+00:00",
    "count": 1,
    "sources": [
-    "NBC News"
+    "Benzinga"
    ],
-   "score": 1.0
+   "score": 0.98
   },
   {
-   "title": "This humanoid robot was supposed to be a teaching assistant",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRzNDYTAxME5mdlhHMWdhcE9obl9Cd2hKTkJKSkduS2hnMnZ6ZjZGemVCcVZJQzIzbFF4WGNYT0owMXJkcmQtbHZDTmtWSkJ0Zjh0cTVsS2N1UUd6R1lUQlFpMnZva2RjRVVhUVFDNlVERVdiLTdPaWJVTXlES1ljMzVXc2ltdkhzMlE1Wmpmd2ZqN0xlWlE?oc=5",
-   "source": "yahoo.com",
-   "published": "2026-09-11T22:14:30+00:00",
+   "title": "Teaching Humanoid Robots to Move Like Us",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS2RjVGJFQUVWQzItWlJ0blUzUm1ZeGtjQzlxTmdRcVhWdEwydjdXd1NHbkQteXVTNGZ4OVJSQks3bmhyeTBvdTBNaHl6M0dXN1J4WWVPMjg2MUZfcFVDZmVsNU84SldNdHpnWl9ZM3NlbEN1ZWQ0N1NzaGVMdVJRelMwMkVNWU5jV3c?oc=5",
+   "source": "Hackster.io",
+   "published": "2026-09-12T18:33:11+00:00",
    "count": 1,
    "sources": [
-    "yahoo.com"
+    "Hackster.io"
    ],
-   "score": 0.99
+   "score": 0.94
+  },
+  {
+   "title": "NXP Semiconductors Eyes Physical AI Leadership, Sees Data Center Growth Surge",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNamRFZF81WS1LQi1fclFIQTB6NVpiSEoxdkgzMzZOZ0h0bTZkSzNUeVphaklYeVVtamJhMTlRaXFwSjRzMXdZNkZic1BtSnFSWkQyVnpSVWNzcVcwVThfTXRDRUsxT21wdEZZZG1xM0M1Ukp4ODdaS3ZNVjRidHFwR2Zuck5iRHZHelpMQjhTWjlZb0xnckMwUXB5UW1obG9h?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-09-12T13:02:00+00:00",
+   "count": 1,
+   "sources": [
+    "Yahoo Finance"
+   ],
+   "score": 0.87
+  },
+  {
+   "title": "Why robot hands are one of the hardest problems in humanoid robotics",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQjNyeWlHOW9pUnlmUE1qOVIwbzhicHBQOTVhenFqZ0t5MFFUVm5BNklGMFBYWGpucVcxNVhhbTRPYXNRcFQxT1l6V20yWHFNZ3o4SXhRazlBSE5OZjkxYlBiNkcyMnZhc3ZjNVNnR1J0elRRMDh1ckhVeTA5dWJSRWVLLXFRY3hxWUFRbUJZTTBoRTQwQ1l5YlRpSERpeVc0aXJ5Q0hUbnZDS1ljZG5NcHB3?oc=5",
+   "source": "Interesting Engineering",
+   "published": "2026-09-12T12:49:00+00:00",
+   "count": 1,
+   "sources": [
+    "Interesting Engineering"
+   ],
+   "score": 0.87
+  },
+  {
+   "title": "Ultrasound offers a scalable path to tactile intelligence for physical AI",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOG1uZU5pNUNPVmZqVHpfRE5VT3l0NU9LdWNKRlF0VnhSOVNURTFrdFhkc2YxWlotQjhhcGpwVnBrcUtZRU9ZTkJHUWFxWjRBZmVRMEcycjFQUk1wUUdEblNxOEJmS2d3N3RSWmRLVzN6SFJBZkVfbGQzRkFNcHU2UmhlbzF1NHFWeVc0b2oxQWUyLUJWZlNhWEdrR2w?oc=5",
+   "source": "therobotreport.com",
+   "published": "2026-09-12T12:45:05+00:00",
+   "count": 1,
+   "sources": [
+    "therobotreport.com"
+   ],
+   "score": 0.87
   }
  ],
  "hot_news": [
+  {
+   "title": "Chinese EV maker puts humanoid robot production line into operation",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONlNZT0JZYlhyRFNzWkVnM01sSXg5RGl3bWMzQkJPX1FhYzhVZlRoWVFQT1J2UlY0Z2JPOHZaMW9YRlJSbFRXMC1pcExPR2NRbTJkNlBOcFJqM1VfSE9SRjJtSG9wSE1YOVl0aW1BNnBnVTRUekV2R1V3Vmlod3YtN1RaSTlESUstVkU3c0ZyQkZ5VThKUWJsV245RUtUaXR6YUFaYVFYellPa29mTUlBLXROQmNGMTVGRWpHdXd0SG9YUQ?oc=5",
+   "source": "news.cgtn.com",
+   "published": "2026-09-12T07:00:33+00:00",
+   "count": 8,
+   "sources": [
+    "CleanTechnica",
+    "TechEBlog -",
+    "TechNode",
+    "XPENG",
+    "Xinhua",
+    "grafa.com"
+   ],
+   "score": 6.42
+  },
   {
    "title": "Vention opens physical AI lab for research and scalable industrial deployment",
    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWmNISVlrellkZ3d1RU42WHNFRDVsUC0tZy1FZmRTWGd2WUZWSTJjSlE2cGxLX0VDRXNRRWlKZkpoZXdHWmdxV09MdmtYSlBnTWYxTWZDSG10ZnlHaFNobkFRenozeHRYbVYzbEwtM1RQSjl2bUx4eTNkQ1lxQUExTDRwV0hteDNOaU9mdzd1VGxQY3VyaWRWRlJSNTFCaGpZNmczWUtsOVBLb0FESHNiMVRQdDZ0V3hKblN4MTJXUUxENlBGNnBySzFESUtNc3c4?oc=5",
@@ -324,39 +338,7 @@
     "Smart Industry",
     "The Robot Report"
    ],
-   "score": 4.61
-  },
-  {
-   "title": "XPeng's IRON Humanoid Robot Walked Off a Real Production Line in Guangzhou",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdFdMeTM2ajg1MHNESnktMVg1V2NmbklFS3N1UkxXc2hUMm5yMU42VWh1TGRwRXNkQWhERXRNcFgxa0N1ZUZFZjIydFFEZEVsMDlXdkwtZ2xHRjlOUEJ2MnRpS2FMTGo5UF9YanVZNHhUNWxXY1lVb3ZIeWZSbXNuYVFCWXBXN0NGSE16RXYyaG5nbWhOQ0pfN1dVdzAyVDZkdDFn?oc=5",
-   "source": "Startup Fortune",
-   "published": "2026-09-10T14:24:59+00:00",
-   "count": 7,
-   "sources": [
-    "AI Insider",
-    "Digital Trends",
-    "Startup Fortune",
-    "TechEBlog -",
-    "The Gadgeteer",
-    "Unite.AI"
-   ],
-   "score": 4.46
-  },
-  {
-   "title": "XPeng’s IRON Gets a Production Makeover Ahead of Mass Manufacturing",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDTjhDZHBKUGpSY0c0SmhJTDBlcUNNZ2ZydHdJYl9ubEtrUEJ6Sm5QQXptRTMwOVBONWtLUHRrdE1faWdlV3lCRzh0NUE4SEJxOUZvQUFCQVFfUW9xS3dyaWU2NFU?oc=5",
-   "source": "mikekalil.com",
-   "published": "2026-09-10T18:28:59+00:00",
-   "count": 6,
-   "sources": [
-    "CleanTechnica",
-    "TechNode",
-    "TechRepublic",
-    "XPENG",
-    "Xinhua",
-    "mikekalil.com"
-   ],
-   "score": 4.04
+   "score": 3.31
   },
   {
    "title": "Unitree、人型ロボットが人間と「完全自律」で格闘 世界モデル「UnifoLM-X2-1.0」で未来をリアルタイム予測",
@@ -371,7 +353,22 @@
     "robotstart.info",
     "レスポンス（Response.jp）"
    ],
-   "score": 3.95
+   "score": 2.84
+  },
+  {
+   "title": "XPeng’s IRON Gets a Production Makeover Ahead of Mass Manufacturing",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBDTjhDZHBKUGpSY0c0SmhJTDBlcUNNZ2ZydHdJYl9ubEtrUEJ6Sm5QQXptRTMwOVBONWtLUHRrdE1faWdlV3lCRzh0NUE4SEJxOUZvQUFCQVFfUW9xS3dyaWU2NFU?oc=5",
+   "source": "mikekalil.com",
+   "published": "2026-09-10T18:28:59+00:00",
+   "count": 5,
+   "sources": [
+    "Stock Titan",
+    "TechRepublic",
+    "The Gadgeteer",
+    "UA.NEWS",
+    "mikekalil.com"
+   ],
+   "score": 2.42
   },
   {
    "title": "GMO AIR、人型ロボット専用「GMOヒューマノイド救急車」導入 故障現場へエンジニアが駆けつけ",
@@ -386,7 +383,7 @@
     "digitaltoday.co.kr",
     "dreamseed.blog"
    ],
-   "score": 2.83
+   "score": 2.03
   },
   {
    "title": "Analog to acquire Alif for $1.3B in physical AI bid",
@@ -400,7 +397,7 @@
     "Unite.AI",
     "pulse2.com"
    ],
-   "score": 2.64
+   "score": 1.89
   },
   {
    "title": "Cuebus株式会社・矢崎総業株式会社・株式会社山善「リニアモータ式ロボット倉庫」の実証実験を開始",
@@ -413,7 +410,34 @@
     "ロボスタ",
     "物流ニュースのLNEWS"
    ],
-   "score": 2.61
+   "score": 1.88
+  },
+  {
+   "title": "駅のカフェで人型ロボットが接客 フィジカルロボットAIの実証実験（KTNテレビ長崎）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oM2p0Y19UdFphQk1ZUnd2LTUwRUNwQUw3UTFBU0pvQThuUmZzQVZ6ejlfRmxUaEkwTHJEZEU0NzQ5LXlOeWdFR0l5bDluUzJ5Z1dRdkhyQ3c3TklyNnd3NVUyQmJEWXpRNWxSSnlZSnYySE9QaEhyajVRaVl1aXc?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-09-11T11:30:01+00:00",
+   "count": 3,
+   "sources": [
+    "FNNプライムオンライン",
+    "Yahoo!ニュース",
+    "ktn.co.jp"
+   ],
+   "score": 1.84
+  },
+  {
+   "title": "XPeng's IRON Humanoid Robot Walked Off a Real Production Line in Guangzhou",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdFdMeTM2ajg1MHNESnktMVg1V2NmbklFS3N1UkxXc2hUMm5yMU42VWh1TGRwRXNkQWhERXRNcFgxa0N1ZUZFZjIydFFEZEVsMDlXdkwtZ2xHRjlOUEJ2MnRpS2FMTGo5UF9YanVZNHhUNWxXY1lVb3ZIeWZSbXNuYVFCWXBXN0NGSE16RXYyaG5nbWhOQ0pfN1dVdzAyVDZkdDFn?oc=5",
+   "source": "Startup Fortune",
+   "published": "2026-09-10T14:24:59+00:00",
+   "count": 4,
+   "sources": [
+    "AI Insider",
+    "Digital Trends",
+    "Startup Fortune",
+    "Unite.AI"
+   ],
+   "score": 1.83
   },
   {
    "title": "AGIBOTのヒューマノイド『A3』と『X2』、イノベーションアワード受賞…IFA 2026",
@@ -426,37 +450,11 @@
     "レスポンス（Response.jp）",
     "ロボスタ"
    ],
-   "score": 2.37
-  },
-  {
-   "title": "Songying raises hundreds of millions of yuan for physical-AI OS",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ2JSaUlET1BvQ0VpSi14dkJZSlN3allxd25zdmhTQTRnc1JvSHQtQV82YmZrakpVRVV3Z28zTGZRSExmWHRnMU1DZ3p2cTNrdmxFbDZGa2UxTFE3Z1g5cWNJaEpoQnhGYTFRY0ZweW5MZmE0aF9WUE52S0JrQWo2Smwyamp6dWQ3bThjbmZSamdVc2JES0lLS3lwbENrZw?oc=5",
-   "source": "Dealroom",
-   "published": "2026-09-10T21:48:06+00:00",
-   "count": 3,
-   "sources": [
-    "Dealroom",
-    "Gasgoo"
-   ],
-   "score": 2.12
-  },
-  {
-   "title": "日立建機、フィジカルAI研究 自律ショベル向け",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBweXFhd013WHluR3FhLTBpeHJTWERka0c0dzNxdWhzLW9haFFHTDA0YTFhX25iS3dpd3d6UGx2RWluVzNpR1lYSmJQRkFDLWh4ckNoSkh4Rk4?oc=5",
-   "source": "日刊工業新聞",
-   "published": "2026-09-10T20:00:00+00:00",
-   "count": 3,
-   "sources": [
-    "PR TIMES",
-    "kabushiki.jp",
-    "日刊工業新聞"
-   ],
-   "score": 2.06
+   "score": 1.7
   }
  ],
  "trend": {
   "dates": [
-   "2026-08-13",
    "2026-08-14",
    "2026-08-15",
    "2026-08-16",
@@ -485,14 +483,14 @@
    "2026-09-08",
    "2026-09-09",
    "2026-09-10",
-   "2026-09-11"
+   "2026-09-11",
+   "2026-09-12"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     24,
      42,
      3,
      5,
@@ -520,15 +518,15 @@
      26,
      51,
      44,
-     49,
-     20
+     50,
+     20,
+     5
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     16,
      16,
      5,
      10,
@@ -555,16 +553,16 @@
      14,
      42,
      44,
-     37,
-     39,
-     20
+     38,
+     41,
+     23,
+     3
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     5,
      7,
      3,
      0,
@@ -593,14 +591,14 @@
      6,
      7,
      1,
-     8
+     8,
+     1
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     29,
      54,
      10,
      16,
@@ -628,15 +626,15 @@
      21,
      53,
      35,
-     23,
-     31
+     25,
+     34,
+     7
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     16,
      22,
      4,
      3,
@@ -649,7 +647,7 @@
      21,
      34,
      25,
-     37,
+     38,
      28,
      21,
      8,
@@ -664,8 +662,9 @@
      12,
      34,
      30,
-     20,
-     9
+     21,
+     10,
+     1
     ]
    }
   ]
@@ -681,7 +680,7 @@
    "name": "BOSCH GMBH ROBERT",
    "core": "BOSCH GMBH ROBERT",
    "patents": 533,
-   "news": 5
+   "news": 3
   },
   {
    "name": "GOOGLE LLC",
@@ -693,13 +692,13 @@
    "name": "HONDA MOTOR CO LTD",
    "core": "HONDA MOTOR",
    "patents": 263,
-   "news": 1
+   "news": 0
   },
   {
    "name": "SAMSUNG ELECTRONICS CO LTD",
    "core": "SAMSUNG ELECTRONICS",
    "patents": 260,
-   "news": 11
+   "news": 9
   },
   {
    "name": "X DEV LLC",
@@ -711,7 +710,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 114
+   "news": 112
   },
   {
    "name": "QUALCOMM INC",
