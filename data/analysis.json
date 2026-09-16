@@ -1,84 +1,92 @@
 {
- "updated_at": "2026-09-15T23:22:58.767548+00:00",
+ "updated_at": "2026-09-16T23:31:03.487876+00:00",
  "kpi": {
-  "articles_7d": 715,
-  "articles_prev_7d": 722,
-  "sources_7d": 371,
-  "articles_30d": 3515,
-  "total_articles": 7868,
+  "articles_7d": 710,
+  "articles_prev_7d": 762,
+  "sources_7d": 373,
+  "articles_30d": 3529,
+  "total_articles": 8011,
   "oldest_news": "2021-03-15"
  },
  "wordcloud": [
   [
    "china",
-   40
-  ],
-  [
-   "開発",
    37
   ],
   [
-   "launches",
-   28
+   "開発",
+   35
   ],
   [
-   "写真",
+   "agility",
+   31
+  ],
+  [
+   "launches",
+   30
+  ],
+  [
+   "技術",
    27
   ],
   [
-   "raises",
-   26
+   "digit",
+   27
   ],
   [
-   "中国",
-   26
-  ],
-  [
-   "画像",
-   26
-  ],
-  [
-   "unitree",
+   "写真",
    26
   ],
   [
    "industrial",
+   25
+  ],
+  [
+   "画像",
+   25
+  ],
+  [
+   "raises",
    24
   ],
   [
-   "技術",
-   23
+   "unveils",
+   22
   ],
   [
-   "production",
+   "中国",
    21
   ],
   [
+   "million",
+   18
+  ],
+  [
+   "nvidia",
+   18
+  ],
+  [
    "world",
-   20
+   18
   ],
   [
-   "unveils",
-   20
-  ],
-  [
-   "実証",
-   19
+   "unitree",
+   18
   ],
   [
    "data",
-   18
+   17
   ],
   [
-   "活用",
-   18
+   "日本",
+   17
   ],
   [
-   "世界",
-   18
+   "実証",
+   17
   ],
   [
-   "million",
+   "工場",
    17
   ],
   [
@@ -86,11 +94,15 @@
    16
   ],
   [
-   "nvidia",
+   "coreweave",
    16
   ],
   [
-   "startup",
+   "production",
+   16
+  ],
+  [
+   "factory",
    16
   ],
   [
@@ -98,35 +110,27 @@
    16
   ],
   [
-   "coreweave",
+   "work",
    16
   ],
   [
-   "産業",
-   15
+   "ubtech",
+   16
+  ],
+  [
+   "exein",
+   16
   ],
   [
    "gmo",
    15
   ],
   [
-   "agility",
-   15
-  ],
-  [
-   "市場",
+   "platform",
    14
   ],
   [
-   "日本",
-   14
-  ],
-  [
-   "基盤",
-   14
-  ],
-  [
-   "導入",
+   "実装",
    14
   ],
   [
@@ -134,27 +138,11 @@
    14
   ],
   [
-   "lab",
-   13
+   "世界",
+   14
   ],
   [
-   "platform",
-   13
-  ],
-  [
-   "dynamics",
-   13
-  ],
-  [
-   "モデル",
-   13
-  ],
-  [
-   "公開",
-   13
-  ],
-  [
-   "factory",
+   "開催",
    13
   ],
   [
@@ -162,179 +150,287 @@
    13
   ],
   [
-   "opens",
-   12
+   "導入",
+   13
   ],
   [
-   "scale",
-   12
+   "startup",
+   13
   ],
   [
-   "実装",
-   12
+   "時代",
+   13
   ],
   [
-   "chinese",
-   12
+   "安全",
+   13
+  ],
+  [
+   "量産",
+   13
   ],
   [
    "engineering",
    12
   ],
   [
-   "work",
+   "global",
    12
   ],
   [
-   "exein",
+   "industry",
    12
   ],
   [
-   "digit",
+   "公開",
    12
+  ],
+  [
+   "産業",
+   12
+  ],
+  [
+   "企業",
+   12
+  ],
+  [
+   "活用",
+   11
+  ],
+  [
+   "戦略",
+   11
+  ],
+  [
+   "倉庫",
+   11
+  ],
+  [
+   "生産",
+   11
+  ],
+  [
+   "市場",
+   11
+  ],
+  [
+   "build",
+   11
+  ],
+  [
+   "運用",
+   11
+  ],
+  [
+   "safety",
+   11
+  ],
+  [
+   "field",
+   10
   ],
   [
    "deployment",
-   11
+   10
+  ],
+  [
+   "hyundai",
+   10
   ],
   [
    "japan",
-   11
-  ],
-  [
-   "xpeng",
-   11
-  ],
-  [
-   "収集",
-   11
-  ],
-  [
-   "事業",
-   11
-  ],
-  [
-   "ubtech",
-   11
-  ],
-  [
-   "tech",
-   11
-  ],
-  [
-   "時代",
-   11
-  ],
-  [
-   "工場",
-   11
-  ],
-  [
-   "partner",
    10
   ],
   [
-   "series",
+   "拡大",
    10
   ],
   [
-   "arm",
-   10
-  ],
-  [
-   "geniac",
-   10
-  ],
-  [
-   "real",
+   "韓国",
    10
   ]
  ],
  "today_top5": [
   {
-   "title": "Agility Robotics unveils Digit 5 humanoid robot for safer work",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT1RQUmZTemdqUmRTcHEyR28yWm8tUDJMa0JNSUlqUmJ1MzJtQS1vUjl3bXBfRHdJeFROUW85bGcxRE9qOE9KQW5nWHljaUt3cURKbUhJelM4TTBac1B0WGxaamhuY3czd2xQTF9oems4TVRVSjBnd0hCdEFoa20ta3ZzTl9IbldLakpfb0pYbU1YamN6OTRoaFUyZlg1TU9UVk9YMjRmd3dUSTg2UUI5bjFwRGVtVEJ0Vy0tWWdSdkZTUQ?oc=5",
-   "source": "Investing.com",
-   "published": "2026-09-15T12:31:55+00:00",
-   "count": 5,
-   "sources": [
-    "GamesBeat",
-    "Investing.com",
-    "Investing.com India",
-    "PR Newswire",
-    "StreetInsider"
-   ],
-   "score": 4.3
-  },
-  {
-   "title": "Physical AI security startup Exein raises $270M at $1.7B valuation",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa0FraENPWHRuWW9HYzc3MTdrS3hYaTRyNnNCcFZJTmR5cHNHdjJ5YmszQ2RTWS0tRnUyQTFNRGV4dG5wSGQzb0VnWm9OdjBnMmFEU25OUi1YMFRoMURweXBpUFBGSHZ1Y1hleDlSUjFiTjJnU2pPVmlCYkNoLXFVeHdRZVhSRnhhTFJTSUhOUjIwNExrejNGQncxWmZOZzBPMXdv?oc=5",
-   "source": "SiliconANGLE",
-   "published": "2026-09-15T22:18:00+00:00",
+   "title": "Agility Robotics、人と安全柵なしで協働するヒューマノイド「Digit 5」を発表",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ndFhMV3NwVFUxQVdrOUtoVGJOcTVQZEhhaTBrSzRzb1ZTY3FHTzJubFQxeEx5RFQzZi02NG9MZ0loX3R1NVp2YTFGQ3NrcGRvRFNUWGdfX05OMHJNd2NTTVlJZGVnT1J3dC1vSHF6X0tGaTE0?oc=5",
+   "source": "BigGo ファイナンス",
+   "published": "2026-09-16T11:35:00+00:00",
    "count": 4,
    "sources": [
-    "AI Insider",
-    "Pulse 2.0",
-    "SecurityWeek",
-    "SiliconANGLE"
+    "BigGo ファイナンス",
+    "au Webポータル",
+    "ロボスタ",
+    "디지털투데이"
    ],
-   "score": 3.94
+   "score": 3.39
   },
   {
-   "title": "China's UBTECH Launches World's First Humanoid Robot Factory with 10,000-Unit Annual Capacity",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12WkJXQ3lmNVZKVGNnMjNINFdMUExxNU9KNVdESy1zSGJWeERfa292Y1lzZ0Jnb3BfNTBuaTV2dmJyR19qSGtDUmxRSnRkZlN5bHFSRVllQklaNjZ0X3VWVS02RU1tMXZMZm9rUnQwVWJ0VmwwT1E?oc=5",
-   "source": "finance.biggo.com",
-   "published": "2026-09-15T22:05:00+00:00",
+   "title": "Humanoids Summit Seoul Sets Global Physical AI Program with Official Support from South Korea’s Ministry of Science and ICT - News-Press NOW",
+   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNYW9QYU1PT2VmZ3VveHJVclo3UlRwdzNPLUtpaFdjYXdrUDBNT1ZOTWpGbjZZX0ZOckhMa05YeGpqcllCdmxvX09DVEZZOXdJR0F4NFNtaU5MS3d1VmlBNWNRQ2FnM3VtSklNcEZUY1paWGVoejhzaEFFMHo5bFlydUQwTmVJM0h0VXpsbmFhcEd5RkI4S09rZDlSU3JfeDhyd1JrQ3E1RjNfRW92eGE1V2J0VmRoem01cFNqOGxCQW44LW9Ic2NpU3FkblVBdjk3YTNYLVpldHU0Q3JTZW5SZUZsMkU4M2xLNnZhdER6LXNRQThVQWQ1Qmt4OFFjN2F1dXlOUXYyZHBlM2cwdDFpelBiSV9Cc1otcGNhXzFzemc0YXlMMmNYY2d3?oc=5",
+   "source": "News-Press NOW",
+   "published": "2026-09-16T22:56:15+00:00",
    "count": 3,
    "sources": [
-    "AI Insider",
-    "TV BRICS",
-    "finance.biggo.com"
+    "Eagle-Tribune",
+    "News-Press NOW",
+    "joplinglobe.com"
    ],
-   "score": 2.95
+   "score": 2.98
   },
   {
-   "title": "Exein Raises $270 Million To Build the Security Layer for Physical AI",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMHZlRlFTVEpQT2tqTkczU1RVWEpRc1lNaXRsMFNBemQzNjJHQ3BtUFJ6QXJEMmdoeDdXZ0lNc2RLSGd3ZjFrd3VfeGxwNnYwVGNGV2xYdGRmM2thSUQtVXV4aE1XZDcxLTVfaVVQYk5sUGxJcVpfdktUZmMzeWxvUlBZVVRqb0o0cVpPX0daVi1ZNlktMTBWb9IBmAFBVV95cUxNMHZlRlFTVEpQT2tqTkczU1RVWEpRc1lNaXRsMFNBemQzNjJHQ3BtUFJ6QXJEMmdoeDdXZ0lNc2RLSGd3ZjFrd3VfeGxwNnYwVGNGV2xYdGRmM2thSUQtVXV4aE1XZDcxLTVfaVVQYk5sUGxJcVpfdktUZmMzeWxvUlBZVVRqb0o0cVpPX0daVi1ZNlktMTBWbw?oc=5",
-   "source": "Ventureburn",
-   "published": "2026-09-15T12:48:49+00:00",
+   "title": "Agility unveils Digit 5, a safety-conscious humanoid",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSGFwRWZfS2tmNVpuazBHUHNwdEhOZHJCSVBNaVcxV25GV3IySU5zeVB1YTRLdzk5VFROcmpDTHA5MHVfV3dxYmpWRXBDbHRQLTYwdzNDajFibzVqMmxZUkRFWTN0cGV2dGJNR0RNc3BGa0ZTMVNpUlVwY1RPS3d3QzdNSEliT19PTC1zVUlrVWNPeTNjVHp1cjlMSzU?oc=5",
+   "source": "TechTarget",
+   "published": "2026-09-16T21:15:35+00:00",
    "count": 3,
    "sources": [
-    "PitchBook",
-    "Ventureburn",
-    "trendingtopics.eu"
+    "Fox Business",
+    "Interesting Engineering",
+    "TechTarget"
    ],
-   "score": 2.59
+   "score": 2.91
   },
   {
-   "title": "フィジカルAI対応の第7世代協働ロボット「Gen 7」をIMTS 2026で発表 ユニバーサルロボット",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKTVVOTjJBZXRLYTd2QW8wcHZRMzVwRnVvTzlVRC04dnNTMy1ua2JHWnkxWWc2LTBvcERubWJETS1xVWJqN29oRnBndGtnZUVKN1ZMOEg1YU51aE1sYmhIc2RtanJNZ200TkJqa3RB?oc=5",
-   "source": "au Webポータル",
-   "published": "2026-09-15T05:53:13+00:00",
+   "title": "全文無料公開！『フィジカルAIの正体』が発売前に丸ごと読める3日間限定のキャンペーンを9月16日（水）より実施",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5LMV9NQUtSU21uaXZ0emYxa2MzR3BUeWlaeXFPTk9fWWo3NEkzVUVOSkdtUWNhNnhJNE8xcHJVSnlWcGxHV0pyV0Q3MHFkTHJSb0xkS0RnZE5nN3BXOGpCVFZCcmJuMVBZZ0E?oc=5",
+   "source": "PR TIMES",
+   "published": "2026-09-16T01:00:02+00:00",
    "count": 3,
    "sources": [
     "PR TIMES",
-    "au Webポータル",
-    "ロボスタ"
+    "株式会社インプレス"
    ],
-   "score": 2.35
+   "score": 2.19
+  },
+  {
+   "title": "ヒューマノイド生産、10分に1台 中国UBTECH、「ロボットがロボットをつくる」工場稼働",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5KT0F2QnFoNHl5YjdMcmxPM1BlOXFkWmJGTkhWLU50WGxwS0ZxLUR3eWJMeHJ6OHZsMHI0?oc=5",
+   "source": "36Kr Japan",
+   "published": "2026-09-16T23:05:44+00:00",
+   "count": 2,
+   "sources": [
+    "36Kr Japan",
+    "Vietnam.vn"
+   ],
+   "score": 1.99
   }
  ],
  "hot_news": [
   {
-   "title": "Agility Robotics unveils Digit 5 humanoid robot for safer work",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT1RQUmZTemdqUmRTcHEyR28yWm8tUDJMa0JNSUlqUmJ1MzJtQS1vUjl3bXBfRHdJeFROUW85bGcxRE9qOE9KQW5nWHljaUt3cURKbUhJelM4TTBac1B0WGxaamhuY3czd2xQTF9oems4TVRVSjBnd0hCdEFoa20ta3ZzTl9IbldLakpfb0pYbU1YamN6OTRoaFUyZlg1TU9UVk9YMjRmd3dUSTg2UUI5bjFwRGVtVEJ0Vy0tWWdSdkZTUQ?oc=5",
-   "source": "Investing.com",
-   "published": "2026-09-15T12:31:55+00:00",
+   "title": "日立、社会インフラでフィジカルAIを安全に運用するためのガードレール技術を開発",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fUUk5MVdDWGx5ZW9TYUlaU0RiUlp0N1NGcFdXZFF6T3d0UFRpMm9sZXZNNnNzYnV0cDNqSjlSWGM2aENGQ28ycGlZOGRlYlFnbkJzYzBB?oc=5",
+   "source": "EnterpriseZine",
+   "published": "2026-09-16T09:40:09+00:00",
+   "count": 8,
+   "sources": [
+    "EnterpriseZine",
+    "Hitachi Global",
+    "IT Leaders",
+    "LIGARE（リガーレ）",
+    "ロボスタ",
+    "株式会社インプレス"
+   ],
+   "score": 6.6
+  },
+  {
+   "title": "Agility unveils Digit 5, a safety-conscious humanoid",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSGFwRWZfS2tmNVpuazBHUHNwdEhOZHJCSVBNaVcxV25GV3IySU5zeVB1YTRLdzk5VFROcmpDTHA5MHVfV3dxYmpWRXBDbHRQLTYwdzNDajFibzVqMmxZUkRFWTN0cGV2dGJNR0RNc3BGa0ZTMVNpUlVwY1RPS3d3QzdNSEliT19PTC1zVUlrVWNPeTNjVHp1cjlMSzU?oc=5",
+   "source": "TechTarget",
+   "published": "2026-09-16T21:15:35+00:00",
+   "count": 6,
+   "sources": [
+    "Fox Business",
+    "GamesBeat",
+    "Interesting Engineering",
+    "Investing.com",
+    "PR Newswire",
+    "TechTarget"
+   ],
+   "score": 5.81
+  },
+  {
+   "title": "Exein Raises $270M at $1.7B Valuation to Secure Physical AI",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrdXIzNUhadTcxbWVVdVJNVjNKdVdOTnhZSGZNcVdvR1JTOEJpSmpKWTZzbDJVYUJRd1lXMjZDelY3c1RzaHZGMnV3TTllTzBQZnl3?oc=5",
+   "source": "Wowtale",
+   "published": "2026-09-16T13:08:25+00:00",
    "count": 5,
    "sources": [
-    "GamesBeat",
-    "Investing.com",
-    "Investing.com India",
-    "PR Newswire",
-    "StreetInsider"
+    "AI Insider",
+    "Pulse 2.0",
+    "SecurityWeek",
+    "SiliconANGLE",
+    "Wowtale"
    ],
-   "score": 4.3
+   "score": 4.33
+  },
+  {
+   "title": "Agility Robotics、人と安全柵なしで協働するヒューマノイド「Digit 5」を発表",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ndFhMV3NwVFUxQVdrOUtoVGJOcTVQZEhhaTBrSzRzb1ZTY3FHTzJubFQxeEx5RFQzZi02NG9MZ0loX3R1NVp2YTFGQ3NrcGRvRFNUWGdfX05OMHJNd2NTTVlJZGVnT1J3dC1vSHF6X0tGaTE0?oc=5",
+   "source": "BigGo ファイナンス",
+   "published": "2026-09-16T11:35:00+00:00",
+   "count": 5,
+   "sources": [
+    "BigGo ファイナンス",
+    "Unite.AI",
+    "au Webポータル",
+    "ロボスタ",
+    "디지털투데이"
+   ],
+   "score": 4.24
+  },
+  {
+   "title": "ヒューマノイド生産、10分に1台 中国UBTECH、「ロボットがロボットをつくる」工場稼働",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE5KT0F2QnFoNHl5YjdMcmxPM1BlOXFkWmJGTkhWLU50WGxwS0ZxLUR3eWJMeHJ6OHZsMHI0?oc=5",
+   "source": "36Kr Japan",
+   "published": "2026-09-16T23:05:44+00:00",
+   "count": 4,
+   "sources": [
+    "36Kr Japan",
+    "BigGo ファイナンス",
+    "Vietnam.vn"
+   ],
+   "score": 3.98
+  },
+  {
+   "title": "Universal Robots Introduces Gen 7 Platform for Industrial Automation and Physical AI",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWWRwU3kyUHNvMGR0UGhoRk9kQnluV19IQTNDOE9FQ2NGQmd5Sl85cmowQjNKd2ZaU241WmQwTmVncWlkNDR1a05vN1JhaXRBeTlaNUZHWHNyVEE0VEx2MDBLbGhqbVBPbU1IR180cVBYYzd2NkN3aWJ3REZ1VGg2eFh3QThGSld2TVpFTFJGUFZJeWxVRmxOS014alZDUnFyQWZHVHdSUQ?oc=5",
+   "source": "ARC Advisory",
+   "published": "2026-09-16T12:00:00+00:00",
+   "count": 4,
+   "sources": [
+    "ARC Advisory",
+    "Eagle-Tribune",
+    "Investing News Network",
+    "Supply & Demand Chain Executive"
+   ],
+   "score": 3.41
+  },
+  {
+   "title": "フィジカルAI実装専門「フィールドエンジニアリング部」を新設したIndustry Alpha シニアエンジニアの採用強化",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Dd1BaOXdfWmd3N3g1SlRoZjF0WjRuVFpMU05naWNFbU1PYURZV2pQYk9YVlBtYmJnbDJ1bG90Rnd2YS05UWRjS3J4c0pLZS1rZ29MSlhhVWJ3bVVZUVhoaE5JazM?oc=5",
+   "source": "ロボスタ",
+   "published": "2026-09-16T05:00:03+00:00",
+   "count": 4,
+   "sources": [
+    "LOGI-BIZ online",
+    "PR TIMES",
+    "ロボスタ"
+   ],
+   "score": 3.09
+  },
+  {
+   "title": "Humanoids Summit Seoul Sets Global Physical AI Program with Official Support from South Korea’s Ministry of Science and ICT - News-Press NOW",
+   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNYW9QYU1PT2VmZ3VveHJVclo3UlRwdzNPLUtpaFdjYXdrUDBNT1ZOTWpGbjZZX0ZOckhMa05YeGpqcllCdmxvX09DVEZZOXdJR0F4NFNtaU5MS3d1VmlBNWNRQ2FnM3VtSklNcEZUY1paWGVoejhzaEFFMHo5bFlydUQwTmVJM0h0VXpsbmFhcEd5RkI4S09rZDlSU3JfeDhyd1JrQ3E1RjNfRW92eGE1V2J0VmRoem01cFNqOGxCQW44LW9Ic2NpU3FkblVBdjk3YTNYLVpldHU0Q3JTZW5SZUZsMkU4M2xLNnZhdER6LXNRQThVQWQ1Qmt4OFFjN2F1dXlOUXYyZHBlM2cwdDFpelBiSV9Cc1otcGNhXzFzemc0YXlMMmNYY2d3?oc=5",
+   "source": "News-Press NOW",
+   "published": "2026-09-16T22:56:15+00:00",
+   "count": 3,
+   "sources": [
+    "Eagle-Tribune",
+    "News-Press NOW",
+    "joplinglobe.com"
+   ],
+   "score": 2.98
   },
   {
    "title": "GMO AIR、国内初の人型ロボット専用保守車両「GMOヒューマノイド救急車」を導入",
@@ -349,121 +445,24 @@
     "ドローンジャーナル",
     "住宅新報"
    ],
-   "score": 4.11
+   "score": 2.94
   },
   {
-   "title": "Physical AI security startup Exein raises $270M at $1.7B valuation",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa0FraENPWHRuWW9HYzc3MTdrS3hYaTRyNnNCcFZJTmR5cHNHdjJ5YmszQ2RTWS0tRnUyQTFNRGV4dG5wSGQzb0VnWm9OdjBnMmFEU25OUi1YMFRoMURweXBpUFBGSHZ1Y1hleDlSUjFiTjJnU2pPVmlCYkNoLXFVeHdRZVhSRnhhTFJTSUhOUjIwNExrejNGQncxWmZOZzBPMXdv?oc=5",
-   "source": "SiliconANGLE",
-   "published": "2026-09-15T22:18:00+00:00",
-   "count": 4,
-   "sources": [
-    "AI Insider",
-    "Pulse 2.0",
-    "SecurityWeek",
-    "SiliconANGLE"
-   ],
-   "score": 3.94
-  },
-  {
-   "title": "ロボット倉庫「CUEBUS」×ヒューマノイドロボット、静岡で実証実験へ…矢崎総業ら3社",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1TOUhYZEdtVkh1cDJDcmVocjBISmFOTlV1dFBZX0JlWGhoNmlxdHdiVEExakdRM2RmQVVCcHF2U25HUmo4eDlhSVU0V0ZCVTFacF8ydEJQNXFmU1cyS2VV?oc=5",
-   "source": "レスポンス（Response.jp）",
-   "published": "2026-09-14T00:30:03+00:00",
-   "count": 7,
-   "sources": [
-    "ニコニコニュース",
-    "レスポンス（Response.jp）",
-    "ロボスタ",
-    "物流ニュースのLNEWS"
-   ],
-   "score": 3.65
-  },
-  {
-   "title": "Algomatic Dynamics、50億円を調達しロボティクス・フィジカルAI事業を本格始動",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9UUEFUUndjQ2FHbEdtNlhLbU9IaWlIaTlZZUd2WjF2UTBUYWp1WVcyalZiTFRwbzdKRzNkeWxiSWdGd2ZxQkpfbFlCWlM5VVgxS1dmNHBCR2FqVzMzNmR3VXk3WmNBSzdvVV9hYXZLWQ?oc=5",
-   "source": "AIsmiley",
-   "published": "2026-09-15T09:20:52+00:00",
-   "count": 4,
-   "sources": [
-    "AIsmiley",
-    "BRIDGE（ブリッジ）",
-    "LOGI-BIZ online",
-    "PR TIMES"
-   ],
-   "score": 3.29
-  },
-  {
-   "title": "日立、フィジカルAIの「止めすぎ」を防ぐ技術開発 過度な停止を89％削減",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92V3FRVGxLUUxUckpVc2ZQSGNQSG5KUjJUWmFlRFV4X2V6Z2RIa0RoMHVRQmthR2F4MkNrWXlzS0xlTFBSOVM2YW9tWTZqZ1RSNi1UV1MzdFExZlJmallZWFJoQXVwY2NK?oc=5",
-   "source": "マイナビニュース",
-   "published": "2026-09-15T04:25:24+00:00",
-   "count": 4,
-   "sources": [
-    "Hitachi Global",
-    "マイナビニュース",
-    "日本経済新聞",
-    "株式会社インプレス"
-   ],
-   "score": 3.07
-  },
-  {
-   "title": "China's UBTECH Launches World's First Humanoid Robot Factory with 10,000-Unit Annual Capacity",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12WkJXQ3lmNVZKVGNnMjNINFdMUExxNU9KNVdESy1zSGJWeERfa292Y1lzZ0Jnb3BfNTBuaTV2dmJyR19qSGtDUmxRSnRkZlN5bHFSRVllQklaNjZ0X3VWVS02RU1tMXZMZm9rUnQwVWJ0VmwwT1E?oc=5",
-   "source": "finance.biggo.com",
-   "published": "2026-09-15T22:05:00+00:00",
+   "title": "China's Humanoid Robots Are Walking Off The Assembly Line On Their Own",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTEhLWDhMSTNQbW9KVElHU2pzQWxGQ0o1RU12dERBOW13ZTE0dzdWZUdXSG95di1Qa0JfQnpoak02YzV6VEhOQlhRWGdPcWQ4aGNhUEppU3M5VFdhc1dMTVhlT1o4d2VyaEtQZDA4SjNUeFR2Z3hIenFsdWJyelNMNmxOYTNxel9scWR5Vw?oc=5",
+   "source": "SlashGear",
+   "published": "2026-09-16T19:45:00+00:00",
    "count": 3,
    "sources": [
-    "AI Insider",
-    "TV BRICS",
-    "finance.biggo.com"
+    "Modern Ghana",
+    "NBC News",
+    "SlashGear"
    ],
-   "score": 2.95
-  },
-  {
-   "title": "Inspiren Secures $70M to Scale Physical AI Across Senior Living",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT1k5UFIwUGN2OHZtUXAyR195VjFpb1Ztb0RCWFM1Q2xVWTBoV1drUkRjTVFjNVNISEhmZEduNC03SzJpOGI5amxxVnpjS3pVT1BZSkVUck10TzNMMlZPYi1yNVBZY1gzWGpDVXJWTS1peWhBOExxVTNpX24wRmhQSjNiZzFBU2M?oc=5",
-   "source": "HIT Consultant",
-   "published": "2026-09-15T18:53:20+00:00",
-   "count": 3,
-   "sources": [
-    "HIT Consultant",
-    "PR Newswire",
-    "Pulse 2.0"
-   ],
-   "score": 2.82
-  },
-  {
-   "title": "Exein Raises $270 Million To Build the Security Layer for Physical AI",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMHZlRlFTVEpQT2tqTkczU1RVWEpRc1lNaXRsMFNBemQzNjJHQ3BtUFJ6QXJEMmdoeDdXZ0lNc2RLSGd3ZjFrd3VfeGxwNnYwVGNGV2xYdGRmM2thSUQtVXV4aE1XZDcxLTVfaVVQYk5sUGxJcVpfdktUZmMzeWxvUlBZVVRqb0o0cVpPX0daVi1ZNlktMTBWb9IBmAFBVV95cUxNMHZlRlFTVEpQT2tqTkczU1RVWEpRc1lNaXRsMFNBemQzNjJHQ3BtUFJ6QXJEMmdoeDdXZ0lNc2RLSGd3ZjFrd3VfeGxwNnYwVGNGV2xYdGRmM2thSUQtVXV4aE1XZDcxLTVfaVVQYk5sUGxJcVpfdktUZmMzeWxvUlBZVVRqb0o0cVpPX0daVi1ZNlktMTBWbw?oc=5",
-   "source": "Ventureburn",
-   "published": "2026-09-15T12:48:49+00:00",
-   "count": 3,
-   "sources": [
-    "PitchBook",
-    "Ventureburn",
-    "trendingtopics.eu"
-   ],
-   "score": 2.59
-  },
-  {
-   "title": "Hyundai Executive Says Boston Dynamics IPO Unlikely by 2027; Humanoid Robot Commercialization Still Years Away",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoeDd2eTBBX0ZTelZDVEtnd1BmekdITVRwVDkzcjZITzdyZldIMjdlZktnMVdrakQxTUc4OGtaTUw1X3doekNHclA1STU5eEJ4UjVIMm41b3AyaUJqTmJtdHRzcmN4UnN6RmFOR0NTajdSY1N5eGc?oc=5",
-   "source": "finance.biggo.com",
-   "published": "2026-09-14T10:32:14+00:00",
-   "count": 4,
-   "sources": [
-    "CNA",
-    "Reuters",
-    "TradingView",
-    "finance.biggo.com"
-   ],
-   "score": 2.4
+   "score": 2.85
   }
  ],
  "trend": {
   "dates": [
-   "2026-08-17",
    "2026-08-18",
    "2026-08-19",
    "2026-08-20",
@@ -492,14 +491,14 @@
    "2026-09-12",
    "2026-09-13",
    "2026-09-14",
-   "2026-09-15"
+   "2026-09-15",
+   "2026-09-16"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     38,
      34,
      42,
      38,
@@ -527,15 +526,15 @@
      20,
      5,
      7,
-     36,
-     53
+     37,
+     57,
+     36
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     22,
      36,
      31,
      38,
@@ -563,15 +562,15 @@
      25,
      3,
      16,
-     37,
-     38
+     38,
+     42,
+     40
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     6,
      1,
      20,
      6,
@@ -596,18 +595,18 @@
      6,
      7,
      1,
-     9,
+     10,
      1,
-     7,
-     7,
-     2
+     8,
+     8,
+     3,
+     5
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     41,
      51,
      72,
      53,
@@ -635,15 +634,15 @@
      34,
      8,
      11,
-     39,
-     38
+     40,
+     40,
+     29
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     29,
      28,
      27,
      32,
@@ -661,7 +660,7 @@
      17,
      10,
      26,
-     8,
+     9,
      8,
      8,
      12,
@@ -672,7 +671,8 @@
      2,
      6,
      18,
-     6
+     6,
+     19
     ]
    }
   ]
@@ -694,7 +694,7 @@
    "name": "GOOGLE LLC",
    "core": "GOOGLE",
    "patents": 275,
-   "news": 5
+   "news": 4
   },
   {
    "name": "HONDA MOTOR CO LTD",
@@ -706,7 +706,7 @@
    "name": "SAMSUNG ELECTRONICS CO LTD",
    "core": "SAMSUNG ELECTRONICS",
    "patents": 260,
-   "news": 9
+   "news": 8
   },
   {
    "name": "X DEV LLC",
@@ -718,7 +718,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 80
+   "news": 70
   },
   {
    "name": "QUALCOMM INC",
