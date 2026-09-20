@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-09-19T22:38:38.306336+00:00",
+ "updated_at": "2026-09-20T22:56:07.532348+00:00",
  "kpi": {
-  "articles_7d": 754,
-  "articles_prev_7d": 728,
-  "sources_7d": 381,
-  "articles_30d": 3337,
-  "total_articles": 8312,
+  "articles_7d": 749,
+  "articles_prev_7d": 735,
+  "sources_7d": 380,
+  "articles_30d": 3257,
+  "total_articles": 8357,
   "oldest_news": "1970-01-01"
  },
  "wordcloud": [
@@ -18,23 +18,27 @@
    46
   ],
   [
-   "agility",
+   "中国",
    34
   ],
   [
-   "raises",
-   33
+   "agility",
+   34
   ],
   [
    "launches",
    33
   ],
   [
-   "技術",
+   "工場",
    32
   ],
   [
-   "工場",
+   "技術",
+   31
+  ],
+  [
+   "raises",
    31
   ],
   [
@@ -42,31 +46,35 @@
    31
   ],
   [
-   "中国",
-   29
+   "画像",
+   25
   ],
   [
    "写真",
    25
   ],
   [
-   "画像",
-   25
-  ],
-  [
-   "実装",
-   23
-  ],
-  [
-   "platform",
-   23
-  ],
-  [
    "million",
    23
   ],
   [
-   "日本",
+   "factory",
+   23
+  ],
+  [
+   "unveils",
+   22
+  ],
+  [
+   "platform",
+   22
+  ],
+  [
+   "実装",
+   22
+  ],
+  [
+   "ubtech",
    22
   ],
   [
@@ -74,24 +82,12 @@
    21
   ],
   [
-   "unveils",
-   21
-  ],
-  [
-   "factory",
-   21
-  ],
-  [
-   "ubtech",
-   21
+   "world",
+   20
   ],
   [
    "活用",
    20
-  ],
-  [
-   "world",
-   19
   ],
   [
    "work",
@@ -102,15 +98,19 @@
    19
   ],
   [
+   "データ",
+   19
+  ],
+  [
+   "日本",
+   18
+  ],
+  [
    "exein",
    18
   ],
   [
-   "data",
-   17
-  ],
-  [
-   "データ",
+   "com",
    17
   ],
   [
@@ -118,27 +118,19 @@
    17
   ],
   [
-   "企業",
-   16
-  ],
-  [
    "GMO",
    16
   ],
   [
-   "com",
+   "build",
    16
   ],
   [
-   "製造",
+   "モデル",
    15
   ],
   [
-   "生産",
-   15
-  ],
-  [
-   "build",
+   "data",
    15
   ],
   [
@@ -150,39 +142,35 @@
    15
   ],
   [
-   "世界",
-   14
-  ],
-  [
-   "時代",
-   14
-  ],
-  [
-   "社会",
-   14
-  ],
-  [
-   "産業",
-   14
-  ],
-  [
-   "nvidia",
-   14
-  ],
-  [
    "industry",
    14
   ],
   [
+   "企業",
+   14
+  ],
+  [
+   "生産",
+   14
+  ],
+  [
+   "製造",
+   14
+  ],
+  [
+   "nvidia",
+   13
+  ],
+  [
+   "社会",
+   13
+  ],
+  [
+   "産業",
+   13
+  ],
+  [
    "実証",
-   14
-  ],
-  [
-   "モデル",
-   14
-  ],
-  [
-   "startup",
    13
   ],
   [
@@ -190,11 +178,15 @@
    13
   ],
   [
-   "secures",
+   "基盤",
    12
   ],
   [
-   "基盤",
+   "時代",
+   12
+  ],
+  [
+   "世界",
    12
   ],
   [
@@ -206,15 +198,19 @@
    12
   ],
   [
-   "global",
-   11
+   "figure",
+   12
   ],
   [
    "安全",
    11
   ],
   [
-   "公開",
+   "startup",
+   11
+  ],
+  [
+   "UBTECH",
    11
   ],
   [
@@ -226,15 +222,19 @@
    11
   ],
   [
-   "figure",
+   "secures",
    11
   ],
   [
-   "加速",
-   10
+   "global",
+   11
   ],
   [
-   "unitree",
+   "tesla",
+   11
+  ],
+  [
+   "gen",
    10
   ],
   [
@@ -242,69 +242,70 @@
    10
   ],
   [
-   "gen",
+   "billion",
    10
   ],
   [
-   "billion",
+   "日立",
    10
   ]
  ],
  "today_top5": [
   {
-   "title": "Collection policies | Intelligent Space Robots: Embodied AI and Cooperative Autonomy",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTblBxZVY0d19MVUxJeUF2eXhpREVxRWh6N1JpVnVxdVVXLVRMYnhoYUZ1QkxTTktMSFNLOVJUdWR2NFN1T0tNSzkzYVRlYlVhVXR5c3JwLXlTbGlLMl9yWjY5RWV2Zk02dmYxTm56Qnp0RXM?oc=5",
-   "source": "Nature",
-   "published": "2026-09-19T00:15:17+00:00",
+   "title": "【フィジカルAI開発競争が加速】産学が挑む“創薬と再生医療”ニッポンの勝ち筋は？",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHUXFPeEtJdUdfWUVwcnB4YnBlZVp5WFhpSkRDaTRxTWxCMUFMUUpaT0RjaUlvTFl2UVplcmpkRktXX3k4b3Z1RDFpa1FlQnZSLVV2NEhIYy1zT3BQQ0l3a3ZmTDcwUEhZMXBmdU5fSjktZw?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-09-20T13:33:14+00:00",
    "count": 2,
    "sources": [
-    "Nature"
+    "QAB 琉球朝日放送",
+    "テレ朝NEWS"
    ],
-   "score": 1.47
+   "score": 1.76
   },
   {
-   "title": "「100mを9秒32で走る人型ロボット」「26階建ての“AI養豚ビル”」…技術革新と安さで世界を席巻する中国 「強さの秘密は国内経済の“二重構造”にある」と大前研一氏分析（マネーポストWEB）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16SzhrYkRGRkhadnZHUlNjVHQ0M0pmSEZzMC1lSHRINHQzOVhVZWxERFJxOGNQeENMV0ZxaXEwWC1CblRBaUhudENEQUctMWlOTXVJMnByUkNwM1F5QlI4aVNwNmlNLVU0SUFZd0JTakdpeXB5V2hObjhlckxzWTg?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-09-19T22:16:55+00:00",
+   "title": "九州はシリコンに続いて「フィジカルAIランド」となるか(トウシル)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM2NRM01VY2ZyYlRmdklDRFZ4U0FzUmtwQXB1YTlHT21PUFNNZmFZd3hDZWNrZ0lEYnBDMkRVMzlyN0F4RzBOQ2E0ak12MlVHTXNIeVRTS2tDYzFINzVkSk9qd0N5UnV0VnRnbVg5SEgzYWRHeTlkdlI4S19ReTY1MFc3SGFVd0k?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "published": "2026-09-20T22:45:31+00:00",
    "count": 1,
    "sources": [
-    "Yahoo!ニュース"
+    "Yahoo!ファイナンス"
+   ],
+   "score": 1.0
+  },
+  {
+   "title": "Tesla's AI Chief: Robot Moves Are Remote-Controlled — For Now",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQY2Nla2duWDF1QzBjdlBuNE5ERkRicWw1SGNRVG1MOTdfUkpjaW1FcFlPMTR2ckpLYlNhVE5YUklCWmlzYUs2dXd1ZjdRN3dGSDhmYUxmY1A4dUJKNmVnWW0waE9maG8wYjExNXFaY2Y5R093RWd6MHZrZlUyckZHR0pxUU8xSktDQXNiLWVpRHhCeFlpS1hn?oc=5",
+   "source": "basenor.com",
+   "published": "2026-09-20T22:04:30+00:00",
+   "count": 1,
+   "sources": [
+    "basenor.com"
    ],
    "score": 0.99
   },
   {
-   "title": "Robot-Ready Cities Put a New Price Tag on Korea’s Physical AI Ambitions",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVEotdW4yX0wtWENDcEEyNzFheVNqeEpRMGx1dTh4d1NETmRCbGFsdUxlS1pudUplTE12RlF3Ni13aVlaT0tPZDZlREFsbVZMT3Y2YjlMbG9uTkI1TGpiNFg5UG0yQ1lmcmRWUVZWbzQ0cWlLbktiTFozVFVfUUJ5bA?oc=5",
-   "source": "KoreaTechDesk",
-   "published": "2026-09-19T22:13:52+00:00",
+   "title": "中国が進める人型ロボットの軍事化計画 5〜10年後には実用化の恐れも",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05b1dPMktPVHBlZm5Kc2NGQjY1aExPSEpEOV9oaFlQczJDYnB3MmptbzdrUVJQWkxrTlA5aHNzR1ZNVVdnM0luLTZxNG1xR1VxZU5z?oc=5",
+   "source": "クーリエ・ジャポン",
+   "published": "2026-09-20T21:40:32+00:00",
    "count": 1,
    "sources": [
-    "KoreaTechDesk"
+    "クーリエ・ジャポン"
    ],
-   "score": 0.99
+   "score": 0.98
   },
   {
-   "title": "3 American Humanoid Robot Companies To Invest In: RoboStrategy CEO",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQ1ZiQnVkdU83a0xQSk5JSVZWYUE5dmd0VlhoVnh3azd5LUFkaHoxWXhCUEItRldkVzRaclN5NGNjT1NoVVAyeTZtLTlWM2NiOWh0LTZ5cWZVUFZhNXVYNHpDUldNMHZFT2lUNTI5YUJEeml5M2RVdGhKUzQ1UVlObEowWDBDUGs0Z19xVl9HNWFVaGFIeUFLNW5XR1p0amJmR3hMcjlaaEpYdnhmb2dqTTNwSWcyOHVudmxV?oc=5",
-   "source": "Forbes",
-   "published": "2026-09-19T20:47:40+00:00",
+   "title": "Humanoid Robot NdFeB Magnet Supply China vs US 2026",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmYlI0bXhyLWxxTjNSc2lHVjhFSFdoVHhxSkZZUGlTUnpKRi0xZENqLThqbElrM3ltZHMxX1g1clhyMFF2cVA0VEVJdzdYT0E2bXN6ZURyRmVsbDRWb1d4T0U2TmJ4NENMeGYwbG9Ha3BSbEtKNHNxN0VFbFpCZw?oc=5",
+   "source": "Rare Earth Exchanges",
+   "published": "2026-09-20T21:18:35+00:00",
    "count": 1,
    "sources": [
-    "Forbes"
+    "Rare Earth Exchanges"
    ],
-   "score": 0.97
-  },
-  {
-   "title": "Barclays pours cold water: General-purpose humanoid robots won't scale until around 2035; first wave of gains may belong to specialized robots",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5TZVNzd1FiN2VqN1lMUXQ1MWNMVzloZ0JwX3hxeFlFZ09tTFFMYTl2YWpkMDBxYzB4ZkFSUmlGeFFZQTFuamszQzBfQ1Jfa09ja3Z3cjVUV01ZMW91WHJPWGNoRWZ4cjE0LW5vc2VaNDIzWUZma1E?oc=5",
-   "source": "finance.biggo.com",
-   "published": "2026-09-19T18:07:00+00:00",
-   "count": 1,
-   "sources": [
-    "finance.biggo.com"
-   ],
-   "score": 0.94
+   "score": 0.98
   }
  ],
  "hot_news": [
@@ -321,21 +322,33 @@
     "audioXpress",
     "theaiinsider.tech"
    ],
-   "score": 3.9
+   "score": 2.78
   },
   {
    "title": "中国UBTECH、10分に1台・ロボットがロボットを作る工場を稼働 (ビジネス＋IT)",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOXRMV0l0NHdETklORVRqQWJJN2l0WU5KU3RmTVgzVnpTc0RXR01JZEUtbjA0UlBlblJBSHZEVjhYM1ZFWURDaEhJc1RnRnVYMmJiajI0UW01MHhSM05tLVNzMVFydDFvOHkzRlVSM0VpYlFhVnozVXpCbFdSc2F0dFRIbmhUaUVhSkg0M0V3?oc=5",
    "source": "Yahoo!ニュース",
    "published": "2026-09-18T14:10:06+00:00",
-   "count": 5,
+   "count": 6,
    "sources": [
     "36Kr Japan",
     "BigGo ファイナンス",
     "Yahoo!ニュース",
     "디지털투데이"
    ],
-   "score": 3.18
+   "score": 2.73
+  },
+  {
+   "title": "米Figure AIが人型ロボットのAI頭脳「Helix 2.5」を発表、初めての家30軒で家事を完遂（ビジネス＋IT）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtelRqd2VMU2NyVmFsVkZHYmdVX0w0enVxMUtJdHpuMjNoZXEyeDFUcnpGckR6U2tyLUQtajVMSWd0OGNwT1I2NjJVbTZuQk5zdS1LaFNSOE42azVwLUwzamJiTHphZUtvaFhZT2ZILTIyRXc3NkFuZ3B5dXdJV1E?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-09-20T06:30:06+00:00",
+   "count": 3,
+   "sources": [
+    "Yahoo!ニュース",
+    "ロボスタ"
+   ],
+   "score": 2.39
   },
   {
    "title": "人と密接に連携して作業するヒューマノイド…Agility Robotics『Digit 5』発表",
@@ -351,7 +364,7 @@
     "ロボスタ",
     "디지털투데이"
    ],
-   "score": 2.63
+   "score": 1.88
   },
   {
    "title": "ダイセル、フィジカルＡＩ実証開始 工場巡回・点検",
@@ -365,7 +378,19 @@
     "化学工業日報 電子版",
     "日本経済新聞"
    ],
-   "score": 2.48
+   "score": 1.77
+  },
+  {
+   "title": "【フィジカルAI開発競争が加速】産学が挑む“創薬と再生医療”ニッポンの勝ち筋は？",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHUXFPeEtJdUdfWUVwcnB4YnBlZVp5WFhpSkRDaTRxTWxCMUFMUUpaT0RjaUlvTFl2UVplcmpkRktXX3k4b3Z1RDFpa1FlQnZSLVV2NEhIYy1zT3BQQ0l3a3ZmTDcwUEhZMXBmdU5fSjktZw?oc=5",
+   "source": "テレ朝NEWS",
+   "published": "2026-09-20T13:33:14+00:00",
+   "count": 2,
+   "sources": [
+    "QAB 琉球朝日放送",
+    "テレ朝NEWS"
+   ],
+   "score": 1.76
   },
   {
    "title": "お知らせ｜【ロボスタ】国産汎用ロボット7社の試作機を一堂に公開、フィジカルAI実装へ前進 ugoは新型セミヒューマノイド「ugo Nova」を初披露について掲載",
@@ -377,7 +402,7 @@
     "ugo.plus",
     "ロボスタ"
    ],
-   "score": 2.46
+   "score": 1.76
   },
   {
    "title": "日立、社会インフラでフィジカルAIを安全に運用するためのガードレール技術を開発",
@@ -393,7 +418,7 @@
     "ロボスタ",
     "株式会社インプレス"
    ],
-   "score": 2.46
+   "score": 1.75
   },
   {
    "title": "住友電装とエクサウィザーズ、フィジカルAIで生産現場向けAIエージェント共同開発",
@@ -407,7 +432,7 @@
     "レスポンス（Response.jp）",
     "日本経済新聞"
    ],
-   "score": 2.35
+   "score": 1.67
   },
   {
    "title": "Collection policies | Intelligent Space Robots: Embodied AI and Cooperative Autonomy",
@@ -419,38 +444,11 @@
     "Nature",
     "nature.com"
    ],
-   "score": 2.2
-  },
-  {
-   "title": "Vantora Raises $100M to Build Physical AI Startups",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQeThwNWVSS1MxczczdmJOem0zM0NldENjeDFBNzhaMXBoWkU2Yl9iSnRGV3ZQSk9YZ2VNVC0tTkg0cTlBZENfMjF6QkJhX1hkU2lnZ2lNWDNSSEU1bER1Q0F0NVRPcXhkQnBLek9sZk1GNGNvQ0dQNzVsNHdlWWlGUXBFZ1VfRzhUc0E?oc=5",
-   "source": "The Tech Buzz",
-   "published": "2026-09-18T23:36:00+00:00",
-   "count": 3,
-   "sources": [
-    "PitchBook",
-    "Resilience Media",
-    "The Tech Buzz"
-   ],
-   "score": 2.18
-  },
-  {
-   "title": "「世界人型ロボット運動会」で得たデータを活用へ…Zoomlionのヒューマノイド 1枚目の写真・画像",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa3EzdGl5Z0RTNnFHX2NhUDhyT1RjUHQxU1liX09jUnRsTjdTS2g0Y1BIQVhmazJ5by00bHFEYUt5S1VjRzFfQW1iRFNBUDBTTWk3dWJCbHpCUWhsajNMaEFSLWNHT3luYmE2MUZHek9sekZnQkRvUXlBZTI4eXM3Zks5UFJ6SDl5M3FYdTBvQ28?oc=5",
-   "source": "レスポンス（Response.jp）",
-   "published": "2026-09-18T01:00:03+00:00",
-   "count": 4,
-   "sources": [
-    "au Webポータル",
-    "レスポンス（Response.jp）",
-    "ロボスタ"
-   ],
-   "score": 2.12
+   "score": 1.57
   }
  ],
  "trend": {
   "dates": [
-   "2026-08-21",
    "2026-08-22",
    "2026-08-23",
    "2026-08-24",
@@ -479,18 +477,18 @@
    "2026-09-16",
    "2026-09-17",
    "2026-09-18",
-   "2026-09-19"
+   "2026-09-19",
+   "2026-09-20"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     20,
      10,
      3,
      46,
-     49,
+     50,
      49,
      49,
      26,
@@ -506,23 +504,23 @@
      26,
      52,
      44,
-     52,
+     53,
      20,
      5,
      7,
      37,
      57,
      40,
-     46,
+     47,
      37,
-     5
+     6,
+     4
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     17,
      3,
      7,
      40,
@@ -547,18 +545,18 @@
      3,
      16,
      38,
+     45,
      44,
-     44,
-     40,
+     41,
      29,
-     6
+     7,
+     7
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     16,
      1,
      3,
      25,
@@ -587,14 +585,14 @@
      5,
      7,
      15,
-     4
+     7,
+     2
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     52,
      48,
      57,
      60,
@@ -623,14 +621,14 @@
      36,
      23,
      30,
-     8
+     8,
+     13
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     21,
      15,
      21,
      35,
@@ -644,7 +642,7 @@
      17,
      10,
      26,
-     9,
+     10,
      8,
      8,
      12,
@@ -657,9 +655,10 @@
      21,
      6,
      21,
-     14,
-     17,
-     4
+     15,
+     18,
+     4,
+     6
     ]
    }
   ]
@@ -705,7 +704,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 58
+   "news": 57
   },
   {
    "name": "QUALCOMM INC",
