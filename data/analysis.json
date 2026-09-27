@@ -1,64 +1,68 @@
 {
- "updated_at": "2026-09-26T23:21:57.902197+00:00",
+ "updated_at": "2026-09-27T23:35:48.363137+00:00",
  "kpi": {
-  "articles_7d": 611,
-  "articles_prev_7d": 776,
-  "sources_7d": 348,
-  "articles_30d": 3026,
-  "total_articles": 8952,
+  "articles_7d": 607,
+  "articles_prev_7d": 772,
+  "sources_7d": 340,
+  "articles_30d": 2949,
+  "total_articles": 8992,
   "oldest_news": "1970-01-01"
  },
  "wordcloud": [
   [
    "china",
-   46
-  ],
-  [
-   "中国",
-   27
-  ],
-  [
-   "data",
-   26
+   42
   ],
   [
    "nvidia",
-   25
+   27
+  ],
+  [
+   "中国",
+   24
+  ],
+  [
+   "data",
+   23
   ],
   [
    "世界",
-   22
-  ],
-  [
-   "開発",
-   21
+   23
   ],
   [
    "tesla",
-   20
+   21
   ],
   [
    "日本",
-   19
+   21
   ],
   [
-   "global",
-   17
+   "開発",
+   18
   ],
   [
    "活用",
-   17
+   18
   ],
   [
-   "データ",
+   "研究",
    16
   ],
   [
-   "com",
+   "global",
    15
   ],
   [
    "製造",
+   15
+  ],
+  [
+   "launches",
+   14
+  ],
+  [
+   "com",
    14
   ],
   [
@@ -66,40 +70,20 @@
    14
   ],
   [
-   "研究",
+   "データ",
    14
-  ],
-  [
-   "production",
-   13
   ],
   [
    "hyundai",
    13
   ],
   [
-   "launches",
+   "技術",
    13
   ],
   [
-   "競争",
-   12
-  ],
-  [
-   "市場",
-   12
-  ],
-  [
-   "韓国",
-   12
-  ],
-  [
-   "技術",
-   12
-  ],
-  [
-   "world",
-   12
+   "production",
+   13
   ],
   [
    "unveils",
@@ -118,15 +102,7 @@
    12
   ],
   [
-   "japan",
-   11
-  ],
-  [
-   "加速",
-   11
-  ],
-  [
-   "fight",
+   "韓国",
    11
   ],
   [
@@ -134,27 +110,19 @@
    11
   ],
   [
-   "企業",
-   10
+   "optimus",
+   11
   ],
   [
-   "report",
-   10
-  ],
-  [
-   "cage",
-   10
-  ],
-  [
-   "unitree",
-   10
-  ],
-  [
-   "toyota",
-   10
+   "産業",
+   11
   ],
   [
    "push",
+   10
+  ],
+  [
+   "基盤",
    10
   ],
   [
@@ -162,11 +130,23 @@
    10
   ],
   [
+   "fight",
+   10
+  ],
+  [
    "ipos",
    10
   ],
   [
-   "optimus",
+   "world",
+   10
+  ],
+  [
+   "市場",
+   10
+  ],
+  [
+   "million",
    10
   ],
   [
@@ -174,23 +154,15 @@
    10
   ],
   [
-   "industrial",
-   9
+   "現場",
+   10
   ],
   [
-   "産業",
-   9
+   "実装",
+   10
   ],
   [
-   "opens",
-   9
-  ],
-  [
-   "stock",
-   9
-  ],
-  [
-   "dynamics",
+   "japan",
    9
   ],
   [
@@ -198,11 +170,11 @@
    9
   ],
   [
-   "基盤",
+   "report",
    9
   ],
   [
-   "現場",
+   "unitree",
    9
   ],
   [
@@ -210,7 +182,11 @@
    9
   ],
   [
-   "million",
+   "cage",
+   9
+  ],
+  [
+   "企業",
    9
   ],
   [
@@ -218,24 +194,8 @@
    9
   ],
   [
-   "知能",
-   8
-  ],
-  [
-   "半導体",
-   8
-  ],
-  [
-   "news",
-   8
-  ],
-  [
-   "ビジネス",
-   8
-  ],
-  [
-   "工場",
-   8
+   "時代",
+   9
   ],
   [
    "advance",
@@ -248,66 +208,144 @@
   [
    "across",
    8
+  ],
+  [
+   "manufacturing",
+   8
+  ],
+  [
+   "opens",
+   8
+  ],
+  [
+   "industrial",
+   8
+  ],
+  [
+   "dynamics",
+   8
+  ],
+  [
+   "stock",
+   8
+  ],
+  [
+   "toyota",
+   8
+  ],
+  [
+   "写真",
+   8
+  ],
+  [
+   "工場",
+   8
+  ],
+  [
+   "警備",
+   8
+  ],
+  [
+   "画像",
+   8
   ]
  ],
  "today_top5": [
   {
-   "title": "Humanoid Robots' Designs Reflect Diverse Functional Roles",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVmFZejJZRnA1NktrR3lhcGhZeFM5Y2V0bUxmUTNxd0hoSzRUSkpZeFJpd0dXclZ0T1MwTkhrSXVuQUxhRFVfcTZUaUphMHNnSU0tUnJuRnhvcWtpRTVYQkwxMzFDal9tRmV6Vjg0RXh1Z1hsY1JsMUZwb1JfRzRoMkRoLTktTDU2?oc=5",
-   "source": "조선일보",
-   "published": "2026-09-26T22:04:57+00:00",
+   "title": "フィジカルAI時代を見据え、NTTドコビジがNaaS基盤を強化 数万台のIoTデバイスをセキュアに管理（アスキー）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XNDJMUGhKMlBkTWRETDRkcU8xc29Ha2JzYkY1U01KVkppSGd2RThZUDhsV21GUFU5NkFrX1hpQnYyeWV6Wll2dHRMQ3FFbldoVlpPVFNwOUNkTVNZZGRWaDhBUXQzTnF5TjV6eFM5WTVYdGdCT3ZrUzlHTjhQZms?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-09-27T22:36:10+00:00",
+   "count": 2,
+   "sources": [
+    "ASCII.jp",
+    "Yahoo!ニュース"
+   ],
+   "score": 1.97
+  },
+  {
+   "title": "ダイナミックマッププラットフォーム、Voxel51主催イベントに登壇 実世界データを活用したフィジカルAI向けシミュレーション・合成データ生成事例を紹介",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1Rm1MTmFEYVZVZXpScUpDUldScXl3b0dpZEYwanhiRm1FY0dyX0NvcWE4S2dZMDVnYXNMOGpKS2xCMUloNm8wN05UZ2p2VEdNaHRxTy1nN1BHdHROYWlESHZaVnY0WTFxaXc?oc=5",
+   "source": "PR TIMES",
+   "published": "2026-09-27T23:30:01+00:00",
    "count": 1,
    "sources": [
-    "조선일보"
+    "PR TIMES"
+   ],
+   "score": 1.0
+  },
+  {
+   "title": "書籍『フィジカルAI進化論』（SBクリエイティブ）Amazon予約開始のお知らせ （株式会社d-strategy,inc）",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PVnBla3JrYkFnVFFDdGozYW9PTnBCRWY4RjJnR2NIUTFuTjFZZGdwWUJ2US1TNjZCdEVzZ1dHOGREOHVHeDE3TlU4T2hsRFdIS2NEenlnU2tYdlRacHRlTVVEUnFabFZQT2c?oc=5",
+   "source": "PR TIMES",
+   "published": "2026-09-27T22:57:40+00:00",
+   "count": 1,
+   "sources": [
+    "PR TIMES"
+   ],
+   "score": 0.99
+  },
+  {
+   "title": "Solid-State Batteries' First Test Bed Is Humanoid Robots, Not EVs",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoSWt1UjdNNGxhX2tCcWVpS1JraWdmRGJGM0RZVVE1eS1paHBHcTZfcnZtWXRXcGgtWmJWU1c0NEZReFRwb1NkLXlTR01tOEdiYXFxN3lCOFJHb2F5b0ZJT1RaQlFpb3FYWlJUeXVpX2NXZjlaOFE?oc=5",
+   "source": "finance.biggo.com",
+   "published": "2026-09-27T22:25:00+00:00",
+   "count": 1,
+   "sources": [
+    "finance.biggo.com"
    ],
    "score": 0.98
   },
   {
-   "title": "China rolls out AI ‘classrooms’ to fuel humanoid robot boom",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQWkzWEpud1VldE44QmJKSHN3TjlGeHplTXhIcTRUMmJCc2h5cFh4YWZiaWhWX2l5WExySTlpSjI3ei1lckQxZ3VYMFNLbUpBYkszR19sYjdYTHZiMVNmRmNTZVRMNFlCR2RDelc2OUd3ZEhFTFVlUl9aWWpIYUVIc3BsRU5wOUJ2c0Y3Q280Y3lxWTN1ZWptS0NENngwQUxQ?oc=5",
-   "source": "Borneo Post",
-   "published": "2026-09-26T22:01:06+00:00",
+   "title": "Hyundai Rotem Targets Europe With AI-Driven Hydrogen Tram",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTHcyaVc5T0djYkFST2NkdENlSzRITmQ0bFZET3pGWXRvS1dPdzRIZ3R1ZEhwQ1ZvVDBBSThpeUlmRkFnVGRhTHR4djFPM2hGaFZLcF9mRW1lVW5uOEVybUhOaG5uWlhyeDRFaEl2dGFSSzRIRVBsWklrb1F5THlCeUxPQ0JrbXZGRzJhLXVvUXlvR3NjLXNUSDlVTmxuN08x?oc=5",
+   "source": "Seoul Economic Daily",
+   "published": "2026-09-27T22:00:05+00:00",
    "count": 1,
    "sources": [
-    "Borneo Post"
+    "Seoul Economic Daily"
    ],
    "score": 0.98
-  },
-  {
-   "title": "フィジカルAI時代の申し子､｢ヒト型ロボット｣関連16銘柄",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0RVdneW5lcG1xQ09jQ2NhcGZkYTdiUzBrSlhOODlMczVXdUVfNnI1b205MXpQSDVMWDBCYl9fTC1FWDB3ZmFObng3VDNUNkRsRVNQOE8wMA?oc=5",
-   "source": "四季報オンライン",
-   "published": "2026-09-26T22:00:00+00:00",
-   "count": 1,
-   "sources": [
-    "四季報オンライン"
-   ],
-   "score": 0.98
-  },
-  {
-   "title": "日本のフィジカルAIのレベルが数段階上がった！フィジカルAIセミナーのセッションをシミュレーションして見えた技術のディテール【勉強資料】：経営者が読むNVIDIAのフィジカルAI / ADAS業界日報 by 今泉大輔",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51aUxKT1NIelIyZFRta1dKYTJLWV9vVzM1U3lUYndvMm9LcDVjZVc4eTBjRVFER1I4SVVJMC10WTVmS1AwLWUwRHF3UjkycWJYMk9VLTZBSDl0d1JqS0IxYzB1V1I?oc=5",
-   "source": "オルタナティブ・ブログ",
-   "published": "2026-09-26T21:48:24+00:00",
-   "count": 1,
-   "sources": [
-    "オルタナティブ・ブログ"
-   ],
-   "score": 0.98
-  },
-  {
-   "title": "Robot makers race to secure humanoid training data in US, China and Korea - CHOSUNBIZ",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOTRfN2k2TzY1QWtmYlI0b09QZFJ6NHBZSlVFc2pFeFJMaDdRNE55UlA3NW1rUHBvN3E4MHB3VHlOSHc3eVFhSTJTeTZwMTNtUGczMTkxUlFFbjF4aFNfbUc1aWJfSGVGN1hQOUVHUG5WdWplb3FPaGhqMUJ6Mk1vd0pB0gGWAUFVX3lxTE1rbnYwSmdKYlRsVG9wN1dOVkVqTzJGNTY2VHFrZUItdVpMV2hsN29kQ2pPd2xvU1N0NjJ0U1ppOTBuMmp2OTB6YlZiRDRWNnJRczFIWEJKdkluZ2VGM01jaHpCcldIcFNIeERjazJuOUp3TUdaYi1CNUZidF9Vd2ZEYkR6aGNqeEk4RTRxbGN6aERCbzNWdw?oc=5",
-   "source": "Chosunbiz",
-   "published": "2026-09-26T21:01:00+00:00",
-   "count": 1,
-   "sources": [
-    "Chosunbiz"
-   ],
-   "score": 0.97
   }
  ],
  "hot_news": [
+  {
+   "title": "ヒューマノイドCruzr S2が音声指示で荷物搬送…北陸技術交流テクノフェア2026で実演予定",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLS2JwN1oyNGYxNDlIUHd4OXRDSE4xLTM0MEZ3aDZaR1FFZU45OXVWRDIwSm92SkdMRmJDS1RCQ3ZqSFF5dHdPVFFORG9NSWtfdDYwRk9rNVdxUHlJS1FOZ2hB?oc=5",
+   "source": "レスポンス（Response.jp）",
+   "published": "2026-09-27T08:00:03+00:00",
+   "count": 4,
+   "sources": [
+    "Infoseek",
+    "レスポンス（Response.jp）",
+    "ロボスタ"
+   ],
+   "score": 3.22
+  },
+  {
+   "title": "フィジカルAI時代を見据え、NTTドコビジがNaaS基盤を強化 数万台のIoTデバイスをセキュアに管理（アスキー）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5XNDJMUGhKMlBkTWRETDRkcU8xc29Ha2JzYkY1U01KVkppSGd2RThZUDhsV21GUFU5NkFrX1hpQnYyeWV6Wll2dHRMQ3FFbldoVlpPVFNwOUNkTVNZZGRWaDhBUXQzTnF5TjV6eFM5WTVYdGdCT3ZrUzlHTjhQZms?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-09-27T22:36:10+00:00",
+   "count": 2,
+   "sources": [
+    "ASCII.jp",
+    "Yahoo!ニュース"
+   ],
+   "score": 1.97
+  },
+  {
+   "title": "【現地取材】日本スタートアップ大賞獲得のMujin・滝野CEO、フィジカルAIで物流現場の変革に自信 - LOGI-BIZ online",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5YenNULUl0aHNGR2JCU2tXenkzMDg3QkQyWlIyYmkxT3V1cW5iVjctS1FjWXdFSWVVRy1rTTlsMlRNUUUyc3hneUtGWQ?oc=5",
+   "source": "LOGI-BIZ online",
+   "published": "2026-09-27T21:00:54+00:00",
+   "count": 2,
+   "sources": [
+    "LOGI-BIZ online",
+    "物流ニュースのLNEWS"
+   ],
+   "score": 1.93
+  },
   {
    "title": "人型ロボの防衛活用研究へ 政府が検討 ＡＩ搭載、基地警備や輸送 省人化進める狙い",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WVDh5RmRYTl81ekZSWkdOMkJuQXdNQlFydHZYRk5XQWdvZGlPNnJQTnlZLTd6dEl2T0FRNFhhSVlVUUlhc2dhdFExeGhwOVczUXBiUVU1U09abkU?oc=5",
@@ -322,7 +360,35 @@
     "山陰中央新報デジタル",
     "新潟日報"
    ],
-   "score": 2.23
+   "score": 1.59
+  },
+  {
+   "title": "アングル：中国、人型ロボットのＩＰＯブーム抑制 収益の持続性精査",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vbXhTMzRLMkZwVDg0ZU9IamhnR0lfYktFRmpUd1hUYXBUUmtDOHdKbllYZDJQMXIyR3kzeVJEZ2R3VDJCb2pBTDE2bUVzUGRVZ3FvWEdsYlJyUQ?oc=5",
+   "source": "ニューズウィーク日本版",
+   "published": "2026-09-25T23:06:46+00:00",
+   "count": 3,
+   "sources": [
+    "Reuters",
+    "Yahoo!ニュース",
+    "ニューズウィーク日本版"
+   ],
+   "score": 1.53
+  },
+  {
+   "title": "NVIDIA Brings AI Agents to Robotics With Isaac ROS 5.0",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQck43aFBfNmZIYTZiY0E1QXJ2SzM0Rm54NS03dEkxbmpMTklKQUR0cU1rVHdaaVBuWEFGcFdVVlR4N2NxdWR5cHBEUmp5UFhpX0pfX0tXWVVmZHFPVV9VbWpXNDdKcmlxWFZacmNfVXpkOVJCUU1MZVJ3RmFpMm1XcG1Od2t2QTg?oc=5",
+   "source": "TechRepublic",
+   "published": "2026-09-24T09:47:29+00:00",
+   "count": 5,
+   "sources": [
+    "IoT News",
+    "TechRepublic",
+    "The Tech Buzz",
+    "Unite.AI",
+    "blogs.nvidia.com"
+   ],
+   "score": 1.52
   },
   {
    "title": "KT, SK Telecom tap Samsung for AI-RAN projects - fierce-network.com",
@@ -335,7 +401,7 @@
     "Samsung Global Newsroom",
     "fierce-network.com"
    ],
-   "score": 1.97
+   "score": 1.41
   },
   {
    "title": "China rolls out AI ‘classrooms’ to fuel humanoid robot boom",
@@ -347,7 +413,18 @@
     "Borneo Post",
     "Macau Business"
    ],
-   "score": 1.96
+   "score": 1.4
+  },
+  {
+   "title": "日本のフィジカルAIのレベルが数段階上がった！フィジカルAIセミナーのセッションをシミュレーションして見えた技術のディテール【勉強資料】：経営者が読むNVIDIAのフィジカルAI / ADAS業界日報 by 今泉大輔",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51aUxKT1NIelIyZFRta1dKYTJLWV9vVzM1U3lUYndvMm9LcDVjZVc4eTBjRVFER1I4SVVJMC10WTVmS1AwLWUwRHF3UjkycWJYMk9VLTZBSDl0d1JqS0IxYzB1V1I?oc=5",
+   "source": "オルタナティブ・ブログ",
+   "published": "2026-09-26T21:48:24+00:00",
+   "count": 2,
+   "sources": [
+    "オルタナティブ・ブログ"
+   ],
+   "score": 1.4
   },
   {
    "title": "Echelon & Applied Intuition Partner on Physical AI in Saudi Arabia",
@@ -362,89 +439,11 @@
     "The Joplin Globe",
     "enidnews.com"
    ],
-   "score": 1.94
-  },
-  {
-   "title": "お知らせ｜【ロボスタ】「フィジカルAI時代に最適なロボット」とは何か ugo新型セミヒューマノイド「Nova」と開発・運用基盤が誕生した理由について掲載",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBrLXVBRUhfaEtJbk81QWZhTkRTcWZ0dzdaSG10bFpWT0hkUWYza1pMNURfM2ZoYmVVSUgxeEtCcWM0aUZGZjF1Uzk0NkxpcVNLWU03WEdETEZINWpQbzJVeWdpdw?oc=5",
-   "source": "ugo.plus",
-   "published": "2026-09-25T05:29:56+00:00",
-   "count": 3,
-   "sources": [
-    "ugo.plus",
-    "ロボスタ"
-   ],
-   "score": 1.68
-  },
-  {
-   "title": "アングル：中国、人型ロボットのＩＰＯブーム抑制 収益の持続性精査",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vbXhTMzRLMkZwVDg0ZU9IamhnR0lfYktFRmpUd1hUYXBUUmtDOHdKbllYZDJQMXIyR3kzeVJEZ2R3VDJCb2pBTDE2bUVzUGRVZ3FvWEdsYlJyUQ?oc=5",
-   "source": "ニューズウィーク日本版",
-   "published": "2026-09-25T23:06:46+00:00",
-   "count": 2,
-   "sources": [
-    "Yahoo!ニュース",
-    "ニューズウィーク日本版"
-   ],
-   "score": 1.43
-  },
-  {
-   "title": "セキュアなフィジカルAI活用を支える環境を「docomo business SIGN(R)」で実現 ～MECと「GPUaaS」を直結し、１GPU単位から利用できるソブリンAI環境を提供～",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1meXpxUlBPMU5fV0FjU2F5RWNySXhoZFJMMzh2WURJR1JtVHJVSGZlejBGdmNCeF96cGVqaFNWZnB3MHJpUHRITlB2cjRONWZMOEZFNXJXd19KT0Y5X3VZ?oc=5",
-   "source": "千葉テレビ放送",
-   "published": "2026-09-24T17:40:57+00:00",
-   "count": 3,
-   "sources": [
-    "NTTドコモビジネス",
-    "atpress.ne.jp",
-    "千葉テレビ放送"
-   ],
-   "score": 1.42
-  },
-  {
-   "title": "Cognex to acquire RealSense for $500 million in major expansion into robotic perception and physical AI",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYXlkcTNkUTJBdXdQWGVwUmRRYTVuMEhTMGRZb3NmcFNabjRBQ1ZocUltSGE5bkppM2pZNWk0REgzeUhXMHUtMnRlc0I3YzNQbXR0UUw1VlVOUFA0Y1lreHdXeEFxUU0yd2JLUkxCOWhPR1F3NFBuSlVpNVJ1QlhKa3d6WWNRMTZtUTJWaHFoNFhodlVHY1dCSHJMdlIxVTc2SDUtYU1FTlgyY1dRLW02RjVQWTN6UFFHN3VydklMYWlieXk1dXJWUjlKOUpSbmJEMk5OUzBqZjNIWnpzbUZxSGVLV2NmS2lNQ2IyQnU2bHA?oc=5",
-   "source": "Robotics & Automation News",
-   "published": "2026-09-23T18:37:31+00:00",
-   "count": 4,
-   "sources": [
-    "Pulse 2.0",
-    "Robotics & Automation News",
-    "The Jerusalem Post"
-   ],
    "score": 1.38
-  },
-  {
-   "title": "Global humanoid robot sales reach 7,000 units in 2025",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdzk5dWdSb3VaWW1DSFB5VFdJYWNFMzY5eVVrYmtUaWhCUW9KM2NlT0tsbVo5UmlmNTU4RWlpc3lhRldpaDU0eXVwUnhBMld3QU5TUXpsa29FZ2djOGstbmtQYjFuNjk2am5OeXJXWk5CZjdSVG1RNGp6emdGeHY2WERCRi1mb0FLTkNJOFJEa3dMWTlBOHBxcldn?oc=5",
-   "source": "IDNFinancials",
-   "published": "2026-09-23T01:20:00+00:00",
-   "count": 5,
-   "sources": [
-    "IDNFinancials",
-    "Investing.com",
-    "New Electronics",
-    "TNGlobal",
-    "Yahoo Finance"
-   ],
-   "score": 1.35
-  },
-  {
-   "title": "UBTECHヒューマノイドCruzr S2が音声指示で荷物搬送 GA Roboticsが北陸技術交流テクノフェア2026で実演予定",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5sblJTeHc0V2F3TFdtZnVTWUx5MTg5OHNWQ2U0SFFnWlBpZFNILTFzOHR1M05aWmFoYTBjQk1WaEhNTHJoZkw2YUFPZWd0R1JwRVpXVlpUN1drMUlWZHNUOC1TUDE?oc=5",
-   "source": "ロボスタ",
-   "published": "2026-09-24T09:00:03+00:00",
-   "count": 3,
-   "sources": [
-    "Infoseek",
-    "ロボスタ"
-   ],
-   "score": 1.26
   }
  ],
  "trend": {
   "dates": [
-   "2026-08-28",
    "2026-08-29",
    "2026-08-30",
    "2026-08-31",
@@ -473,14 +472,14 @@
    "2026-09-23",
    "2026-09-24",
    "2026-09-25",
-   "2026-09-26"
+   "2026-09-26",
+   "2026-09-27"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     26,
      9,
      9,
      46,
@@ -507,16 +506,16 @@
      45,
      48,
      52,
-     22,
-     19,
-     7
+     23,
+     20,
+     7,
+     5
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     28,
      16,
      34,
      45,
@@ -545,14 +544,14 @@
      17,
      37,
      26,
-     7
+     9,
+     11
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     9,
      2,
      2,
      4,
@@ -574,21 +573,21 @@
      5,
      8,
      15,
-     7,
+     8,
      3,
      7,
      9,
      8,
      10,
      0,
-     2
+     2,
+     0
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     32,
      11,
      24,
      31,
@@ -614,17 +613,17 @@
      15,
      50,
      38,
-     25,
+     27,
      18,
-     14,
-     10
+     16,
+     12,
+     7
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     21,
      8,
      13,
      46,
@@ -652,8 +651,9 @@
      31,
      12,
      21,
-     8,
-     4
+     9,
+     6,
+     3
     ]
    }
   ]
@@ -663,13 +663,13 @@
    "name": "INTEL CORP",
    "core": "INTEL",
    "patents": 1051,
-   "news": 3
+   "news": 4
   },
   {
    "name": "BOSCH GMBH ROBERT",
    "core": "BOSCH GMBH ROBERT",
    "patents": 533,
-   "news": 1
+   "news": 0
   },
   {
    "name": "GOOGLE LLC",
@@ -699,7 +699,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 59
+   "news": 58
   },
   {
    "name": "QUALCOMM INC",
