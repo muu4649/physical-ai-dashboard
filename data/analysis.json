@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-09-29T00:48:16.925067+00:00",
+ "updated_at": "2026-09-30T00:02:43.803065+00:00",
  "kpi": {
-  "articles_7d": 608,
-  "articles_prev_7d": 751,
+  "articles_7d": 619,
+  "articles_prev_7d": 746,
   "sources_7d": 342,
-  "articles_30d": 3028,
-  "total_articles": 9121,
+  "articles_30d": 3106,
+  "total_articles": 9274,
   "oldest_news": "1970-01-01"
  },
  "wordcloud": [
@@ -14,123 +14,139 @@
    36
   ],
   [
-   "nvidia",
+   "開発",
    30
+  ],
+  [
+   "nvidia",
+   29
+  ],
+  [
+   "raises",
+   29
   ],
   [
    "日本",
    27
   ],
   [
-   "開発",
-   23
+   "world",
+   26
   ],
   [
    "中国",
-   22
-  ],
-  [
-   "データ",
-   20
-  ],
-  [
-   "tesla",
-   20
-  ],
-  [
-   "活用",
-   20
-  ],
-  [
-   "世界",
-   20
+   25
   ],
   [
    "現場",
-   20
+   24
   ],
   [
-   "raises",
-   19
+   "amd",
+   24
   ],
   [
-   "data",
-   18
-  ],
-  [
-   "研究",
-   18
-  ],
-  [
-   "million",
-   16
-  ],
-  [
-   "optimus",
-   15
-  ],
-  [
-   "技術",
-   15
+   "データ",
+   23
   ],
   [
    "sima",
-   15
+   22
   ],
   [
-   "world",
-   14
+   "billion",
+   21
   ],
   [
-   "製造",
-   14
+   "世界",
+   21
+  ],
+  [
+   "labs",
+   18
+  ],
+  [
+   "data",
+   17
+  ],
+  [
+   "million",
+   17
   ],
   [
    "実装",
+   17
+  ],
+  [
+   "tesla",
+   16
+  ],
+  [
+   "valuation",
+   15
+  ],
+  [
+   "startup",
+   15
+  ],
+  [
+   "製造",
+   15
+  ],
+  [
+   "series",
+   15
+  ],
+  [
+   "launches",
    14
   ],
   [
-   "production",
-   13
+   "基盤",
+   14
   ],
   [
-   "産業",
+   "platform",
    13
   ],
   [
    "unveils",
-   12
+   13
   ],
   [
-   "com",
-   12
-  ],
-  [
-   "防衛",
-   12
-  ],
-  [
-   "launches",
-   11
+   "技術",
+   13
   ],
   [
    "企業",
-   11
+   13
   ],
   [
-   "自動",
-   11
+   "deal",
+   12
   ],
   [
-   "startup",
-   11
+   "実証",
+   12
   ],
   [
-   "takes",
-   11
+   "scale",
+   12
   ],
   [
-   "valuation",
+   "時代",
+   12
+  ],
+  [
+   "ceo",
+   12
+  ],
+  [
+   "optimus",
+   12
+  ],
+  [
+   "business",
    11
   ],
   [
@@ -138,23 +154,19 @@
    11
   ],
   [
-   "基盤",
+   "工場",
    11
   ],
   [
-   "時代",
+   "活用",
    11
   ],
   [
-   "platform",
-   10
+   "産業",
+   11
   ],
   [
-   "series",
-   10
-  ],
-  [
-   "global",
+   "production",
    10
   ],
   [
@@ -162,35 +174,43 @@
    10
   ],
   [
-   "工場",
+   "push",
    10
   ],
   [
-   "billion",
+   "com",
    10
   ],
   [
-   "technology",
-   9
+   "global",
+   10
+  ],
+  [
+   "takes",
+   10
+  ],
+  [
+   "ビジネス",
+   10
+  ],
+  [
+   "自動",
+   10
+  ],
+  [
+   "社会",
+   10
+  ],
+  [
+   "funding",
+   10
   ],
   [
    "acquire",
    9
   ],
   [
-   "韓国",
-   9
-  ],
-  [
-   "写真",
-   9
-  ],
-  [
-   "加速",
-   9
-  ],
-  [
-   "搭載",
+   "korea",
    9
   ],
   [
@@ -198,11 +218,15 @@
    9
   ],
   [
+   "japan",
+   9
+  ],
+  [
    "量産",
    9
   ],
   [
-   "business",
+   "加速",
    9
   ],
   [
@@ -214,121 +238,158 @@
    9
   ],
   [
-   "ceo",
-   9
-  ],
-  [
-   "イベント",
-   9
-  ],
-  [
-   "scale",
+   "qualcomm",
    8
   ],
   [
-   "industrial",
+   "future",
    8
   ],
   [
-   "toyota",
-   8
-  ],
-  [
-   "japan",
-   8
-  ],
-  [
-   "ipo",
-   8
-  ],
-  [
-   "push",
-   8
-  ],
-  [
-   "戦略",
+   "shift",
    8
   ]
  ],
  "today_top5": [
   {
-   "title": "Physical AI chip startup SimaAI raises $150 million at $1.45 billion valuation",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQclAwaFZSZWNJOWVSNE45OU1iYUFmOWFydkxsQkZRQkQzTnZlQkJhLWJkZ3VSWFBDOHVZWVNZczZNaGVhRUg1SGxhOS1pOGF3WGdvTC0wajk4VDRId0dVRlVMRXN0ZEdIQUNhVVByRVNMNkpEd1FJQ0hBX01HbGF6Z1ExeXJ0cjFqYy16M0UyU3pwSUtxWGF3UkdxN09rUQ?oc=5",
-   "source": "디지털투데이",
-   "published": "2026-09-28T22:06:03+00:00",
+   "title": "SiMa.ai raises $150m at $1.45bn valuation for development of physical AI hardware",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWThpcXM2U0ZCYVdzaE5UV0ZqN0k3b29VR1hpWkE2TTAyNzhGSE5YMlEzcm9wVmZhYTdlejdTR3l4elR6RDhVSnpCU1hFQXozU1M1aTZMOFdsWFRtZHF1QU9oTXVGWWlwWE0tVThkVnVYd1VuQ0tDcHBjbzZhWE5IQWZYY0xCdWV6MjlnTHVUcWNhemhXdmNqOVE1dnpISmNONXN2WnVHaWVMbER0MEYxbXlyRk1pVkNnMGJ6bi1B?oc=5",
+   "source": "Data Center Dynamics",
+   "published": "2026-09-29T12:59:36+00:00",
    "count": 5,
    "sources": [
+    "Data Center Dynamics",
+    "Indian Startup News",
+    "TradingView",
+    "W.Media",
+    "YourStory.com"
+   ],
+   "score": 4.29
+  },
+  {
+   "title": "AMD to acquire Fei-Fei Li’s World Labs for $8.2 billion in AI push",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNandWeFo0VlVfZ1ZLX2pxNENEQ2FPeWxfQlh1bldsenl5Q1Z0eW96WVgxcUQ3blVRdldHbFpjZGtJVzBuemxWM210UHVEdVkyUklTblFveS1rbWt2dmRKNW9FRkx2T2lRQV9ZZFFlWTZBbGZwUk5XQ3ducjRNSGlBVy1ocVRESFd5cjhIMG5WSE9iM3hWXzJVdWNQMzZxTTJCSUhfRWN4bW5lZHkya0YtT3loNXV6VmM?oc=5",
+   "source": "The American Bazaar",
+   "published": "2026-09-29T18:13:35+00:00",
+   "count": 4,
+   "sources": [
+    "Data Center Knowledge",
+    "ITP.net",
+    "The American Bazaar",
+    "TradingView"
+   ],
+   "score": 3.69
+  },
+  {
+   "title": "China’s embodied AI robots move from training rooms to real-world jobs",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNGVqbW9DT2lZMENxSFQyX3JyekZuUEJlR2dMVm9ZdTIzZnh5Q0hxbVg5WWtLcDBGZmw1YWRBU25FNnRQOGdxYmx6eGpaaExncVJPQzI2ZmRPeV9PdERvS0xFOWZqNXh6anBHckIzVF8zeDF2MFNFYy15TnpUVEdPQ3J3ejNwZkFQdkFfcDRuNEVIN0swWTcyTHo4ZFRwVDBvOUE4THExMk16V3lrY3c?oc=5",
+   "source": "United News of Bangladesh",
+   "published": "2026-09-29T06:49:24+00:00",
+   "count": 3,
+   "sources": [
+    "People's Daily Online",
+    "TheReport.live",
+    "United News of Bangladesh"
+   ],
+   "score": 2.36
+  },
+  {
+   "title": "South Korea Key to U.S. Physical AI Competitiveness",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUFk1M2h2enJoS3U3cFgzUTZHVmRWc001Z09GRU5GVi1hMUdCODVRMTBJXzE1dzdnX3FDQW93emNFcVE0ZDBNUTlmOEcxTUZieTN6QkExM295bFN0Q3N6a2p0M1QwZm0xZFVKaEtQSXkxcFlkeTRHVUZXQ2NsVS03LVY1a2s?oc=5",
+   "source": "조선일보",
+   "published": "2026-09-29T21:00:04+00:00",
+   "count": 2,
+   "sources": [
     "AI Insider",
-    "Pulse 2.0",
-    "SiliconANGLE",
-    "citybiz",
-    "디지털투데이"
+    "조선일보"
    ],
-   "score": 4.82
+   "score": 1.92
   },
   {
-   "title": "SiMa.ai raises $150mn to scale physical AI",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQWhWWFRHVWpEWUIzcXRCelg3TDVGWllrdHNKMkRpMXpBM2pLUVBoN0RzWkswcVZXbHo2SEJHRjlweGhFU1JHczc4b0FCTmVUeEhoaktFYS1uZVhLaVBKYTZ2MHVPVFlOajF4TzNGV0FLMkl2M1MtR19NRDZvN1FRdmV6YWVUYzNONWdGUFNtMG9odm9GWmNKNnMyNXgyMDVjMWtTb0F5Vm50elJxZE1LXzNwWG5wWGJGa0JRcnRlUVNOM0RodGfSAcsBQVVfeXFMTjRWN3QxWlFyMndVYWRzSFdtSHdXZzNQZ2dIdHZOdlp3NWV1WkZQUFBHSm9fbGk5bnN5Q3F5QmZibXdiVjNjV2NhWnJJc1dwRUFjdWt4a25RYmxpS0JGQ1pldE1EX0dDTHVJQUE0bGxqRVE0OXhsNHdQTVRiM1VXMVVtWTRuUDh2SjBHbnpJSGxIdWV0YmxTdGpua1BUcVAxMlAyRjh5UjJfQ1ZIektEckExaDBPZE53SHlTVWZzX1F6Nmt5RUtHNk1fblE?oc=5",
-   "source": "The Times of India",
-   "published": "2026-09-28T21:21:00+00:00",
-   "count": 3,
-   "sources": [
-    "The Next Web",
-    "The Times of India"
-   ],
-   "score": 2.86
-  },
-  {
-   "title": "ダイナミクマ、イベントでフィジカルＡＩ向けシミュレーション・合成データ生成事例を紹介 速報",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4yUU1ZQ0t1NDlfOXhnVzdxWllTZldRcHRhQnF2bHhQZkNFTEtfWEVKcUVzZFlWNUNXTnlCVEl5MjZwaTNJN284?oc=5",
-   "source": "kabushiki.jp",
-   "published": "2026-09-28T06:53:00+00:00",
-   "count": 3,
-   "sources": [
-    "Yahoo!ファイナンス",
-    "kabushiki.jp"
-   ],
-   "score": 2.34
-  },
-  {
-   "title": "AMD buys World Labs for $8.2 billion",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmU0t4RlhNLUxfNE9sSkZxQWZMQUhlVmdVME9HSWdQX2pqOEdIX1l1QUFWWlpvRWtBN04xNEo2TDlLNlZWUTM3a1FPM0gxb21tbC13UG9XSldCcEtVVXR5US1fRGkwWU92OGZPanYtTkNfdjRtenc?oc=5",
-   "source": "Jon Peddie Research",
-   "published": "2026-09-28T23:56:22+00:00",
+   "title": "LTSは「フィジカルAI共創Lab」を開設しました",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KSDFMbDZueXJTcEIybHdjbmJuSGxibllpc3R0NXJSekRDZVhyX3FzN0kzb1JvNjlPWURRVWdLNEFhYVFhU3NaaUFpOGtyVFFpUTNOa0VsMWVQZWZGcDlTMGdOR3JERThYMW53MHVVLVU5Qm1NemN5TV8xdw?oc=5",
+   "source": "ニコニコニュース",
+   "published": "2026-09-29T19:15:47+00:00",
    "count": 2,
    "sources": [
-    "Jon Peddie Research",
-    "Reuters"
+    "ニコニコニュース",
+    "ニュースメディアVOIX"
    ],
-   "score": 1.98
-  },
-  {
-   "title": "日本発のヒューマノイド、2027年中に1000台量産…ハイランダーズ注目の記事ベスト5",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nQUo1MDlJalBvVjFmdTJIUldRcklCRnFyQ2FQVy1RdEhBQ05YTGxXZ2J2UGZWUXVfXzJNZnBnYkpNVTg1VTlTOEU4bDI1am9HWi1hN0NrTGhSRldkZXpCRTN3?oc=5",
-   "source": "レスポンス（Response.jp）",
-   "published": "2026-09-28T23:00:03+00:00",
-   "count": 2,
-   "sources": [
-    "レスポンス（Response.jp）"
-   ],
-   "score": 1.95
+   "score": 1.87
   }
  ],
  "hot_news": [
   {
-   "title": "Physical AI chip startup SimaAI raises $150 million at $1.45 billion valuation",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQclAwaFZSZWNJOWVSNE45OU1iYUFmOWFydkxsQkZRQkQzTnZlQkJhLWJkZ3VSWFBDOHVZWVNZczZNaGVhRUg1SGxhOS1pOGF3WGdvTC0wajk4VDRId0dVRlVMRXN0ZEdIQUNhVVByRVNMNkpEd1FJQ0hBX01HbGF6Z1ExeXJ0cjFqYy16M0UyU3pwSUtxWGF3UkdxN09rUQ?oc=5",
-   "source": "디지털투데이",
-   "published": "2026-09-28T22:06:03+00:00",
-   "count": 5,
+   "title": "SiMa.ai raises $150m at $1.45bn valuation for development of physical AI hardware",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWThpcXM2U0ZCYVdzaE5UV0ZqN0k3b29VR1hpWkE2TTAyNzhGSE5YMlEzcm9wVmZhYTdlejdTR3l4elR6RDhVSnpCU1hFQXozU1M1aTZMOFdsWFRtZHF1QU9oTXVGWWlwWE0tVThkVnVYd1VuQ0tDcHBjbzZhWE5IQWZYY0xCdWV6MjlnTHVUcWNhemhXdmNqOVE1dnpISmNONXN2WnVHaWVMbER0MEYxbXlyRk1pVkNnMGJ6bi1B?oc=5",
+   "source": "Data Center Dynamics",
+   "published": "2026-09-29T12:59:36+00:00",
+   "count": 10,
    "sources": [
     "AI Insider",
+    "Data Center Dynamics",
+    "Indian Startup News",
     "Pulse 2.0",
     "SiliconANGLE",
-    "citybiz",
-    "디지털투데이"
+    "TradingView"
    ],
-   "score": 4.82
+   "score": 8.58
+  },
+  {
+   "title": "AMD to acquire Fei-Fei Li’s World Labs for $8.2 billion in AI push",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNandWeFo0VlVfZ1ZLX2pxNENEQ2FPeWxfQlh1bldsenl5Q1Z0eW96WVgxcUQ3blVRdldHbFpjZGtJVzBuemxWM210UHVEdVkyUklTblFveS1rbWt2dmRKNW9FRkx2T2lRQV9ZZFFlWTZBbGZwUk5XQ3ducjRNSGlBVy1ocVRESFd5cjhIMG5WSE9iM3hWXzJVdWNQMzZxTTJCSUhfRWN4bW5lZHkya0YtT3loNXV6VmM?oc=5",
+   "source": "The American Bazaar",
+   "published": "2026-09-29T18:13:35+00:00",
+   "count": 7,
+   "sources": [
+    "AI Insider",
+    "Data Center Knowledge",
+    "ITP.net",
+    "Jon Peddie Research",
+    "Reuters",
+    "The American Bazaar"
+   ],
+   "score": 6.46
+  },
+  {
+   "title": "SiMa.AI Raises $150 Mn To Scale Physical AI Platform",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX2xJZHVVNHJLeThwX0huczY3M2dzS01XSlpTRHJHVTFrbktWamFTS3VGV0FvRklXRnA1OWFzblRHa0RNbW0ySmJQa0dXZzJDOS1XUU04M2tobzBqZk5ac1U1VTlTZ3hPSWZPa2d1amgzVWxYWVlvVWF2Rndfb3VWeFFGd2g1TFZCSDhIa2dZeEZSN212WXNN?oc=5",
+   "source": "BW Disrupt",
+   "published": "2026-09-29T07:15:20+00:00",
+   "count": 4,
+   "sources": [
+    "BW Disrupt",
+    "The Next Web",
+    "The Times of India"
+   ],
+   "score": 3.17
+  },
+  {
+   "title": "China’s embodied AI robots move from training rooms to real-world jobs",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNGVqbW9DT2lZMENxSFQyX3JyekZuUEJlR2dMVm9ZdTIzZnh5Q0hxbVg5WWtLcDBGZmw1YWRBU25FNnRQOGdxYmx6eGpaaExncVJPQzI2ZmRPeV9PdERvS0xFOWZqNXh6anBHckIzVF8zeDF2MFNFYy15TnpUVEdPQ3J3ejNwZkFQdkFfcDRuNEVIN0swWTcyTHo4ZFRwVDBvOUE4THExMk16V3lrY3c?oc=5",
+   "source": "United News of Bangladesh",
+   "published": "2026-09-29T06:49:24+00:00",
+   "count": 4,
+   "sources": [
+    "People's Daily Online",
+    "TheReport.live",
+    "United News of Bangladesh",
+    "Xinhua"
+   ],
+   "score": 3.15
+  },
+  {
+   "title": "AMD agrees to buy World Labs to fill out its AI stack",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY2xrODlvb2F5Z0JVVF9rUzR0dnhOUURKRHMtcEkzeUljRXZRVnVTMUxpbUNvSmZhR01xdjJXM2JlSEJ0c1VhWVpFdXp6QUNOX293UHA2Um9kZXoxRS1kSWZVMjUzMXdvNFRjOWthUjhIZHB0VmktOUVtdUFaOVhSbUd0RmlRS2hWZkNkM29oVi0tSmNLWHJxR0dB?oc=5",
+   "source": "cio.com",
+   "published": "2026-09-29T14:32:13+00:00",
+   "count": 3,
+   "sources": [
+    "Axios",
+    "TradingView",
+    "cio.com"
+   ],
+   "score": 2.63
   },
   {
    "title": "フィジカルAIやデジタルツインで「考えるロボット」をどう現場に広げるのか 日本スタートアップ大賞受賞のMujin",
@@ -341,7 +402,7 @@
     "robotstart.info",
     "物流ニュースのLNEWS"
    ],
-   "score": 3.17
+   "score": 2.29
   },
   {
    "title": "ダイナミクマ、イベントでフィジカルＡＩ向けシミュレーション・合成データ生成事例を紹介 速報",
@@ -354,7 +415,7 @@
     "Yahoo!ファイナンス",
     "kabushiki.jp"
    ],
-   "score": 3.12
+   "score": 2.26
   },
   {
    "title": "EdgeCortix launches RAIDEN AI chiplet platform for physical AI applications",
@@ -367,83 +428,33 @@
     "HPCwire",
     "newelectronics.co.uk"
    ],
-   "score": 2.93
+   "score": 2.12
   },
   {
-   "title": "SiMa.ai raises $150mn to scale physical AI",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQWhWWFRHVWpEWUIzcXRCelg3TDVGWllrdHNKMkRpMXpBM2pLUVBoN0RzWkswcVZXbHo2SEJHRjlweGhFU1JHczc4b0FCTmVUeEhoaktFYS1uZVhLaVBKYTZ2MHVPVFlOajF4TzNGV0FLMkl2M1MtR19NRDZvN1FRdmV6YWVUYzNONWdGUFNtMG9odm9GWmNKNnMyNXgyMDVjMWtTb0F5Vm50elJxZE1LXzNwWG5wWGJGa0JRcnRlUVNOM0RodGfSAcsBQVVfeXFMTjRWN3QxWlFyMndVYWRzSFdtSHdXZzNQZ2dIdHZOdlp3NWV1WkZQUFBHSm9fbGk5bnN5Q3F5QmZibXdiVjNjV2NhWnJJc1dwRUFjdWt4a25RYmxpS0JGQ1pldE1EX0dDTHVJQUE0bGxqRVE0OXhsNHdQTVRiM1VXMVVtWTRuUDh2SjBHbnpJSGxIdWV0YmxTdGpua1BUcVAxMlAyRjh5UjJfQ1ZIektEckExaDBPZE53SHlTVWZzX1F6Nmt5RUtHNk1fblE?oc=5",
-   "source": "The Times of India",
-   "published": "2026-09-28T21:21:00+00:00",
-   "count": 3,
-   "sources": [
-    "The Next Web",
-    "The Times of India"
-   ],
-   "score": 2.86
-  },
-  {
-   "title": "ヒューマノイドCruzr S2が音声指示で荷物搬送…北陸技術交流テクノフェア2026で実演予定",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLS2JwN1oyNGYxNDlIUHd4OXRDSE4xLTM0MEZ3aDZaR1FFZU45OXVWRDIwSm92SkdMRmJDS1RCQ3ZqSFF5dHdPVFFORG9NSWtfdDYwRk9rNVdxUHlJS1FOZ2hB?oc=5",
-   "source": "レスポンス（Response.jp）",
-   "published": "2026-09-27T08:00:03+00:00",
-   "count": 4,
-   "sources": [
-    "Infoseek",
-    "レスポンス（Response.jp）",
-    "ロボスタ"
-   ],
-   "score": 2.27
-  },
-  {
-   "title": "二足歩行ロボットの世界市場（2026年～2032年）、市場規模（事前プログラム型ロボット、ビジョン誘導型ロボット、自律計画型ロボット、強化学習型ロボット）・分析レポートを発表",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIczRVd1FuWmg2R1UtSmdGT0Q0MzdzRml2QlRhOGhJaGNZaFVMZUhXSUViM185Yl82SktOaVZnazRfb2N0clFLWXdIaXRCWk0?oc=5",
-   "source": "アットプレス",
-   "published": "2026-09-28T04:30:00+00:00",
-   "count": 3,
-   "sources": [
-    "アットプレス"
-   ],
-   "score": 2.26
-  },
-  {
-   "title": "AMD buys World Labs for $8.2 billion",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmU0t4RlhNLUxfNE9sSkZxQWZMQUhlVmdVME9HSWdQX2pqOEdIX1l1QUFWWlpvRWtBN04xNEo2TDlLNlZWUTM3a1FPM0gxb21tbC13UG9XSldCcEtVVXR5US1fRGkwWU92OGZPanYtTkNfdjRtenc?oc=5",
-   "source": "Jon Peddie Research",
-   "published": "2026-09-28T23:56:22+00:00",
+   "title": "PATEO, Arm Expand Collaboration on Physical AI for Vehicles",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdFNZcnNwRjNvUEdPdEU5VVlIdExUeVZScHUwRXYwNUgta1d0ZlotdXplM2JXUnVOZVFCWWVfRnZ0YjlsV1JGcTM5RExocnVBZ2hwcF8wUWNXbnVyZ0pqR1JTX2wybzh5bktnWDVFbFdpd1F1U19taUFtdGk0SWJFcFdyLXhYemlPcDEw?oc=5",
+   "source": "EE Times Asia",
+   "published": "2026-09-29T23:34:43+00:00",
    "count": 2,
    "sources": [
-    "Jon Peddie Research",
-    "Reuters"
+    "EE Times Asia"
    ],
-   "score": 1.98
+   "score": 1.99
   },
   {
-   "title": "日本発のヒューマノイド、2027年中に1000台量産…ハイランダーズ注目の記事ベスト5",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9nQUo1MDlJalBvVjFmdTJIUldRcklCRnFyQ2FQVy1RdEhBQ05YTGxXZ2J2UGZWUXVfXzJNZnBnYkpNVTg1VTlTOEU4bDI1am9HWi1hN0NrTGhSRldkZXpCRTN3?oc=5",
-   "source": "レスポンス（Response.jp）",
-   "published": "2026-09-28T23:00:03+00:00",
+   "title": "受注1.3万台、年内納入は最大2000台？中国UBTECHの「人間そっくりヒューマノイド」、量産の壁",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1STjd0SFlvaXJvQ2lsWGt2WjVhSTZDdXliTGIwNHpfcHBFMUVtaF9yeGdaRTVvT0M1WldB?oc=5",
+   "source": "36Kr Japan",
+   "published": "2026-09-29T22:35:19+00:00",
    "count": 2,
    "sources": [
-    "レスポンス（Response.jp）"
+    "36Kr Japan"
    ],
-   "score": 1.95
-  },
-  {
-   "title": "AMD to Acquire World Labs in $8.2B All-Stock Deal",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd041djhyZ2ZMQndoZFg4YUNsVHFQbDZTQXdXNTczTFRxakRWc1pRcjl5bmVPczJxSzNVVlhOMHYtVGN1X2N1eFI4TVg4dVZfOXVJM1ZRZWlPd0V0Y2FlTGtyMzRWZXlJbENMMEJjVWNBSVo4MmxmbFlyN3d2azBKZ2ExZjNSVWlNOWV5a21xQQ?oc=5",
-   "source": "AI Insider",
-   "published": "2026-09-28T22:42:40+00:00",
-   "count": 2,
-   "sources": [
-    "AI Insider",
-    "Axios"
-   ],
-   "score": 1.94
+   "score": 1.96
   }
  ],
  "trend": {
   "dates": [
-   "2026-08-31",
    "2026-09-01",
    "2026-09-02",
    "2026-09-03",
@@ -472,14 +483,14 @@
    "2026-09-26",
    "2026-09-27",
    "2026-09-28",
-   "2026-09-29"
+   "2026-09-29",
+   "2026-09-30"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     46,
      29,
      34,
      47,
@@ -508,6 +519,7 @@
      7,
      6,
      46,
+     62,
      0
     ]
    },
@@ -515,7 +527,6 @@
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     45,
      42,
      42,
      44,
@@ -540,18 +551,18 @@
      17,
      17,
      37,
-     28,
+     29,
      9,
      12,
-     30,
-     3
+     32,
+     33,
+     0
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     4,
      2,
      5,
      5,
@@ -569,17 +580,18 @@
      3,
      5,
      8,
-     15,
+     16,
      8,
      3,
      8,
      10,
      8,
      10,
-     0,
+     1,
      2,
      0,
-     5,
+     6,
+     13,
      0
     ]
    },
@@ -587,7 +599,6 @@
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     31,
      17,
      21,
      36,
@@ -614,16 +625,16 @@
      18,
      16,
      14,
-     9,
-     23,
-     1
+     10,
+     25,
+     25,
+     0
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     46,
      17,
      10,
      26,
@@ -644,15 +655,16 @@
      18,
      4,
      8,
-     13,
+     14,
      31,
      12,
-     21,
+     22,
      9,
      6,
-     5,
+     6,
      13,
-     1
+     17,
+     0
     ]
    }
   ]
@@ -674,7 +686,7 @@
    "name": "GOOGLE LLC",
    "core": "GOOGLE",
    "patents": 275,
-   "news": 4
+   "news": 5
   },
   {
    "name": "HONDA MOTOR CO LTD",
@@ -698,13 +710,13 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 61
+   "news": 67
   },
   {
    "name": "QUALCOMM INC",
    "core": "QUALCOMM",
    "patents": 206,
-   "news": 10
+   "news": 9
   }
  ]
 }
