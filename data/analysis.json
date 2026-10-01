@@ -1,88 +1,116 @@
 {
- "updated_at": "2026-09-30T00:02:43.803065+00:00",
+ "updated_at": "2026-10-01T00:19:49.044619+00:00",
  "kpi": {
-  "articles_7d": 619,
-  "articles_prev_7d": 746,
-  "sources_7d": 342,
-  "articles_30d": 3106,
-  "total_articles": 9274,
+  "articles_7d": 665,
+  "articles_prev_7d": 714,
+  "sources_7d": 340,
+  "articles_30d": 3091,
+  "total_articles": 9431,
   "oldest_news": "1970-01-01"
  },
  "wordcloud": [
   [
-   "china",
-   36
-  ],
-  [
    "開発",
-   30
-  ],
-  [
-   "nvidia",
-   29
+   37
   ],
   [
    "raises",
-   29
+   33
+  ],
+  [
+   "china",
+   31
   ],
   [
    "日本",
-   27
+   31
+  ],
+  [
+   "nvidia",
+   30
   ],
   [
    "world",
-   26
+   29
   ],
   [
    "中国",
-   25
+   28
   ],
   [
    "現場",
-   24
+   28
   ],
   [
    "amd",
+   27
+  ],
+  [
+   "実装",
+   25
+  ],
+  [
+   "ファナック",
+   25
+  ],
+  [
+   "世界",
    24
   ],
   [
-   "データ",
+   "sima",
    23
   ],
   [
-   "sima",
+   "データ",
    22
   ],
   [
    "billion",
-   21
-  ],
-  [
-   "世界",
-   21
+   22
   ],
   [
    "labs",
+   21
+  ],
+  [
+   "日立",
+   20
+  ],
+  [
+   "事業",
+   19
+  ],
+  [
+   "製造",
    18
   ],
   [
-   "data",
+   "実証",
    17
   ],
   [
-   "million",
-   17
+   "基盤",
+   16
   ],
   [
-   "実装",
-   17
-  ],
-  [
-   "tesla",
+   "工場",
    16
   ],
   [
    "valuation",
+   16
+  ],
+  [
+   "社会",
+   15
+  ],
+  [
+   "戦略",
+   15
+  ],
+  [
+   "data",
    15
   ],
   [
@@ -90,11 +118,11 @@
    15
   ],
   [
-   "製造",
+   "series",
    15
   ],
   [
-   "series",
+   "提携",
    15
   ],
   [
@@ -102,15 +130,35 @@
    14
   ],
   [
-   "基盤",
+   "企業",
    14
   ],
   [
-   "platform",
+   "com",
+   14
+  ],
+  [
+   "tesla",
+   14
+  ],
+  [
+   "産業",
+   14
+  ],
+  [
+   "funding",
+   14
+  ],
+  [
+   "million",
    13
   ],
   [
-   "unveils",
+   "活用",
+   13
+  ],
+  [
+   "時代",
    13
   ],
   [
@@ -118,15 +166,15 @@
    13
   ],
   [
-   "企業",
+   "ceo",
    13
   ],
   [
-   "deal",
-   12
+   "導入",
+   13
   ],
   [
-   "実証",
+   "unveils",
    12
   ],
   [
@@ -134,43 +182,43 @@
    12
   ],
   [
-   "時代",
-   12
-  ],
-  [
-   "ceo",
-   12
-  ],
-  [
    "optimus",
    12
   ],
   [
-   "business",
+   "deal",
+   12
+  ],
+  [
+   "global",
    11
   ],
   [
-   "市場",
-   11
-  ],
-  [
-   "工場",
-   11
-  ],
-  [
-   "活用",
-   11
-  ],
-  [
-   "産業",
-   11
-  ],
-  [
-   "production",
+   "platform",
    10
   ],
   [
-   "training",
+   "スタート",
+   10
+  ],
+  [
+   "アップ",
+   10
+  ],
+  [
+   "自律",
+   10
+  ],
+  [
+   "量産",
+   10
+  ],
+  [
+   "開催",
+   10
+  ],
+  [
+   "共同",
    10
   ],
   [
@@ -178,284 +226,249 @@
    10
   ],
   [
-   "com",
-   10
-  ],
-  [
-   "global",
-   10
-  ],
-  [
-   "takes",
-   10
-  ],
-  [
-   "ビジネス",
-   10
-  ],
-  [
-   "自動",
-   10
-  ],
-  [
-   "社会",
-   10
-  ],
-  [
-   "funding",
-   10
-  ],
-  [
-   "acquire",
-   9
-  ],
-  [
    "korea",
+   10
+  ],
+  [
+   "lab",
+   10
+  ],
+  [
+   "work",
    9
   ],
   [
-   "画像",
+   "business",
    9
   ],
   [
-   "japan",
+   "市場",
    9
   ],
   [
-   "量産",
+   "展開",
    9
-  ],
-  [
-   "加速",
-   9
-  ],
-  [
-   "スタート",
-   9
-  ],
-  [
-   "アップ",
-   9
-  ],
-  [
-   "qualcomm",
-   8
-  ],
-  [
-   "future",
-   8
-  ],
-  [
-   "shift",
-   8
   ]
  ],
  "today_top5": [
   {
-   "title": "SiMa.ai raises $150m at $1.45bn valuation for development of physical AI hardware",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWThpcXM2U0ZCYVdzaE5UV0ZqN0k3b29VR1hpWkE2TTAyNzhGSE5YMlEzcm9wVmZhYTdlejdTR3l4elR6RDhVSnpCU1hFQXozU1M1aTZMOFdsWFRtZHF1QU9oTXVGWWlwWE0tVThkVnVYd1VuQ0tDcHBjbzZhWE5IQWZYY0xCdWV6MjlnTHVUcWNhemhXdmNqOVE1dnpISmNONXN2WnVHaWVMbER0MEYxbXlyRk1pVkNnMGJ6bi1B?oc=5",
-   "source": "Data Center Dynamics",
-   "published": "2026-09-29T12:59:36+00:00",
+   "title": "産業用ロボットが現場で学習、日立とファナックが「フィジカルAI」を2027年度に事業化へ",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mdXNCbXg5bzY5cFVPUkJzclRLN0czTnZadzdvZFJRWV9jQzk1cXBjdEJyRmhWM1NkdEM0dXFSMjhFMER3RVFsVkhUc2ZnNmZKU0dhYTgteWhmdjE4U0dZTHFpODIxbWtn?oc=5",
+   "source": "マイナビニュース",
+   "published": "2026-09-30T21:45:16+00:00",
    "count": 5,
    "sources": [
-    "Data Center Dynamics",
-    "Indian Startup News",
-    "TradingView",
-    "W.Media",
-    "YourStory.com"
+    "PR TIMES",
+    "ZDNET Japan",
+    "マイナビニュース",
+    "日本経済新聞",
+    "株式会社インプレス"
    ],
-   "score": 4.29
+   "score": 4.82
   },
   {
-   "title": "AMD to acquire Fei-Fei Li’s World Labs for $8.2 billion in AI push",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNandWeFo0VlVfZ1ZLX2pxNENEQ2FPeWxfQlh1bldsenl5Q1Z0eW96WVgxcUQ3blVRdldHbFpjZGtJVzBuemxWM210UHVEdVkyUklTblFveS1rbWt2dmRKNW9FRkx2T2lRQV9ZZFFlWTZBbGZwUk5XQ3ducjRNSGlBVy1ocVRESFd5cjhIMG5WSE9iM3hWXzJVdWNQMzZxTTJCSUhfRWN4bW5lZHkya0YtT3loNXV6VmM?oc=5",
-   "source": "The American Bazaar",
-   "published": "2026-09-29T18:13:35+00:00",
+   "title": "日立とファナック、設備制御ＡＩ事業化へ戦略的提携／自社工場で実証 –",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhQmZ1UWszcnVmZEo4dHphMV9adTQ0NUJpQlBzTHQ1OFRCdy1ES2hyakMyYVlFRGJWN3NHRWlRaXZiRUtXeGFXVzlKOVA3VjlZSXBUSG5Kdw?oc=5",
+   "source": "denkishimbun.com",
+   "published": "2026-09-30T21:00:34+00:00",
+   "count": 5,
+   "sources": [
+    "EnterpriseZine",
+    "IT Leaders",
+    "denkishimbun.com",
+    "ロボスタ",
+    "日刊工業新聞"
+   ],
+   "score": 4.77
+  },
+  {
+   "title": "日立製作所とファナック、フィジカルAIで提携 現場に実装",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XaW5nMGRHTER5VVA3YzRSQTVDd2QtMUFmR3BfODItSENNaWxvREpHVGVuTDdYSVYxWHRVRE5IM3RDLXVELVdBR1B0M0VQbUlyMlhPTzc4Rzk?oc=5",
+   "source": "日刊工業新聞",
+   "published": "2026-09-30T20:00:00+00:00",
+   "count": 5,
+   "sources": [
+    "Yahoo!ニュース",
+    "千葉テレビ放送株式会社",
+    "日刊工業新聞",
+    "株探",
+    "物流ニュースのLNEWS"
+   ],
+   "score": 4.71
+  },
+  {
+   "title": "Innodata Opens New Jersey Motion-Capture Lab for Humanoid Robotics",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeURWYVNoZGY3bkxyZDFndnNZeUpCdzhuNmZBWk1UZXZIcGRiTkhkdjFJNnJaSzdzUWJ5QUFfeXJGU2JZLVFYNFlwWFl0bGNPRkg5QkJNN1FCOG5tUXUtLThVRHBvRHI4TjduT3ctVlN3TWZVVkcwTllEQ2w2LWZQVzRyVmlnRHNQYUlyVmdPd0I4T0h1M2I5bVlJa0dRcFdJQzc0ZjhVTlY?oc=5",
+   "source": "citybiz",
+   "published": "2026-09-30T14:09:12+00:00",
    "count": 4,
    "sources": [
-    "Data Center Knowledge",
-    "ITP.net",
-    "The American Bazaar",
-    "TradingView"
+    "Investing.com UK",
+    "The Robot Report",
+    "Yahoo Finance UK",
+    "citybiz"
    ],
-   "score": 3.69
+   "score": 3.47
   },
   {
-   "title": "China’s embodied AI robots move from training rooms to real-world jobs",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNGVqbW9DT2lZMENxSFQyX3JyekZuUEJlR2dMVm9ZdTIzZnh5Q0hxbVg5WWtLcDBGZmw1YWRBU25FNnRQOGdxYmx6eGpaaExncVJPQzI2ZmRPeV9PdERvS0xFOWZqNXh6anBHckIzVF8zeDF2MFNFYy15TnpUVEdPQ3J3ejNwZkFQdkFfcDRuNEVIN0swWTcyTHo4ZFRwVDBvOUE4THExMk16V3lrY3c?oc=5",
-   "source": "United News of Bangladesh",
-   "published": "2026-09-29T06:49:24+00:00",
+   "title": "First humanoid robot targeted to work alongside Home Team officers by 2028",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY1dTMU5JWGpxRHljR29ZNlRJaEhlX1NSbnA5czc4RVhKOW16Z2hHSHBjQ1NnV3dOUXd4WUpZdkdPTFNpYWNMNndWVEt4ckZubWVwVnRSRUFsTnBZVFhPZklCRWItXzYxdmwya3F1YTF6NExZQzJQU3RmYzc2SGZUWlNrRnE4S29FOHlrNXJIYkZlSXhyNHFJUmJqQzV3UGZtRllGZHhKbjlEUGdyZ3ZXQ0JZaEo?oc=5",
+   "source": "CNA",
+   "published": "2026-09-30T14:23:07+00:00",
    "count": 3,
    "sources": [
-    "People's Daily Online",
-    "TheReport.live",
-    "United News of Bangladesh"
+    "CNA",
+    "The Straits Times",
+    "asiaone.com"
    ],
-   "score": 2.36
-  },
-  {
-   "title": "South Korea Key to U.S. Physical AI Competitiveness",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUFk1M2h2enJoS3U3cFgzUTZHVmRWc001Z09GRU5GVi1hMUdCODVRMTBJXzE1dzdnX3FDQW93emNFcVE0ZDBNUTlmOEcxTUZieTN6QkExM295bFN0Q3N6a2p0M1QwZm0xZFVKaEtQSXkxcFlkeTRHVUZXQ2NsVS03LVY1a2s?oc=5",
-   "source": "조선일보",
-   "published": "2026-09-29T21:00:04+00:00",
-   "count": 2,
-   "sources": [
-    "AI Insider",
-    "조선일보"
-   ],
-   "score": 1.92
-  },
-  {
-   "title": "LTSは「フィジカルAI共創Lab」を開設しました",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KSDFMbDZueXJTcEIybHdjbmJuSGxibllpc3R0NXJSekRDZVhyX3FzN0kzb1JvNjlPWURRVWdLNEFhYVFhU3NaaUFpOGtyVFFpUTNOa0VsMWVQZWZGcDlTMGdOR3JERThYMW53MHVVLVU5Qm1NemN5TV8xdw?oc=5",
-   "source": "ニコニコニュース",
-   "published": "2026-09-29T19:15:47+00:00",
-   "count": 2,
-   "sources": [
-    "ニコニコニュース",
-    "ニュースメディアVOIX"
-   ],
-   "score": 1.87
+   "score": 2.61
   }
  ],
  "hot_news": [
   {
+   "title": "AMD to buy private World Labs in $8.2B deal",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44enVWZU5DeVUzTWt5dWdraC1mTUhpbEs1OW85RklCQmhqalNxeFFTQ1dTSFFWN2UxN0hYM0tZajBfWGNTQnlENFA0TzFpcFR6YVdYc3huWGZPWjBWZE5rb2NuVUhfLUxZSEVEUHRBX1M3UnZ2ZWtj?oc=5",
+   "source": "Fierce Sensors",
+   "published": "2026-09-30T11:13:17+00:00",
+   "count": 7,
+   "sources": [
+    "Fierce Sensors",
+    "ITP.net",
+    "Reuters",
+    "The American Bazaar",
+    "TradingView",
+    "cio.com"
+   ],
+   "score": 5.83
+  },
+  {
    "title": "SiMa.ai raises $150m at $1.45bn valuation for development of physical AI hardware",
    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWThpcXM2U0ZCYVdzaE5UV0ZqN0k3b29VR1hpWkE2TTAyNzhGSE5YMlEzcm9wVmZhYTdlejdTR3l4elR6RDhVSnpCU1hFQXozU1M1aTZMOFdsWFRtZHF1QU9oTXVGWWlwWE0tVThkVnVYd1VuQ0tDcHBjbzZhWE5IQWZYY0xCdWV6MjlnTHVUcWNhemhXdmNqOVE1dnpISmNONXN2WnVHaWVMbER0MEYxbXlyRk1pVkNnMGJ6bi1B?oc=5",
    "source": "Data Center Dynamics",
    "published": "2026-09-29T12:59:36+00:00",
-   "count": 10,
+   "count": 8,
    "sources": [
-    "AI Insider",
     "Data Center Dynamics",
     "Indian Startup News",
     "Pulse 2.0",
     "SiliconANGLE",
-    "TradingView"
+    "TradingView",
+    "W.Media"
    ],
-   "score": 8.58
+   "score": 4.9
   },
   {
-   "title": "AMD to acquire Fei-Fei Li’s World Labs for $8.2 billion in AI push",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNandWeFo0VlVfZ1ZLX2pxNENEQ2FPeWxfQlh1bldsenl5Q1Z0eW96WVgxcUQ3blVRdldHbFpjZGtJVzBuemxWM210UHVEdVkyUklTblFveS1rbWt2dmRKNW9FRkx2T2lRQV9ZZFFlWTZBbGZwUk5XQ3ducjRNSGlBVy1ocVRESFd5cjhIMG5WSE9iM3hWXzJVdWNQMzZxTTJCSUhfRWN4bW5lZHkya0YtT3loNXV6VmM?oc=5",
-   "source": "The American Bazaar",
-   "published": "2026-09-29T18:13:35+00:00",
-   "count": 7,
+   "title": "産業用ロボットが現場で学習、日立とファナックが「フィジカルAI」を2027年度に事業化へ",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mdXNCbXg5bzY5cFVPUkJzclRLN0czTnZadzdvZFJRWV9jQzk1cXBjdEJyRmhWM1NkdEM0dXFSMjhFMER3RVFsVkhUc2ZnNmZKU0dhYTgteWhmdjE4U0dZTHFpODIxbWtn?oc=5",
+   "source": "マイナビニュース",
+   "published": "2026-09-30T21:45:16+00:00",
+   "count": 5,
    "sources": [
-    "AI Insider",
-    "Data Center Knowledge",
-    "ITP.net",
-    "Jon Peddie Research",
-    "Reuters",
-    "The American Bazaar"
+    "PR TIMES",
+    "ZDNET Japan",
+    "マイナビニュース",
+    "日本経済新聞",
+    "株式会社インプレス"
    ],
-   "score": 6.46
+   "score": 4.82
+  },
+  {
+   "title": "日立とファナック、設備制御ＡＩ事業化へ戦略的提携／自社工場で実証 –",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBhQmZ1UWszcnVmZEo4dHphMV9adTQ0NUJpQlBzTHQ1OFRCdy1ES2hyakMyYVlFRGJWN3NHRWlRaXZiRUtXeGFXVzlKOVA3VjlZSXBUSG5Kdw?oc=5",
+   "source": "denkishimbun.com",
+   "published": "2026-09-30T21:00:34+00:00",
+   "count": 5,
+   "sources": [
+    "EnterpriseZine",
+    "IT Leaders",
+    "denkishimbun.com",
+    "ロボスタ",
+    "日刊工業新聞"
+   ],
+   "score": 4.77
+  },
+  {
+   "title": "日立製作所とファナック、フィジカルAIで提携 現場に実装",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9XaW5nMGRHTER5VVA3YzRSQTVDd2QtMUFmR3BfODItSENNaWxvREpHVGVuTDdYSVYxWHRVRE5IM3RDLXVELVdBR1B0M0VQbUlyMlhPTzc4Rzk?oc=5",
+   "source": "日刊工業新聞",
+   "published": "2026-09-30T20:00:00+00:00",
+   "count": 5,
+   "sources": [
+    "Yahoo!ニュース",
+    "千葉テレビ放送株式会社",
+    "日刊工業新聞",
+    "株探",
+    "物流ニュースのLNEWS"
+   ],
+   "score": 4.71
+  },
+  {
+   "title": "Innodata Opens New Jersey Motion-Capture Lab for Humanoid Robotics",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeURWYVNoZGY3bkxyZDFndnNZeUpCdzhuNmZBWk1UZXZIcGRiTkhkdjFJNnJaSzdzUWJ5QUFfeXJGU2JZLVFYNFlwWFl0bGNPRkg5QkJNN1FCOG5tUXUtLThVRHBvRHI4TjduT3ctVlN3TWZVVkcwTllEQ2w2LWZQVzRyVmlnRHNQYUlyVmdPd0I4T0h1M2I5bVlJa0dRcFdJQzc0ZjhVTlY?oc=5",
+   "source": "citybiz",
+   "published": "2026-09-30T14:09:12+00:00",
+   "count": 4,
+   "sources": [
+    "Investing.com UK",
+    "The Robot Report",
+    "Yahoo Finance UK",
+    "citybiz"
+   ],
+   "score": 3.47
+  },
+  {
+   "title": "日立とファナック、フィジカルAI共同事業化へ - logi-today.com",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5tZ2JZbm1KSUtQd2cteHJhcDc3ZjJxaVVMdmhfU01PR09HV1E4NmgxcHk2b1g2ZDBYV1dMdzBTdzI0VmNsaWNqQVp3?oc=5",
+   "source": "logi-today.com",
+   "published": "2026-09-30T10:29:30+00:00",
+   "count": 4,
+   "sources": [
+    "LOGISTICS TODAY",
+    "logi-today.com"
+   ],
+   "score": 3.3
+  },
+  {
+   "title": "矢崎総業、フィジカルAI開発基盤「Physical AI Studio」導入…ワイヤーハーネス製造自動化へ",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TUV9TMEJ1UU5oZ3hVSVhkc0xGSFU4ci04eF9nMUpfWnVvR2pBeHhBMXpPUTR6ek5YOVZ5N2RxMGI4NGg5bHU0OE16Z1lCM284bXdGakg0bHhzZU5hZ0I0?oc=5",
+   "source": "レスポンス（Response.jp）",
+   "published": "2026-09-30T05:45:03+00:00",
+   "count": 4,
+   "sources": [
+    "レスポンス（Response.jp）",
+    "ロボスタ"
+   ],
+   "score": 3.09
+  },
+  {
+   "title": "エージェント型AI・フィジカルAIが「過度な期待」のピーク期に ガートナー、日本のクラウドとAIの2026年版ハイプ・サイクル発表",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55VHNTUGs0N1c5UFpSLURKdVpkZlFadW9zVV9RcmpFQ3ZsVmN5ZW1wdVZsRy1WcWozYmZncHpKV0pTUVFINWhVXy1ybjNyR0NBRENhSkRnLVM0UWJ1emRTZ2RNcHVqVVR2cFEtNVpKaFVMQQ?oc=5",
+   "source": "Ledge.ai",
+   "published": "2026-09-30T23:08:01+00:00",
+   "count": 3,
+   "sources": [
+    "EnterpriseZine",
+    "IT Leaders",
+    "Ledge.ai"
+   ],
+   "score": 2.95
   },
   {
    "title": "SiMa.AI Raises $150 Mn To Scale Physical AI Platform",
    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX2xJZHVVNHJLeThwX0huczY3M2dzS01XSlpTRHJHVTFrbktWamFTS3VGV0FvRklXRnA1OWFzblRHa0RNbW0ySmJQa0dXZzJDOS1XUU04M2tobzBqZk5ac1U1VTlTZ3hPSWZPa2d1amgzVWxYWVlvVWF2Rndfb3VWeFFGd2g1TFZCSDhIa2dZeEZSN212WXNN?oc=5",
    "source": "BW Disrupt",
    "published": "2026-09-29T07:15:20+00:00",
-   "count": 4,
+   "count": 5,
    "sources": [
     "BW Disrupt",
     "The Next Web",
     "The Times of India"
    ],
-   "score": 3.17
-  },
-  {
-   "title": "China’s embodied AI robots move from training rooms to real-world jobs",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNGVqbW9DT2lZMENxSFQyX3JyekZuUEJlR2dMVm9ZdTIzZnh5Q0hxbVg5WWtLcDBGZmw1YWRBU25FNnRQOGdxYmx6eGpaaExncVJPQzI2ZmRPeV9PdERvS0xFOWZqNXh6anBHckIzVF8zeDF2MFNFYy15TnpUVEdPQ3J3ejNwZkFQdkFfcDRuNEVIN0swWTcyTHo4ZFRwVDBvOUE4THExMk16V3lrY3c?oc=5",
-   "source": "United News of Bangladesh",
-   "published": "2026-09-29T06:49:24+00:00",
-   "count": 4,
-   "sources": [
-    "People's Daily Online",
-    "TheReport.live",
-    "United News of Bangladesh",
-    "Xinhua"
-   ],
-   "score": 3.15
-  },
-  {
-   "title": "AMD agrees to buy World Labs to fill out its AI stack",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPY2xrODlvb2F5Z0JVVF9rUzR0dnhOUURKRHMtcEkzeUljRXZRVnVTMUxpbUNvSmZhR01xdjJXM2JlSEJ0c1VhWVpFdXp6QUNOX293UHA2Um9kZXoxRS1kSWZVMjUzMXdvNFRjOWthUjhIZHB0VmktOUVtdUFaOVhSbUd0RmlRS2hWZkNkM29oVi0tSmNLWHJxR0dB?oc=5",
-   "source": "cio.com",
-   "published": "2026-09-29T14:32:13+00:00",
-   "count": 3,
-   "sources": [
-    "Axios",
-    "TradingView",
-    "cio.com"
-   ],
-   "score": 2.63
-  },
-  {
-   "title": "フィジカルAIやデジタルツインで「考えるロボット」をどう現場に広げるのか 日本スタートアップ大賞受賞のMujin",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83WU96SWdJT0NtUFIzVkpvR2dMTEE1ajNTQVVmdHZDcGx2YnBNOEpUTndpR1NFNDZ6aFJ1Z2o2dEFBbDg4UE5qM1llcUh4NWZyb3dJQ05MSTZVckZRYlItSnRwbTk?oc=5",
-   "source": "robotstart.info",
-   "published": "2026-09-28T08:00:03+00:00",
-   "count": 4,
-   "sources": [
-    "LOGI-BIZ online",
-    "robotstart.info",
-    "物流ニュースのLNEWS"
-   ],
-   "score": 2.29
-  },
-  {
-   "title": "ダイナミクマ、イベントでフィジカルＡＩ向けシミュレーション・合成データ生成事例を紹介 速報",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE4yUU1ZQ0t1NDlfOXhnVzdxWllTZldRcHRhQnF2bHhQZkNFTEtfWEVKcUVzZFlWNUNXTnlCVEl5MjZwaTNJN284?oc=5",
-   "source": "kabushiki.jp",
-   "published": "2026-09-28T06:53:00+00:00",
-   "count": 4,
-   "sources": [
-    "PR TIMES",
-    "Yahoo!ファイナンス",
-    "kabushiki.jp"
-   ],
-   "score": 2.26
-  },
-  {
-   "title": "EdgeCortix launches RAIDEN AI chiplet platform for physical AI applications",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcW9obVg2Z2p4eUpVMkhubU02bmxORmtkSWpZM3RHUEdXc29TQU95RWwwT1AwNm4ybDB4MmwwcjhtNFQzYjhQbkJjUU5KMnhxTENMTGc2TVRpeU1yZ1F6RzBzaDhVN1RPb3hQVWFGRkxWNGRtaFQtQUNHcmtHODJtSVpMZDVsa0FHSS1VZTZOM0o4dHR0VGxFdUNrOWFhby1YN1oyNlIzLWxVMUVwWU9SRF81TDI2Tk5yTjVBa3Jn?oc=5",
-   "source": "newelectronics.co.uk",
-   "published": "2026-09-28T23:08:13+00:00",
-   "count": 3,
-   "sources": [
-    "Business Wire",
-    "HPCwire",
-    "newelectronics.co.uk"
-   ],
-   "score": 2.12
-  },
-  {
-   "title": "PATEO, Arm Expand Collaboration on Physical AI for Vehicles",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdFNZcnNwRjNvUEdPdEU5VVlIdExUeVZScHUwRXYwNUgta1d0ZlotdXplM2JXUnVOZVFCWWVfRnZ0YjlsV1JGcTM5RExocnVBZ2hwcF8wUWNXbnVyZ0pqR1JTX2wybzh5bktnWDVFbFdpd1F1U19taUFtdGk0SWJFcFdyLXhYemlPcDEw?oc=5",
-   "source": "EE Times Asia",
-   "published": "2026-09-29T23:34:43+00:00",
-   "count": 2,
-   "sources": [
-    "EE Times Asia"
-   ],
-   "score": 1.99
-  },
-  {
-   "title": "受注1.3万台、年内納入は最大2000台？中国UBTECHの「人間そっくりヒューマノイド」、量産の壁",
-   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE1STjd0SFlvaXJvQ2lsWGt2WjVhSTZDdXliTGIwNHpfcHBFMUVtaF9yeGdaRTVvT0M1WldB?oc=5",
-   "source": "36Kr Japan",
-   "published": "2026-09-29T22:35:19+00:00",
-   "count": 2,
-   "sources": [
-    "36Kr Japan"
-   ],
-   "score": 1.96
+   "score": 2.83
   }
  ],
  "trend": {
   "dates": [
-   "2026-09-01",
    "2026-09-02",
    "2026-09-03",
    "2026-09-04",
@@ -484,14 +497,14 @@
    "2026-09-27",
    "2026-09-28",
    "2026-09-29",
-   "2026-09-30"
+   "2026-09-30",
+   "2026-10-01"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     29,
      34,
      47,
      34,
@@ -518,8 +531,9 @@
      20,
      7,
      6,
-     46,
-     62,
+     47,
+     63,
+     47,
      0
     ]
    },
@@ -527,7 +541,6 @@
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     42,
      42,
      44,
      36,
@@ -555,15 +568,15 @@
      9,
      12,
      32,
-     33,
-     0
+     36,
+     53,
+     1
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     2,
      5,
      5,
      7,
@@ -591,7 +604,8 @@
      2,
      0,
      6,
-     13,
+     14,
+     5,
      0
     ]
    },
@@ -599,7 +613,6 @@
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     17,
      21,
      36,
      29,
@@ -627,7 +640,8 @@
      14,
      10,
      25,
-     25,
+     27,
+     31,
      0
     ]
    },
@@ -635,7 +649,6 @@
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     17,
      10,
      26,
      10,
@@ -663,7 +676,8 @@
      6,
      6,
      13,
-     17,
+     19,
+     16,
      0
     ]
    }
@@ -698,7 +712,7 @@
    "name": "SAMSUNG ELECTRONICS CO LTD",
    "core": "SAMSUNG ELECTRONICS",
    "patents": 260,
-   "news": 17
+   "news": 19
   },
   {
    "name": "X DEV LLC",
@@ -710,7 +724,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 67
+   "news": 72
   },
   {
    "name": "QUALCOMM INC",
