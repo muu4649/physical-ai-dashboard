@@ -1,37 +1,33 @@
 {
- "updated_at": "2026-10-02T00:30:08.037506+00:00",
+ "updated_at": "2026-10-03T00:07:14.309189+00:00",
  "kpi": {
-  "articles_7d": 694,
-  "articles_prev_7d": 682,
-  "sources_7d": 344,
+  "articles_7d": 727,
+  "articles_prev_7d": 633,
+  "sources_7d": 347,
   "articles_30d": 3122,
-  "total_articles": 9563,
+  "total_articles": 9671,
   "oldest_news": "1970-01-01"
  },
  "wordcloud": [
   [
-   "開発",
+   "world",
    36
   ],
   [
-   "raises",
-   33
+   "nvidia",
+   35
   ],
   [
    "ファナック",
+   35
+  ],
+  [
+   "raises",
    32
   ],
   [
-   "world",
-   31
-  ],
-  [
-   "nvidia",
+   "開発",
    30
-  ],
-  [
-   "実装",
-   29
   ],
   [
    "現場",
@@ -39,22 +35,34 @@
   ],
   [
    "china",
-   29
+   28
   ],
   [
    "amd",
    28
   ],
   [
-   "日本",
+   "日立",
+   28
+  ],
+  [
+   "実装",
    26
   ],
   [
-   "日立",
-   25
+   "日本",
+   24
+  ],
+  [
+   "事業",
+   23
   ],
   [
    "sima",
+   23
+  ],
+  [
+   "billion",
    23
   ],
   [
@@ -62,79 +70,71 @@
    22
   ],
   [
-   "中国",
-   22
-  ],
-  [
-   "事業",
-   22
-  ],
-  [
    "labs",
    22
   ],
   [
-   "billion",
-   22
-  ],
-  [
-   "製造",
+   "中国",
    20
   ],
   [
-   "工場",
-   19
-  ],
-  [
    "提携",
-   19
-  ],
-  [
-   "世界",
-   18
+   20
   ],
   [
    "実証",
+   19
+  ],
+  [
+   "工場",
    18
   ],
   [
-   "戦略",
-   17
-  ],
-  [
    "valuation",
-   17
+   18
   ],
   [
    "series",
+   17
+  ],
+  [
+   "製造",
    16
   ],
   [
-   "社会",
+   "data",
    15
   ],
   [
-   "産業",
+   "世界",
    15
   ],
   [
-   "企業",
+   "戦略",
    15
   ],
   [
-   "launches",
-   15
-  ],
-  [
-   "funding",
-   15
-  ],
-  [
-   "共同",
+   "技術",
    14
   ],
   [
-   "data",
+   "企業",
+   14
+  ],
+  [
+   "unveils",
+   14
+  ],
+  [
+   "funding",
+   14
+  ],
+  [
+   "launches",
+   14
+  ],
+  [
+   "産業",
    14
   ],
   [
@@ -142,39 +142,63 @@
    14
   ],
   [
-   "tesla",
+   "startup",
+   14
+  ],
+  [
+   "共同",
+   14
+  ],
+  [
+   "活用",
    13
   ],
   [
-   "deal",
-   13
-  ],
-  [
-   "ceo",
+   "社会",
    13
   ],
   [
    "基盤",
-   13
+   12
   ],
   [
-   "startup",
-   13
+   "scale",
+   12
   ],
   [
    "million",
    12
   ],
   [
-   "技術",
+   "deal",
    12
   ],
   [
-   "com",
+   "work",
+   12
+  ],
+  [
+   "lab",
+   12
+  ],
+  [
+   "締結",
+   12
+  ],
+  [
+   "army",
    11
   ],
   [
-   "global",
+   "ceo",
+   11
+  ],
+  [
+   "協業",
+   11
+  ],
+  [
+   "パートナーシップ",
    11
   ],
   [
@@ -182,35 +206,15 @@
    11
   ],
   [
-   "活用",
-   11
-  ],
-  [
-   "optimus",
-   11
-  ],
-  [
-   "work",
-   11
-  ],
-  [
-   "lab",
-   11
-  ],
-  [
-   "開催",
-   10
-  ],
-  [
    "hyundai",
    10
   ],
   [
-   "unveils",
+   "NVIDIA",
    10
   ],
   [
-   "army",
+   "研究",
    10
   ],
   [
@@ -218,117 +222,157 @@
    10
   ],
   [
-   "scale",
-   10
-  ],
-  [
-   "パートナーシップ",
-   10
-  ],
-  [
-   "締結",
-   10
-  ],
-  [
-   "manufacturing",
-   9
-  ],
-  [
    "tech",
-   9
+   10
   ],
   [
-   "push",
-   9
+   "量産",
+   10
   ],
   [
-   "時代",
-   9
+   "boston",
+   10
   ],
   [
-   "拠点",
-   9
+   "dynamics",
+   10
+  ],
+  [
+   "unitree",
+   10
+  ],
+  [
+   "global",
+   10
+  ],
+  [
+   "atlas",
+   10
   ]
  ],
  "today_top5": [
   {
-   "title": "日立製作所とファナック、製造現場向けフィジカルAIで戦略提携",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LalVlRnZjUkZWQzFDVkV5TlljamNBWmhJb2FySXNXekxEYUJSY3dVZDBFMjY3T3JEZms5eGRhdU1oTTZ4OE9EdE1tZk1sTU5MYXZlYjFmNU1tdnFWOUxjMzBaY2NJdXgwajBkM1M0UE1iOW9V?oc=5",
-   "source": "BigGo ファイナンス",
-   "published": "2026-10-01T22:25:00+00:00",
+   "title": "Boston Dynamics unveils 13-DOF robotic hand for its Atlas humanoid",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV3lwYTIzcXgtN1BYVWxjNDRnVzFmOFYwY29HVXRMRVBNVmVpYnVXdDl1VGtGR296SlNCamRPN0drRlJ5VF9mbGxwcTJuR09OZUNCUDl4UktQemgtWm5Ld2VLMmpIQTAxX0sxSy1mUGNLVDR2b1BpMThZRmpGVnZaS080R3gzUGs?oc=5",
+   "source": "Interesting Engineering",
+   "published": "2026-10-02T12:52:00+00:00",
    "count": 3,
    "sources": [
+    "Interesting Engineering",
+    "Robotics & Automation News",
+    "koreaherald.com"
+   ],
+   "score": 2.57
+  },
+  {
+   "title": "Wandercraft Acquires Ekso Bionics from ChronoScale to Form World's Largest Medical Exoskeleton Powerhouse",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbXhRQWg0VVJqS3dERllvczVqRUFnRlY0SW52b2JSbUZkM3ltZVY5SlRJSTVIYkQ1bzJCbEV2S1cxV2EzanF2UWtjMy1MZkJ4dlRINjFjMWNoNGgxZklmLVVUcmtXVThqaFc2ckluZldMU3hlTWNPMWMzdXdSVWJiQy11WEsxanExYTdPNkc5T0R0VWxPRnNhbndJdW9raWlya3hteXd5MVZtOHd3c2JoZUtDVmVCbDBPMnhvRm1rQQ?oc=5",
+   "source": "HIT Consultant",
+   "published": "2026-10-02T20:02:55+00:00",
+   "count": 2,
+   "sources": [
+    "AI Insider",
+    "HIT Consultant"
+   ],
+   "score": 1.89
+  },
+  {
+   "title": "ヒューマノイドAtlasの新しいハンドは13自由度、小指を省いた理由をBoston Dynamicsの開発チームが語る【動画】",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XZ1A2X1pncWtMOFhMX25veVhvTVlvdVdpNW9kbmVvcndQb0JqeVJBRGFMc3lrUFgydFVBX1hxMHhIR0Y2T0hzUFFBb1g3b2pmdnZUZGNORUJKUGk0T0Zqd0ZNSzdGcUNsdmdNMVFB?oc=5",
+   "source": "au Webポータル",
+   "published": "2026-10-02T07:18:00+00:00",
+   "count": 2,
+   "sources": [
     "BigGo ファイナンス",
-    "projectdesign.jp",
-    "ニュースイッチ by 日刊工業新聞社"
+    "au Webポータル"
    ],
-   "score": 2.91
+   "score": 1.58
   },
   {
-   "title": "Hitachi and Fanuc Form Strategic Partnership on Physical AI for Manufacturing Sites",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlaVMwVmttUUdvSGp2WDZROEE2cDBXMmI2ZUVVZ3FEOGZnN2hwWVQ3LU9WcGx3djVudElzdUxONlduTXJZZkpIM0Uzck5hTjJTclQyUUptUHNPYU5FVWtBMC02aXVidkJOZkIzZWhiUFBCVW9rZmc?oc=5",
-   "source": "finance.biggo.com",
-   "published": "2026-10-01T22:25:00+00:00",
+   "title": "大和ハウスグループが産業用ヒューマノイドロボットのPersona AI Incに出資する意義",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zQWxsUHJuRjZpbFBCU2FncXV1NWg4UnBsd2N3ZUpKVkhNV2toZ1hSRTg1Zk5DbWhuYTEzUkl5MWdUaHdJSjFpS3A1eElfUXlPYjNMMy1Xei1qdGVLekExVUlmeVVIdzBrMkV0RktSYw?oc=5",
+   "source": "ニュースメディアVOIX",
+   "published": "2026-10-02T07:10:12+00:00",
    "count": 2,
    "sources": [
-    "AI Insider",
-    "finance.biggo.com"
+    "PR TIMES",
+    "ニュースメディアVOIX"
    ],
-   "score": 1.94
+   "score": 1.58
   },
   {
-   "title": "【会話AIロボット「Romi」】「Romi（Lacatanモデル）」CEATEC 2026に出展",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4bVBUeG03Z1ZzT19Tb3BQX0RtOUlVN0JWRDFmbE1laWxDeUx2TXRocWROemJTVHdaX3BoclFReXJlYmVOajZXR1dpQWVhNFhSRm5rbXpXcXlTNVhlUk9wODRSelEyOXlO?oc=5",
-   "source": "news.nicovideo.jp",
-   "published": "2026-10-01T18:21:21+00:00",
+   "title": "プレスリリース：アカツキAIテクノロジーズ、「大洗海上花火大会2026」でロボティクス体験を実施（PR TIMES）",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TXzF4WTZiTXJiMlJ3Vjl0YzYzNWdpTnhJWGE4TkRyLTk0RDhYZDlrZ3YyYTI0YU5PY2lab0k4dDhoYldpaXEteUQ3UEFnNWRNSEJ3bk5jOHFIY2lkWXhOeDE0OU1DdDY2?oc=5",
+   "source": "毎日新聞",
+   "published": "2026-10-02T01:53:10+00:00",
    "count": 2,
    "sources": [
-    "news.nicovideo.jp",
-    "株式会社インプレス"
+    "PR TIMES",
+    "毎日新聞"
    ],
-   "score": 1.84
-  },
-  {
-   "title": "U.S. Army Names Five Winners in Humanoid Robotics Competition",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNS1hWWV5TjNiQWRVWXpPRmNSTXZySHZ1SDB6Vkdvd01ISDBKVWdBbmxiR1hOOFpIZzJjMXcxdkpCQ2NGekVTUThGaE5sQVphZ3U2S3l6aDlsUXlxT0MyMmhnYmd1Szd0b3d5VVJLSnczM1JveTlpSFZFdzhwNnNkVjZpaFNOdW1YZWlPWTV4YWxvMENnakNXV0ctWU8yYjQ?oc=5",
-   "source": "AI Insider",
-   "published": "2026-10-01T16:26:38+00:00",
-   "count": 2,
-   "sources": [
-    "AI Insider",
-    "Мілітарний"
-   ],
-   "score": 1.79
-  },
-  {
-   "title": "Agility Robotics & Fort Robotics Expand Partnership For Humanoid Robot Safety",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVWtvay1ESEhodjBpdHdMSy1RYzVIaThrUFJhbGlEVXlFbFRaTVRNZDBFb2c4Vzg2U2xRN0ZubWtnWDVfa2s0eFdpUWZWU09UdDVMQXZrendkdHBpNHpmZUk2OHZDWWpLb0dhc0NFM2x6RnpJNEJCQV9rV2M5ZUE1NG5SY2E4clp3VHZRc2pScVQtWWZTdWFERDV1d3l5QXB0bEtRY3REVWlJeHR0dFNwVXdIRQ?oc=5",
-   "source": "AI Insider",
-   "published": "2026-10-01T14:35:40+00:00",
-   "count": 2,
-   "sources": [
-    "AI Insider",
-    "PR Newswire"
-   ],
-   "score": 1.74
+   "score": 1.47
   }
  ],
  "hot_news": [
   {
+   "title": "日立とファナック、フィジカルAI共同事業化に向け協業開始",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IZnJiOGRhR0tXMU9rWnFRaTFYOW9MX0JLSTZOR3pFc0dfN045OWtfMWlieUZIcmZmWVFBdTBKOWtMWUUtMGhuaC0xZC1mNDFy?oc=5",
+   "source": "LIGARE（リガーレ）",
+   "published": "2026-10-01T23:34:33+00:00",
+   "count": 9,
+   "sources": [
+    "EnterpriseZine",
+    "IT Leaders",
+    "LIGARE（リガーレ）",
+    "LOGISTICS TODAY",
+    "ZDNET Japan",
+    "denkishimbun.com"
+   ],
+   "score": 6.4
+  },
+  {
    "title": "日立製作所とファナック、製造現場向けフィジカルAIで戦略提携",
    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LalVlRnZjUkZWQzFDVkV5TlljamNBWmhJb2FySXNXekxEYUJSY3dVZDBFMjY3T3JEZms5eGRhdU1oTTZ4OE9EdE1tZk1sTU5MYXZlYjFmNU1tdnFWOUxjMzBaY2NJdXgwajBkM1M0UE1iOW9V?oc=5",
    "source": "BigGo ファイナンス",
    "published": "2026-10-01T22:25:00+00:00",
-   "count": 13,
+   "count": 7,
    "sources": [
     "BigGo ファイナンス",
-    "EnterpriseZine",
-    "IT Leaders",
-    "PR TIMES",
     "Yahoo!ニュース",
-    "projectdesign.jp"
+    "ニュースイッチ by 日刊工業新聞社",
+    "ビジネス+IT",
+    "千葉テレビ放送株式会社",
+    "日刊工業新聞"
    ],
-   "score": 12.63
+   "score": 4.9
+  },
+  {
+   "title": "日立とファナックが生産現場へのフィジカルAI実装支援で連携 - LOGI-BIZ online",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZOG11TGRHaWRCUmc2U0lJQTdZSEotSVd4QXMxY1hTa1BsbVNGRXBzZ3BmQ2tYVmRFcDFDTzFDdUFJN1FZVEZUVndqQQ?oc=5",
+   "source": "LOGI-BIZ online",
+   "published": "2026-10-02T04:30:21+00:00",
+   "count": 5,
+   "sources": [
+    "LOGI-BIZ online",
+    "PR TIMES",
+    "ロボスタ",
+    "物流ニュースのLNEWS"
+   ],
+   "score": 3.81
+  },
+  {
+   "title": "人型ロボで建設現場を360度撮影、遠隔臨場と自動記録を実証 Nossa：ロボット",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1QT3NkTFB6cWdfVHhjeG9xMG9OZExtWHFrNEZYb3FHa05aaWkxSEJJa2hEZkZERDFUZjVXQ2RacTVWckxKdTRjN2xEVXFxSG9qNUp1eEZoeS1YY2ZrYWhGTEVrOEFuMEotRDRnNw?oc=5",
+   "source": "built.itmedia.co.jp",
+   "published": "2026-10-02T04:00:00+00:00",
+   "count": 5,
+   "sources": [
+    "PR TIMES",
+    "built.itmedia.co.jp",
+    "ライブドアニュース",
+    "ロボスタ"
+   ],
+   "score": 3.78
   },
   {
    "title": "Commentary: AMD challenges Nvidia in embodied AI as Lisa Su acquires Fei-Fei Li's World Labs",
@@ -343,7 +387,46 @@
     "The American Bazaar",
     "digitimes"
    ],
-   "score": 4.95
+   "score": 3.57
+  },
+  {
+   "title": "Boston Dynamics unveils 13-DOF robotic hand for its Atlas humanoid",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV3lwYTIzcXgtN1BYVWxjNDRnVzFmOFYwY29HVXRMRVBNVmVpYnVXdDl1VGtGR296SlNCamRPN0drRlJ5VF9mbGxwcTJuR09OZUNCUDl4UktQemgtWm5Ld2VLMmpIQTAxX0sxSy1mUGNLVDR2b1BpMThZRmpGVnZaS080R3gzUGs?oc=5",
+   "source": "Interesting Engineering",
+   "published": "2026-10-02T12:52:00+00:00",
+   "count": 3,
+   "sources": [
+    "Interesting Engineering",
+    "Robotics & Automation News",
+    "koreaherald.com"
+   ],
+   "score": 2.57
+  },
+  {
+   "title": "Innodata Opens Motion-Capture Lab: Can Physical AI Drive Growth?",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLTM0UjQwbF9uR3RUMDFCRllnNHBpSzhjYjdydFhsMlZmSlBwUnEtU0VhdGZNZURqSW1RZEJMUmt2WUwtUXV2cmY0MnlzdE90bVJfUmhrY3ZOX1JSVTRtT180ekF3MGNvWTJBNFRWOUZiWE1KTUdaVzhiV3Bhb1UyZUtUeERyRVJ6akVIX25CMk9SNl9qc1N5OE91ZENJVzBuV1NrX1J3?oc=5",
+   "source": "Zacks Investment Research",
+   "published": "2026-10-02T12:32:08+00:00",
+   "count": 3,
+   "sources": [
+    "Investing.com UK",
+    "Zacks Investment Research",
+    "citybiz"
+   ],
+   "score": 2.55
+  },
+  {
+   "title": "Italy’s Eni & Generative Bionics Partner to Explore Humanoid Robotics for Industrial Use",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdW9obFlObnVuckQzXzQ1XzhnNnpFT3ExaDBjanYzaFVZRmwxQ2Q3cEZjODllMklQUnV3bDVpUm11ckdyektvM3JySXplV2RFY0pVZ1k3c3Y1UkZ0cGR4YnF2ZVBUT2dzd2pQY3hnUWFuanpoNVlQLThBV3JjcVZ4TEtxX3A1UVNSRXJCQzVBVXg0YW13bEJzVVNXU3RlZ2hFbTFaakFpSnFVQURpblNoLXBudXZEbk03allOQjZudEc?oc=5",
+   "source": "AI Insider",
+   "published": "2026-10-02T12:29:02+00:00",
+   "count": 3,
+   "sources": [
+    "AI Insider",
+    "Finimize",
+    "Yahoo Finance"
+   ],
+   "score": 2.55
   },
   {
    "title": "SiMa.ai raises $150m at $1.45bn valuation for development of physical AI hardware",
@@ -359,108 +442,24 @@
     "TradingView",
     "W.Media"
    ],
-   "score": 3.5
+   "score": 2.52
   },
   {
-   "title": "日立とファナック、工場でフィジカルAI実証 2027年度から顧客へ共同展開",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvbEI2d2xTSElNZENYaGljQXphQmxjOUw4UjJhVGlnQUIxN1NvWkd1cF91UEZha1R3U1kzVldYdGprQUxwOUJ6Mk4wd2dRVjlKSk1yanBCbE9jdlZrWEFF?oc=5",
-   "source": "千葉テレビ放送株式会社",
-   "published": "2026-10-01T11:46:00+00:00",
-   "count": 4,
-   "sources": [
-    "ZDNET Japan",
-    "denkishimbun.com",
-    "千葉テレビ放送株式会社",
-    "日本経済新聞"
-   ],
-   "score": 3.35
-  },
-  {
-   "title": "AMD to buy private World Labs in $8.2B deal",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44enVWZU5DeVUzTWt5dWdraC1mTUhpbEs1OW85RklCQmhqalNxeFFTQ1dTSFFWN2UxN0hYM0tZajBfWGNTQnlENFA0TzFpcFR6YVdYc3huWGZPWjBWZE5rb2NuVUhfLUxZSEVEUHRBX1M3UnZ2ZWtj?oc=5",
-   "source": "Fierce Sensors",
-   "published": "2026-09-30T11:13:17+00:00",
-   "count": 5,
-   "sources": [
-    "Fierce Sensors",
-    "TradingView",
-    "cio.com",
-    "mobileworldlive.com"
-   ],
-   "score": 2.98
-  },
-  {
-   "title": "プレスリリース：AGIRobots ヒューマノイドロボットアーム「HA1」の販売を開始（PR TIMES）",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTOXlBZ1RHOEhoTFc0NDZMcUQ0ZVctNHdJUm5FMU1BT3pLd1JHc3hieDA5NXNmSG5iekh2UDRsQVRsUWM3S0hWcXdHM01OOTdVYzVKZFRfYjNtaURkLTJyZ1NySkNOdnJG?oc=5",
-   "source": "毎日新聞",
-   "published": "2026-09-30T09:53:19+00:00",
-   "count": 5,
-   "sources": [
-    "PR TIMES",
-    "ニュースメディアVOIX",
-    "ライブドアニュース",
-    "ロボスタ",
-    "毎日新聞"
-   ],
-   "score": 2.92
-  },
-  {
-   "title": "日立とファナック、フィジカルAI実装の共同事業化に向けた戦略的パートナーシップを締結 - LOGI-BIZ online",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5XNjMzVmJlSmJHUzhHSVBwRzNpdE5VblN3V3pIRFRQaVZLZ21BNnB1M1dubUM2YjJfdE1rWnFGc1AwUU13SUF4WVhzWQ?oc=5",
-   "source": "LOGI-BIZ online",
-   "published": "2026-10-01T18:22:11+00:00",
+   "title": "Tech Mahindra & Infinite Uptime Join Hands On Physical AI",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT1BjMnVBc3BmaWFtdm95bTNvWVhIN0ZBQWgyNElSd1dhUVkzRGtPVGowMVNjWnJONmw5aHllcGhPbklfSFpMUkxRTURZc0tKYjI4QjVxWmp5MUR3TG5meERWTTZVYjhWZjFiblE0ZXdXbmo3dE93LWNTNmliU1JBMWRpYWgta0YyUGd4NzBtRVU5dHJ2d3VpbTJUa2NZY0E5Y3FlVDZYeG5VSFI1UXZFUVN3?oc=5",
+   "source": "TradingView",
+   "published": "2026-10-02T11:01:21+00:00",
    "count": 3,
    "sources": [
-    "LOGI-BIZ online",
-    "LOGISTICS TODAY",
-    "株探"
-   ],
-   "score": 2.76
-  },
-  {
-   "title": "Efficient Computer, Taking on AI’s Energy Problem, Announces $97M to Scale its Processors from Physical AI to the Datacenter",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVEx3UTJ0YzhSRHhyeE5KeDNwaV9nb2d3bXUtbWVuRlRlNmd4Q1hNV25hclJOQTNMZW15eFY1ZTNNVFh5WG9aLU5PaDB5Vm1WWl9Pb21KY2pnYUtYSldjNzZkR2dvNFZZX0RVYnFRTzQtd0JBdk9MenJCbU9GbmNGNERiVG84SUVpQ1V2b000SkxlZmRVc1UySk5GR0d4VV82RWNXaUxKZXFpbUxRbEd4TGJ0aUNxeHU0clFrWk9LczNwTXl1V0NVdC1LYW5PRGYwVldZeFhjS2F6V0dDN09BaEllQWlJSGhHNm1NLWJORQ?oc=5",
-   "source": "AI Insider",
-   "published": "2026-10-01T17:02:30+00:00",
-   "count": 3,
-   "sources": [
-    "AI Insider",
-    "PR Newswire",
+    "CRN Asia",
+    "Pulse 2.0",
     "TradingView"
    ],
-   "score": 2.7
-  },
-  {
-   "title": "U.S. Army Names Five Winners in Humanoid Robotics Competition",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNS1hWWV5TjNiQWRVWXpPRmNSTXZySHZ1SDB6Vkdvd01ISDBKVWdBbmxiR1hOOFpIZzJjMXcxdkpCQ2NGekVTUThGaE5sQVphZ3U2S3l6aDlsUXlxT0MyMmhnYmd1Szd0b3d5VVJLSnczM1JveTlpSFZFdzhwNnNkVjZpaFNOdW1YZWlPWTV4YWxvMENnakNXV0ctWU8yYjQ?oc=5",
-   "source": "AI Insider",
-   "published": "2026-10-01T16:26:38+00:00",
-   "count": 3,
-   "sources": [
-    "AI Insider",
-    "Yahoo",
-    "Мілітарний"
-   ],
-   "score": 2.68
-  },
-  {
-   "title": "Innodata Opens New Jersey Motion-Capture Lab for Humanoid Robotics",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeURWYVNoZGY3bkxyZDFndnNZeUpCdzhuNmZBWk1UZXZIcGRiTkhkdjFJNnJaSzdzUWJ5QUFfeXJGU2JZLVFYNFlwWFl0bGNPRkg5QkJNN1FCOG5tUXUtLThVRHBvRHI4TjduT3ctVlN3TWZVVkcwTllEQ2w2LWZQVzRyVmlnRHNQYUlyVmdPd0I4T0h1M2I5bVlJa0dRcFdJQzc0ZjhVTlY?oc=5",
-   "source": "citybiz",
-   "published": "2026-09-30T14:09:12+00:00",
-   "count": 4,
-   "sources": [
-    "Investing.com UK",
-    "The Robot Report",
-    "Yahoo Finance UK",
-    "citybiz"
-   ],
-   "score": 2.48
+   "score": 2.5
   }
  ],
  "trend": {
   "dates": [
-   "2026-09-03",
    "2026-09-04",
    "2026-09-05",
    "2026-09-06",
@@ -489,14 +488,14 @@
    "2026-09-29",
    "2026-09-30",
    "2026-10-01",
-   "2026-10-02"
+   "2026-10-02",
+   "2026-10-03"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     47,
      34,
      8,
      7,
@@ -519,12 +518,13 @@
      52,
      23,
      20,
-     7,
+     8,
      6,
      47,
      63,
      51,
-     35,
+     36,
+     34,
      0
     ]
    },
@@ -532,7 +532,6 @@
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     44,
      36,
      7,
      14,
@@ -559,16 +558,16 @@
      12,
      33,
      36,
-     55,
-     29,
-     1
+     58,
+     31,
+     15,
+     0
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     5,
      7,
      2,
      4,
@@ -594,9 +593,10 @@
      2,
      0,
      6,
-     15,
+     16,
      5,
-     5,
+     6,
+     4,
      0
     ]
    },
@@ -604,7 +604,6 @@
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     36,
      29,
      8,
      9,
@@ -631,8 +630,9 @@
      10,
      25,
      27,
-     34,
-     39,
+     35,
+     42,
+     24,
      0
     ]
    },
@@ -640,12 +640,11 @@
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     26,
      10,
      8,
      8,
      12,
-     39,
+     40,
      31,
      23,
      12,
@@ -661,14 +660,15 @@
      14,
      31,
      12,
-     22,
+     23,
      9,
      6,
      6,
-     13,
+     14,
      19,
-     18,
-     18,
+     19,
+     23,
+     14,
      0
     ]
    }
@@ -703,7 +703,7 @@
    "name": "SAMSUNG ELECTRONICS CO LTD",
    "core": "SAMSUNG ELECTRONICS",
    "patents": 260,
-   "news": 19
+   "news": 22
   },
   {
    "name": "X DEV LLC",
@@ -715,13 +715,13 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 70
+   "news": 72
   },
   {
    "name": "QUALCOMM INC",
    "core": "QUALCOMM",
    "patents": 206,
-   "news": 9
+   "news": 8
   }
  ]
 }
