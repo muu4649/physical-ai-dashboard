@@ -1,21 +1,17 @@
 {
- "updated_at": "2026-10-03T00:07:14.309189+00:00",
+ "updated_at": "2026-10-03T23:30:05.639518+00:00",
  "kpi": {
-  "articles_7d": 727,
-  "articles_prev_7d": 633,
-  "sources_7d": 347,
-  "articles_30d": 3122,
-  "total_articles": 9671,
+  "articles_7d": 730,
+  "articles_prev_7d": 635,
+  "sources_7d": 353,
+  "articles_30d": 3016,
+  "total_articles": 9711,
   "oldest_news": "1970-01-01"
  },
  "wordcloud": [
   [
    "world",
-   36
-  ],
-  [
-   "nvidia",
-   35
+   37
   ],
   [
    "ファナック",
@@ -27,15 +23,15 @@
   ],
   [
    "開発",
-   30
+   31
+  ],
+  [
+   "nvidia",
+   31
   ],
   [
    "現場",
    29
-  ],
-  [
-   "china",
-   28
   ],
   [
    "amd",
@@ -50,31 +46,35 @@
    26
   ],
   [
-   "日本",
-   24
-  ],
-  [
-   "事業",
-   23
+   "china",
+   26
   ],
   [
    "sima",
-   23
+   25
   ],
   [
    "billion",
    23
   ],
   [
-   "データ",
-   22
-  ],
-  [
    "labs",
    22
   ],
   [
-   "中国",
+   "データ",
+   22
+  ],
+  [
+   "事業",
+   22
+  ],
+  [
+   "日本",
+   21
+  ],
+  [
+   "実証",
    20
   ],
   [
@@ -82,27 +82,31 @@
    20
   ],
   [
-   "実証",
+   "valuation",
+   19
+  ],
+  [
+   "中国",
    19
   ],
   [
    "工場",
-   18
-  ],
-  [
-   "valuation",
-   18
+   17
   ],
   [
    "series",
    17
   ],
   [
+   "産業",
+   16
+  ],
+  [
    "製造",
    16
   ],
   [
-   "data",
+   "launches",
    15
   ],
   [
@@ -114,31 +118,11 @@
    15
   ],
   [
+   "活用",
+   14
+  ],
+  [
    "技術",
-   14
-  ],
-  [
-   "企業",
-   14
-  ],
-  [
-   "unveils",
-   14
-  ],
-  [
-   "funding",
-   14
-  ],
-  [
-   "launches",
-   14
-  ],
-  [
-   "産業",
-   14
-  ],
-  [
-   "導入",
    14
   ],
   [
@@ -146,15 +130,35 @@
    14
   ],
   [
+   "社会",
+   14
+  ],
+  [
    "共同",
    14
   ],
   [
-   "活用",
+   "unveils",
    13
   ],
   [
-   "社会",
+   "funding",
+   13
+  ],
+  [
+   "data",
+   13
+  ],
+  [
+   "導入",
+   13
+  ],
+  [
+   "企業",
+   13
+  ],
+  [
+   "lab",
    13
   ],
   [
@@ -178,23 +182,23 @@
    12
   ],
   [
-   "lab",
-   12
-  ],
-  [
    "締結",
    12
-  ],
-  [
-   "army",
-   11
   ],
   [
    "ceo",
    11
   ],
   [
+   "korea",
+   11
+  ],
+  [
    "協業",
+   11
+  ],
+  [
+   "unitree",
    11
   ],
   [
@@ -206,28 +210,8 @@
    11
   ],
   [
-   "hyundai",
-   10
-  ],
-  [
-   "NVIDIA",
-   10
-  ],
-  [
-   "研究",
-   10
-  ],
-  [
-   "korea",
-   10
-  ],
-  [
-   "tech",
-   10
-  ],
-  [
-   "量産",
-   10
+   "global",
+   11
   ],
   [
    "boston",
@@ -238,82 +222,108 @@
    10
   ],
   [
-   "unitree",
-   10
-  ],
-  [
-   "global",
+   "tech",
    10
   ],
   [
    "atlas",
    10
+  ],
+  [
+   "army",
+   9
+  ],
+  [
+   "hyundai",
+   9
+  ],
+  [
+   "platform",
+   9
+  ],
+  [
+   "開催",
+   9
+  ],
+  [
+   "ソフト",
+   9
   ]
  ],
  "today_top5": [
   {
-   "title": "Boston Dynamics unveils 13-DOF robotic hand for its Atlas humanoid",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV3lwYTIzcXgtN1BYVWxjNDRnVzFmOFYwY29HVXRMRVBNVmVpYnVXdDl1VGtGR296SlNCamRPN0drRlJ5VF9mbGxwcTJuR09OZUNCUDl4UktQemgtWm5Ld2VLMmpIQTAxX0sxSy1mUGNLVDR2b1BpMThZRmpGVnZaS080R3gzUGs?oc=5",
-   "source": "Interesting Engineering",
-   "published": "2026-10-02T12:52:00+00:00",
-   "count": 3,
+   "title": "智元机器人（Agibot）ハードウェア徹底解剖報告書：モジュール化設計、内製アクチュエータ技術、および中国サプライチェーンによる「降本増效」の全貌【中国語資料産業調査】",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDRW5naGZvb1FBZE9uTnBKODdPNm43OTZuRlZxaUpQc2RXYUl3RWxidUszODBhbGpSRHBsMEh6Qk5TVTZSVkJNeVlIMVBGbnhoTEF1b3cxVW8?oc=5",
+   "source": "さっつーのAIエージェント",
+   "published": "2026-10-03T22:51:28+00:00",
+   "count": 1,
    "sources": [
-    "Interesting Engineering",
-    "Robotics & Automation News",
-    "koreaherald.com"
+    "さっつーのAIエージェント"
    ],
-   "score": 2.57
+   "score": 0.99
   },
   {
-   "title": "Wandercraft Acquires Ekso Bionics from ChronoScale to Form World's Largest Medical Exoskeleton Powerhouse",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbXhRQWg0VVJqS3dERllvczVqRUFnRlY0SW52b2JSbUZkM3ltZVY5SlRJSTVIYkQ1bzJCbEV2S1cxV2EzanF2UWtjMy1MZkJ4dlRINjFjMWNoNGgxZklmLVVUcmtXVThqaFc2ckluZldMU3hlTWNPMWMzdXdSVWJiQy11WEsxanExYTdPNkc5T0R0VWxPRnNhbndJdW9raWlya3hteXd5MVZtOHd3c2JoZUtDVmVCbDBPMnhvRm1rQQ?oc=5",
-   "source": "HIT Consultant",
-   "published": "2026-10-02T20:02:55+00:00",
-   "count": 2,
+   "title": "KT Bets on 'Connectivity' as the Key to Physical AI—Unlocking Manufacturing Know-How Through a Process Data Platform",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EV1FZVDExX2NHOG5Qa092OG5EWUJOaUY2UmRZckJoQ2ZUbGxEOW10ZDJ3b2J0dHhqS1puY2VUQTBVSHl0R0Y0ckhnWFk0d2NQbkFBTGdXNkJhNGF0U0pWTDlIXzNHNHFES1hReDhtcGI0WXJfd2c?oc=5",
+   "source": "finance.biggo.com",
+   "published": "2026-10-03T22:26:00+00:00",
+   "count": 1,
    "sources": [
-    "AI Insider",
-    "HIT Consultant"
+    "finance.biggo.com"
    ],
-   "score": 1.89
+   "score": 0.99
   },
   {
-   "title": "ヒューマノイドAtlasの新しいハンドは13自由度、小指を省いた理由をBoston Dynamicsの開発チームが語る【動画】",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XZ1A2X1pncWtMOFhMX25veVhvTVlvdVdpNW9kbmVvcndQb0JqeVJBRGFMc3lrUFgydFVBX1hxMHhIR0Y2T0hzUFFBb1g3b2pmdnZUZGNORUJKUGk0T0Zqd0ZNSzdGcUNsdmdNMVFB?oc=5",
-   "source": "au Webポータル",
-   "published": "2026-10-02T07:18:00+00:00",
-   "count": 2,
+   "title": "KT、フィジカルAIの勝負どころは「接続」…工程データプラットフォームで製造ノウハウを解き放つ",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9taHh5dEx2cXNEb0pXQ0txWDFabWRnQ1lDa1dIaE9lMllycXZjRktKTUNJbG9yU0xQZ0RqUHMwalBnZDdtVUkta3l4YTNubFkxSlY1Q1EyaEFhSGh1NUhnUVhqUGREcnEyZkN1RVJOeDcxSlo5?oc=5",
+   "source": "BigGo ファイナンス",
+   "published": "2026-10-03T22:26:00+00:00",
+   "count": 1,
    "sources": [
-    "BigGo ファイナンス",
-    "au Webポータル"
+    "BigGo ファイナンス"
    ],
-   "score": 1.58
+   "score": 0.99
   },
   {
-   "title": "大和ハウスグループが産業用ヒューマノイドロボットのPersona AI Incに出資する意義",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zQWxsUHJuRjZpbFBCU2FncXV1NWg4UnBsd2N3ZUpKVkhNV2toZ1hSRTg1Zk5DbWhuYTEzUkl5MWdUaHdJSjFpS3A1eElfUXlPYjNMMy1Xei1qdGVLekExVUlmeVVIdzBrMkV0RktSYw?oc=5",
-   "source": "ニュースメディアVOIX",
-   "published": "2026-10-02T07:10:12+00:00",
-   "count": 2,
+   "title": "REK \"made history\" with the first Human VS Terminator robot fight! Now California wants it shut down.",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOU3VmUjFkek9RaW5RWlRlc0lsSy1ZUTdmdDlvcUwwYWNSSkFqbnJMMVlkcFRWa2puVEtTZzZOQ0N4Yml5VFJKMjlSUXp4UW5JMmZzUGpXU09SUElHb1Z3NWN3SVFreVJURzBnd3Z4a0ZqUVctXzR3Ym9pRTN5N19LV0lIZHpKWWRmb0l6cDg5REM4SVA1dG9xVnRzREQ4NmFhUHFfN0J3bWJWejJxYng5Vi0xLXNQdjJ2bzNlakhrS1ZEMDA5SFZxQXVIRWpoSl9jT0FZQ0FjQkVXaEY4?oc=5",
+   "source": "5mu.com.au",
+   "published": "2026-10-03T22:04:10+00:00",
+   "count": 1,
    "sources": [
-    "PR TIMES",
-    "ニュースメディアVOIX"
+    "5mu.com.au"
    ],
-   "score": 1.58
+   "score": 0.98
   },
   {
-   "title": "プレスリリース：アカツキAIテクノロジーズ、「大洗海上花火大会2026」でロボティクス体験を実施（PR TIMES）",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TXzF4WTZiTXJiMlJ3Vjl0YzYzNWdpTnhJWGE4TkRyLTk0RDhYZDlrZ3YyYTI0YU5PY2lab0k4dDhoYldpaXEteUQ3UEFnNWRNSEJ3bk5jOHFIY2lkWXhOeDE0OU1DdDY2?oc=5",
-   "source": "毎日新聞",
-   "published": "2026-10-02T01:53:10+00:00",
-   "count": 2,
+   "title": "KTが工程データ接続基盤構築へ フィジカルAIで統合管制推進 - CHOSUNBIZ",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03YkFQM1RIU0k3a1ZkUGphNU9vWGgtWjE1eTcyckY0TlFONzJRSTBQbHBCdUlnNDA3TGNUa0ZLZnJESFN0ZjdtMDY5YVJOaG1ZS3lfbklDQXhRZUdtcTh1Z1RSN1JzbE5OMGhnVHZTbWdpZ2E1TDVYLXJB0gGOAUFVX3lxTE1mZS04azZucFVkMS1CdmhSa2g2N3pXblVlR2x1UzIyQkJ2SVE3VDlRWE1UOTdyRVJxT3R3a2pBZTFCeGtHOVZoRnktaDUwdzM2NVhUV1dPTWhSblJQNzgyTUhzeHJQS2l2b1NJeGRqWmNYZy10SEtSNTZSMUMta3lqSVBKaG8tQ3FxTGNUSEE?oc=5",
+   "source": "Chosunbiz",
+   "published": "2026-10-03T21:01:00+00:00",
+   "count": 1,
    "sources": [
-    "PR TIMES",
-    "毎日新聞"
+    "Chosunbiz"
    ],
-   "score": 1.47
+   "score": 0.97
   }
  ],
  "hot_news": [
+  {
+   "title": "SiMa.ai Raises $150M, Hits $1.45B Valuation [2026] - tech-insider.org",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xXzg0QlpQSHZYYlpVclpJOUZWUUJuRUpyYU9JbFpmaUtPMmdDTXc5QlJCa2lZbEUwOVVsUUx1ckZ3dXdQUGpfdWl3eFd6b1hvY3ZNQzQ5ZjY4U1UzUHJGT0pxbEhPeEE1ZkZCMHpVYTF6azctZUhjaGRQRVNNQQ?oc=5",
+   "source": "tech-insider.org",
+   "published": "2026-10-03T00:24:17+00:00",
+   "count": 7,
+   "sources": [
+    "AI Insider",
+    "Data Center Dynamics",
+    "Pulse 2.0",
+    "TradingView",
+    "W.Media",
+    "citybiz"
+   ],
+   "score": 5.08
+  },
   {
    "title": "日立とファナック、フィジカルAI共同事業化に向け協業開始",
    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IZnJiOGRhR0tXMU9rWnFRaTFYOW9MX0JLSTZOR3pFc0dfN045OWtfMWlieUZIcmZmWVFBdTBKOWtMWUUtMGhuaC0xZC1mNDFy?oc=5",
@@ -328,7 +338,7 @@
     "ZDNET Japan",
     "denkishimbun.com"
    ],
-   "score": 6.4
+   "score": 4.63
   },
   {
    "title": "日立製作所とファナック、製造現場向けフィジカルAIで戦略提携",
@@ -344,7 +354,7 @@
     "千葉テレビ放送株式会社",
     "日刊工業新聞"
    ],
-   "score": 4.9
+   "score": 3.54
   },
   {
    "title": "日立とファナックが生産現場へのフィジカルAI実装支援で連携 - LOGI-BIZ online",
@@ -358,7 +368,7 @@
     "ロボスタ",
     "物流ニュースのLNEWS"
    ],
-   "score": 3.81
+   "score": 2.75
   },
   {
    "title": "人型ロボで建設現場を360度撮影、遠隔臨場と自動記録を実証 Nossa：ロボット",
@@ -372,7 +382,20 @@
     "ライブドアニュース",
     "ロボスタ"
    ],
-   "score": 3.78
+   "score": 2.73
+  },
+  {
+   "title": "IROS 2026 | PaXini Showcases Full-Stack Tactile Strategy for Physical AI",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVzJaY3hBWVZMOHhxNHZHUU1KY0pDNmVFZFVaOFVqbmxxNUl2d2VsQzZlWjdlVmw5X3BjZDF0b2sxSFQwM3VORjRXZnp2VnJrRGlfdm9fb3diU2QyX2tIVWNlb0VlLVQxUGJGSjA3Ql9FQTRyY0FkTURuVDJEMTZSblc3SDRTaFZFTXcxN2lITnB6NWh1d2NDMTM4Yw?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-03T12:47:00+00:00",
+   "count": 3,
+   "sources": [
+    "Morningstar",
+    "The Rome News-Tribune",
+    "Yahoo Finance"
+   ],
+   "score": 2.59
   },
   {
    "title": "Commentary: AMD challenges Nvidia in embodied AI as Lisa Su acquires Fei-Fei Li's World Labs",
@@ -387,7 +410,19 @@
     "The American Bazaar",
     "digitimes"
    ],
-   "score": 3.57
+   "score": 2.58
+  },
+  {
+   "title": "【焦点】Univers：世界の再エネ2割・１TWの管理人、国内蓄電領域でも3割超―フィジカルAIで建物・社会インフラに照準",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Mc19RX1poQmhKR3FyUWFnU2pZYm5aZ3pST2F0WmpfM1IyWUNHdlF1M2JPU3F6N1F6aVc5bjFNeUNkWW9tWHJWeG05RzFNcFZCMmduU3hwZW0tejFyeFhtRkhMNTZwVk9idFRmOW82bTR3X00?oc=5",
+   "source": "みんなの広報宣伝部",
+   "published": "2026-10-03T20:03:45+00:00",
+   "count": 2,
+   "sources": [
+    "PR TIMES",
+    "みんなの広報宣伝部"
+   ],
+   "score": 1.91
   },
   {
    "title": "Boston Dynamics unveils 13-DOF robotic hand for its Atlas humanoid",
@@ -400,7 +435,7 @@
     "Robotics & Automation News",
     "koreaherald.com"
    ],
-   "score": 2.57
+   "score": 1.85
   },
   {
    "title": "Innodata Opens Motion-Capture Lab: Can Physical AI Drive Growth?",
@@ -413,49 +448,7 @@
     "Zacks Investment Research",
     "citybiz"
    ],
-   "score": 2.55
-  },
-  {
-   "title": "Italy’s Eni & Generative Bionics Partner to Explore Humanoid Robotics for Industrial Use",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdW9obFlObnVuckQzXzQ1XzhnNnpFT3ExaDBjanYzaFVZRmwxQ2Q3cEZjODllMklQUnV3bDVpUm11ckdyektvM3JySXplV2RFY0pVZ1k3c3Y1UkZ0cGR4YnF2ZVBUT2dzd2pQY3hnUWFuanpoNVlQLThBV3JjcVZ4TEtxX3A1UVNSRXJCQzVBVXg0YW13bEJzVVNXU3RlZ2hFbTFaakFpSnFVQURpblNoLXBudXZEbk03allOQjZudEc?oc=5",
-   "source": "AI Insider",
-   "published": "2026-10-02T12:29:02+00:00",
-   "count": 3,
-   "sources": [
-    "AI Insider",
-    "Finimize",
-    "Yahoo Finance"
-   ],
-   "score": 2.55
-  },
-  {
-   "title": "SiMa.ai raises $150m at $1.45bn valuation for development of physical AI hardware",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWThpcXM2U0ZCYVdzaE5UV0ZqN0k3b29VR1hpWkE2TTAyNzhGSE5YMlEzcm9wVmZhYTdlejdTR3l4elR6RDhVSnpCU1hFQXozU1M1aTZMOFdsWFRtZHF1QU9oTXVGWWlwWE0tVThkVnVYd1VuQ0tDcHBjbzZhWE5IQWZYY0xCdWV6MjlnTHVUcWNhemhXdmNqOVE1dnpISmNONXN2WnVHaWVMbER0MEYxbXlyRk1pVkNnMGJ6bi1B?oc=5",
-   "source": "Data Center Dynamics",
-   "published": "2026-09-29T12:59:36+00:00",
-   "count": 8,
-   "sources": [
-    "Data Center Dynamics",
-    "Indian Startup News",
-    "Pulse 2.0",
-    "SiliconANGLE",
-    "TradingView",
-    "W.Media"
-   ],
-   "score": 2.52
-  },
-  {
-   "title": "Tech Mahindra & Infinite Uptime Join Hands On Physical AI",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOT1BjMnVBc3BmaWFtdm95bTNvWVhIN0ZBQWgyNElSd1dhUVkzRGtPVGowMVNjWnJONmw5aHllcGhPbklfSFpMUkxRTURZc0tKYjI4QjVxWmp5MUR3TG5meERWTTZVYjhWZjFiblE0ZXdXbmo3dE93LWNTNmliU1JBMWRpYWgta0YyUGd4NzBtRVU5dHJ2d3VpbTJUa2NZY0E5Y3FlVDZYeG5VSFI1UXZFUVN3?oc=5",
-   "source": "TradingView",
-   "published": "2026-10-02T11:01:21+00:00",
-   "count": 3,
-   "sources": [
-    "CRN Asia",
-    "Pulse 2.0",
-    "TradingView"
-   ],
-   "score": 2.5
+   "score": 1.85
   }
  ],
  "trend": {
@@ -523,9 +516,9 @@
      47,
      63,
      51,
-     36,
-     34,
-     0
+     37,
+     35,
+     10
     ]
    },
    {
@@ -560,8 +553,8 @@
      36,
      58,
      31,
-     15,
-     0
+     16,
+     10
     ]
    },
    {
@@ -596,8 +589,8 @@
      16,
      5,
      6,
-     4,
-     0
+     5,
+     2
     ]
    },
    {
@@ -631,9 +624,9 @@
      25,
      27,
      35,
-     42,
-     24,
-     0
+     43,
+     28,
+     8
     ]
    },
    {
@@ -668,8 +661,8 @@
      19,
      19,
      23,
-     14,
-     0
+     15,
+     3
     ]
    }
   ]
@@ -715,7 +708,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 72
+   "news": 71
   },
   {
    "name": "QUALCOMM INC",
