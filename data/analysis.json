@@ -1,116 +1,128 @@
 {
- "updated_at": "2026-10-09T00:57:04.488608+00:00",
+ "updated_at": "2026-10-10T00:28:22.060274+00:00",
  "kpi": {
-  "articles_7d": 641,
-  "articles_prev_7d": 726,
-  "sources_7d": 323,
-  "articles_30d": 3073,
-  "total_articles": 10246,
+  "articles_7d": 639,
+  "articles_prev_7d": 760,
+  "sources_7d": 309,
+  "articles_30d": 3027,
+  "total_articles": 10348,
   "oldest_news": "1970-01-01"
  },
  "wordcloud": [
   [
    "開発",
-   36
+   37
   ],
   [
    "中国",
-   25
+   29
+  ],
+  [
+   "技術",
+   23
   ],
   [
    "ceo",
    21
   ],
   [
-   "dynamics",
-   21
-  ],
-  [
-   "nvidia",
-   20
-  ],
-  [
-   "world",
-   20
-  ],
-  [
-   "技術",
-   20
-  ],
-  [
    "日本",
    20
   ],
   [
+   "dynamics",
+   19
+  ],
+  [
    "boston",
-   20
+   18
+  ],
+  [
+   "nvidia",
+   18
   ],
   [
    "自動",
+   17
+  ],
+  [
+   "world",
+   16
+  ],
+  [
+   "開催",
    15
   ],
   [
-   "実装",
-   14
-  ],
-  [
-   "世界",
-   14
-  ],
-  [
    "実証",
+   15
+  ],
+  [
+   "data",
    14
   ],
   [
-   "産業",
-   14
+   "platform",
+   13
   ],
   [
    "manufacturing",
    13
   ],
   [
-   "開催",
+   "社会",
    13
   ],
   [
-   "industrial",
+   "世界",
+   13
+  ],
+  [
+   "画像",
+   13
+  ],
+  [
+   "写真",
+   13
+  ],
+  [
+   "実装",
+   13
+  ],
+  [
+   "california",
    12
   ],
   [
-   "unveils",
+   "工場",
    12
   ],
   [
-   "data",
+   "humanoids",
    12
   ],
   [
    "series",
-   11
+   12
   ],
   [
-   "future",
-   11
+   "公開",
+   12
   ],
   [
-   "政府",
-   11
-  ],
-  [
-   "社会",
-   11
-  ],
-  [
-   "現場",
-   11
-  ],
-  [
-   "tesla",
-   11
+   "実験",
+   12
   ],
   [
    "south",
+   11
+  ],
+  [
+   "データ",
+   11
+  ],
+  [
+   "産業",
    11
   ],
   [
@@ -118,27 +130,59 @@
    11
   ],
   [
-   "研究",
+   "human",
+   11
+  ],
+  [
+   "tesla",
+   11
+  ],
+  [
+   "korea",
    10
   ],
   [
-   "データ",
+   "韓国",
    10
   ],
   [
-   "工場",
+   "川崎重工",
    10
   ],
   [
-   "humanoids",
+   "figure",
    10
   ],
   [
-   "画像",
+   "unveils",
    10
   ],
   [
-   "写真",
+   "政府",
+   10
+  ],
+  [
+   "china",
+   10
+  ],
+  [
+   "aws",
+   10
+  ],
+  [
+   "時代",
+   10
+  ],
+  [
+   "出展",
+   10
+  ],
+  [
+   "prasad",
+   10
+  ],
+  [
+   "amazon",
    10
   ],
   [
@@ -146,79 +190,19 @@
    10
   ],
   [
-   "実験",
+   "CEATEC",
    10
   ],
   [
-   "brings",
-   9
-  ],
-  [
-   "tech",
-   9
-  ],
-  [
-   "human",
-   9
-  ],
-  [
-   "日立",
-   9
-  ],
-  [
-   "ファナック",
-   9
+   "ceatec",
+   10
   ],
   [
    "市場",
-   9
+   10
   ],
   [
-   "時代",
-   9
-  ],
-  [
-   "safety",
-   9
-  ],
-  [
-   "cage",
-   9
-  ],
-  [
-   "build",
-   9
-  ],
-  [
-   "公開",
-   9
-  ],
-  [
-   "platform",
-   9
-  ],
-  [
-   "korea",
-   9
-  ],
-  [
-   "aws",
-   9
-  ],
-  [
-   "raises",
-   9
-  ],
-  [
-   "川崎重工",
-   9
-  ],
-  [
-   "figure",
-   9
-  ],
-  [
-   "california",
+   "製造",
    9
   ],
   [
@@ -234,116 +218,183 @@
    9
   ],
   [
-   "出展",
+   "raises",
    9
   ],
   [
-   "prasad",
+   "日立",
+   9
+  ],
+  [
+   "ファナック",
+   9
+  ],
+  [
+   "研究",
+   9
+  ],
+  [
+   "安川電機",
+   9
+  ],
+  [
+   "brings",
+   9
+  ],
+  [
+   "rohit",
    9
   ],
   [
    "launches",
-   8
-  ],
-  [
-   "race",
-   8
+   9
   ]
  ],
  "today_top5": [
   {
-   "title": "AWS launches open-source Physical AI Toolchain for robotics",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONFJjZmtncTEyUG43UjRhdVRJLXowSXdJajRTUm1WbzBsakc0ZnN3SUYtVjF5TlliYmptakNpSk5RUUxCd3ptM0FlbUhlTFllOEJoZnQyYTNraWhobWJpMWpzUXJSSjYwRjJOaTdaNE9RN3V2REg3VVMzT1hoQ3ZGak53RVVmYV9YMmlUdlRUMVNmWkQ3TUE?oc=5",
-   "source": "The Robot Report",
-   "published": "2026-10-08T13:40:17+00:00",
-   "count": 4,
-   "sources": [
-    "AI Insider",
-    "Assembly Magazine",
-    "The Robot Report",
-    "The Tech Buzz"
-   ],
-   "score": 3.42
-  },
-  {
-   "title": "TMIPら3者、フィジカルAIロボットで飲料提供＆空容器回収を実験",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56YUlUYzZETlowbk9IV19QeTM0VFdtTGR3X1p0VFJ3ZnRVWUlLa0lpdm84d0dVQjVBYVBmVzNQNF9iT1dkeTl1X1J3bENob2Y3dHlFVnZMb2llQVViejJPdVF4QQ?oc=5",
-   "source": "株式会社インプレス",
-   "published": "2026-10-08T06:22:29+00:00",
+   "title": "GlobalFoundries Announces FDX Fusion Next-Generation Platform For Physical AI",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZGNPcEVaUzNmVkwxdFVGZWc0dTBSaDZWdkNIOTg5TUEtU1JjSjRnUWxIRDhLLS0zUEw1Vk1OZC11LWE4LWFWQ3FPcGpKYTdkNDRCZlVTdTlfcEsyOGZzaHVqRGRtNG9rLVp5T2FkQ0gzTjhGd1BCYkN5SzhLZTN4RDRiUWlJZkZCaF9sNEl0SFpNZXN6ZVZBelB6dW9VemhsQnRqdGxOZmZFYnRvQV9ycTVEOTNYdGliOTFzSzc3Nkp2S0pndEg5cnpR?oc=5",
+   "source": "marketscreener.com",
+   "published": "2026-10-09T17:50:55+00:00",
    "count": 3,
    "sources": [
-    "PR TIMES",
-    "ロボスタ",
-    "株式会社インプレス"
+    "EE Times",
+    "GlobalFoundries",
+    "marketscreener.com"
    ],
-   "score": 2.32
+   "score": 2.74
   },
   {
-   "title": "フィジカルAI連載 - フィジカルAI「職人技」再現に日本の勝機あり 東京ロボティクス（東京）坂本義弘代表取締役 - 写真・画像(2/2)",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtZ1NnNUtNQy1fWVo5b0wxbzVXc1M4YTllQWVwSmF4ak5IOV9RWFdYMVl5NVRKbGlPWlpSOEpPdlN2ZHFjMjRGZG8wUkZId1ViQ3Qtdk5PVQ?oc=5",
-   "source": "西日本新聞me",
-   "published": "2026-10-08T21:16:20+00:00",
-   "count": 2,
+   "title": "モービルアイが「フィジカルAI」講演、自動運転からヒューマノイドへの広がりを紹介へ…CEATEC 2026（レスポンス）",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUklZc3dlREk3WkFMYjRTeVVnVTVZTFlqM0NDVXF1dFhIM2Z6UDI4VGJ6WjhTZGxDYmtOYnpyeGozLThrUmJSTGhGNXBVMFNfZ0R6cHlwTjdPUlpoNDRPMnRrMVZvQ296ZEdUMDY2VlVYTkZhWWYzOVdrVmRLMUVWWVY5QnBuNlpjTUNYVzFR?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-09T04:15:03+00:00",
+   "count": 3,
    "sources": [
-    "西日本新聞me"
+    "Yahoo!ニュース",
+    "レスポンス（Response.jp）"
    ],
-   "score": 1.9
+   "score": 2.27
   },
   {
-   "title": "Shaq Says He’d Play Basketball Against an AI Robot. The Robots Aren’t Ready Yet.",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdG5ObHR5SkRRbzFBQlFwNmpuNm5aZHlBWHhvci1TZjR2NUpBRmV6NjVFVnhRLTUzNEJwb1diYmFyVUUzWUxyZ1NzUERzWi1aWEVyTXR2cmZ6R0xsVktyeUhLMEpCT3NqWlRqQmVycl9DUUxJcm5mZ3pjQnpKb0tuczFvMkVsZ1psWE9TRVBWZ2ZnTGlHVUR2TlpxN0F0RExUVkZkcUdva2k?oc=5",
-   "source": "Gadget Review",
-   "published": "2026-10-08T18:15:16+00:00",
+   "title": "Tesla is one of the ‘clearest ways to own physical AI,’ analyst says",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNWJSWjllWlBUb0owVjV2ZmdFYldGUVlJeFN3dFhnMzBZZzVURTVLQnVnaWpiYmczU01od0s3TzI2VWlPVjFTalJMbGwyM0o1MGtLY2pFVmxhRUxOaTR4VFotelVYQlRmVXdpaVdjU2tBOXRmbmtPdzRxbGx0WS01bzZNVEQ5ekhsMGxLdnlMTTY1dzBsZ1NHSzRRbFNkUlRQZ212Qy1QYkNtSkw3aVZyZjY5allHTnFMMjFZZlpnVQ?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-10-09T19:22:23+00:00",
    "count": 2,
    "sources": [
-    "Gadget Review",
-    "Gizmodo"
+    "Stocktwits",
+    "Yahoo Finance"
    ],
-   "score": 1.82
+   "score": 1.86
   },
   {
-   "title": "Boston Dynamics Appoints Former Amazon AI Leader as CEO",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLXJ6b0UwdWtyQzdMTG4wam56ckt2bkR1MXd0eHRjNUVDLWNzcE52MTdGVFNLaDRpSUVWMm5GLW9XRVEzb3BkZzVPcWpGc1puQktzWnZyNURFZFhfaURuX2FtdVhNVFN2bTVuYkZCWDBGMkJPWFZueE9CYzU5Tm5JU1VTXzl4NFRlMmo5MlB0SQ?oc=5",
-   "source": "Business Chief",
-   "published": "2026-10-08T13:53:58+00:00",
+   "title": "Meiyang Builds a Closed-Loop Physical AI Path: Transforming the Human Body into a Computable Real-World System",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YNk5XRHpMY2Z4ZUpVa1BRQTBSVXNVcVhtNENPU3BxNm5CVU9QaXkzVFZBVHJXRUtYVExBUUluQ3hHQ0pUelNfNGxUNmk3ZzhFUmQ0?oc=5",
+   "source": "36Kr",
+   "published": "2026-10-09T03:43:27+00:00",
    "count": 2,
    "sources": [
-    "AI Magazine",
-    "Business Chief"
+    "36Kr"
    ],
-   "score": 1.72
+   "score": 1.5
+  },
+  {
+   "title": "韓国サムスン・LGもヒューマノイド競争加速…中国勢は卓球やサッカーを実演（KOREA WAVE）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90cWYtaVliRmFYaUJLb183OExOYUt3Z0FObHZ6U20yckdqWXBNTkZFRU5nZnhWajV5Szc0eWxMY2hyQWhHWElRMDBFb3FYODlVdnFCY1dlbXVVa2JHSlFQQlg4Q3hfSHRaaUdZUTBOZlZKakVIS2xqdXVWdXNtaXc?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-09T02:33:16+00:00",
+   "count": 2,
+   "sources": [
+    "Infoseek",
+    "Yahoo!ニュース"
+   ],
+   "score": 1.48
   }
  ],
  "hot_news": [
   {
-   "title": "Boston Dynamics Appoints Former Amazon AI Leader as CEO",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLXJ6b0UwdWtyQzdMTG4wam56ckt2bkR1MXd0eHRjNUVDLWNzcE52MTdGVFNLaDRpSUVWMm5GLW9XRVEzb3BkZzVPcWpGc1puQktzWnZyNURFZFhfaURuX2FtdVhNVFN2bTVuYkZCWDBGMkJPWFZueE9CYzU5Tm5JU1VTXzl4NFRlMmo5MlB0SQ?oc=5",
-   "source": "Business Chief",
-   "published": "2026-10-08T13:53:58+00:00",
-   "count": 9,
+   "title": "Who is Rohit Prasad? The Indian-origin former Amazon AI executive now leading humanoid robot maker Boston Dynamics | Trending",
+   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQYk5nekxBSkVGZWdkQkw2bkotb1dnczA4bU1nZTNvZ254S1d3blJYN2dEM1VvVXo2MUJyVXZZdG9MOXFNMDFBeW5HMlA2RW1VWFhkUXpLWkFvZ1dZYVZwSllWZkl6dm80V1hmRzVwTWpEVEx0OGc3ZlYxMG00MGJhT2x6VVhDdm8tem10ckdOR2lYemFuRF9HQk9LZE9nY0FwM3l6WUV6NXlyR3lBYlFwQU92YnE2eTNmenpUR3dEOGpHQTl3cWVEVlNGWFIwU3pIX0RCRC1EMmxUTm5LSV9HOHdDQ29xc2xFX1F4T2p1aFNfZ2F1NU95RmQxOXNIUTVSOE9DMtIBigJBVV95cUxNUTZnRjlmdTFwaUdhclhLbEl6WW1WN1k0YW1yUFN1elgzMDhFVDc2ZWdmVGFKVjZ0QVE5dmFPQS12ak95cVBUVkpOQXMwSlFkODNVaUVBbkRLY281UUlwbVJTR3N5NjVLb0hGN0lWQzhRSy1Ja0pGbVpkZ0RCdHhfQ3dIZEVUQVdSX1NSSGp2c0phSEhGZE1ydC1nemRkTG9Fc2ZxXzFQTGZiOVpUMXFIcHB3d043X2M4ZUVQeG9tNUJ1SloyNXNxOGctQldPdlk3TWtyZVIwU3Z2dGVWQ0ZVMmlxZHFpMlFlS05tMkFidnZrRGs3ZHVVZkR4MVVrU2J0bTNOTjkzc0dHZw?oc=5",
+   "source": "Hindustan Times",
+   "published": "2026-10-09T11:29:57+00:00",
+   "count": 7,
    "sources": [
     "AI Insider",
     "AI Magazine",
     "BigGo Finance",
-    "Business Chief",
-    "Chosunbiz",
-    "Engineering.com"
+    "Business Wire",
+    "Hindustan Times",
+    "KED Global"
    ],
-   "score": 7.72
+   "score": 5.85
   },
   {
-   "title": "AWS launches open-source Physical AI Toolchain for robotics",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONFJjZmtncTEyUG43UjRhdVRJLXowSXdJajRTUm1WbzBsakc0ZnN3SUYtVjF5TlliYmptakNpSk5RUUxCd3ptM0FlbUhlTFllOEJoZnQyYTNraWhobWJpMWpzUXJSSjYwRjJOaTdaNE9RN3V2REg3VVMzT1hoQ3ZGak53RVVmYV9YMmlUdlRUMVNmWkQ3TUE?oc=5",
-   "source": "The Robot Report",
-   "published": "2026-10-08T13:40:17+00:00",
-   "count": 4,
+   "title": "AWS launches open-source toolchain for physical AI development",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVm92X0dfbDRQaFluOTJlUXBjc0c4RzVRY3ZRNktiNWFOYnRXejRlVEtKeWZ2WnpaYVNYcFc4ZXNUVjNNMWMzTEl2WUZ1RzR2dDBRU1l3UVR3R2w5NlVBUmZTT25LU2x4a2I0aGh1R2lGaTNlb0FWQm41Wkw4WXptYkhpaVRnSkV4VmZERlZ0NXZubzdtZmc?oc=5",
+   "source": "Engineering.com",
+   "published": "2026-10-09T21:08:51+00:00",
+   "count": 5,
    "sources": [
     "AI Insider",
     "Assembly Magazine",
+    "Engineering.com",
     "The Robot Report",
     "The Tech Buzz"
    ],
-   "score": 3.42
+   "score": 4.77
+  },
+  {
+   "title": "Boston Dynamics Appoints Former Amazon AI Leader as CEO",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOLXJ6b0UwdWtyQzdMTG4wam56ckt2bkR1MXd0eHRjNUVDLWNzcE52MTdGVFNLaDRpSUVWMm5GLW9XRVEzb3BkZzVPcWpGc1puQktzWnZyNURFZFhfaURuX2FtdVhNVFN2bTVuYkZCWDBGMkJPWFZueE9CYzU5Tm5JU1VTXzl4NFRlMmo5MlB0SQ?oc=5",
+   "source": "Business Chief",
+   "published": "2026-10-08T13:53:58+00:00",
+   "count": 5,
+   "sources": [
+    "Business Chief",
+    "Chosunbiz",
+    "Engineering.com",
+    "Manufacturing Dive",
+    "아시아경제"
+   ],
+   "score": 3.09
+  },
+  {
+   "title": "GlobalFoundries Announces FDX Fusion Next-Generation Platform For Physical AI",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZGNPcEVaUzNmVkwxdFVGZWc0dTBSaDZWdkNIOTg5TUEtU1JjSjRnUWxIRDhLLS0zUEw1Vk1OZC11LWE4LWFWQ3FPcGpKYTdkNDRCZlVTdTlfcEsyOGZzaHVqRGRtNG9rLVp5T2FkQ0gzTjhGd1BCYkN5SzhLZTN4RDRiUWlJZkZCaF9sNEl0SFpNZXN6ZVZBelB6dW9VemhsQnRqdGxOZmZFYnRvQV9ycTVEOTNYdGliOTFzSzc3Nkp2S0pndEg5cnpR?oc=5",
+   "source": "marketscreener.com",
+   "published": "2026-10-09T17:50:55+00:00",
+   "count": 3,
+   "sources": [
+    "EE Times",
+    "GlobalFoundries",
+    "marketscreener.com"
+   ],
+   "score": 2.74
+  },
+  {
+   "title": "リアルワールド（RLWRLD）、「まちまるごと実証実験by TMIP」への参加が決定三菱地所・TMIPとの連携を通じてフィジカルAIの社会実装を加速",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HSWY0MElfYVYzZU9yMkJWOF9JS3ZkVWhKOTBsSUwtY1k3NU9GRnZjakhDamJDVFlpSGpRTWgyZDZ4djBKaDNjS2RzOHRwaTlYaGVSZ0dLaFl2c0dwd3ZJMXl0ZVhNRlJnWlE?oc=5",
+   "source": "PR TIMES",
+   "published": "2026-10-09T07:30:01+00:00",
+   "count": 3,
+   "sources": [
+    "PR TIMES",
+    "三菱地所"
+   ],
+   "score": 2.37
+  },
+  {
+   "title": "モービルアイが「フィジカルAI」講演、自動運転からヒューマノイドへの広がりを紹介へ…CEATEC 2026（レスポンス）",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUklZc3dlREk3WkFMYjRTeVVnVTVZTFlqM0NDVXF1dFhIM2Z6UDI4VGJ6WjhTZGxDYmtOYnpyeGozLThrUmJSTGhGNXBVMFNfZ0R6cHlwTjdPUlpoNDRPMnRrMVZvQ296ZEdUMDY2VlVYTkZhWWYzOVdrVmRLMUVWWVY5QnBuNlpjTUNYVzFR?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-09T04:15:03+00:00",
+   "count": 3,
+   "sources": [
+    "Yahoo!ニュース",
+    "レスポンス（Response.jp）"
+   ],
+   "score": 2.27
   },
   {
    "title": "【日本最大級】GMOインターネットグループ、人型ロボット（ヒューマノイド）専用の大規模研究開発拠点「GMOヒューマノイ",
@@ -359,7 +410,31 @@
     "ロボスタ",
     "日刊工業新聞"
    ],
-   "score": 3.05
+   "score": 2.2
+  },
+  {
+   "title": "社会に革命的な変化をもたらすと期待される「ヒューマノイドロボット」。その市場への普及に重要なバッテリー技術に関する最新",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xZTVyTVF0b1JVNEotUFFlUW1zNWlkOWlPRWZFeDFsRWVUaDVFM2NURUw4dFhpWVNuZjNHdnlmaDJNal8tRkhzdk4yMGd5M0V2MXlBT3I2bmZFY195YkZrQ25qY182ekRadFJ2bFluZmYxbkE1djlYM0t5VQ?oc=5",
+   "source": "ニコニコニュース",
+   "published": "2026-10-09T00:03:38+00:00",
+   "count": 3,
+   "sources": [
+    "Excite エキサイト",
+    "ニコニコニュース",
+    "ライブドアニュース"
+   ],
+   "score": 2.14
+  },
+  {
+   "title": "フィジカルAI連載 - フィジカルAI「職人技」再現に日本の勝機あり 東京ロボティクス（東京）坂本義弘代表取締役 - 写真・画像(2/2)",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtZ1NnNUtNQy1fWVo5b0wxbzVXc1M4YTllQWVwSmF4ak5IOV9RWFdYMVl5NVRKbGlPWlpSOEpPdlN2ZHFjMjRGZG8wUkZId1ViQ3Qtdk5PVQ?oc=5",
+   "source": "西日本新聞me",
+   "published": "2026-10-08T21:16:20+00:00",
+   "count": 3,
+   "sources": [
+    "西日本新聞me"
+   ],
+   "score": 2.06
   },
   {
    "title": "日立製作所とファナック、フィジカルAI実装のパートナーシップを締結。製造現場における作業の自律化を推進",
@@ -373,85 +448,11 @@
     "カーゴニュースオンライン",
     "レスポンス（Response.jp）"
    ],
-   "score": 2.85
-  },
-  {
-   "title": "TMIPら3者、フィジカルAIロボットで飲料提供＆空容器回収を実験",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56YUlUYzZETlowbk9IV19QeTM0VFdtTGR3X1p0VFJ3ZnRVWUlLa0lpdm84d0dVQjVBYVBmVzNQNF9iT1dkeTl1X1J3bENob2Y3dHlFVnZMb2llQVViejJPdVF4QQ?oc=5",
-   "source": "株式会社インプレス",
-   "published": "2026-10-08T06:22:29+00:00",
-   "count": 3,
-   "sources": [
-    "PR TIMES",
-    "ロボスタ",
-    "株式会社インプレス"
-   ],
-   "score": 2.32
-  },
-  {
-   "title": "ヒューマノイドが公道で「交通指導員」に DEEP Roboticsが実証実験",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8wSjJ6NVgzRGZna2ZjWjdLU0tGV0h5TXR4MkJ0SkVIaU55OHZNSVBuQ05aQUhtc0FjWXhhM3NXT2dpVU1JUzExQ2dDM0JtTjR4MWlpQkY2NjBITm1DbXpId1JB?oc=5",
-   "source": "レスポンス（Response.jp）",
-   "published": "2026-10-08T06:00:03+00:00",
-   "count": 3,
-   "sources": [
-    "レスポンス（Response.jp）",
-    "ロボスタ"
-   ],
-   "score": 2.31
-  },
-  {
-   "title": "「製造データと暗黙知があれば勝てる」は幻想？ フィジカルAI“10の誤解”をGartnerが指摘",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OUEZxWWQ2eXFCZWkyMXczWnVaUHBPUkI1clhMNVJLcVRGc1YzYnRhN3VpMjB3Sk1PVDhiWEItQ3N2UEVDMU5RY2dSRzd6cXpGQ0FDSHZEN0JEOXRnVXh3R1pSZmlzTlNGdWZCVlpkeFVFVEJi?oc=5",
-   "source": "ITmedia",
-   "published": "2026-10-07T23:00:00+00:00",
-   "count": 3,
-   "sources": [
-    "EnterpriseZine",
-    "ITmedia",
-    "ｄメニューニュース"
-   ],
-   "score": 2.09
-  },
-  {
-   "title": "フィジカルAI連載 - フィジカルAI「職人技」再現に日本の勝機あり 東京ロボティクス（東京）坂本義弘代表取締役 - 写真・画像(2/2)",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAtZ1NnNUtNQy1fWVo5b0wxbzVXc1M4YTllQWVwSmF4ak5IOV9RWFdYMVl5NVRKbGlPWlpSOEpPdlN2ZHFjMjRGZG8wUkZId1ViQ3Qtdk5PVQ?oc=5",
-   "source": "西日本新聞me",
-   "published": "2026-10-08T21:16:20+00:00",
-   "count": 2,
-   "sources": [
-    "西日本新聞me"
-   ],
-   "score": 1.9
-  },
-  {
-   "title": "California is trying to shut down robot vs. human cage matches",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPREJEX0NvSGl1TXRQS3RrUVJtY2ZKRVQ2WkZoUnVNNHJBWF9SRmtmTUxjdGk5dTRTQjFrU29GMExtU0RNdlBIanBRTUNIdG03RFZYbjlFcmh1SVBrd1pQM1VZVzhNUVpncEYxcDVmQ0pBSW56S3RuMUY2WUppQllUbTdhZFJoYlBtQVdsS1BZUnlOT1ZKRHc?oc=5",
-   "source": "The Verge",
-   "published": "2026-10-08T20:06:56+00:00",
-   "count": 2,
-   "sources": [
-    "5mu.com.au",
-    "The Verge"
-   ],
-   "score": 1.87
-  },
-  {
-   "title": "Shaq Says He’d Play Basketball Against an AI Robot. The Robots Aren’t Ready Yet.",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdG5ObHR5SkRRbzFBQlFwNmpuNm5aZHlBWHhvci1TZjR2NUpBRmV6NjVFVnhRLTUzNEJwb1diYmFyVUUzWUxyZ1NzUERzWi1aWEVyTXR2cmZ6R0xsVktyeUhLMEpCT3NqWlRqQmVycl9DUUxJcm5mZ3pjQnpKb0tuczFvMkVsZ1psWE9TRVBWZ2ZnTGlHVUR2TlpxN0F0RExUVkZkcUdva2k?oc=5",
-   "source": "Gadget Review",
-   "published": "2026-10-08T18:15:16+00:00",
-   "count": 2,
-   "sources": [
-    "Gadget Review",
-    "Gizmodo"
-   ],
-   "score": 1.82
+   "score": 2.06
   }
  ],
  "trend": {
   "dates": [
-   "2026-09-10",
    "2026-09-11",
    "2026-09-12",
    "2026-09-13",
@@ -480,14 +481,14 @@
    "2026-10-06",
    "2026-10-07",
    "2026-10-08",
-   "2026-10-09"
+   "2026-10-09",
+   "2026-10-10"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     53,
      20,
      5,
      7,
@@ -514,8 +515,9 @@
      5,
      46,
      44,
-     39,
+     40,
      36,
+     31,
      0
     ]
    },
@@ -523,7 +525,6 @@
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     43,
      25,
      3,
      16,
@@ -548,18 +549,18 @@
      17,
      14,
      14,
-     33,
-     56,
+     34,
+     58,
+     26,
      25,
-     21,
-     1
+     13,
+     0
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     1,
      10,
      1,
      9,
@@ -587,7 +588,8 @@
      3,
      3,
      1,
-     3,
+     5,
+     7,
      0
     ]
    },
@@ -595,7 +597,6 @@
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     25,
      34,
      8,
      11,
@@ -621,17 +622,17 @@
      10,
      8,
      23,
-     27,
+     28,
      18,
      34,
-     1
+     28,
+     0
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     23,
      12,
      2,
      6,
@@ -659,8 +660,9 @@
      11,
      31,
      16,
-     10,
-     2
+     11,
+     15,
+     0
     ]
    }
   ]
@@ -682,7 +684,7 @@
    "name": "GOOGLE LLC",
    "core": "GOOGLE",
    "patents": 275,
-   "news": 7
+   "news": 8
   },
   {
    "name": "HONDA MOTOR CO LTD",
@@ -694,7 +696,7 @@
    "name": "SAMSUNG ELECTRONICS CO LTD",
    "core": "SAMSUNG ELECTRONICS",
    "patents": 260,
-   "news": 20
+   "news": 19
   },
   {
    "name": "X DEV LLC",
@@ -706,7 +708,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 73
+   "news": 76
   },
   {
    "name": "QUALCOMM INC",
