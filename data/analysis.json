@@ -1,80 +1,100 @@
 {
- "updated_at": "2026-10-13T02:24:02.006911+00:00",
+ "updated_at": "2026-10-14T00:06:38.390047+00:00",
  "kpi": {
-  "articles_7d": 629,
-  "articles_prev_7d": 752,
-  "sources_7d": 296,
-  "articles_30d": 2962,
-  "total_articles": 10540,
+  "articles_7d": 636,
+  "articles_prev_7d": 756,
+  "sources_7d": 304,
+  "articles_30d": 3069,
+  "total_articles": 10692,
   "oldest_news": "1970-01-01"
  },
  "wordcloud": [
   [
-   "開発",
-   31
-  ],
-  [
-   "日本",
-   25
+   "nvidia",
+   22
   ],
   [
    "市場",
-   21
-  ],
-  [
-   "nvidia",
    20
   ],
   [
-   "dynamics",
-   19
-  ],
-  [
-   "中国",
-   19
-  ],
-  [
-   "boston",
-   17
-  ],
-  [
-   "ceo",
-   16
-  ],
-  [
-   "公開",
-   16
-  ],
-  [
-   "world",
-   15
-  ],
-  [
-   "実装",
-   15
-  ],
-  [
-   "技術",
-   15
-  ],
-  [
-   "CEATEC",
-   14
+   "日本",
+   20
   ],
   [
    "ceatec",
+   19
+  ],
+  [
+   "オムロン",
+   18
+  ],
+  [
+   "買収",
+   18
+  ],
+  [
+   "dynamics",
+   17
+  ],
+  [
+   "CEATEC",
+   16
+  ],
+  [
+   "china",
+   16
+  ],
+  [
+   "platform",
+   15
+  ],
+  [
+   "boston",
+   15
+  ],
+  [
+   "aws",
+   15
+  ],
+  [
+   "開発",
+   15
+  ],
+  [
+   "world",
    14
   ],
   [
-   "写真",
+   "push",
    14
   ],
   [
-   "画像",
+   "技術",
    14
   ],
   [
-   "amazon",
+   "基盤",
+   14
+  ],
+  [
+   "企業",
+   14
+  ],
+  [
+   "onlogic",
+   14
+  ],
+  [
+   "実装",
+   13
+  ],
+  [
+   "中国",
+   13
+  ],
+  [
+   "data",
    13
   ],
   [
@@ -82,127 +102,107 @@
    13
   ],
   [
-   "拠点",
+   "公開",
    13
+  ],
+  [
+   "real",
+   12
+  ],
+  [
+   "ceo",
+   12
+  ],
+  [
+   "社会",
+   12
+  ],
+  [
+   "未来",
+   12
+  ],
+  [
+   "tesla",
+   12
   ],
   [
    "世界",
-   13
-  ],
-  [
-   "china",
-   13
-  ],
-  [
-   "platform",
-   13
-  ],
-  [
-   "aws",
-   13
-  ],
-  [
-   "series",
    12
   ],
   [
-   "humanoids",
+   "unveils",
    12
   ],
   [
-   "川崎重工",
+   "market",
    12
   ],
   [
-   "push",
+   "強化",
    12
   ],
   [
-   "企業",
+   "industrial",
    11
   ],
   [
-   "規模",
+   "amazon",
+   11
+  ],
+  [
+   "series",
+   11
+  ],
+  [
+   "工場",
+   11
+  ],
+  [
+   "startup",
+   11
+  ],
+  [
+   "humanoids",
+   11
+  ],
+  [
+   "launches",
+   11
+  ],
+  [
+   "PC",
    11
   ],
   [
    "実証",
-   11
+   10
   ],
   [
-   "tesla",
-   11
+   "開幕",
+   10
   ],
   [
-   "未来",
-   11
-  ],
-  [
-   "data",
-   11
+   "自動",
+   10
   ],
   [
    "manufacturing",
-   10
+   9
   ],
   [
-   "south",
-   10
+   "toolchain",
+   9
   ],
   [
-   "prasad",
-   10
-  ],
-  [
-   "unveils",
-   10
-  ],
-  [
-   "戦略",
-   10
-  ],
-  [
-   "投資",
-   10
-  ],
-  [
-   "開催",
-   10
-  ],
-  [
-   "工場",
-   10
-  ],
-  [
-   "搭載",
-   10
-  ],
-  [
-   "社会",
-   10
-  ],
-  [
-   "opens",
-   10
-  ],
-  [
-   "real",
-   10
-  ],
-  [
-   "launches",
-   10
-  ],
-  [
-   "market",
-   10
+   "build",
+   9
   ],
   [
    "raises",
    9
   ],
   [
-   "rohit",
+   "announces",
    9
   ],
   [
@@ -210,35 +210,27 @@
    9
   ],
   [
-   "figure",
+   "factory",
    9
   ],
   [
-   "試作",
+   "写真",
    9
   ],
   [
-   "現場",
+   "川崎重工",
    9
   ],
   [
-   "自動",
+   "画像",
    9
   ],
   [
-   "安全",
+   "時代",
    9
   ],
   [
-   "研究",
-   9
-  ],
-  [
-   "オープン",
-   9
-  ],
-  [
-   "基盤",
+   "展示",
    9
   ],
   [
@@ -246,82 +238,112 @@
    9
   ],
   [
-   "training",
+   "実験",
+   9
+  ],
+  [
+   "buy",
+   9
+  ],
+  [
+   "model",
    9
   ]
  ],
  "today_top5": [
   {
+   "title": "米コンピューター企業を買収 オムロン、フィジカルＡＩ基盤構築へ",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xaTRBVmQ0SnVZUXhUMUpnQjNGU1pScFRzbEVMNTV0RDdqV2E2cXgtV2VIb3pQX190cWc3cG85bEJjeXVMUERCWlpNajZPVjBDTDY0WmhaTHNOb2s?oc=5",
+   "source": "京都新聞デジタル",
+   "published": "2026-10-13T21:00:00+00:00",
+   "count": 5,
+   "sources": [
+    "Yahoo!ニュース",
+    "テレ東BIZ",
+    "京都新聞デジタル",
+    "朝日新聞",
+    "産経ニュース"
+   ],
+   "score": 4.79
+  },
+  {
+   "title": "フィジカルAIデイリー 2026年10月14日｜オムロンが米OnLogic買収へ、XPeng人型ロボ27年納入",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9nR01pME5ldTc5d3hFMkxmZHVtdlFGeElvQmlHM1M0cjdHbU9uUHd6QTJnalU3aURWMGtkd0JIeHJ3dw?oc=5",
+   "source": "YouTube",
+   "published": "2026-10-13T20:06:23+00:00",
+   "count": 5,
+   "sources": [
+    "BigGo ファイナンス",
+    "Unite.AI",
+    "YouTube",
+    "ビジネス+IT"
+   ],
+   "score": 4.73
+  },
+  {
+   "title": "Police investigating after humanoid robot ‘sexually assaults’ girl",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ1RncS1Oc0pCZFlmRFR4a3llcXQtV3NzTEliUW5JT2FCeXdoOTZvVWxsYVloYU9ZcnBKXzBuTUs2bjFyLW9FSW1RVGRyejZvckdtSjhvb3QtdlJoYWVLTVZKT0dMS1JMWXhSeVp6OU9XdEZ3cDFROGJMNUY3ZjBkbkdhdTB3dVk0SFZBQ0dESXNHY1k3S3ZkQWJQR1VtVVFiZ3J3UElKY2tLUQ?oc=5",
+   "source": "The Independent",
+   "published": "2026-10-13T20:59:00+00:00",
+   "count": 4,
+   "sources": [
+    "The Independent",
+    "The Times",
+    "Yahoo"
+   ],
+   "score": 3.83
+  },
+  {
    "title": "Omron to Acquire Industrial PC Maker OnLogic in Physical AI Push",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ1lXX01hWFA0bXpBWmtWaDBObXVrTFJlYUZES19TWmZsaUFfTTJmeHJ4YjdwZVZqMjh1R1hhdnFnRkU3YWlHblN4ck5rR0ZpbEhWQ2lJWWswUml2dkpPaUo1eTB5LTBPQXRvSzZJWWtlUzlIQ1RKR0FJRFlKa095M1hGS0tEejlfTGxCdHpPUQ?oc=5",
    "source": "Unite.AI",
    "published": "2026-10-13T01:58:01+00:00",
-   "count": 6,
+   "count": 4,
    "sources": [
     "Investing.com",
     "MLex",
-    "Nikkei Asia",
     "Reuters",
-    "TradingView",
     "Unite.AI"
    ],
-   "score": 5.96
+   "score": 2.94
   },
   {
-   "title": "S. Korea opens 1st military AI base to train robots for dangerous missions",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaWRxN3pyTWFObFh1QW80Q0wwdGhkWk41SDktSUw5TUt6bS1VdHFmV1EwLVU1MHRqcUhBSzF0bklGenNEY1NVU3ZZU0JvaGV4ejRRSFY3d0lHLWxSU0JQN2NhaGU4WW5CWXJXSXM0eFNsd3ZKME5vYlEycERQcTZUZ1c4Ym9KeWU3dHUxQVhndl9UaVNhMGFudERJM2hlQWpMTU9faTlmVGVQU1nSAasBQVVfeXFMUEJ4TDlZOU9obFpaR1BkcGJvWEM3Q2oxOTkwTmhrMTlSZ2VkNWFYWG9IUFB6amM4Q1RhQlFFeWpaT0lYRHhTVlp4ZFlWTkpxRnU2aXVya3ZuQVI1OFRNY1dWcmM4N2pZRmFQUjVzMzdENjFWdXZoblFGcllzRTZ0QndpNjROMWRadjdVVlNheXo1cU9hRTc5MFozNXJpXzJaY3JxaE1oalVHbEN3?oc=5",
-   "source": "Qazinform",
-   "published": "2026-10-13T01:41:54+00:00",
-   "count": 2,
+   "title": "Ubitium raises $14 million to build ‘first universal processor for physical AI’",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQa3lCTHFLWkYweW1DWUFzdFI1c1FjYnV2R1VvZ3JEUGM5Y0dONi1fQjVlTU9yNF9rN0lpUmJXc1FQX0RXMEMtcXozeWV1NWFOT1lXTWI0cVhZdjJ3R1RCaGhzV0Ffcnl2Ql9JZExLVlFjQ2lnY0JudjRscGRnWndJdHljeXJhMHZFbnFCbGlJb3dGbTJnUzVNY2c0N3lET3ZpVUZuekVsZHJoS1VyN0l2ODZsMkZScFFPLU5aLVhKUDN2bmZXalhfZmRfenFkQQ?oc=5",
+   "source": "Robotics & Automation News",
+   "published": "2026-10-13T16:29:16+00:00",
+   "count": 3,
    "sources": [
-    "Anadolu Ajansı",
-    "Qazinform"
+    "AI Insider",
+    "Robotics & Automation News",
+    "Tech.eu"
    ],
-   "score": 1.98
-  },
-  {
-   "title": "オムロン、米産業用PCのOnLogicを675億ドルで買収 フィジカルAI強化へ",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lSjVzZURnWHcxTWZwR3o1MXBQMXpKLUwxYW9LeGJ6MnNmUHBNQTF4cGczRjJJbkFnRXREb2JoMmtzNzk1ajVzRVF1QWRRaXZhX0FHeGJMeHNyRHdsejRHNmRzQTk2ZHJSY09raTBWUnBjTzVs?oc=5",
-   "source": "BigGo ファイナンス",
-   "published": "2026-10-13T01:25:00+00:00",
-   "count": 2,
-   "sources": [
-    "BigGo ファイナンス",
-    "ビジネス+IT"
-   ],
-   "score": 1.97
-  },
-  {
-   "title": "Humanoid Robot G1 Conducts Marching Ljubljana Wind Orchestra",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaHRFY0pHRmt1T25BSkUwdkM3MVJ3dXlpbzNJeF9EZ01qU3hIWGNORnByM3EtbDk0ZUFkWk91R2pLalpxb3pUWWlCVV95b3RiTENBZHdqM00yYzNHWjlqVVZPMWNQLXU4VUZhcUVZdHdaUWFtSmJTdVBMTjVWUjA4Q2kyS1FvRnBqSzExT1ZR?oc=5",
-   "source": "조선일보",
-   "published": "2026-10-12T23:29:02+00:00",
-   "count": 2,
-   "sources": [
-    "Xinhua",
-    "조선일보"
-   ],
-   "score": 1.92
-  },
-  {
-   "title": "今日の株価材料（新聞など、10〜13日）オムロン、米PCメーカー買収 1000億円規模 フィジカルAI基盤構築へ",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ta09qSTBVRXdRemJUNU9zX1dsVnJsSXVidXlLTXlGeG1ySHVIWHY2WjQzby1vN3VKOGItUExtcjFMMUpJWDU1SXVUa3FsZm10TVNnOWd6aXp0XzN2bXotdkNzSnhGTUZ0ZktNaA?oc=5",
-   "source": "日本経済新聞",
-   "published": "2026-10-12T22:43:22+00:00",
-   "count": 2,
-   "sources": [
-    "日本経済新聞"
-   ],
-   "score": 1.9
+   "score": 2.7
   }
  ],
  "hot_news": [
   {
+   "title": "米コンピューター企業を買収 オムロン、フィジカルＡＩ基盤構築へ",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xaTRBVmQ0SnVZUXhUMUpnQjNGU1pScFRzbEVMNTV0RDdqV2E2cXgtV2VIb3pQX190cWc3cG85bEJjeXVMUERCWlpNajZPVjBDTDY0WmhaTHNOb2s?oc=5",
+   "source": "京都新聞デジタル",
+   "published": "2026-10-13T21:00:00+00:00",
+   "count": 8,
+   "sources": [
+    "Yahoo!ニュース",
+    "テレ東BIZ",
+    "京都新聞デジタル",
+    "日本経済新聞",
+    "朝日新聞",
+    "産経ニュース"
+   ],
+   "score": 7.66
+  },
+  {
    "title": "Omron to Acquire Industrial PC Maker OnLogic in Physical AI Push",
    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ1lXX01hWFA0bXpBWmtWaDBObXVrTFJlYUZES19TWmZsaUFfTTJmeHJ4YjdwZVZqMjh1R1hhdnFnRkU3YWlHblN4ck5rR0ZpbEhWQ2lJWWswUml2dkpPaUo1eTB5LTBPQXRvSzZJWWtlUzlIQ1RKR0FJRFlKa095M1hGS0tEejlfTGxCdHpPUQ?oc=5",
    "source": "Unite.AI",
    "published": "2026-10-13T01:58:01+00:00",
-   "count": 6,
+   "count": 7,
    "sources": [
     "Investing.com",
     "MLex",
@@ -330,7 +352,46 @@
     "TradingView",
     "Unite.AI"
    ],
-   "score": 5.96
+   "score": 5.15
+  },
+  {
+   "title": "フィジカルAIデイリー 2026年10月14日｜オムロンが米OnLogic買収へ、XPeng人型ロボ27年納入",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9nR01pME5ldTc5d3hFMkxmZHVtdlFGeElvQmlHM1M0cjdHbU9uUHd6QTJnalU3aURWMGtkd0JIeHJ3dw?oc=5",
+   "source": "YouTube",
+   "published": "2026-10-13T20:06:23+00:00",
+   "count": 5,
+   "sources": [
+    "BigGo ファイナンス",
+    "Unite.AI",
+    "YouTube",
+    "ビジネス+IT"
+   ],
+   "score": 4.73
+  },
+  {
+   "title": "Police investigating after humanoid robot ‘sexually assaults’ girl",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ1RncS1Oc0pCZFlmRFR4a3llcXQtV3NzTEliUW5JT2FCeXdoOTZvVWxsYVloYU9ZcnBKXzBuTUs2bjFyLW9FSW1RVGRyejZvckdtSjhvb3QtdlJoYWVLTVZKT0dMS1JMWXhSeVp6OU9XdEZ3cDFROGJMNUY3ZjBkbkdhdTB3dVk0SFZBQ0dESXNHY1k3S3ZkQWJQR1VtVVFiZ3J3UElKY2tLUQ?oc=5",
+   "source": "The Independent",
+   "published": "2026-10-13T20:59:00+00:00",
+   "count": 4,
+   "sources": [
+    "The Independent",
+    "The Times",
+    "Yahoo"
+   ],
+   "score": 3.83
+  },
+  {
+   "title": "「製造データと暗黙知があれば勝てる」は幻想？ フィジカルAI“10の誤解”をGartnerが指摘（ITmedia エンタープライズ）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uVTRHSDdQZnVSZlNQazI3NFpnNkxpS0tXX1puZHpoUjNFT1E0VUZOaHNlNFF5b1RpMWVtSWwwM1dTbGY3TDUtaXNPN1RuX1psOVJBOUx0VDRtVXBRdC03d050cVNqX2thSFhSczRpZjlTRmlVOERVTXh5TDRfTmM?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-13T22:16:15+00:00",
+   "count": 3,
+   "sources": [
+    "ITmedia",
+    "Yahoo!ニュース"
+   ],
+   "score": 2.92
   },
   {
    "title": "DRAM Demand for Humanoid Robots to Surge 20-Fold by 2030",
@@ -343,7 +404,33 @@
     "Seoul Economic Daily",
     "조선일보"
    ],
-   "score": 3.81
+   "score": 2.82
+  },
+  {
+   "title": "Ubitium raises $14 million to build ‘first universal processor for physical AI’",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQa3lCTHFLWkYweW1DWUFzdFI1c1FjYnV2R1VvZ3JEUGM5Y0dONi1fQjVlTU9yNF9rN0lpUmJXc1FQX0RXMEMtcXozeWV1NWFOT1lXTWI0cVhZdjJ3R1RCaGhzV0Ffcnl2Ql9JZExLVlFjQ2lnY0JudjRscGRnWndJdHljeXJhMHZFbnFCbGlJb3dGbTJnUzVNY2c0N3lET3ZpVUZuekVsZHJoS1VyN0l2ODZsMkZScFFPLU5aLVhKUDN2bmZXalhfZmRfenFkQQ?oc=5",
+   "source": "Robotics & Automation News",
+   "published": "2026-10-13T16:29:16+00:00",
+   "count": 3,
+   "sources": [
+    "AI Insider",
+    "Robotics & Automation News",
+    "Tech.eu"
+   ],
+   "score": 2.7
+  },
+  {
+   "title": "GMO AIR、センシング・対話機能を強化したUnitree製ヒューマノイド「G1+」の国内取り扱いを開始",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xVzRITTVXUmE3a01ibHktUklCdnlGdWJPaDNhY3NJWjBYaXo0aUVtT2NqVGdsczBIaHBQMHJtb1pURHpIQ0pSTl9jN2M4MWo5MmxtVU9BVloxMFU?oc=5",
+   "source": "DRONE.jp",
+   "published": "2026-10-13T08:21:39+00:00",
+   "count": 3,
+   "sources": [
+    "DRONE.jp",
+    "PR TIMES",
+    "ロボスタ"
+   ],
+   "score": 2.41
   },
   {
    "title": "フィジカルAI搭載ロボットが飲料を手渡し空容器も回収 10月15・16日に東京丸の内で実証",
@@ -357,105 +444,24 @@
     "ロボスタ",
     "三菱地所"
    ],
-   "score": 3.21
+   "score": 2.37
   },
   {
-   "title": "UBTECH and FAW-Volkswagen Expand Humanoid Robot Testing Into Factory Logistics",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTkpLRDVkZ3pqcWpONkJ6X0tlOTUyVnJEeWpOWXRFeGNDUHZBR05ONERoTjE2MVJiOFBSTFdJVjhOU0pBMXlsVDdVcmZ6dHotb2xKODdCYmtKNkV5X3pVdUJFQjJZZGFVd1NsOWl4bUpQT2E3OW9oeXdiSnRUUDByckYtNlRtcENwVUl3MVo2RHVGeEY3WTk3ZXh6clZsbHk2V2MxSGhReEhSdGx0cXlIbDZVU1ZWR3VvdXpFNl9SVWVPQWZ4Z2N4Ymdn?oc=5",
-   "source": "A3 Association for Advancing Automation",
-   "published": "2026-10-12T10:06:57+00:00",
+   "title": "Globalfoundries targets physical AI with new FD-SOI platform",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOEs0emMydW5lc2JROWxrbktrd0pwbkZnSFNxQnBieDJKSmdNSGVoV1Qzb3B0b3lkZFRnay13UDMtMVIzR3JJYlpFcVZIWEZwM1ZyUGRYSnozN3V4ZXN5b3ZZdnp5djA0Z3lJY2t6cDZjRmppdlJUa1Y3cGZyeUJFYjZZd3diV1RyMlVfcHhwWHROSGNWZktj?oc=5",
+   "source": "Bits&Chips",
+   "published": "2026-10-13T05:20:41+00:00",
    "count": 3,
    "sources": [
-    "A3 Association for Advancing Automation",
-    "Gadget Review",
-    "Gasgoo"
-   ],
-   "score": 2.39
-  },
-  {
-   "title": "GlobalFoundries outlines next-generation FD-SOI platform for Physical AI applications",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNei03WmM2NXZNY01Mc2F2a0tHLWk0NmMtUV95VHhrcHB0ZkxFNXFTOXNzcURhZEozbllVQ2pvdVpvRkF0N1lRejVuWjJBUERiRjNrVjRQZGttYzU1bGdic1lMY0VxZy1jSUFha3IwUzdDTU9Va0pkS0xRUWJrMnduVFhNemRwOFJZZGpPelBZQjh4TGNJd0dFeEFDQURPNHROeklPalBYczF0NVA1WldqSWJSeklRWVlIa0hveXBPd0NaNElwT3hRQXdRQQ?oc=5",
-   "source": "New Electronics",
-   "published": "2026-10-12T08:57:37+00:00",
-   "count": 3,
-   "sources": [
-    "GlobalFoundries",
+    "Bits&Chips",
     "New Electronics",
     "marketscreener.com"
    ],
-   "score": 2.35
-  },
-  {
-   "title": "川崎重工、ソーシャルロボット『Home LEO』試作機を完成…フィジカルAIで高齢者を支える",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA5bDlORXg2ZWRRWHNhUEZFMkY2X0k0RzlYNDhBejdNc1ltWHQtMFh5S0kwSEdsTnJfanFzVEs5dlloSm9ta014WWN4MGM0bmJFTHFIYWFqa1hmdWNuUUl6Sm53?oc=5",
-   "source": "レスポンス（Response.jp）",
-   "published": "2026-10-10T03:30:03+00:00",
-   "count": 6,
-   "sources": [
-    "レスポンス（Response.jp）",
-    "ロボスタ",
-    "新潟日報"
-   ],
-   "score": 2.24
-  },
-  {
-   "title": "フィジカルAIデイリー 2026年10月11日｜日立×ファナック提携、AWSがロボット開発基盤を公開",
-   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE90VVJWMGZNaE1VdnVoTmd5MXo3Q2VNemFXN1B2djRDRGJEbXNkX1JoQmlUTHpIckVYWFVoS1RBZEI5QQ?oc=5",
-   "source": "YouTube",
-   "published": "2026-10-11T05:15:38+00:00",
-   "count": 4,
-   "sources": [
-    "FabScene",
-    "Yahoo!ニュース",
-    "YouTube",
-    "ビジネス+IT"
-   ],
-   "score": 2.14
-  },
-  {
-   "title": "Who is Rohit Prasad? The Indian-origin former Amazon AI executive now leading humanoid robot maker Boston Dynamics | Trending",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQYk5nekxBSkVGZWdkQkw2bkotb1dnczA4bU1nZTNvZ254S1d3blJYN2dEM1VvVXo2MUJyVXZZdG9MOXFNMDFBeW5HMlA2RW1VWFhkUXpLWkFvZ1dZYVZwSllWZkl6dm80V1hmRzVwTWpEVEx0OGc3ZlYxMG00MGJhT2x6VVhDdm8tem10ckdOR2lYemFuRF9HQk9LZE9nY0FwM3l6WUV6NXlyR3lBYlFwQU92YnE2eTNmenpUR3dEOGpHQTl3cWVEVlNGWFIwU3pIX0RCRC1EMmxUTm5LSV9HOHdDQ29xc2xFX1F4T2p1aFNfZ2F1NU95RmQxOXNIUTVSOE9DMtIBigJBVV95cUxNUTZnRjlmdTFwaUdhclhLbEl6WW1WN1k0YW1yUFN1elgzMDhFVDc2ZWdmVGFKVjZ0QVE5dmFPQS12ak95cVBUVkpOQXMwSlFkODNVaUVBbkRLY281UUlwbVJTR3N5NjVLb0hGN0lWQzhRSy1Ja0pGbVpkZ0RCdHhfQ3dIZEVUQVdSX1NSSGp2c0phSEhGZE1ydC1nemRkTG9Fc2ZxXzFQTGZiOVpUMXFIcHB3d043X2M4ZUVQeG9tNUJ1SloyNXNxOGctQldPdlk3TWtyZVIwU3Z2dGVWQ0ZVMmlxZHFpMlFlS05tMkFidnZrRGs3ZHVVZkR4MVVrU2J0bTNOTjkzc0dHZw?oc=5",
-   "source": "Hindustan Times",
-   "published": "2026-10-09T11:29:57+00:00",
-   "count": 7,
-   "sources": [
-    "AI Insider",
-    "AI Magazine",
-    "BigGo Finance",
-    "Business Wire",
-    "Hindustan Times",
-    "KED Global"
-   ],
-   "score": 2.09
-  },
-  {
-   "title": "S. Korea opens 1st military AI base to train robots for dangerous missions",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaWRxN3pyTWFObFh1QW80Q0wwdGhkWk41SDktSUw5TUt6bS1VdHFmV1EwLVU1MHRqcUhBSzF0bklGenNEY1NVU3ZZU0JvaGV4ejRRSFY3d0lHLWxSU0JQN2NhaGU4WW5CWXJXSXM0eFNsd3ZKME5vYlEycERQcTZUZ1c4Ym9KeWU3dHUxQVhndl9UaVNhMGFudERJM2hlQWpMTU9faTlmVGVQU1nSAasBQVVfeXFMUEJ4TDlZOU9obFpaR1BkcGJvWEM3Q2oxOTkwTmhrMTlSZ2VkNWFYWG9IUFB6amM4Q1RhQlFFeWpaT0lYRHhTVlp4ZFlWTkpxRnU2aXVya3ZuQVI1OFRNY1dWcmM4N2pZRmFQUjVzMzdENjFWdXZoblFGcllzRTZ0QndpNjROMWRadjdVVlNheXo1cU9hRTc5MFozNXJpXzJaY3JxaE1oalVHbEN3?oc=5",
-   "source": "Qazinform",
-   "published": "2026-10-13T01:41:54+00:00",
-   "count": 2,
-   "sources": [
-    "Anadolu Ajansı",
-    "Qazinform"
-   ],
-   "score": 1.98
-  },
-  {
-   "title": "オムロン、米産業用PCのOnLogicを675億ドルで買収 フィジカルAI強化へ",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lSjVzZURnWHcxTWZwR3o1MXBQMXpKLUwxYW9LeGJ6MnNmUHBNQTF4cGczRjJJbkFnRXREb2JoMmtzNzk1ajVzRVF1QWRRaXZhX0FHeGJMeHNyRHdsejRHNmRzQTk2ZHJSY09raTBWUnBjTzVs?oc=5",
-   "source": "BigGo ファイナンス",
-   "published": "2026-10-13T01:25:00+00:00",
-   "count": 2,
-   "sources": [
-    "BigGo ファイナンス",
-    "ビジネス+IT"
-   ],
-   "score": 1.97
+   "score": 2.31
   }
  ],
  "trend": {
   "dates": [
-   "2026-09-14",
    "2026-09-15",
    "2026-09-16",
    "2026-09-17",
@@ -484,14 +490,14 @@
    "2026-10-10",
    "2026-10-11",
    "2026-10-12",
-   "2026-10-13"
+   "2026-10-13",
+   "2026-10-14"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     37,
      57,
      41,
      48,
@@ -519,15 +525,15 @@
      34,
      12,
      8,
-     36,
-     9
+     38,
+     55,
+     0
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     38,
      45,
      45,
      43,
@@ -555,15 +561,15 @@
      15,
      6,
      9,
-     11,
-     11
+     12,
+     59,
+     0
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     8,
      3,
      5,
      8,
@@ -592,6 +598,7 @@
      0,
      0,
      6,
+     6,
      0
     ]
    },
@@ -599,7 +606,6 @@
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     42,
      41,
      36,
      23,
@@ -627,7 +633,8 @@
      30,
      7,
      13,
-     22,
+     24,
+     27,
      0
     ]
    },
@@ -635,7 +642,6 @@
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     21,
      8,
      21,
      16,
@@ -663,8 +669,9 @@
      18,
      4,
      9,
-     9,
-     1
+     10,
+     21,
+     0
     ]
    }
   ]
@@ -674,7 +681,7 @@
    "name": "INTEL CORP",
    "core": "INTEL",
    "patents": 1051,
-   "news": 3
+   "news": 5
   },
   {
    "name": "BOSCH GMBH ROBERT",
@@ -686,7 +693,7 @@
    "name": "GOOGLE LLC",
    "core": "GOOGLE",
    "patents": 275,
-   "news": 7
+   "news": 8
   },
   {
    "name": "HONDA MOTOR CO LTD",
@@ -698,7 +705,7 @@
    "name": "SAMSUNG ELECTRONICS CO LTD",
    "core": "SAMSUNG ELECTRONICS",
    "patents": 260,
-   "news": 22
+   "news": 23
   },
   {
    "name": "X DEV LLC",
@@ -710,7 +717,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 74
+   "news": 80
   },
   {
    "name": "QUALCOMM INC",
