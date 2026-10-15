@@ -1,29 +1,41 @@
 {
- "updated_at": "2026-10-14T23:38:18.482952+00:00",
+ "updated_at": "2026-10-15T23:31:40.903526+00:00",
  "kpi": {
-  "articles_7d": 681,
-  "articles_prev_7d": 687,
-  "sources_7d": 330,
-  "articles_30d": 3067,
-  "total_articles": 10832,
+  "articles_7d": 689,
+  "articles_prev_7d": 668,
+  "sources_7d": 323,
+  "articles_30d": 3044,
+  "total_articles": 10958,
   "oldest_news": "1970-01-01"
  },
  "wordcloud": [
   [
    "ceatec",
-   27
+   28
   ],
   [
    "日本",
-   23
+   24
   ],
   [
    "CEATEC",
-   23
+   24
   ],
   [
    "nvidia",
+   23
+  ],
+  [
+   "china",
    22
+  ],
+  [
+   "data",
+   21
+  ],
+  [
+   "launches",
+   21
   ],
   [
    "オムロン",
@@ -34,31 +46,27 @@
    20
   ],
   [
-   "公開",
-   20
-  ],
-  [
-   "china",
-   20
-  ],
-  [
    "買収",
    20
   ],
   [
-   "launches",
+   "企業",
+   19
+  ],
+  [
+   "girl",
+   19
+  ],
+  [
+   "公開",
    18
   ],
   [
-   "技術",
-   17
+   "raises",
+   16
   ],
   [
-   "企業",
-   17
-  ],
-  [
-   "world",
+   "基盤",
    16
   ],
   [
@@ -66,11 +74,19 @@
    16
   ],
   [
-   "girl",
+   "現場",
    16
   ],
   [
-   "data",
+   "技術",
+   15
+  ],
+  [
+   "build",
+   15
+  ],
+  [
+   "開発",
    15
   ],
   [
@@ -78,15 +94,11 @@
    15
   ],
   [
-   "基盤",
+   "産業",
    15
   ],
   [
-   "unveils",
-   14
-  ],
-  [
-   "aws",
+   "world",
    14
   ],
   [
@@ -94,27 +106,35 @@
    14
   ],
   [
+   "police",
+   14
+  ],
+  [
    "実証",
-   14
-  ],
-  [
-   "開発",
-   14
-  ],
-  [
-   "中国",
    13
   ],
   [
-   "korea",
+   "実装",
    13
   ],
   [
-   "model",
+   "国産",
    13
   ],
   [
-   "build",
+   "強化",
+   13
+  ],
+  [
+   "million",
+   12
+  ],
+  [
+   "unveils",
+   12
+  ],
+  [
+   "川崎重工",
    12
   ],
   [
@@ -122,15 +142,7 @@
    12
   ],
   [
-   "世界",
-   12
-  ],
-  [
-   "raises",
-   12
-  ],
-  [
-   "market",
+   "korea",
    12
   ],
   [
@@ -138,55 +150,47 @@
    12
   ],
   [
-   "強化",
-   12
-  ],
-  [
-   "産業",
-   12
-  ],
-  [
-   "real",
-   11
-  ],
-  [
-   "industrial",
-   11
-  ],
-  [
-   "million",
-   11
-  ],
-  [
-   "未来",
-   11
-  ],
-  [
-   "実装",
-   11
-  ],
-  [
-   "自動",
-   11
-  ],
-  [
-   "川崎重工",
-   11
-  ],
-  [
    "sexually",
+   12
+  ],
+  [
+   "teen",
+   12
+  ],
+  [
+   "funding",
    11
   ],
   [
-   "humanoids",
-   10
+   "社会",
+   11
+  ],
+  [
+   "platform",
+   11
+  ],
+  [
+   "model",
+   11
+  ],
+  [
+   "搭載",
+   11
+  ],
+  [
+   "japan",
+   11
+  ],
+  [
+   "germany",
+   11
   ],
   [
    "scale",
    10
   ],
   [
-   "platform",
+   "buy",
    10
   ],
   [
@@ -194,11 +198,35 @@
    10
   ],
   [
-   "tesla",
+   "infrastructure",
    10
   ],
   [
-   "実験",
+   "brings",
+   10
+  ],
+  [
+   "工場",
+   10
+  ],
+  [
+   "自動",
+   10
+  ],
+  [
+   "未来",
+   10
+  ],
+  [
+   "中国",
+   10
+  ],
+  [
+   "ubtech",
+   10
+  ],
+  [
+   "factory",
    10
   ],
   [
@@ -206,121 +234,142 @@
    10
   ],
   [
-   "展示",
+   "世界",
    10
   ],
   [
-   "国産",
+   "導入",
    10
   ],
   [
-   "現場",
+   "点検",
    10
   ],
   [
-   "funding",
-   9
-  ],
-  [
-   "紹介",
-   9
-  ],
-  [
-   "series",
-   9
-  ],
-  [
-   "expands",
-   9
-  ],
-  [
-   "buy",
-   9
-  ],
-  [
-   "ロボティクス",
-   9
-  ],
-  [
-   "画像",
-   9
-  ],
-  [
-   "写真",
-   9
+   "西武鉄道",
+   10
   ]
  ],
  "today_top5": [
   {
-   "title": "【フィジカルＡＩ】お家芸進化の切り札",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YZXJYNk5LNnNMZlhoVHFtZnlHRWpuZ2t6R20takZ3Qjh4ME8xQXZrNklGam1kNzRULXo5R3J2VG5TWVh5X0doX3NGWG50WW1sQjZyalR4YWtkYTg?oc=5",
-   "source": "下野新聞社",
-   "published": "2026-10-14T01:39:35+00:00",
-   "count": 6,
+   "title": "ZOZO NEXTとAVITA、ヒューマノイド向け衣服の共同研究へ",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RZHVaZUk3bG51b2k1YWFyTEJsdVhRSUZ6UmVqMnFiMUFHdzVkYzBDVnJXT1MwaGRmRWhod1gyM2lnSVJLdk5vYXZXaEJmeE1JRGdNdXR5Q1JKcEN6VGtYQUxJQUI?oc=5",
+   "source": "Impress Watch",
+   "published": "2026-10-15T09:09:40+00:00",
+   "count": 8,
    "sources": [
-    "下野新聞社",
-    "佐賀新聞",
-    "東奥日報社",
-    "沖縄タイムス社",
-    "熊本日日新聞社",
-    "西日本新聞me"
-   ],
-   "score": 4.42
-  },
-  {
-   "title": "H2Lが素手の作業を学習するフィジカルAIを公開 「CEATEC 2026」で初披露",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnT3Z3d3FaYmhkeUdPVHhzemxNbUJnN2ZMQV9HbDdhQk84ckREeDdMZElxb2xoMFRhUmJMdUpJVFYxYkZMQl9GOUZMMWt1WGs4VEROU3RxbGFQQjhucUlnaUw3M0pNMm1UdEpOb2otcEdCbzZxOWpUU2h1SQ?oc=5",
-   "source": "ニコニコニュース",
-   "published": "2026-10-14T23:18:30+00:00",
-   "count": 4,
-   "sources": [
-    "FabScene",
+    "Dellows News",
+    "Impress Watch",
     "PR TIMES",
-    "ニコニコニュース",
-    "月刊「事業構想」オンライン"
+    "Yahoo!ニュース",
+    "ニュースメディアVOIX",
+    "ロボスタ"
    ],
-   "score": 3.98
+   "score": 6.55
   },
   {
-   "title": "フィジカルAI搭載ロボットが変電所点検 西武鉄道で「ugo mini」導入に向け実証実験 職員の移動時間削減へ",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE50bFQ4VDJMZnZkR3NpR0NkVk8yajBfRW1USTVMRnJSdGhsUUhyWTR5M09oTUk5VWlDakw1NlVUOV9JTlNkSEJGVDBIeDYtZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-14T21:35:00+00:00",
+   "title": "Axonex AI Group Joins FLAIR’s Embodied AI International Applications Hub and Launches Education Humanoid TOMO",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQY29YZjZHdjVzN1NheHdqMHJqUmRCNFh4YUxzenl2dnBIQXRDQVBqZDZPd1BTb0V0eWJselFTbHFBeHc0ZWpSMVRST2RlN1VTb1RDVk5Oajl1b2JQZkdnT2tsUkpHMW5uUzVvNVU4dFUybDI3dm4yUDZMX0pxYkN0WmYtcmpvT0E0UUNGbkcteW1UTkRibEZzcllxX2o0bmNwamswWktlZFU5bDlSczM3VldyTWJURnZINlpNLS1Rcjdselg5Y0RJNFlqRFdxSjR4U3NkQ1ZDUUhMbXkxdmwzSFNpbnIzSWhWbmhrcmlKM0FjdW1nUmlGRWdpSE8?oc=5",
+   "source": "markets.businessinsider.com",
+   "published": "2026-10-15T17:03:13+00:00",
    "count": 4,
    "sources": [
-    "BigGo ファイナンス",
-    "FNNプライムオンライン",
-    "産経ニュース"
+    "Investing.com Canada",
+    "StreetInsider",
+    "The Manila Times",
+    "markets.businessinsider.com"
    ],
-   "score": 3.89
+   "score": 3.66
   },
   {
-   "title": "Fincantieri accelerates robotics and physical AI to build the shipyard of the future",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWU5UVXFuS245SFdFMlJ0Vi03V0c2azIzN2l0TVVkUDNDZHR2dHhZSWpvVElBTk4tUGFCM1ZQcTNobFBib3JKSEt3ZmcteHpXTUp1SmJNcHdRR3VUMUxualY4dk9EZEJmTDMyZERYbVRaYnNMNVRDbmN6c241X2E2ZUJocFNTTHRmcTlZR1R4cFMxWGlLcmFHbTZIRG5sek1UUU9PWElkaUdFbVp5Q0tXLVhRZnZwdjFEMUYycWo5STRnZ2dnOFFnMW1oaGVjZmFHS0hVWkFFQ0haZE1v?oc=5",
-   "source": "Fincantieri",
-   "published": "2026-10-14T12:09:35+00:00",
+   "title": "Hesai Launches Kosmo 3D Data Platform for Robot Training and World Models",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMUEyb0lVcV9KVGJHdkpIOVBjUDFXLVVmYkdzbXY3VVB0QnFXVTk0aGRRQTFCZ0pfVWhpeWl0elVXdkNjMkQxSnF1RTVaakstS2hoeFlpSC1qMUxJWXRrZ2J0Q18wWkJNdjFUd2swTjNOV1ZmLTRGb01qOTBIMEZ6ZExfRkJCam9wUDY5T2haSjhZS2ZLU2pESUdpWmZPSWRZSkNLdDRkcUN4MFR3TUNybA?oc=5",
+   "source": "AI Insider",
+   "published": "2026-10-15T12:26:47+00:00",
+   "count": 4,
+   "sources": [
+    "AI Insider",
+    "BigGo Finance",
+    "Engineering.com",
+    "Technology Org"
+   ],
+   "score": 3.43
+  },
+  {
+   "title": "German Police Seize Robot After Alleged Groping of 16-Year-Old Girl",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbEJHZDhJM0dpX0c0LWZXUTdsUzVPYlpjTGpzT1YzVGpjVXBVcEp5U1p1SThuSUpYVTM1c3VfZ1E3X096QUNGVmVVSjhzMlgtOW5JaWpVdlRwZ2tIa0V3Q2lNZkpwRjRTZDdTNmJHYUM4d0w2Wk1aa2xHQk9FbjNrbE1DajZXc0ZDZ0xVd2I1Tzc?oc=5",
+   "source": "TechRepublic",
+   "published": "2026-10-15T16:37:57+00:00",
    "count": 3,
    "sources": [
-    "Fincantieri",
-    "Marine Link",
-    "www.marketscreener.com"
+    "NBC News",
+    "TechRepublic",
+    "geekspin"
    ],
-   "score": 2.56
+   "score": 2.73
   },
   {
-   "title": "Building the Data Infrastructure for Physical AI: Hesai Launches Kosmo 3D World Data Engine",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdm9ZRTNGMmdYMkU4dE5xWmM1TVkxVmtTeFlYQ1NhRnJWSFhaWHctNnItdEVnNmdsMVBCMGI1bnNyUW9zZUQ5azVGOV9FeTNEXzdwX2x1SmtqenFkSW5GSGpPQUxJdHJ3RHVSRC1veVo2aTlHNEI4Y2xZOVN6VXZkQ29xRU5sSmRWLTI1aHVVR0tqNzZGRGdWM2VwdGcwcGhlVHRyd1lORmhfc242Y2pWWVN1SGpNVEVCVTFTUXhLcktNSWNnbVdrcmdsYk01bnQ4bmZuYTJNS1MtMUNLaFBv?oc=5",
-   "source": "PR Newswire",
-   "published": "2026-10-14T18:04:00+00:00",
-   "count": 2,
+   "title": "Nyobolt Batteries to Power Agility Robotics’ Digit 5 Humanoid Robot",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVVY4UkxsTmltb2ZUWXN1NVlqcm9MVXZ1S0dWbVF3WkMzeU5zbmRLdXExU01jUXVsY3RaUmV4UkVpVlpfU3hTdF9aRU5mc3c2NVhva003NmxhaW1wa080MUh1UmZHTXJoTm9OUFROZlBQVjdCRXl2Ym5lQmhaaWZCXzNzdG5MME9Wc2tmbGJCN3lhUQ?oc=5",
+   "source": "Unite.AI",
+   "published": "2026-10-15T11:36:13+00:00",
+   "count": 3,
    "sources": [
-    "PR Newswire",
-    "TradingView"
+    "The Robot Report",
+    "TradingView",
+    "Unite.AI"
    ],
-   "score": 1.85
+   "score": 2.54
   }
  ],
  "hot_news": [
+  {
+   "title": "ZOZO NEXTとAVITA、ヒューマノイド向け衣服の共同研究へ",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RZHVaZUk3bG51b2k1YWFyTEJsdVhRSUZ6UmVqMnFiMUFHdzVkYzBDVnJXT1MwaGRmRWhod1gyM2lnSVJLdk5vYXZXaEJmeE1JRGdNdXR5Q1JKcEN6VGtYQUxJQUI?oc=5",
+   "source": "Impress Watch",
+   "published": "2026-10-15T09:09:40+00:00",
+   "count": 8,
+   "sources": [
+    "Dellows News",
+    "Impress Watch",
+    "PR TIMES",
+    "Yahoo!ニュース",
+    "ニュースメディアVOIX",
+    "ロボスタ"
+   ],
+   "score": 6.55
+  },
+  {
+   "title": "Hesai Launches Kosmo 3D Data Platform for Robot Training and World Models",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMUEyb0lVcV9KVGJHdkpIOVBjUDFXLVVmYkdzbXY3VVB0QnFXVTk0aGRRQTFCZ0pfVWhpeWl0elVXdkNjMkQxSnF1RTVaakstS2hoeFlpSC1qMUxJWXRrZ2J0Q18wWkJNdjFUd2swTjNOV1ZmLTRGb01qOTBIMEZ6ZExfRkJCam9wUDY5T2haSjhZS2ZLU2pESUdpWmZPSWRZSkNLdDRkcUN4MFR3TUNybA?oc=5",
+   "source": "AI Insider",
+   "published": "2026-10-15T12:26:47+00:00",
+   "count": 6,
+   "sources": [
+    "AI Insider",
+    "BigGo Finance",
+    "Engineering.com",
+    "PR Newswire",
+    "Technology Org",
+    "TradingView"
+   ],
+   "score": 5.14
+  },
+  {
+   "title": "German Police Seize Robot After Alleged Groping of 16-Year-Old Girl",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbEJHZDhJM0dpX0c0LWZXUTdsUzVPYlpjTGpzT1YzVGpjVXBVcEp5U1p1SThuSUpYVTM1c3VfZ1E3X096QUNGVmVVSjhzMlgtOW5JaWpVdlRwZ2tIa0V3Q2lNZkpwRjRTZDdTNmJHYUM4d0w2Wk1aa2xHQk9FbjNrbE1DajZXc0ZDZ0xVd2I1Tzc?oc=5",
+   "source": "TechRepublic",
+   "published": "2026-10-15T16:37:57+00:00",
+   "count": 5,
+   "sources": [
+    "CBS News",
+    "NBC News",
+    "TechRepublic",
+    "ThePrint",
+    "geekspin"
+   ],
+   "score": 4.54
+  },
   {
    "title": "Omron to acquire OnLogic in $675M physical AI deal",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YLWFMaU1LZzkxZHprZllZa29ON0JDQ2ZYQ2laMC04bEc1NldnMXE1V0xtZkRpeHVna3lTTzV4MXlSZlZya2VKTzJlcDBucFdZZkxJYk5YUWJaZkZBTXdlQzFlTmZOWTJIR2ZlWWhJNVRQbGM4bXRfbTN4VUp1Zw?oc=5",
@@ -335,7 +384,22 @@
     "TNGlobal",
     "TradingView"
    ],
-   "score": 5.83
+   "score": 4.18
+  },
+  {
+   "title": "お知らせ｜【産経新聞】国産フィジカルAIで変電所メンテナンス改革 西武鉄道が「ugo mini」の実証実験について掲載",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kdnd3SVNUaTFmMGZPSUNVTmYydm8yUjBlUk5EbTlBUWFzdkpDa2Z3dVB5N2VyVzZFWVljR3JEYlREdkw1VDJZdk1GMmdkTmE3bUhrM2hKZVRTT28?oc=5",
+   "source": "ugo",
+   "published": "2026-10-15T09:09:47+00:00",
+   "count": 5,
+   "sources": [
+    "BigGo ファイナンス",
+    "FNNプライムオンライン",
+    "ugo",
+    "レスポンス（Response.jp）",
+    "産経ニュース"
+   ],
+   "score": 4.1
   },
   {
    "title": "オムロンが米産業用PC大手を買収 製造現場の「フィジカルAI」実装へ1000億円投資",
@@ -350,7 +414,21 @@
     "日本経済新聞",
     "東京報道新聞"
    ],
-   "score": 5.34
+   "score": 3.83
+  },
+  {
+   "title": "Axonex AI Group Joins FLAIR’s Embodied AI International Applications Hub and Launches Education Humanoid TOMO",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQY29YZjZHdjVzN1NheHdqMHJqUmRCNFh4YUxzenl2dnBIQXRDQVBqZDZPd1BTb0V0eWJselFTbHFBeHc0ZWpSMVRST2RlN1VTb1RDVk5Oajl1b2JQZkdnT2tsUkpHMW5uUzVvNVU4dFUybDI3dm4yUDZMX0pxYkN0WmYtcmpvT0E0UUNGbkcteW1UTkRibEZzcllxX2o0bmNwamswWktlZFU5bDlSczM3VldyTWJURnZINlpNLS1Rcjdselg5Y0RJNFlqRFdxSjR4U3NkQ1ZDUUhMbXkxdmwzSFNpbnIzSWhWbmhrcmlKM0FjdW1nUmlGRWdpSE8?oc=5",
+   "source": "markets.businessinsider.com",
+   "published": "2026-10-15T17:03:13+00:00",
+   "count": 4,
+   "sources": [
+    "Investing.com Canada",
+    "StreetInsider",
+    "The Manila Times",
+    "markets.businessinsider.com"
+   ],
+   "score": 3.66
   },
   {
    "title": "米コンピューター企業を買収 オムロン、フィジカルＡＩ基盤構築へ",
@@ -366,7 +444,21 @@
     "朝日新聞",
     "産経ニュース"
    ],
-   "score": 4.84
+   "score": 3.47
+  },
+  {
+   "title": "Fincantieri Advances Robotics And AI To Build Future Shipyards With Nearly €100 Million Investment",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVWp1RjRYRHN0T01obWx5cHBrUlA0YmtJcVJPd29heFlLdHk5dG1BRXpmaS1fWV9qRVI2OUlWeXJEU2lnWE9acDRsT3dVREhoejItaDlfQnJwV3pJbkZScHh0Yy1TQ2JOM0lzQ3lEeXoyaDRQaGZjUTR0WXBxM3RXVzM5OHJPeXY0WmJHcUJ5bFJnOV9QY1F4WGV6UTR0NnIzYXZPclFzVjI3eU42amNMYUVfbVFsQ3hyR2k2ankxbThTdC00aXZGMQ?oc=5",
+   "source": "Marine Insight",
+   "published": "2026-10-15T10:49:47+00:00",
+   "count": 4,
+   "sources": [
+    "Fincantieri",
+    "Marine Insight",
+    "Marine Log",
+    "www.marketscreener.com"
+   ],
+   "score": 3.35
   },
   {
    "title": "【フィジカルＡＩ】お家芸進化の切り札",
@@ -382,93 +474,11 @@
     "熊本日日新聞社",
     "西日本新聞me"
    ],
-   "score": 4.42
-  },
-  {
-   "title": "川崎重工、フィジカルAI活用のHome LEO発表 高齢者を支援",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56Q0FfU2pOQ0NYTWNXcVZ1RmVJNVNaV3RfWVdXUXVnZEpVXzVoTy1pQjZ0UFNKR2JheFNVZ21ydFlhcnRBbExORm85dGEwSFJYd1E?oc=5",
-   "source": "LIGARE（リガーレ）",
-   "published": "2026-10-14T23:34:58+00:00",
-   "count": 4,
-   "sources": [
-    "LIGARE（リガーレ）",
-    "レスポンス（Response.jp）"
-   ],
-   "score": 4.0
-  },
-  {
-   "title": "H2Lが素手の作業を学習するフィジカルAIを公開 「CEATEC 2026」で初披露",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnT3Z3d3FaYmhkeUdPVHhzemxNbUJnN2ZMQV9HbDdhQk84ckREeDdMZElxb2xoMFRhUmJMdUpJVFYxYkZMQl9GOUZMMWt1WGs4VEROU3RxbGFQQjhucUlnaUw3M0pNMm1UdEpOb2otcEdCbzZxOWpUU2h1SQ?oc=5",
-   "source": "ニコニコニュース",
-   "published": "2026-10-14T23:18:30+00:00",
-   "count": 4,
-   "sources": [
-    "FabScene",
-    "PR TIMES",
-    "ニコニコニュース",
-    "月刊「事業構想」オンライン"
-   ],
-   "score": 3.98
-  },
-  {
-   "title": "フィジカルAI搭載ロボットが変電所点検 西武鉄道で「ugo mini」導入に向け実証実験 職員の移動時間削減へ",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE50bFQ4VDJMZnZkR3NpR0NkVk8yajBfRW1USTVMRnJSdGhsUUhyWTR5M09oTUk5VWlDakw1NlVUOV9JTlNkSEJGVDBIeDYtZw?oc=5",
-   "source": "FNNプライムオンライン",
-   "published": "2026-10-14T21:35:00+00:00",
-   "count": 4,
-   "sources": [
-    "BigGo ファイナンス",
-    "FNNプライムオンライン",
-    "産経ニュース"
-   ],
-   "score": 3.89
-  },
-  {
-   "title": "Ubitium Raises $14 Million To Build The First Universal Processor For Physical AI",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV1EwOU5UZmNnSExrNW90MTZhN0RWSUxhNnYzcWktTk9XQjQ1RFdCMTM2eUh0T0l3MElqN25RamM0Qk44Tkx2UGxUcEctM0hOeGc5dXNzUEl6ZHhydFRnT19FWnE5aW1ISVh2LTZUNVYzNndTak1KVW85WGZYWnJRWGlsVkJFM3B5UjlEb1dMYjdrbDZCejZsUk1FSEVqZWdDVkE?oc=5",
-   "source": "Pulse 2.0",
-   "published": "2026-10-14T12:23:32+00:00",
-   "count": 4,
-   "sources": [
-    "AI Insider",
-    "Pulse 2.0",
-    "Robotics & Automation News",
-    "Tech.eu"
-   ],
-   "score": 3.42
-  },
-  {
-   "title": "Humanoid Robot Sexually Assaults 16-Year-Old Girl In Germany",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRl9rYzRmU0tCMll4eU5HUEZ4dnQzdUVQOEZKdkIwcVk5TUVzdFR2akdDZGRabE1TYmhMdUVRSWx1R3dqM21paFZlTnhhaXc2bjlIUXpuMjRFQUloRkp1TkVDR0VtNE5VS3lmUmhoMDdZRFd6RnBpcnloZnJMOGFtdzlPTDlUS3NHMUtTY3YxNFZCSjZMbXJ1cWo0M2J2VmFnLUFSSFVR?oc=5",
-   "source": "Northeast Live",
-   "published": "2026-10-14T11:20:27+00:00",
-   "count": 4,
-   "sources": [
-    "Firstpost",
-    "Northeast Live",
-    "The Independent",
-    "The Times"
-   ],
-   "score": 3.37
-  },
-  {
-   "title": "松尾研究所と川崎重工、ヒューマノイド「Kaleido9」の重量物運搬デモに成功 - LOGI-BIZ online",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zMWlFVjNjZTdWX3JULTd1dzFONTJrNndwaFc5TnRoY2o2X21ldlNyVHVodUIyd05lNnVTMExHNnpTTVcxYk9qX3lPYw?oc=5",
-   "source": "LOGI-BIZ online",
-   "published": "2026-10-14T05:47:42+00:00",
-   "count": 4,
-   "sources": [
-    "LOGI-BIZ online",
-    "ニコニコニュース",
-    "ニュースメディアVOIX",
-    "ロボスタ"
-   ],
-   "score": 3.12
+   "score": 3.17
   }
  ],
  "trend": {
   "dates": [
-   "2026-09-15",
    "2026-09-16",
    "2026-09-17",
    "2026-09-18",
@@ -497,14 +507,14 @@
    "2026-10-11",
    "2026-10-12",
    "2026-10-13",
-   "2026-10-14"
+   "2026-10-14",
+   "2026-10-15"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     57,
      41,
      48,
      37,
@@ -533,14 +543,14 @@
      8,
      39,
      57,
-     44
+     46,
+     34
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     45,
      45,
      43,
      29,
@@ -566,17 +576,17 @@
      26,
      15,
      6,
-     9,
+     10,
      12,
      65,
-     44
+     46,
+     24
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     3,
      5,
      8,
      16,
@@ -601,10 +611,11 @@
      1,
      5,
      7,
-     0,
+     1,
      0,
      7,
      6,
+     8,
      7
     ]
    },
@@ -612,7 +623,6 @@
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     41,
      36,
      23,
      31,
@@ -639,8 +649,9 @@
      30,
      7,
      13,
-     24,
-     29,
+     25,
+     30,
+     35,
      30
     ]
    },
@@ -648,7 +659,6 @@
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     8,
      21,
      16,
      18,
@@ -674,10 +684,11 @@
      12,
      18,
      4,
-     9,
+     10,
      11,
      22,
-     9
+     9,
+     19
     ]
    }
   ]
@@ -687,7 +698,7 @@
    "name": "INTEL CORP",
    "core": "INTEL",
    "patents": 1051,
-   "news": 5
+   "news": 7
   },
   {
    "name": "BOSCH GMBH ROBERT",
@@ -699,7 +710,7 @@
    "name": "GOOGLE LLC",
    "core": "GOOGLE",
    "patents": 275,
-   "news": 9
+   "news": 12
   },
   {
    "name": "HONDA MOTOR CO LTD",
@@ -723,7 +734,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 81
+   "news": 84
   },
   {
    "name": "QUALCOMM INC",
