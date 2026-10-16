@@ -1,28 +1,40 @@
 {
- "updated_at": "2026-10-15T23:31:40.903526+00:00",
+ "updated_at": "2026-10-16T23:14:05.284742+00:00",
  "kpi": {
-  "articles_7d": 689,
-  "articles_prev_7d": 668,
-  "sources_7d": 323,
-  "articles_30d": 3044,
-  "total_articles": 10958,
+  "articles_7d": 725,
+  "articles_prev_7d": 662,
+  "sources_7d": 329,
+  "articles_30d": 3041,
+  "total_articles": 11095,
   "oldest_news": "1970-01-01"
  },
  "wordcloud": [
   [
-   "ceatec",
+   "launches",
    28
   ],
   [
-   "日本",
-   24
+   "ceatec",
+   27
   ],
   [
-   "CEATEC",
-   24
+   "開発",
+   26
+  ],
+  [
+   "日本",
+   26
+  ],
+  [
+   "現場",
+   26
   ],
   [
    "nvidia",
+   23
+  ],
+  [
+   "CEATEC",
    23
   ],
   [
@@ -30,19 +42,15 @@
    22
   ],
   [
-   "data",
-   21
-  ],
-  [
-   "launches",
-   21
+   "実装",
+   22
   ],
   [
    "オムロン",
    21
   ],
   [
-   "市場",
+   "企業",
    20
   ],
   [
@@ -50,23 +58,39 @@
    20
   ],
   [
-   "企業",
-   19
-  ],
-  [
    "girl",
-   19
+   20
   ],
   [
-   "公開",
+   "技術",
    18
   ],
   [
-   "raises",
-   16
+   "data",
+   18
   ],
   [
    "基盤",
+   17
+  ],
+  [
+   "市場",
+   17
+  ],
+  [
+   "raises",
+   17
+  ],
+  [
+   "公開",
+   16
+  ],
+  [
+   "世界",
+   16
+  ],
+  [
+   "japan",
    16
   ],
   [
@@ -74,23 +98,23 @@
    16
   ],
   [
-   "現場",
+   "開幕",
    16
   ],
   [
-   "技術",
-   15
+   "police",
+   16
   ],
   [
    "build",
    15
   ],
   [
-   "開発",
+   "hub",
    15
   ],
   [
-   "開幕",
+   "実証",
    15
   ],
   [
@@ -98,51 +122,67 @@
    15
   ],
   [
-   "world",
-   14
+   "future",
+   15
   ],
   [
    "push",
    14
   ],
   [
-   "police",
+   "強化",
    14
   ],
   [
-   "実証",
+   "共同",
+   14
+  ],
+  [
+   "中国",
    13
   ],
   [
-   "実装",
+   "川崎重工",
    13
   ],
   [
-   "国産",
+   "導入",
    13
   ],
   [
-   "強化",
+   "world",
    13
   ],
   [
-   "million",
-   12
+   "搭載",
+   13
+  ],
+  [
+   "連携",
+   13
+  ],
+  [
+   "teen",
+   13
+  ],
+  [
+   "germany",
+   13
   ],
   [
    "unveils",
    12
   ],
   [
-   "川崎重工",
+   "model",
    12
   ],
   [
-   "startup",
+   "kong",
    12
   ],
   [
-   "korea",
+   "hong",
    12
   ],
   [
@@ -150,59 +190,43 @@
    12
   ],
   [
+   "研究",
+   12
+  ],
+  [
    "sexually",
    12
   ],
   [
-   "teen",
+   "国産",
    12
   ],
   [
-   "funding",
+   "未来",
    11
   ],
   [
-   "社会",
+   "korea",
    11
   ],
   [
-   "platform",
+   "million",
    11
   ],
   [
-   "model",
+   "agility",
    11
   ],
   [
-   "搭載",
+   "西武鉄道",
    11
   ],
   [
-   "japan",
+   "変電",
    11
-  ],
-  [
-   "germany",
-   11
-  ],
-  [
-   "scale",
-   10
   ],
   [
    "buy",
-   10
-  ],
-  [
-   "announces",
-   10
-  ],
-  [
-   "infrastructure",
-   10
-  ],
-  [
-   "brings",
    10
   ],
   [
@@ -210,134 +234,151 @@
    10
   ],
   [
-   "自動",
+   "startup",
    10
   ],
   [
-   "未来",
+   "勝ち",
    10
   ],
   [
-   "中国",
-   10
-  ],
-  [
-   "ubtech",
-   10
-  ],
-  [
-   "factory",
-   10
-  ],
-  [
-   "体験",
-   10
-  ],
-  [
-   "世界",
-   10
-  ],
-  [
-   "導入",
+   "industrial",
    10
   ],
   [
    "点検",
    10
-  ],
-  [
-   "西武鉄道",
-   10
   ]
  ],
  "today_top5": [
   {
-   "title": "ZOZO NEXTとAVITA、ヒューマノイド向け衣服の共同研究へ",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RZHVaZUk3bG51b2k1YWFyTEJsdVhRSUZ6UmVqMnFiMUFHdzVkYzBDVnJXT1MwaGRmRWhod1gyM2lnSVJLdk5vYXZXaEJmeE1JRGdNdXR5Q1JKcEN6VGtYQUxJQUI?oc=5",
-   "source": "Impress Watch",
-   "published": "2026-10-15T09:09:40+00:00",
+   "title": "FF EAI Robotics (FFR) and FF Jointly Launch FF Nova, First Embodied AI Humanoid Robot Priced Below $2,500 in U.S., FF Nova Mini, Physical AI Spark Program Curriculum, Nova Reinforcement Learning Developer Program and Developer Community Recr",
+   "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPempSRnh6dzVqekdoLTEySUU3VmRFTUVQdW1uRlR5OHp2V3hHVTAzZDlYSmFoc0ZUZXQwUDFMZEI5N2k2RUo1MS1yMUNkdGszbzdxSnhUcVpoOUNONkVFX19LcVBGbU5vOVNOQ3JRTFBrYjd6VjBDbmQ4aWhxUkh1aHpLUEtDaXdQbGxSRzcxNmtXYTRxRllXRGRTSmFTd1gtR2IxQ2h3V3A2NFBjX3VQMUh6UndOX1l6cERGVzU2OEExNVpNV3VDRW1taVpxYm5wQmFGTld2YmdUYVlVcGZKTDBFU3pTc3Z0T2ExTHpOWTNMWlQ0M2Q0NzMwMDdOeFEwWEo3Zk9KSzZQcEtkVC12LXlFeTZZTjgwR1U4R0NEWG03SWZXMGgwU2RZel9GcU9wZzBkMHlaV0cxTExKOEs0T292SXJXZGg1MzV2MVdKX0tVRWNNa1NKUURqcFFjUWlrYy1URVFycFowMGdhUXNaWGphYURQS2JtQm14ZDU2N0NoSkZKS1BhSUl5VkRuQQ?oc=5",
+   "source": "PR Newswire",
+   "published": "2026-10-16T03:40:00+00:00",
+   "count": 4,
+   "sources": [
+    "Eagle-Tribune",
+    "Mid Florida Newspapers",
+    "PR Newswire",
+    "TradingView"
+   ],
+   "score": 3.05
+  },
+  {
+   "title": "ヤマザキマザック、フィジカルAIでAIベンチャーと業務連携(時事通信)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVG1TVXZNOWwzZVN3Vnd0bjgxQ1BjMGlma0p2enc5S2xFeXFZZzlyNDdHZk1VYWo4ZVMwUldkSkRyVUdOa1dTcDJ1ZDdsT1ZUNy16Y2JRdWVwQnVGTVBNa3U4enROV3RzaVdTN2RaZTdVal9WUW9YV2FLZVdxOFRKdHFGbjRRRlU?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "published": "2026-10-16T12:54:04+00:00",
+   "count": 3,
+   "sources": [
+    "PR TIMES",
+    "Yahoo!ファイナンス",
+    "ｄメニューニュース"
+   ],
+   "score": 2.6
+  },
+  {
+   "title": "ヤマザキマザック×ABEJA、製造現場向けフィジカルAIを共同開発 - 工程設計や生産計画を最適化",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9fZWZRUUNDZkNibXdvSHNCa09TdDJ4MGlDYkhZU2tWVGJBZzQ1SE83RnBmZXpKUThfdngwRzlKYzMwdUh4MXNMTjVBOTBsck5VR193Z0djSm1KZU5sUGduTUx4Sk5jeDZJ?oc=5",
+   "source": "マイナビニュース",
+   "published": "2026-10-16T09:19:51+00:00",
+   "count": 3,
+   "sources": [
+    "BigGo ファイナンス",
+    "ビジネス+IT",
+    "マイナビニュース"
+   ],
+   "score": 2.47
+  },
+  {
+   "title": "「フィジカルAI」でアベジャとの連携を発表したヤマザキマザックの山崎高嗣社長（左）ら＝16日午後、名古屋市 - フィジカルAI実装へ連携 マザックとアベジャ - 写真・画像(1/1)",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oQkFPQ01jdmJzVTU2b1hXajFMRTFoSWxCRkx3Q05OZHJPVFUxMUctdWlKMTlIMFlNY3h4OVltSXlKTTlwWmF6Unozb081bXhKUXZ1Z2kzZw?oc=5",
+   "source": "西日本新聞me",
+   "published": "2026-10-16T08:34:46+00:00",
+   "count": 3,
+   "sources": [
+    "南日本新聞",
+    "西日本新聞me"
+   ],
+   "score": 2.45
+  },
+  {
+   "title": "Hong Kong firm Rice Robotics joins embodied AI hub",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbjNqVml3ZHJKWVZEQjhpeVlxR25MY0FMT0dkbHpNV1NaS2tqOHZ6NkZKZ0h2amRob2xfWGRGZ3VxcVM4WTVHSlhLMW0wSWs2N1pFTDdEYTRtejlHc1hIQXliM1VBZm1NMmhwaHFsTkVVYkpmdUZXRUFxTlYxRHVYdXJUX0FURzRPenc?oc=5",
+   "source": "Tech in Asia",
+   "published": "2026-10-16T04:24:00+00:00",
+   "count": 3,
+   "sources": [
+    "Asia Business Outlook",
+    "South China Morning Post",
+    "Tech in Asia"
+   ],
+   "score": 2.31
+  }
+ ],
+ "hot_news": [
+  {
+   "title": "ヒューマノイドにも衣服を、ZOZO NEXTがフィジカルAIスタートアップと共同研究：ロボット開発ニュース",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1vZGhmbTNZZHBpeWdIMEtXbWdSb09TOWd1RzFuMFFrRlo5X2lYaUVPR3M5WnJaWUk3bC02YWE2dDVzR29JOE1DMDRvRzFGdjdiOGJBMXVDdkY1cjVWc3ZpckNFWWxhNVFBUHFvWHVmQQ?oc=5",
+   "source": "MONOist",
+   "published": "2026-10-16T05:00:00+00:00",
    "count": 8,
    "sources": [
     "Dellows News",
     "Impress Watch",
+    "MONOist",
     "PR TIMES",
-    "Yahoo!ニュース",
     "ニュースメディアVOIX",
     "ロボスタ"
    ],
-   "score": 6.55
+   "score": 6.21
   },
   {
-   "title": "Axonex AI Group Joins FLAIR’s Embodied AI International Applications Hub and Launches Education Humanoid TOMO",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQY29YZjZHdjVzN1NheHdqMHJqUmRCNFh4YUxzenl2dnBIQXRDQVBqZDZPd1BTb0V0eWJselFTbHFBeHc0ZWpSMVRST2RlN1VTb1RDVk5Oajl1b2JQZkdnT2tsUkpHMW5uUzVvNVU4dFUybDI3dm4yUDZMX0pxYkN0WmYtcmpvT0E0UUNGbkcteW1UTkRibEZzcllxX2o0bmNwamswWktlZFU5bDlSczM3VldyTWJURnZINlpNLS1Rcjdselg5Y0RJNFlqRFdxSjR4U3NkQ1ZDUUhMbXkxdmwzSFNpbnIzSWhWbmhrcmlKM0FjdW1nUmlGRWdpSE8?oc=5",
-   "source": "markets.businessinsider.com",
-   "published": "2026-10-15T17:03:13+00:00",
-   "count": 4,
-   "sources": [
-    "Investing.com Canada",
-    "StreetInsider",
-    "The Manila Times",
-    "markets.businessinsider.com"
-   ],
-   "score": 3.66
-  },
-  {
-   "title": "Hesai Launches Kosmo 3D Data Platform for Robot Training and World Models",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMUEyb0lVcV9KVGJHdkpIOVBjUDFXLVVmYkdzbXY3VVB0QnFXVTk0aGRRQTFCZ0pfVWhpeWl0elVXdkNjMkQxSnF1RTVaakstS2hoeFlpSC1qMUxJWXRrZ2J0Q18wWkJNdjFUd2swTjNOV1ZmLTRGb01qOTBIMEZ6ZExfRkJCam9wUDY5T2haSjhZS2ZLU2pESUdpWmZPSWRZSkNLdDRkcUN4MFR3TUNybA?oc=5",
-   "source": "AI Insider",
-   "published": "2026-10-15T12:26:47+00:00",
-   "count": 4,
+   "title": "Ubitium raises $14M to build universal processor for Physical AI",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUEFPRWhJU05fVnh2Ui04NkdmZFh1V1JJTk54ejdQTEZHbDJEdlc1Ym5laGt4UUk4LXhfYnIwZ3pNVXBfTWFWLXl1S2kwMkROWmtmeWwtMjBzTThucUw5anp5dVl1RE5jbWotNGVHOHh1UUZFNE0xLXNObGd0OTA3ODVuTms2VW42M0pjRlFHSnpnWjBpRThDU0djVy1Fb0Za?oc=5",
+   "source": "Evertiq",
+   "published": "2026-10-16T12:03:42+00:00",
+   "count": 5,
    "sources": [
     "AI Insider",
-    "BigGo Finance",
-    "Engineering.com",
-    "Technology Org"
+    "Evertiq",
+    "Pulse 2.0",
+    "Robotics & Automation News",
+    "Tech.eu"
    ],
-   "score": 3.43
+   "score": 4.28
+  },
+  {
+   "title": "西武鉄道とｕｇｏ、フィジカルAIロボットを変電所に常駐させる実証実験を開始",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81cU51eWN3QTZBWUp6bUJJN1BBZ3dHLXpYazVrdHVfeFdPVTJVbXJuUmpDd3pqUlUzR2R6c2dqenlyV1NCTWFwR0UzVngzMGFVcnY5bG9oak9OamNDdDZvZUw2X3ExeTRhY0Nwd09yeHNLS1dE?oc=5",
+   "source": "AIsmiley",
+   "published": "2026-10-16T06:26:56+00:00",
+   "count": 5,
+   "sources": [
+    "AIsmiley",
+    "BigGo ファイナンス",
+    "レスポンス（Response.jp）",
+    "産経ニュース",
+    "西日本新聞me"
+   ],
+   "score": 3.96
   },
   {
    "title": "German Police Seize Robot After Alleged Groping of 16-Year-Old Girl",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbEJHZDhJM0dpX0c0LWZXUTdsUzVPYlpjTGpzT1YzVGpjVXBVcEp5U1p1SThuSUpYVTM1c3VfZ1E3X096QUNGVmVVSjhzMlgtOW5JaWpVdlRwZ2tIa0V3Q2lNZkpwRjRTZDdTNmJHYUM4d0w2Wk1aa2xHQk9FbjNrbE1DajZXc0ZDZ0xVd2I1Tzc?oc=5",
    "source": "TechRepublic",
    "published": "2026-10-15T16:37:57+00:00",
-   "count": 3,
+   "count": 6,
    "sources": [
+    "CBS News",
     "NBC News",
     "TechRepublic",
+    "ThePrint",
+    "Yahoo",
     "geekspin"
    ],
-   "score": 2.73
-  },
-  {
-   "title": "Nyobolt Batteries to Power Agility Robotics’ Digit 5 Humanoid Robot",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVVY4UkxsTmltb2ZUWXN1NVlqcm9MVXZ1S0dWbVF3WkMzeU5zbmRLdXExU01jUXVsY3RaUmV4UkVpVlpfU3hTdF9aRU5mc3c2NVhva003NmxhaW1wa080MUh1UmZHTXJoTm9OUFROZlBQVjdCRXl2Ym5lQmhaaWZCXzNzdG5MME9Wc2tmbGJCN3lhUQ?oc=5",
-   "source": "Unite.AI",
-   "published": "2026-10-15T11:36:13+00:00",
-   "count": 3,
-   "sources": [
-    "The Robot Report",
-    "TradingView",
-    "Unite.AI"
-   ],
-   "score": 2.54
-  }
- ],
- "hot_news": [
-  {
-   "title": "ZOZO NEXTとAVITA、ヒューマノイド向け衣服の共同研究へ",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1RZHVaZUk3bG51b2k1YWFyTEJsdVhRSUZ6UmVqMnFiMUFHdzVkYzBDVnJXT1MwaGRmRWhod1gyM2lnSVJLdk5vYXZXaEJmeE1JRGdNdXR5Q1JKcEN6VGtYQUxJQUI?oc=5",
-   "source": "Impress Watch",
-   "published": "2026-10-15T09:09:40+00:00",
-   "count": 8,
-   "sources": [
-    "Dellows News",
-    "Impress Watch",
-    "PR TIMES",
-    "Yahoo!ニュース",
-    "ニュースメディアVOIX",
-    "ロボスタ"
-   ],
-   "score": 6.55
+   "score": 3.92
   },
   {
    "title": "Hesai Launches Kosmo 3D Data Platform for Robot Training and World Models",
@@ -353,22 +394,35 @@
     "Technology Org",
     "TradingView"
    ],
-   "score": 5.14
+   "score": 3.7
   },
   {
-   "title": "German Police Seize Robot After Alleged Groping of 16-Year-Old Girl",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbEJHZDhJM0dpX0c0LWZXUTdsUzVPYlpjTGpzT1YzVGpjVXBVcEp5U1p1SThuSUpYVTM1c3VfZ1E3X096QUNGVmVVSjhzMlgtOW5JaWpVdlRwZ2tIa0V3Q2lNZkpwRjRTZDdTNmJHYUM4d0w2Wk1aa2xHQk9FbjNrbE1DajZXc0ZDZ0xVd2I1Tzc?oc=5",
-   "source": "TechRepublic",
-   "published": "2026-10-15T16:37:57+00:00",
-   "count": 5,
+   "title": "Agility Robotics chooses Nyobolt battery technology for faster-charging Digit 5 humanoid robot",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZm5tRTcxV0hiMi1HdTJwXzVmNHJidUpELVZxeklIMURKSkc4VlFlOHFURnNCNmthS1l0enB1NkU2M1hwcjNkLTBZWmdHc0VMUHMzX2JfQzB4REZvOFBUS1NDc1pKVG9qUWtpMnhzT3owZElqanRCSV9MS0xQWUlONERVUzFxdi1GcHYtemZQQXZuZTZWdThfbEVFR2hjMUo1NG1CeDFER2xISUNhc181Q1VwU2NYYmNqc0RoU0dLRHR1X1pDR19rMUFQbnJnVm1wUXNMbmxmUQ?oc=5",
+   "source": "New Electronics",
+   "published": "2026-10-16T09:07:58+00:00",
+   "count": 4,
    "sources": [
-    "CBS News",
-    "NBC News",
-    "TechRepublic",
-    "ThePrint",
-    "geekspin"
+    "New Electronics",
+    "The Robot Report",
+    "TradingView",
+    "Unite.AI"
    ],
-   "score": 4.54
+   "score": 3.29
+  },
+  {
+   "title": "FF EAI Robotics (FFR) and FF Jointly Launch FF Nova, First Embodied AI Humanoid Robot Priced Below $2,500 in U.S., FF Nova Mini, Physical AI Spark Program Curriculum, Nova Reinforcement Learning Developer Program and Developer Community Recr",
+   "link": "https://news.google.com/rss/articles/CBMijgNBVV95cUxPempSRnh6dzVqekdoLTEySUU3VmRFTUVQdW1uRlR5OHp2V3hHVTAzZDlYSmFoc0ZUZXQwUDFMZEI5N2k2RUo1MS1yMUNkdGszbzdxSnhUcVpoOUNONkVFX19LcVBGbU5vOVNOQ3JRTFBrYjd6VjBDbmQ4aWhxUkh1aHpLUEtDaXdQbGxSRzcxNmtXYTRxRllXRGRTSmFTd1gtR2IxQ2h3V3A2NFBjX3VQMUh6UndOX1l6cERGVzU2OEExNVpNV3VDRW1taVpxYm5wQmFGTld2YmdUYVlVcGZKTDBFU3pTc3Z0T2ExTHpOWTNMWlQ0M2Q0NzMwMDdOeFEwWEo3Zk9KSzZQcEtkVC12LXlFeTZZTjgwR1U4R0NEWG03SWZXMGgwU2RZel9GcU9wZzBkMHlaV0cxTExKOEs0T292SXJXZGg1MzV2MVdKX0tVRWNNa1NKUURqcFFjUWlrYy1URVFycFowMGdhUXNaWGphYURQS2JtQm14ZDU2N0NoSkZKS1BhSUl5VkRuQQ?oc=5",
+   "source": "PR Newswire",
+   "published": "2026-10-16T03:40:00+00:00",
+   "count": 4,
+   "sources": [
+    "Eagle-Tribune",
+    "Mid Florida Newspapers",
+    "PR Newswire",
+    "TradingView"
+   ],
+   "score": 3.05
   },
   {
    "title": "Omron to acquire OnLogic in $675M physical AI deal",
@@ -384,22 +438,21 @@
     "TNGlobal",
     "TradingView"
    ],
-   "score": 4.18
+   "score": 3.01
   },
   {
-   "title": "お知らせ｜【産経新聞】国産フィジカルAIで変電所メンテナンス改革 西武鉄道が「ugo mini」の実証実験について掲載",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kdnd3SVNUaTFmMGZPSUNVTmYydm8yUjBlUk5EbTlBUWFzdkpDa2Z3dVB5N2VyVzZFWVljR3JEYlREdkw1VDJZdk1GMmdkTmE3bUhrM2hKZVRTT28?oc=5",
-   "source": "ugo",
-   "published": "2026-10-15T09:09:47+00:00",
-   "count": 5,
+   "title": "Hong Kong launches embodied AI hub for real-world robot testing",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNM3RPaUhoNWJuWjdoel9MZG9sc3otRXNsRm8tOHZXVThPMUJPblNwVHRzTi1xRGRLZUxBR01hOGxjUWtINVFQZHhpNnJydi1hWmQtMENhaVh4b3BoUVBYY0RaMWowVUo0N2tXc3U4MWU0UjFZeTYwWm1XOTkyelNUSUM4ZTcyMzRUdi0ySk1SaTFrbjlJUXUwVmxZMA?oc=5",
+   "source": "TNGlobal",
+   "published": "2026-10-16T02:15:33+00:00",
+   "count": 4,
    "sources": [
-    "BigGo ファイナンス",
-    "FNNプライムオンライン",
-    "ugo",
-    "レスポンス（Response.jp）",
-    "産経ニュース"
+    "Alvinology",
+    "Media OutReach Newswire",
+    "TNGlobal",
+    "The Manila Times"
    ],
-   "score": 4.1
+   "score": 2.99
   },
   {
    "title": "オムロンが米産業用PC大手を買収 製造現場の「フィジカルAI」実装へ1000億円投資",
@@ -414,72 +467,11 @@
     "日本経済新聞",
     "東京報道新聞"
    ],
-   "score": 3.83
-  },
-  {
-   "title": "Axonex AI Group Joins FLAIR’s Embodied AI International Applications Hub and Launches Education Humanoid TOMO",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQY29YZjZHdjVzN1NheHdqMHJqUmRCNFh4YUxzenl2dnBIQXRDQVBqZDZPd1BTb0V0eWJselFTbHFBeHc0ZWpSMVRST2RlN1VTb1RDVk5Oajl1b2JQZkdnT2tsUkpHMW5uUzVvNVU4dFUybDI3dm4yUDZMX0pxYkN0WmYtcmpvT0E0UUNGbkcteW1UTkRibEZzcllxX2o0bmNwamswWktlZFU5bDlSczM3VldyTWJURnZINlpNLS1Rcjdselg5Y0RJNFlqRFdxSjR4U3NkQ1ZDUUhMbXkxdmwzSFNpbnIzSWhWbmhrcmlKM0FjdW1nUmlGRWdpSE8?oc=5",
-   "source": "markets.businessinsider.com",
-   "published": "2026-10-15T17:03:13+00:00",
-   "count": 4,
-   "sources": [
-    "Investing.com Canada",
-    "StreetInsider",
-    "The Manila Times",
-    "markets.businessinsider.com"
-   ],
-   "score": 3.66
-  },
-  {
-   "title": "米コンピューター企業を買収 オムロン、フィジカルＡＩ基盤構築へ",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xaTRBVmQ0SnVZUXhUMUpnQjNGU1pScFRzbEVMNTV0RDdqV2E2cXgtV2VIb3pQX190cWc3cG85bEJjeXVMUERCWlpNajZPVjBDTDY0WmhaTHNOb2s?oc=5",
-   "source": "京都新聞デジタル",
-   "published": "2026-10-13T21:00:00+00:00",
-   "count": 7,
-   "sources": [
-    "Yahoo!ニュース",
-    "テレ東BIZ",
-    "京都新聞デジタル",
-    "日本経済新聞",
-    "朝日新聞",
-    "産経ニュース"
-   ],
-   "score": 3.47
-  },
-  {
-   "title": "Fincantieri Advances Robotics And AI To Build Future Shipyards With Nearly €100 Million Investment",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVWp1RjRYRHN0T01obWx5cHBrUlA0YmtJcVJPd29heFlLdHk5dG1BRXpmaS1fWV9qRVI2OUlWeXJEU2lnWE9acDRsT3dVREhoejItaDlfQnJwV3pJbkZScHh0Yy1TQ2JOM0lzQ3lEeXoyaDRQaGZjUTR0WXBxM3RXVzM5OHJPeXY0WmJHcUJ5bFJnOV9QY1F4WGV6UTR0NnIzYXZPclFzVjI3eU42amNMYUVfbVFsQ3hyR2k2ankxbThTdC00aXZGMQ?oc=5",
-   "source": "Marine Insight",
-   "published": "2026-10-15T10:49:47+00:00",
-   "count": 4,
-   "sources": [
-    "Fincantieri",
-    "Marine Insight",
-    "Marine Log",
-    "www.marketscreener.com"
-   ],
-   "score": 3.35
-  },
-  {
-   "title": "【フィジカルＡＩ】お家芸進化の切り札",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YZXJYNk5LNnNMZlhoVHFtZnlHRWpuZ2t6R20takZ3Qjh4ME8xQXZrNklGam1kNzRULXo5R3J2VG5TWVh5X0doX3NGWG50WW1sQjZyalR4YWtkYTg?oc=5",
-   "source": "下野新聞社",
-   "published": "2026-10-14T01:39:35+00:00",
-   "count": 6,
-   "sources": [
-    "下野新聞社",
-    "佐賀新聞",
-    "東奥日報社",
-    "沖縄タイムス社",
-    "熊本日日新聞社",
-    "西日本新聞me"
-   ],
-   "score": 3.17
+   "score": 2.76
   }
  ],
  "trend": {
   "dates": [
-   "2026-09-16",
    "2026-09-17",
    "2026-09-18",
    "2026-09-19",
@@ -508,14 +500,14 @@
    "2026-10-12",
    "2026-10-13",
    "2026-10-14",
-   "2026-10-15"
+   "2026-10-15",
+   "2026-10-16"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     41,
      48,
      37,
      6,
@@ -544,14 +536,14 @@
      39,
      57,
      46,
-     34
+     35,
+     37
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     45,
      43,
      29,
      10,
@@ -578,16 +570,16 @@
      6,
      10,
      12,
-     65,
-     46,
-     24
+     66,
+     47,
+     30,
+     32
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     5,
      8,
      16,
      8,
@@ -616,14 +608,14 @@
      7,
      6,
      8,
-     7
+     11,
+     12
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     36,
      23,
      31,
      8,
@@ -650,16 +642,16 @@
      7,
      13,
      25,
+     31,
+     36,
      30,
-     35,
-     30
+     25
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     21,
      16,
      18,
      4,
@@ -686,9 +678,10 @@
      4,
      10,
      11,
-     22,
-     9,
-     19
+     24,
+     10,
+     24,
+     16
     ]
    }
   ]
@@ -698,7 +691,7 @@
    "name": "INTEL CORP",
    "core": "INTEL",
    "patents": 1051,
-   "news": 7
+   "news": 8
   },
   {
    "name": "BOSCH GMBH ROBERT",
@@ -734,7 +727,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 84
+   "news": 87
   },
   {
    "name": "QUALCOMM INC",
