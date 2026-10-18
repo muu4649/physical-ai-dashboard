@@ -1,0 +1,366 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Physical AI Market Intelligence</title>
+<style>
+:root {
+  --page:#f9f9f7; --surface:#fcfcfb; --ink:#0b0b0b; --ink2:#52514e; --muted:#898781;
+  --grid:#e1e0d9; --axis:#c3c2b7; --border:rgba(11,11,11,.10);
+  --good:#006300; --bad:#d03b3b; --s1:#2a78d6;--s2:#1baf7a;--s3:#eda100;--s4:#008300;--s5:#4a3aa7;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --page:#0d0d0d; --surface:#1a1a19; --ink:#ffffff; --ink2:#c3c2b7; --muted:#898781;
+    --grid:#2c2c2a; --axis:#383835; --border:rgba(255,255,255,.10);
+    --good:#0ca30c; --bad:#e66767; --s1:#3987e5;--s2:#199e70;--s3:#c98500;--s4:#008300;--s5:#9085e9;
+  }
+}
+:root[data-theme="light"] {
+  --page:#f9f9f7; --surface:#fcfcfb; --ink:#0b0b0b; --ink2:#52514e; --muted:#898781;
+  --grid:#e1e0d9; --axis:#c3c2b7; --border:rgba(11,11,11,.10);
+  --good:#006300; --bad:#d03b3b; --s1:#2a78d6;--s2:#1baf7a;--s3:#eda100;--s4:#008300;--s5:#4a3aa7;
+}
+:root[data-theme="dark"] {
+  --page:#0d0d0d; --surface:#1a1a19; --ink:#ffffff; --ink2:#c3c2b7; --muted:#898781;
+  --grid:#2c2c2a; --axis:#383835; --border:rgba(255,255,255,.10);
+  --good:#0ca30c; --bad:#e66767; --s1:#3987e5;--s2:#199e70;--s3:#c98500;--s4:#008300;--s5:#9085e9;
+}
+* { box-sizing:border-box; margin:0; }
+body { background:var(--page); color:var(--ink);
+  font:15px/1.6 system-ui,-apple-system,"Segoe UI","Hiragino Sans",sans-serif; padding:24px 16px 64px; }
+main { max-width:960px; margin:0 auto; }
+header h1 { font-size:26px; letter-spacing:.01em; }
+header p { color:var(--ink2); margin-top:4px; font-size:14px; }
+section { margin-top:36px; }
+h2 { font-size:18px; margin-bottom:14px; }
+h3 { font-size:14px; color:var(--ink2); margin-bottom:10px; font-weight:600; }
+.panel { background:var(--surface); border:1px solid var(--border); border-radius:12px; padding:18px; }
+.kpis { display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:12px; margin-top:20px; }
+.kpi { background:var(--surface); border:1px solid var(--border); border-radius:12px; padding:14px 16px; }
+.kpi .label { font-size:12px; color:var(--muted); }
+.kpi .value { font-size:30px; font-weight:700; line-height:1.2; }
+.kpi .delta { font-size:12px; }
+.delta.up { color:var(--good); } .delta.down { color:var(--bad); }
+.grid2 { display:grid; grid-template-columns:1fr 1fr; gap:14px; }
+@media (max-width:760px) { .grid2 { grid-template-columns:1fr; } }
+svg { width:100%; height:auto; display:block; }
+.grid { stroke:var(--grid); stroke-width:1; }
+.axis { stroke:var(--axis); stroke-width:1; }
+.tick { fill:var(--muted); font-size:11px; }
+.val { fill:var(--ink2); font-size:11px; }
+.alabel { fill:var(--ink2); font-size:12px; }
+.line { stroke-width:2; } .cross { stroke:var(--axis); stroke-width:1; }
+.s1 { stroke:var(--s1); } .s2 { stroke:var(--s2); } .s3 { stroke:var(--s3); }
+.s4 { stroke:var(--s4); } .s5 { stroke:var(--s5); }
+.bar { fill:var(--s1); } .bar-l { fill:var(--s1); } .bar-r { fill:var(--s2); }
+.hdr { font-weight:600; }
+.coverage { color:var(--muted); font-size:12px; margin-top:6px; }
+.today { margin-top:24px; }
+.today-date { font-size:13px; color:var(--muted); font-weight:400; }
+.legend { display:flex; flex-wrap:wrap; gap:6px 18px; margin-top:10px; font-size:13px; color:var(--ink2); }
+.lg { display:inline-flex; align-items:center; gap:6px; }
+.chip { width:12px; height:12px; border-radius:3px; display:inline-block; }
+.chip.s1 { background:var(--s1); } .chip.s2 { background:var(--s2); } .chip.s3 { background:var(--s3); }
+.chip.s4 { background:var(--s4); } .chip.s5 { background:var(--s5); }
+.cloud { display:flex; flex-wrap:wrap; gap:6px 14px; align-items:baseline; }
+.wc { cursor:default; } .wc-a { color:var(--ink); font-weight:700; }
+.wc-b { color:var(--ink2); font-weight:600; } .wc-c { color:var(--muted); }
+.hotlist { list-style:none; padding:0; display:flex; flex-direction:column; gap:10px; }
+.hot { display:flex; gap:14px; background:var(--surface); border:1px solid var(--border);
+  border-radius:12px; padding:12px 16px; }
+.rank { font-size:20px; font-weight:700; color:var(--muted); min-width:26px; }
+.hot a { color:var(--ink); text-decoration:none; font-weight:600; }
+.hot a:hover { text-decoration:underline; }
+.meta { display:flex; flex-wrap:wrap; gap:10px; font-size:12px; color:var(--muted); margin-top:4px; }
+.badge { background:var(--s1); color:#fff; border-radius:10px; padding:0 8px; font-weight:600; }
+.patlist { list-style:none; padding:0; display:flex; flex-direction:column; gap:10px; }
+.patlist a { color:var(--ink); text-decoration:none; font-weight:600; }
+.patlist a:hover { text-decoration:underline; }
+.patlist .meta { display:block; }
+.notice { background:var(--surface); border:1px solid var(--border); border-radius:12px;
+  padding:16px 18px; color:var(--ink2); font-size:14px; }
+.brand-banner { display:flex; align-items:center; gap:18px; margin-top:44px;
+  background:var(--surface); border:1px solid var(--border); border-radius:14px;
+  padding:16px 20px; text-decoration:none; transition:border-color .15s; }
+.brand-banner:hover { border-color:var(--s1); }
+.brand-logo { flex:none; background:#ffffff; border-radius:10px; padding:6px 14px;
+  border:1px solid var(--border); }
+.brand-logo img { display:block; height:44px; width:auto; }
+.brand-text { color:var(--ink2); font-size:13px; line-height:1.5; }
+.brand-text strong { color:var(--ink); font-size:15px; display:block; }
+.brand-cta { margin-left:auto; flex:none; color:var(--s1); font-weight:600; font-size:14px; }
+@media (max-width:600px) { .brand-banner { flex-wrap:wrap; } .brand-cta { margin-left:0; } }
+.notice code { background:var(--page); padding:1px 6px; border-radius:4px; }
+.query-box { margin-bottom:14px; }
+.mkt p { font-size:14px; color:var(--ink2); margin-bottom:10px; }
+.mkt-meta { font-size:12px !important; color:var(--muted) !important; }
+.mkt h3 { margin-top:16px; }
+.mkt-table { width:100%; font-size:13px; }
+.mkt-table th, .mkt-table td { text-align:left; padding:6px 10px; vertical-align:top; }
+.mkt-lists ul { margin:0; padding-left:20px; font-size:13px; color:var(--ink2); }
+.mkt-lists li { margin-bottom:4px; }
+.query { white-space:pre-wrap; word-break:break-all; background:var(--page);
+  padding:10px 14px; border-radius:8px; font-size:12px; line-height:1.6;
+  font-family:ui-monospace,SFMono-Regular,Menlo,monospace; margin-top:8px; }
+.muted { color:var(--muted); }
+.chart-note { font-size:12px; color:var(--muted); margin-top:6px; }
+.tbl summary { cursor:pointer; color:var(--ink2); font-size:13px; margin-top:10px; }
+.scroll { overflow-x:auto; }
+table { border-collapse:collapse; font-size:12px; margin-top:8px;
+  font-variant-numeric:tabular-nums; }
+th,td { border:1px solid var(--grid); padding:3px 8px; text-align:right; }
+th:first-child,td:first-child { text-align:left; }
+#tip { position:fixed; pointer-events:none; background:var(--ink); color:var(--page);
+  font-size:12px; padding:6px 10px; border-radius:8px; display:none; z-index:10;
+  max-width:280px; line-height:1.5; }
+footer { margin-top:48px; font-size:12px; color:var(--muted); }
+a { color:var(--s1); }
+</style>
+</head>
+<body>
+<main><div style="background:#2a78d6;color:#fff;font-size:13px;padding:8px 16px;border-radius:8px;margin-bottom:20px;">これは 2026-10-19 時点の週次スナップショットです ・ <a href="../index.html" style="color:#fff;font-weight:600;">最新版を見る →</a></div>
+<header>
+  <h1>Physical AI Market Intelligence</h1>
+  <p>フィジカルAI(ヒューマノイド・Embodied AI)の報道動向と特許動向を毎日自動収集 ・ 最終更新 2026-10-18 22:44 UTC</p>
+  <p class="coverage">収録範囲 — ニュース: 1970-01-01 〜 現在(累計 11190 件) ・ 特許: 1987-09 〜 2026-04(14373 件 / 出願年ベース)</p>
+  <p class="coverage">更新頻度 — ニュース: 毎日 06:00 JST に自動更新(データは日々変わります) ・ 特許: 約3ヶ月に1回の手動更新 ・ マーケット概要: 不定期更新(作成日を記載)</p>
+</header>
+
+<section class="today">
+  <h2>今日のニュース5選 <span class="today-date">2026-10-19(JST)</span></h2>
+  <ol class="hotlist"><li class="hot">
+  <span class="rank">1</span>
+  <div class="hot-body">
+    <a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE1zVzYwN3FDRVFlOHVwS01XbUVvbXNlWUMyMi1VaERzR0ZBcGMzSVpBM2ZqYS1OYjd6VU9Oa3NfbWVaNXFpYXdqUjdrYllCbUE2TndQSlhiYUJMWU9KbHRERDBlSUFkTlE5aTExcGFxdmFvYmJZU0E?oc=5" target="_blank" rel="noopener">OpenAI Confirms In-House Humanoid Robot Development; Altman Says Intelligent &#x27;Brain&#x27; Takes Priority Over Hardware</a>
+    <div class="meta"><span class="badge">2 媒体</span><span>13時間前</span><span class="srcs">BigGo Finance</span></div>
+  </div>
+</li><li class="hot">
+  <span class="rank">2</span>
+  <div class="hot-body">
+    <a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxNTjBIZlFDdE43V2gzRlhrRUduNjZrUXVjTkd4c28wNGp1MGwyaklQNWhkX2w5Z1IwVUpFLW52dnlyZVQtTExzYnVjVmd0ZGlOWGhILWw0NXAyM0tyejNjTld5aXBOSzBxdXFZQmFPa01RUWRYYWJfRUhKRXJfNUpNSWV1SVNyNUVhcnZ0bm00UTc?oc=5" target="_blank" rel="noopener">米国と中国は、5兆ドル規模の人型ロボット開発競争を繰り広げている。</a>
+    <div class="meta"><span>1時間以内</span><span class="srcs">Vietnam.vn</span></div>
+  </div>
+</li><li class="hot">
+  <span class="rank">3</span>
+  <div class="hot-body">
+    <a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE1RU2F3QjFDZGZicjNZN0lpU3ZRTzdxMFZ3M2s1UlRUWTVtcHVOVmJhX0xJNDJlUDBSYTNaUlBGNDBBU1ZBQzRKSkhzN2xxeGZFTEFoNFp4OUc5Y1dTT1ZUanhlMHZfa210QUhQTWdGOUFxX21hOFdIVWFxdU1lZEE?oc=5" target="_blank" rel="noopener">子どもがフィジカルAIを学べる二足歩行ロボ、約5万円で発売 米国で</a>
+    <div class="meta"><span>1時間以内</span><span class="srcs">Yahoo!ニュース</span></div>
+  </div>
+</li><li class="hot">
+  <span class="rank">4</span>
+  <div class="hot-body">
+    <a href="https://news.google.com/rss/articles/CBMib0FVX3lxTFBVM1phUVYtdDdYZWVhM18zdVBZaDJWVUsyMzMwblpBR045TFBReTZYV1A2b1V6ZnZLcFdCZlZVNGxnTUF5N1lhOEZxUjdnNjl4aXpDU2pnV1VoVnhyYVVMdW9IVXFmdVlMMktHbm1yYw?oc=5" target="_blank" rel="noopener">マザック、加工の工程設計をAIエージェントで自動化 ABEJAと共同開発：工作機械（1/2 ページ）</a>
+    <div class="meta"><span>1時間以内</span><span class="srcs">MONOist</span></div>
+  </div>
+</li><li class="hot">
+  <span class="rank">5</span>
+  <div class="hot-body">
+    <a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxOc3BkejI5MUZQR0hHZkEweXpkMGRCeUphU0o0ZE8xNFk0SjZ5Q0JwTUJWWXE4cUdEajJVS1htelhSM2hqMVBPUlNLeFpxUDVscmRYVEFINFVsVE84a1VmYS1pRGU2U19laXlvY3RxZ01IWG1Ham1XUkw4UUFkV2hWSUhjY2dVOE9vQzFCYXhVcDQ?oc=5" target="_blank" rel="noopener">US and China compete in a $5 trillion race for humanoid robots.</a>
+    <div class="meta"><span>1時間以内</span><span class="srcs">Vietnam.vn</span></div>
+  </div>
+</li></ol>
+</section>
+<div class="kpis">
+  <div class="kpi"><div class="label">記事数(直近7日)</div>
+    <div class="value">750</div><span class="delta up">+91 vs 前週</span></div>
+  <div class="kpi"><div class="label">情報ソース数(7日)</div>
+    <div class="value">327</div></div>
+  <div class="kpi"><div class="label">記事数(30日)</div>
+    <div class="value">2877</div></div>
+  <div class="kpi"><div class="label">特許件数(CSV取込)</div>
+    <div class="value">14,373</div></div>
+</div>
+
+<section>
+  <h2>マーケット概要(基礎情報)</h2>
+  <div class="panel mkt">
+    <p class="mkt-meta">作成日: 2026-07-10 ・ 生成AIによるWeb調査・編集(手動更新。日次自動更新の対象外)</p>
+    <p>フィジカルAI(Physical AI / Embodied AI)は、生成AI・基盤モデルをロボット等の物理的な身体に実装し、実世界で知覚・判断・行動させる技術領域。2025〜2026年にかけて「早期商用化フェーズ」入りが機関投資家の共通認識となり、ヒューマノイドロボットが最大の注目セグメントとなっている。</p><p>プラットフォーム面ではNVIDIAが基盤モデル(Isaac GR00T)・世界モデル(Cosmos)・物理エンジン(Newton)を軸にエコシステムを形成し、産業用ロボット大手(ABB・FANUC・安川電機等)やヒューマノイド新興(Figure AI・Agility Robotics・AGIBOT等)との提携を拡大。2026年1月にはTesla Optimus Gen 3が生産開始と報じられ、中国勢(Unitree等)の低価格量産も加速している。</p><p>日本では2026年7月に三菱自動車と東大発Highlandersによる国産ヒューマノイド量産提携(2027年月産1000台目標)が発表され、清水建設の建設現場実証など実装事例が出始めた(本ダッシュボードのホットニュース参照)。</p>
+    <h3>市場規模の主要推計</h3>
+    <div class="scroll"><table class="mkt-table">
+      <thead><tr><th>機関</th><th>対象</th><th>推計</th><th>備考</th></tr></thead>
+      <tbody><tr><td><a href="https://www.goldmansachs.com/insights/articles/the-global-market-for-robots-could-reach-38-billion-by-2035" target="_blank" rel="noopener">Goldman Sachs</a></td><td>ヒューマノイドロボット世界市場</td><td>2035年に約380億ドル</td><td>2024年に従来予測を上方修正</td></tr><tr><td><a href="https://www.morganstanley.com/insights/articles/humanoid-robot-market-5-trillion-by-2050" target="_blank" rel="noopener">Morgan Stanley</a></td><td>ヒューマノイドロボット世界市場</td><td>2050年に約5兆ドル・稼働10億台超</td><td>長期シナリオ</td></tr><tr><td><a href="https://news.futunn.com/en/post/74964440/" target="_blank" rel="noopener">Morgan Stanley(報道ベース)</a></td><td>中国ヒューマノイド市場</td><td>2026年出荷約5万台 → 2030年約44.6万台・約150億ドル</td><td>2026年に予測を上方修正との報道。未検証(一次レポート非公開)</td></tr><tr><td><a href="https://www.marketsandmarkets.com/Market-Reports/physical-ai-market-240269196.html" target="_blank" rel="noopener">MarketsandMarkets</a></td><td>Physical AI市場(狭義)</td><td>2025年8.9億ドル → 2032年152.8億ドル(CAGR 47.2%)</td><td>ソフトウェア・システム中心の狭い定義</td></tr><tr><td><a href="https://www.grandviewresearch.com/industry-analysis/physical-ai-market-report" target="_blank" rel="noopener">Grand View Research</a></td><td>Physical AI市場(広義)</td><td>2025年816億ドル → 2026年1,108億ドル</td><td>半導体・ロボット本体等を含む広い定義</td></tr><tr><td><a href="https://www.marketsandmarkets.com/ResearchInsight/embodied-ai-market-trends.asp" target="_blank" rel="noopener">MarketsandMarkets</a></td><td>Embodied AI市場</td><td>2025年44.4億ドル → 2030年230.6億ドル(CAGR 39.0%)</td><td></td></tr></tbody>
+    </table></div>
+    <div class="grid2 mkt-lists">
+      <div><h3>成長ドライバー</h3><ul><li>基盤モデルの汎化により専用プログラミング不要のロボット制御が現実化</li><li>労働力不足(製造・物流・建設・介護)と人件費上昇</li><li>シミュレーション学習(合成データ)によるロボット学習コストの急減</li><li>中国の国家支援と量産による本体価格の低下</li></ul></div>
+      <div><h3>リスク・留意点</h3><ul><li>市場定義が機関により大きく異なり、推計値は桁単位で幅がある(楽観的な数字の一人歩きに注意)</li><li>安全規制・責任制度が未整備で、対人環境への展開時期は不確実</li><li>ハードウェア(減速機・アクチュエータ)の供給制約とコスト</li><li>実タスクでの信頼性・稼働率はまだ実証段階</li></ul></div>
+    </div>
+    <p class="chart-note">各推計値は上記出典の公表資料・報道に基づく二次情報(2026-07-10取得)。一次レポートを確認できていないものは「未検証」と付記。投資判断等には一次ソースの確認を推奨。</p>
+  </div>
+</section>
+<section>
+  <h2>トレンド — トピック別 日次記事数(30日)</h2>
+  <div class="panel">
+<div class="chart-wrap">
+<svg id="trend" viewBox="0 0 860 300" role="img" aria-label="トピック別 日次記事数(直近30日)">
+  <line x1="40" y1="270" x2="844" y2="270" class="axis"/>
+  <line x1="40" y1="270.0" x2="844" y2="270.0" class="grid"/><text x="32" y="274.0" class="tick" text-anchor="end">0</text><line x1="40" y1="206.0" x2="844" y2="206.0" class="grid"/><text x="32" y="210.0" class="tick" text-anchor="end">25</text><line x1="40" y1="142.0" x2="844" y2="142.0" class="grid"/><text x="32" y="146.0" class="tick" text-anchor="end">50</text><line x1="40" y1="78.0" x2="844" y2="78.0" class="grid"/><text x="32" y="82.0" class="tick" text-anchor="end">75</text><line x1="40" y1="14.0" x2="844" y2="14.0" class="grid"/><text x="32" y="18.0" class="tick" text-anchor="end">100</text>
+  <text x="40.0" y="292" class="tick" text-anchor="middle">09/19</text><text x="178.6" y="292" class="tick" text-anchor="middle">09/24</text><text x="317.2" y="292" class="tick" text-anchor="middle">09/29</text><text x="455.9" y="292" class="tick" text-anchor="middle">10/04</text><text x="594.5" y="292" class="tick" text-anchor="middle">10/09</text><text x="733.1" y="292" class="tick" text-anchor="middle">10/14</text>
+  <polyline points="40.0,254.6 67.7,259.8 95.4,154.8 123.2,147.1 150.9,136.9 178.6,211.1 206.3,218.8 234.1,249.5 261.8,254.6 289.5,149.7 317.2,108.7 345.0,136.9 372.7,175.3 400.4,175.3 428.1,244.4 455.9,257.2 483.6,152.2 511.3,157.4 539.0,167.6 566.8,175.3 594.5,183.0 622.2,239.3 649.9,249.5 677.7,170.2 705.4,124.1 733.1,152.2 760.8,177.8 788.6,167.6 816.3,244.4 844.0,257.2" fill="none" class="line s1"/><polyline points="40.0,244.4 67.7,239.3 95.4,239.3 123.2,226.5 150.9,226.5 178.6,175.3 206.3,195.8 234.1,247.0 261.8,239.3 289.5,183.0 317.2,175.3 345.0,116.4 372.7,183.0 400.4,226.5 428.1,234.2 455.9,234.2 483.6,183.0 511.3,119.0 539.0,198.3 566.8,203.4 594.5,231.6 622.2,254.6 649.9,244.4 677.7,239.3 705.4,101.0 733.1,149.7 760.8,188.1 788.6,167.6 816.3,264.9 844.0,252.1" fill="none" class="line s2"/><polyline points="40.0,249.5 67.7,262.3 95.4,249.5 123.2,244.4 150.9,249.5 178.6,244.4 206.3,267.4 234.1,264.9 261.8,270.0 289.5,254.6 317.2,226.5 345.0,257.2 372.7,254.6 400.4,254.6 428.1,262.3 455.9,267.4 483.6,262.3 511.3,262.3 539.0,267.4 566.8,257.2 594.5,252.1 622.2,267.4 649.9,270.0 677.7,252.1 705.4,254.6 733.1,249.5 760.8,239.3 788.6,239.3 816.3,270.0 844.0,262.3" fill="none" class="line s3"/><polyline points="40.0,249.5 67.7,231.6 95.4,139.4 123.2,172.7 150.9,200.9 178.6,223.9 206.3,229.0 234.1,234.2 261.8,244.4 289.5,206.0 317.2,200.9 345.0,180.4 372.7,154.8 400.4,193.2 428.1,244.4 455.9,249.5 483.6,211.1 511.3,198.3 539.0,223.9 566.8,172.7 594.5,193.2 622.2,252.1 649.9,236.7 677.7,206.0 705.4,190.6 733.1,167.6 760.8,188.1 788.6,200.9 816.3,213.7 844.0,234.2" fill="none" class="line s4"/><polyline points="40.0,259.8 67.7,249.5 95.4,234.2 123.2,190.6 150.9,239.3 178.6,211.1 206.3,247.0 234.1,254.6 261.8,254.6 289.5,234.2 317.2,221.4 345.0,216.2 372.7,208.6 400.4,226.5 428.1,257.2 455.9,249.5 483.6,241.8 511.3,188.1 539.0,226.5 566.8,239.3 594.5,221.4 622.2,259.8 649.9,244.4 677.7,241.8 705.4,208.6 733.1,244.4 760.8,206.0 788.6,226.5 816.3,262.3 844.0,249.5" fill="none" class="line s5"/>
+  <line id="trend-cross" x1="0" y1="14" x2="0" y2="270" class="cross" style="display:none"/>
+  <rect id="trend-hit" x="40" y="14" width="804" height="256" fill="transparent"/>
+</svg>
+<div class="legend"><span class="lg"><i class="chip s1"></i>Physical AI (EN)</span><span class="lg"><i class="chip s2"></i>フィジカルAI</span><span class="lg"><i class="chip s3"></i>Embodied AI (EN)</span><span class="lg"><i class="chip s4"></i>Humanoid robot (EN)</span><span class="lg"><i class="chip s5"></i>ヒューマノイド (JA)</span></div>
+<p class="chart-note">※ RSSは直近約100件のみ取得のため、運用開始直後は過去日の件数が実際より少なく表示される(日次実行の蓄積で精度が上がる)</p>
+<script type="application/json" id="trend-data">{"dates": ["2026-09-19", "2026-09-20", "2026-09-21", "2026-09-22", "2026-09-23", "2026-09-24", "2026-09-25", "2026-09-26", "2026-09-27", "2026-09-28", "2026-09-29", "2026-09-30", "2026-10-01", "2026-10-02", "2026-10-03", "2026-10-04", "2026-10-05", "2026-10-06", "2026-10-07", "2026-10-08", "2026-10-09", "2026-10-10", "2026-10-11", "2026-10-12", "2026-10-13", "2026-10-14", "2026-10-15", "2026-10-16", "2026-10-17", "2026-10-18"], "series": [{"label": "Physical AI (EN)", "values": [6, 4, 45, 48, 52, 23, 20, 8, 6, 47, 63, 52, 37, 37, 10, 5, 46, 44, 40, 37, 34, 12, 8, 39, 57, 46, 36, 40, 10, 5]}, {"label": "フィジカルAI", "values": [10, 12, 12, 17, 17, 37, 29, 9, 12, 34, 37, 60, 34, 17, 14, 14, 34, 59, 28, 26, 15, 6, 10, 12, 66, 47, 32, 40, 2, 7]}, {"label": "Embodied AI (EN)", "values": [8, 3, 8, 10, 8, 10, 1, 2, 0, 6, 17, 5, 6, 6, 3, 1, 3, 3, 1, 5, 7, 1, 0, 7, 6, 8, 12, 12, 0, 3]}, {"label": "Humanoid robot (EN)", "values": [8, 15, 51, 38, 27, 18, 16, 14, 10, 25, 27, 35, 45, 30, 10, 8, 23, 28, 18, 38, 30, 7, 13, 25, 31, 40, 32, 27, 22, 14]}, {"label": "ヒューマノイド (JA)", "values": [4, 8, 14, 31, 12, 23, 9, 6, 6, 14, 19, 21, 24, 17, 5, 8, 11, 32, 17, 12, 19, 4, 10, 11, 24, 10, 25, 17, 3, 8]}], "ml": 40, "pw": 804, "mt": 14, "ph": 256, "vmax": 100}</script>
+</div><details class="tbl"><summary>データテーブルを表示(日次件数)</summary><div class="scroll"><table><thead><tr><th>日付</th><th>Physical AI (EN)</th><th>フィジカルAI</th><th>Embodied AI (EN)</th><th>Humanoid robot (EN)</th><th>ヒューマノイド (JA)</th></tr></thead><tbody><tr><td>2026-09-19</td><td>6</td><td>10</td><td>8</td><td>8</td><td>4</td></tr><tr><td>2026-09-20</td><td>4</td><td>12</td><td>3</td><td>15</td><td>8</td></tr><tr><td>2026-09-21</td><td>45</td><td>12</td><td>8</td><td>51</td><td>14</td></tr><tr><td>2026-09-22</td><td>48</td><td>17</td><td>10</td><td>38</td><td>31</td></tr><tr><td>2026-09-23</td><td>52</td><td>17</td><td>8</td><td>27</td><td>12</td></tr><tr><td>2026-09-24</td><td>23</td><td>37</td><td>10</td><td>18</td><td>23</td></tr><tr><td>2026-09-25</td><td>20</td><td>29</td><td>1</td><td>16</td><td>9</td></tr><tr><td>2026-09-26</td><td>8</td><td>9</td><td>2</td><td>14</td><td>6</td></tr><tr><td>2026-09-27</td><td>6</td><td>12</td><td>0</td><td>10</td><td>6</td></tr><tr><td>2026-09-28</td><td>47</td><td>34</td><td>6</td><td>25</td><td>14</td></tr><tr><td>2026-09-29</td><td>63</td><td>37</td><td>17</td><td>27</td><td>19</td></tr><tr><td>2026-09-30</td><td>52</td><td>60</td><td>5</td><td>35</td><td>21</td></tr><tr><td>2026-10-01</td><td>37</td><td>34</td><td>6</td><td>45</td><td>24</td></tr><tr><td>2026-10-02</td><td>37</td><td>17</td><td>6</td><td>30</td><td>17</td></tr><tr><td>2026-10-03</td><td>10</td><td>14</td><td>3</td><td>10</td><td>5</td></tr><tr><td>2026-10-04</td><td>5</td><td>14</td><td>1</td><td>8</td><td>8</td></tr><tr><td>2026-10-05</td><td>46</td><td>34</td><td>3</td><td>23</td><td>11</td></tr><tr><td>2026-10-06</td><td>44</td><td>59</td><td>3</td><td>28</td><td>32</td></tr><tr><td>2026-10-07</td><td>40</td><td>28</td><td>1</td><td>18</td><td>17</td></tr><tr><td>2026-10-08</td><td>37</td><td>26</td><td>5</td><td>38</td><td>12</td></tr><tr><td>2026-10-09</td><td>34</td><td>15</td><td>7</td><td>30</td><td>19</td></tr><tr><td>2026-10-10</td><td>12</td><td>6</td><td>1</td><td>7</td><td>4</td></tr><tr><td>2026-10-11</td><td>8</td><td>10</td><td>0</td><td>13</td><td>10</td></tr><tr><td>2026-10-12</td><td>39</td><td>12</td><td>7</td><td>25</td><td>11</td></tr><tr><td>2026-10-13</td><td>57</td><td>66</td><td>6</td><td>31</td><td>24</td></tr><tr><td>2026-10-14</td><td>46</td><td>47</td><td>8</td><td>40</td><td>10</td></tr><tr><td>2026-10-15</td><td>36</td><td>32</td><td>12</td><td>32</td><td>25</td></tr><tr><td>2026-10-16</td><td>40</td><td>40</td><td>12</td><td>27</td><td>17</td></tr><tr><td>2026-10-17</td><td>10</td><td>2</td><td>0</td><td>22</td><td>3</td></tr><tr><td>2026-10-18</td><td>5</td><td>7</td><td>3</td><td>14</td><td>8</td></tr></tbody></table></div></details></div>
+</section>
+
+<section>
+  <h2>ワードクラウド — 直近の頻出キーワード</h2>
+  <div class="panel"><div class="cloud"><span class="wc wc-a" style="font-size:43px" data-tip="launches: 35 記事">launches</span><span class="wc wc-a" style="font-size:40px" data-tip="現場: 28 記事">現場</span><span class="wc wc-a" style="font-size:40px" data-tip="実装: 28 記事">実装</span><span class="wc wc-a" style="font-size:39px" data-tip="china: 26 記事">china</span><span class="wc wc-a" style="font-size:39px" data-tip="ceatec: 26 記事">ceatec</span><span class="wc wc-a" style="font-size:39px" data-tip="開発: 26 記事">開発</span><span class="wc wc-a" style="font-size:37px" data-tip="girl: 23 記事">girl</span><span class="wc wc-a" style="font-size:37px" data-tip="nvidia: 22 記事">nvidia</span><span class="wc wc-a" style="font-size:37px" data-tip="CEATEC: 22 記事">CEATEC</span><span class="wc wc-a" style="font-size:36px" data-tip="data: 21 記事">data</span><span class="wc wc-b" style="font-size:36px" data-tip="オムロン: 21 記事">オムロン</span><span class="wc wc-b" style="font-size:36px" data-tip="日本: 21 記事">日本</span><span class="wc wc-b" style="font-size:36px" data-tip="買収: 20 記事">買収</span><span class="wc wc-b" style="font-size:36px" data-tip="技術: 20 記事">技術</span><span class="wc wc-b" style="font-size:35px" data-tip="企業: 19 記事">企業</span><span class="wc wc-b" style="font-size:35px" data-tip="連携: 19 記事">連携</span><span class="wc wc-b" style="font-size:35px" data-tip="future: 18 記事">future</span><span class="wc wc-b" style="font-size:35px" data-tip="共同: 18 記事">共同</span><span class="wc wc-b" style="font-size:34px" data-tip="japan: 17 記事">japan</span><span class="wc wc-b" style="font-size:34px" data-tip="hub: 17 記事">hub</span><span class="wc wc-b" style="font-size:34px" data-tip="開幕: 17 記事">開幕</span><span class="wc wc-b" style="font-size:34px" data-tip="世界: 17 記事">世界</span><span class="wc wc-b" style="font-size:34px" data-tip="中国: 17 記事">中国</span><span class="wc wc-b" style="font-size:34px" data-tip="police: 17 記事">police</span><span class="wc wc-b" style="font-size:33px" data-tip="onlogic: 16 記事">onlogic</span><span class="wc wc-b" style="font-size:33px" data-tip="kong: 16 記事">kong</span><span class="wc wc-b" style="font-size:33px" data-tip="hong: 16 記事">hong</span><span class="wc wc-b" style="font-size:33px" data-tip="raises: 16 記事">raises</span><span class="wc wc-b" style="font-size:33px" data-tip="産業: 16 記事">産業</span><span class="wc wc-b" style="font-size:33px" data-tip="ヤマザキマザック: 16 記事">ヤマザキマザック</span><span class="wc wc-c" style="font-size:33px" data-tip="push: 15 記事">push</span><span class="wc wc-c" style="font-size:33px" data-tip="実証: 15 記事">実証</span><span class="wc wc-c" style="font-size:33px" data-tip="sexually: 15 記事">sexually</span><span class="wc wc-c" style="font-size:33px" data-tip="teen: 15 記事">teen</span><span class="wc wc-c" style="font-size:33px" data-tip="build: 15 記事">build</span><span class="wc wc-c" style="font-size:32px" data-tip="基盤: 14 記事">基盤</span><span class="wc wc-c" style="font-size:32px" data-tip="研究: 14 記事">研究</span><span class="wc wc-c" style="font-size:32px" data-tip="強化: 14 記事">強化</span><span class="wc wc-c" style="font-size:32px" data-tip="germany: 14 記事">germany</span><span class="wc wc-c" style="font-size:31px" data-tip="agility: 13 記事">agility</span><span class="wc wc-c" style="font-size:31px" data-tip="導入: 13 記事">導入</span><span class="wc wc-c" style="font-size:31px" data-tip="abeja: 13 記事">abeja</span><span class="wc wc-c" style="font-size:31px" data-tip="model: 12 記事">model</span><span class="wc wc-c" style="font-size:31px" data-tip="PC: 12 記事">PC</span><span class="wc wc-c" style="font-size:31px" data-tip="市場: 12 記事">市場</span><span class="wc wc-c" style="font-size:31px" data-tip="国産: 12 記事">国産</span><span class="wc wc-c" style="font-size:30px" data-tip="factory: 11 記事">factory</span><span class="wc wc-c" style="font-size:30px" data-tip="world: 11 記事">world</span><span class="wc wc-c" style="font-size:30px" data-tip="korea: 11 記事">korea</span><span class="wc wc-c" style="font-size:30px" data-tip="製造: 11 記事">製造</span><span class="wc wc-c" style="font-size:30px" data-tip="launch: 11 記事">launch</span><span class="wc wc-c" style="font-size:30px" data-tip="global: 11 記事">global</span><span class="wc wc-c" style="font-size:30px" data-tip="unveils: 11 記事">unveils</span><span class="wc wc-c" style="font-size:30px" data-tip="公開: 11 記事">公開</span><span class="wc wc-c" style="font-size:30px" data-tip="西武鉄道: 11 記事">西武鉄道</span><span class="wc wc-c" style="font-size:30px" data-tip="変電: 11 記事">変電</span><span class="wc wc-c" style="font-size:30px" data-tip="ABEJA: 11 記事">ABEJA</span><span class="wc wc-c" style="font-size:29px" data-tip="million: 10 記事">million</span><span class="wc wc-c" style="font-size:29px" data-tip="industrial: 10 記事">industrial</span><span class="wc wc-c" style="font-size:29px" data-tip="搭載: 10 記事">搭載</span></div></div>
+</section>
+
+<section>
+  <h2>ホットニュース — 報道量×新しさスコア Top 10</h2>
+  <ol class="hotlist"><li class="hot">
+  <span class="rank">1</span>
+  <div class="hot-body">
+    <a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xM1I4SnVwNHVKRXZOdHRiVk1CUmhHZ1kxTW5HZUFDbGp5UEtrZHFMcFBENlJ5N3FReGlmREdDUEVPTU1BcmlNTldkSFd5MTdYeXFyeEl3?oc=5" target="_blank" rel="noopener">ZOZO NEXT、AVITAとヒューマノイド向け衣服を共同研究へ</a>
+    <div class="meta"><span class="badge">9 媒体</span><span>22時間前</span><span class="srcs">Dellows News / Impress Watch / MONOist / PR TIMES</span></div>
+  </div>
+</li><li class="hot">
+  <span class="rank">2</span>
+  <div class="hot-body">
+    <a href="https://news.google.com/rss/articles/CBMib0FVX3lxTFBVM1phUVYtdDdYZWVhM18zdVBZaDJWVUsyMzMwblpBR045TFBReTZYV1A2b1V6ZnZLcFdCZlZVNGxnTUF5N1lhOEZxUjdnNjl4aXpDU2pnV1VoVnhyYVVMdW9IVXFmdVlMMktHbm1yYw?oc=5" target="_blank" rel="noopener">マザック、加工の工程設計をAIエージェントで自動化 ABEJAと共同開発：工作機械（1/2 ページ）</a>
+    <div class="meta"><span class="badge">6 媒体</span><span>1時間以内</span><span class="srcs">BigGo ファイナンス / MONOist / PR TIMES / ビジネス+IT</span></div>
+  </div>
+</li><li class="hot">
+  <span class="rank">3</span>
+  <div class="hot-body">
+    <a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ25GYlNCRGVRMy1GTzVGY2lJSWIzWW9IQTMweTVXUDlfTnZEZUxyT2dqd1JjLUoySU9OUU1BbzI0MkdMNGJfQ3Y3bXFudGtESGpFcnN3TTg4Ukoybll5S013djlpSzdySkNHellmeUFldWJMV3FjUHF6bzlFbmJVcGNEQ0R2dw?oc=5" target="_blank" rel="noopener">Hong Kong Launches Embodied AI Testing Hub for Robotics</a>
+    <div class="meta"><span class="badge">7 媒体</span><span>14時間前</span><span class="srcs">Asia Business Outlook / ForkLog / StreetInsider / TNGlobal</span></div>
+  </div>
+</li><li class="hot">
+  <span class="rank">4</span>
+  <div class="hot-body">
+    <a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxOMnN1SGNjaDE0QkFkdzhhZUNoOWdXNE8tbjRBQnpZcl9lSWwxdEZ1bHJrWkZ5am5YRGJJVTU3X3lhaHZ2QzAwOTNjX09nV29XLWd6UHJxWmhvbjJfVTFSNnpqY19ZYnZfNlZZZGVhYm9BbHJNNG04VnNFLXFrWGN0dWVfelRKVHpOX0w1ajhZQVNEREdybU4tajA5S3U2N21nMEo5a21jR2dvMlc0Qy1tVVkyNVQ?oc=5" target="_blank" rel="noopener">Fincantieri Accelerates Robotics and Physical AI to Build Future Shipyard</a>
+    <div class="meta"><span class="badge">5 媒体</span><span>1日前</span><span class="srcs">Fincantieri / Marine Insight / Marine Log / The Maritime Executive</span></div>
+  </div>
+</li><li class="hot">
+  <span class="rank">5</span>
+  <div class="hot-body">
+    <a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxOMlcxUzBmLU44MUFmRjd4V2dmbFROQmlCT00tX1QzZmdoZzVTZ3ZrazhBRFNjWXFUdTh4eVlQV2RkUmZnbVVfT0M4VmxPWnFDY1RhZ2RGeGNmN3BmajNyaGFxWUpjZy0yT01keVIxNURfeTNhYnQ5UldsZGNoVFVWLTVCY1k1N2pYWXcwenBVWTRxcnBCdkVBNFFOeGVnUHYxdk9CV3ZsbUppTDJHNUh3?oc=5" target="_blank" rel="noopener">AiMOGA launches Mobo, a humanoid home companion...</a>
+    <div class="meta"><span class="badge">5 媒体</span><span>1日前</span><span class="srcs">AI Insider / Pluang</span></div>
+  </div>
+</li><li class="hot">
+  <span class="rank">6</span>
+  <div class="hot-body">
+    <a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxPUEFPRWhJU05fVnh2Ui04NkdmZFh1V1JJTk54ejdQTEZHbDJEdlc1Ym5laGt4UUk4LXhfYnIwZ3pNVXBfTWFWLXl1S2kwMkROWmtmeWwtMjBzTThucUw5anp5dVl1RE5jbWotNGVHOHh1UUZFNE0xLXNObGd0OTA3ODVuTms2VW42M0pjRlFHSnpnWjBpRThDU0djVy1Fb0Za?oc=5" target="_blank" rel="noopener">Ubitium raises $14M to build universal processor for Physical AI</a>
+    <div class="meta"><span class="badge">5 媒体</span><span>2日前</span><span class="srcs">AI Insider / Evertiq / Pulse 2.0 / Robotics &amp; Automation News</span></div>
+  </div>
+</li><li class="hot">
+  <span class="rank">7</span>
+  <div class="hot-body">
+    <a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oQkFPQ01jdmJzVTU2b1hXajFMRTFoSWxCRkx3Q05OZHJPVFUxMUctdWlKMTlIMFlNY3h4OVltSXlKTTlwWmF6Unozb081bXhKUXZ1Z2kzZw?oc=5" target="_blank" rel="noopener">「フィジカルAI」でアベジャとの連携を発表したヤマザキマザックの山崎高嗣社長（左）ら＝16日午後、名古屋市 - フィジカルAI実装へ連携 マザックとアベジャ - 写真・画像(1/1)</a>
+    <div class="meta"><span class="badge">5 媒体</span><span>2日前</span><span class="srcs">Yahoo!ニュース / 佐賀新聞 / 南日本新聞 / 西日本新聞me</span></div>
+  </div>
+</li><li class="hot">
+  <span class="rank">8</span>
+  <div class="hot-body">
+    <a href="https://news.google.com/rss/articles/CBMidEFVX3lxTE81cU51eWN3QTZBWUp6bUJJN1BBZ3dHLXpYazVrdHVfeFdPVTJVbXJuUmpDd3pqUlUzR2R6c2dqenlyV1NCTWFwR0UzVngzMGFVcnY5bG9oak9OamNDdDZvZUw2X3ExeTRhY0Nwd09yeHNLS1dE?oc=5" target="_blank" rel="noopener">西武鉄道とｕｇｏ、フィジカルAIロボットを変電所に常駐させる実証実験を開始</a>
+    <div class="meta"><span class="badge">5 媒体</span><span>2日前</span><span class="srcs">AIsmiley / BigGo ファイナンス / レスポンス（Response.jp） / 産経ニュース</span></div>
+  </div>
+</li><li class="hot">
+  <span class="rank">9</span>
+  <div class="hot-body">
+    <a href="https://news.google.com/rss/articles/CBMi_AFBVV95cUxQY29YZjZHdjVzN1NheHdqMHJqUmRCNFh4YUxzenl2dnBIQXRDQVBqZDZPd1BTb0V0eWJselFTbHFBeHc0ZWpSMVRST2RlN1VTb1RDVk5Oajl1b2JQZkdnT2tsUkpHMW5uUzVvNVU4dFUybDI3dm4yUDZMX0pxYkN0WmYtcmpvT0E0UUNGbkcteW1UTkRibEZzcllxX2o0bmNwamswWktlZFU5bDlSczM3VldyTWJURnZINlpNLS1Rcjdselg5Y0RJNFlqRFdxSjR4U3NkQ1ZDUUhMbXkxdmwzSFNpbnIzSWhWbmhrcmlKM0FjdW1nUmlGRWdpSE8?oc=5" target="_blank" rel="noopener">Axonex AI Group Joins FLAIR’s Embodied AI International Applications Hub and Launches Education Humanoid TOMO</a>
+    <div class="meta"><span class="badge">6 媒体</span><span>3日前</span><span class="srcs">Alvinology / Investing.com / Investing.com Canada / Media OutReach Newswire</span></div>
+  </div>
+</li><li class="hot">
+  <span class="rank">10</span>
+  <div class="hot-body">
+    <a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxPbEJHZDhJM0dpX0c0LWZXUTdsUzVPYlpjTGpzT1YzVGpjVXBVcEp5U1p1SThuSUpYVTM1c3VfZ1E3X096QUNGVmVVSjhzMlgtOW5JaWpVdlRwZ2tIa0V3Q2lNZkpwRjRTZDdTNmJHYUM4d0w2Wk1aa2xHQk9FbjNrbE1DajZXc0ZDZ0xVd2I1Tzc?oc=5" target="_blank" rel="noopener">German Police Seize Robot After Alleged Groping of 16-Year-Old Girl</a>
+    <div class="meta"><span class="badge">6 媒体</span><span>3日前</span><span class="srcs">CBS News / Firstpost / NBC News / TechRepublic</span></div>
+  </div>
+</li></ol>
+</section>
+
+
+<section>
+  <h2>ハイブリッド分析 — 特許保有 × 直近報道量(主要プレイヤー)</h2>
+  <div class="panel">
+<svg viewBox="0 0 860 328" role="img" aria-label="主要出願人の特許件数とニュース言及数の対比"><text x="326" y="20" class="alabel hdr" text-anchor="end">特許件数</text><text x="514" y="20" class="alabel hdr">ニュース言及(30日)</text><path d="M80.0,34.0 L326.0,34.0 Q330.0,34.0 330.0,38.0 L330.0,56.0 Q330.0,60.0 326.0,60.0 L80.0,60.0 Z" class="bar-l" data-tip="INTEL CORP: 特許 1051 件" transform="rotate(180 205.0 47.0)"/><text x="72.0" y="51.0" class="val" text-anchor="end">1051</text><text x="420.0" y="51.0" class="alabel" text-anchor="middle">INTEL CORP</text><path d="M510.0,34.0 L534.7,34.0 Q538.7,34.0 538.7,38.0 L538.7,56.0 Q538.7,60.0 534.7,60.0 L510.0,60.0 Z" class="bar-r" data-tip="INTEL CORP(照合語: INTEL): ニュース 10 件"/><text x="546.7" y="51.0" class="val">10</text><path d="M203.2,70.0 L326.0,70.0 Q330.0,70.0 330.0,74.0 L330.0,92.0 Q330.0,96.0 326.0,96.0 L203.2,96.0 Z" class="bar-l" data-tip="BOSCH GMBH ROBERT: 特許 533 件" transform="rotate(180 266.6 83.0)"/><text x="195.2" y="87.0" class="val" text-anchor="end">533</text><text x="420.0" y="87.0" class="alabel" text-anchor="middle">BOSCH GMBH RO…</text><text x="521.0" y="87.0" class="val">0</text><path d="M264.6,106.0 L326.0,106.0 Q330.0,106.0 330.0,110.0 L330.0,128.0 Q330.0,132.0 326.0,132.0 L264.6,132.0 Z" class="bar-l" data-tip="GOOGLE LLC: 特許 275 件" transform="rotate(180 297.3 119.0)"/><text x="256.6" y="123.0" class="val" text-anchor="end">275</text><text x="420.0" y="123.0" class="alabel" text-anchor="middle">GOOGLE LLC</text><path d="M510.0,106.0 L540.5,106.0 Q544.5,106.0 544.5,110.0 L544.5,128.0 Q544.5,132.0 540.5,132.0 L510.0,132.0 Z" class="bar-r" data-tip="GOOGLE LLC(照合語: GOOGLE): ニュース 12 件"/><text x="552.5" y="123.0" class="val">12</text><path d="M267.4,142.0 L326.0,142.0 Q330.0,142.0 330.0,146.0 L330.0,164.0 Q330.0,168.0 326.0,168.0 L267.4,168.0 Z" class="bar-l" data-tip="HONDA MOTOR CO LTD: 特許 263 件" transform="rotate(180 298.7 155.0)"/><text x="259.4" y="159.0" class="val" text-anchor="end">263</text><text x="420.0" y="159.0" class="alabel" text-anchor="middle">HONDA MOTOR C…</text><path d="M510.0,142.0 L511.7,142.0 Q515.7,142.0 515.7,146.0 L515.7,164.0 Q515.7,168.0 511.7,168.0 L510.0,168.0 Z" class="bar-r" data-tip="HONDA MOTOR CO LTD(照合語: HONDA MOTOR): ニュース 2 件"/><text x="523.7" y="159.0" class="val">2</text><path d="M268.2,178.0 L326.0,178.0 Q330.0,178.0 330.0,182.0 L330.0,200.0 Q330.0,204.0 326.0,204.0 L268.2,204.0 Z" class="bar-l" data-tip="SAMSUNG ELECTRONICS CO LTD: 特許 260 件" transform="rotate(180 299.1 191.0)"/><text x="260.2" y="195.0" class="val" text-anchor="end">260</text><text x="420.0" y="195.0" class="alabel" text-anchor="middle">SAMSUNG ELECT…</text><path d="M510.0,178.0 L560.6,178.0 Q564.6,178.0 564.6,182.0 L564.6,200.0 Q564.6,204.0 560.6,204.0 L510.0,204.0 Z" class="bar-r" data-tip="SAMSUNG ELECTRONICS CO LTD(照合語: SAMSUNG ELECTRONICS): ニュース 19 件"/><text x="572.6" y="195.0" class="val">19</text><path d="M272.0,214.0 L326.0,214.0 Q330.0,214.0 330.0,218.0 L330.0,236.0 Q330.0,240.0 326.0,240.0 L272.0,240.0 Z" class="bar-l" data-tip="X DEV LLC: 特許 244 件" transform="rotate(180 301.0 227.0)"/><text x="264.0" y="231.0" class="val" text-anchor="end">244</text><text x="420.0" y="231.0" class="alabel" text-anchor="middle">X DEV LLC</text><text x="521.0" y="231.0" class="val">0</text><path d="M279.3,250.0 L326.0,250.0 Q330.0,250.0 330.0,254.0 L330.0,272.0 Q330.0,276.0 326.0,276.0 L279.3,276.0 Z" class="bar-l" data-tip="NVIDIA CORP: 特許 213 件" transform="rotate(180 304.7 263.0)"/><text x="271.3" y="267.0" class="val" text-anchor="end">213</text><text x="420.0" y="267.0" class="alabel" text-anchor="middle">NVIDIA CORP</text><path d="M510.0,250.0 L756.0,250.0 Q760.0,250.0 760.0,254.0 L760.0,272.0 Q760.0,276.0 756.0,276.0 L510.0,276.0 Z" class="bar-r" data-tip="NVIDIA CORP(照合語: NVIDIA): ニュース 87 件"/><text x="768.0" y="267.0" class="val">87</text><path d="M281.0,286.0 L326.0,286.0 Q330.0,286.0 330.0,290.0 L330.0,308.0 Q330.0,312.0 326.0,312.0 L281.0,312.0 Z" class="bar-l" data-tip="QUALCOMM INC: 特許 206 件" transform="rotate(180 305.5 299.0)"/><text x="273.0" y="303.0" class="val" text-anchor="end">206</text><text x="420.0" y="303.0" class="alabel" text-anchor="middle">QUALCOMM INC</text><path d="M510.0,286.0 L529.0,286.0 Q533.0,286.0 533.0,290.0 L533.0,308.0 Q533.0,312.0 529.0,312.0 L510.0,312.0 Z" class="bar-r" data-tip="QUALCOMM INC(照合語: QUALCOMM): ニュース 8 件"/><text x="541.0" y="303.0" class="val">8</text></svg>
+<div class="legend"><span class="lg"><i class="chip s1"></i>特許件数(CSV全期間)</span><span class="lg"><i class="chip s2"></i>ニュース言及数(直近30日のタイトル部分一致)</span></div>
+<p class="chart-note">※ 左が長い=技術蓄積が先行(要注目の伏兵)、右が長い=報道が先行(話題先行)。
+照合は企業名の単純部分一致のため取りこぼしがあり得る</p>
+</div>
+</section>
+
+<section>
+  <h2>特許動向</h2>
+  <div class="notice query-box">
+    <strong>特許抽出の検索式(ロボット形態 × 学習・制御技術 × IPC分類、ティーチングプレイバック型は除外)</strong>
+    <pre class="query">(&quot;physical AI&quot; OR &quot;embodied AI&quot; OR &quot;embodied intelligence&quot; OR humanoid OR &quot;legged robot&quot; OR &quot;quadruped robot&quot; OR &quot;bipedal robot&quot; OR &quot;mobile manipulation&quot; OR &quot;mobile manipulator&quot; OR &quot;robotic manipulation&quot; OR &quot;robot manipulation&quot; OR &quot;dexterous manipulation&quot; OR &quot;autonomous robot&quot; OR &quot;collaborative robot&quot; OR cobot OR &quot;service robot&quot; OR &quot;robotic grasping&quot; OR &quot;robot grasping&quot;) AND (&quot;sim-to-real&quot; OR &quot;sim2real&quot; OR &quot;domain randomization&quot; OR &quot;reinforcement learning&quot; OR &quot;imitation learning&quot; OR &quot;learning from demonstration&quot; OR &quot;self-supervised learning&quot; OR &quot;end-to-end learning&quot; OR &quot;world model&quot; OR &quot;vision-language-action&quot; OR &quot;vision language model&quot; OR &quot;foundation model&quot; OR &quot;diffusion policy&quot; OR &quot;neural network&quot; OR &quot;deep learning&quot; OR &quot;multimodal perception&quot; OR &quot;tactile sensing&quot; OR &quot;force control&quot; OR &quot;whole-body control&quot; OR &quot;motion planning&quot; OR &quot;grasp planning&quot;) AND (class_ipcr.symbol:B25J* OR class_ipcr.symbol:G06N* OR class_ipcr.symbol:G05B* OR class_ipcr.symbol:G05D*) AND NOT (&quot;teach and playback&quot; OR &quot;teaching and playback&quot; OR &quot;playback robot&quot;)</pre>
+    <p class="chart-note">特許データはニュースと異なり毎日は更新されません。約3ヶ月に1回、上記検索式で再抽出したデータに差し替えます(最終取込: 2026-10-18)。</p>
+  </div>
+  <div class="grid2">
+<div class="panel"><h3>出願年別件数</h3><svg viewBox="0 0 560 240" role="img" aria-label="出願年別の特許件数">
+  <line x1="40" y1="167.0" x2="544" y2="167.0" class="grid"/><text x="32" y="171.0" class="tick" text-anchor="end">500</text><line x1="40" y1="120.0" x2="544" y2="120.0" class="grid"/><text x="32" y="124.0" class="tick" text-anchor="end">1000</text><line x1="40" y1="73.0" x2="544" y2="73.0" class="grid"/><text x="32" y="77.0" class="tick" text-anchor="end">1500</text>
+  <line x1="40" y1="214" x2="544" y2="214" class="axis"/>
+  <path d="M42.5,214.0 L42.5,214.3 Q42.5,213.8 43.0,213.8 L49.6,213.8 Q50.1,213.8 50.1,214.3 L50.1,214.0 Z" class="bar" data-tip="1987年: 2 件"/><text x="46.3" y="232" class="tick" text-anchor="middle">1987</text><path d="M55.1,214.0 L55.1,213.8 Q55.1,213.3 55.6,213.3 L62.2,213.3 Q62.7,213.3 62.7,213.8 L62.7,214.0 Z" class="bar" data-tip="1988年: 7 件"/><text x="58.9" y="232" class="tick" text-anchor="middle">1988</text><path d="M67.7,214.0 L67.7,214.0 Q67.7,213.5 68.2,213.5 L74.8,213.5 Q75.3,213.5 75.3,214.0 L75.3,214.0 Z" class="bar" data-tip="1989年: 5 件"/><text x="71.5" y="232" class="tick" text-anchor="middle">1989</text><path d="M80.3,214.0 L80.3,213.5 Q80.3,213.0 80.8,213.0 L87.4,213.0 Q87.9,213.0 87.9,213.5 L87.9,214.0 Z" class="bar" data-tip="1990年: 11 件"/><text x="84.1" y="232" class="tick" text-anchor="middle">1990</text><path d="M92.9,214.0 L92.9,214.1 Q92.9,213.6 93.4,213.6 L100.0,213.6 Q100.5,213.6 100.5,214.1 L100.5,214.0 Z" class="bar" data-tip="1991年: 4 件"/><text x="96.7" y="232" class="tick" text-anchor="middle">1991</text><path d="M105.5,214.0 L105.5,213.8 Q105.5,213.3 106.0,213.3 L112.6,213.3 Q113.1,213.3 113.1,213.8 L113.1,214.0 Z" class="bar" data-tip="1992年: 7 件"/><text x="109.3" y="232" class="tick" text-anchor="middle">1992</text><path d="M118.1,214.0 L118.1,213.5 Q118.1,213.0 118.6,213.0 L125.2,213.0 Q125.7,213.0 125.7,213.5 L125.7,214.0 Z" class="bar" data-tip="1993年: 11 件"/><text x="121.9" y="232" class="tick" text-anchor="middle">1993</text><path d="M130.7,214.0 L130.7,213.7 Q130.7,213.2 131.2,213.2 L137.8,213.2 Q138.3,213.2 138.3,213.7 L138.3,214.0 Z" class="bar" data-tip="1994年: 8 件"/><text x="134.5" y="232" class="tick" text-anchor="middle">1994</text><path d="M143.3,214.0 L143.3,213.1 Q143.3,212.2 144.2,212.2 L150.0,212.2 Q150.9,212.2 150.9,213.1 L150.9,214.0 Z" class="bar" data-tip="1995年: 19 件"/><text x="147.1" y="232" class="tick" text-anchor="middle">1995</text><path d="M155.9,214.0 L155.9,214.3 Q155.9,213.8 156.4,213.8 L163.0,213.8 Q163.5,213.8 163.5,214.3 L163.5,214.0 Z" class="bar" data-tip="1996年: 2 件"/><text x="159.7" y="232" class="tick" text-anchor="middle">1996</text><path d="M168.5,214.0 L168.5,213.4 Q168.5,212.8 169.1,212.8 L175.5,212.8 Q176.1,212.8 176.1,213.4 L176.1,214.0 Z" class="bar" data-tip="1997年: 13 件"/><text x="172.3" y="232" class="tick" text-anchor="middle">1997</text><path d="M181.1,214.0 L181.1,213.3 Q181.1,212.7 181.8,212.7 L188.0,212.7 Q188.7,212.7 188.7,213.3 L188.7,214.0 Z" class="bar" data-tip="1998年: 14 件"/><text x="184.9" y="232" class="tick" text-anchor="middle">1998</text><path d="M193.7,214.0 L193.7,213.2 Q193.7,212.3 194.6,212.3 L200.4,212.3 Q201.3,212.3 201.3,213.2 L201.3,214.0 Z" class="bar" data-tip="1999年: 18 件"/><text x="197.5" y="232" class="tick" text-anchor="middle">1999</text><path d="M206.3,214.0 L206.3,213.2 Q206.3,212.3 207.2,212.3 L213.0,212.3 Q213.9,212.3 213.9,213.2 L213.9,214.0 Z" class="bar" data-tip="2000年: 18 件"/><text x="210.1" y="232" class="tick" text-anchor="middle">2000</text><path d="M218.9,214.0 L218.9,212.5 Q218.9,211.0 220.4,211.0 L225.0,211.0 Q226.5,211.0 226.5,212.5 L226.5,214.0 Z" class="bar" data-tip="2001年: 32 件"/><text x="222.7" y="232" class="tick" text-anchor="middle">2001</text><path d="M231.5,214.0 L231.5,213.2 Q231.5,209.2 235.5,209.2 L235.1,209.2 Q239.1,209.2 239.1,213.2 L239.1,214.0 Z" class="bar" data-tip="2002年: 51 件"/><text x="235.3" y="232" class="tick" text-anchor="middle">2002</text><path d="M244.1,214.0 L244.1,212.1 Q244.1,210.1 246.0,210.1 L249.8,210.1 Q251.7,210.1 251.7,212.1 L251.7,214.0 Z" class="bar" data-tip="2003年: 41 件"/><text x="247.9" y="232" class="tick" text-anchor="middle">2003</text><path d="M256.7,214.0 L256.7,209.5 Q256.7,205.5 260.7,205.5 L260.3,205.5 Q264.3,205.5 264.3,209.5 L264.3,214.0 Z" class="bar" data-tip="2004年: 90 件"/><text x="260.5" y="232" class="tick" text-anchor="middle">2004</text><path d="M269.3,214.0 L269.3,212.1 Q269.3,208.1 273.3,208.1 L272.9,208.1 Q276.9,208.1 276.9,212.1 L276.9,214.0 Z" class="bar" data-tip="2005年: 63 件"/><text x="273.1" y="232" class="tick" text-anchor="middle">2005</text><path d="M281.9,214.0 L281.9,210.8 Q281.9,206.8 285.9,206.8 L285.5,206.8 Q289.5,206.8 289.5,210.8 L289.5,214.0 Z" class="bar" data-tip="2006年: 77 件"/><text x="285.7" y="232" class="tick" text-anchor="middle">2006</text><path d="M294.5,214.0 L294.5,211.4 Q294.5,207.4 298.5,207.4 L298.1,207.4 Q302.1,207.4 302.1,211.4 L302.1,214.0 Z" class="bar" data-tip="2007年: 70 件"/><text x="298.3" y="232" class="tick" text-anchor="middle">2007</text><path d="M307.1,214.0 L307.1,209.9 Q307.1,205.9 311.1,205.9 L310.7,205.9 Q314.7,205.9 314.7,209.9 L314.7,214.0 Z" class="bar" data-tip="2008年: 86 件"/><text x="310.9" y="232" class="tick" text-anchor="middle">2008</text><path d="M319.7,214.0 L319.7,208.9 Q319.7,204.9 323.7,204.9 L323.3,204.9 Q327.3,204.9 327.3,208.9 L327.3,214.0 Z" class="bar" data-tip="2009年: 97 件"/><text x="323.5" y="232" class="tick" text-anchor="middle">2009</text><path d="M332.3,214.0 L332.3,209.0 Q332.3,205.0 336.3,205.0 L335.9,205.0 Q339.9,205.0 339.9,209.0 L339.9,214.0 Z" class="bar" data-tip="2010年: 96 件"/><text x="336.1" y="232" class="tick" text-anchor="middle">2010</text><path d="M344.9,214.0 L344.9,207.9 Q344.9,203.9 348.9,203.9 L348.5,203.9 Q352.5,203.9 352.5,207.9 L352.5,214.0 Z" class="bar" data-tip="2011年: 107 件"/><text x="348.7" y="232" class="tick" text-anchor="middle">2011</text><path d="M357.5,214.0 L357.5,204.9 Q357.5,200.9 361.5,200.9 L361.1,200.9 Q365.1,200.9 365.1,204.9 L365.1,214.0 Z" class="bar" data-tip="2012年: 139 件"/><text x="361.3" y="232" class="tick" text-anchor="middle">2012</text><path d="M370.1,214.0 L370.1,203.5 Q370.1,199.5 374.1,199.5 L373.7,199.5 Q377.7,199.5 377.7,203.5 L377.7,214.0 Z" class="bar" data-tip="2013年: 154 件"/><text x="373.9" y="232" class="tick" text-anchor="middle">2013</text><path d="M382.7,214.0 L382.7,199.5 Q382.7,195.5 386.7,195.5 L386.3,195.5 Q390.3,195.5 390.3,199.5 L390.3,214.0 Z" class="bar" data-tip="2014年: 197 件"/><text x="386.5" y="232" class="tick" text-anchor="middle">2014</text><path d="M395.3,214.0 L395.3,194.3 Q395.3,190.3 399.3,190.3 L398.9,190.3 Q402.9,190.3 402.9,194.3 L402.9,214.0 Z" class="bar" data-tip="2015年: 252 件"/><text x="399.1" y="232" class="tick" text-anchor="middle">2015</text><path d="M407.9,214.0 L407.9,183.5 Q407.9,179.5 411.9,179.5 L411.5,179.5 Q415.5,179.5 415.5,183.5 L415.5,214.0 Z" class="bar" data-tip="2016年: 367 件"/><text x="411.7" y="232" class="tick" text-anchor="middle">2016</text><path d="M420.5,214.0 L420.5,151.1 Q420.5,147.1 424.5,147.1 L424.1,147.1 Q428.1,147.1 428.1,151.1 L428.1,214.0 Z" class="bar" data-tip="2017年: 712 件"/><text x="424.3" y="232" class="tick" text-anchor="middle">2017</text><path d="M433.1,214.0 L433.1,119.7 Q433.1,115.7 437.1,115.7 L436.7,115.7 Q440.7,115.7 440.7,119.7 L440.7,214.0 Z" class="bar" data-tip="2018年: 1046 件"/><text x="436.9" y="232" class="tick" text-anchor="middle">2018</text><path d="M445.7,214.0 L445.7,75.0 Q445.7,71.0 449.7,71.0 L449.3,71.0 Q453.3,71.0 453.3,75.0 L453.3,214.0 Z" class="bar" data-tip="2019年: 1521 件"/><text x="449.5" y="232" class="tick" text-anchor="middle">2019</text><path d="M458.3,214.0 L458.3,47.8 Q458.3,43.8 462.3,43.8 L461.9,43.8 Q465.9,43.8 465.9,47.8 L465.9,214.0 Z" class="bar" data-tip="2020年: 1811 件"/><text x="462.1" y="37.8" class="val" text-anchor="middle">1811</text><text x="462.1" y="232" class="tick" text-anchor="middle">2020</text><path d="M470.9,214.0 L470.9,58.0 Q470.9,54.0 474.9,54.0 L474.5,54.0 Q478.5,54.0 478.5,58.0 L478.5,214.0 Z" class="bar" data-tip="2021年: 1702 件"/><text x="474.7" y="232" class="tick" text-anchor="middle">2021</text><path d="M483.5,214.0 L483.5,72.4 Q483.5,68.4 487.5,68.4 L487.1,68.4 Q491.1,68.4 491.1,72.4 L491.1,214.0 Z" class="bar" data-tip="2022年: 1549 件"/><text x="487.3" y="232" class="tick" text-anchor="middle">2022</text><path d="M496.1,214.0 L496.1,85.1 Q496.1,81.1 500.1,81.1 L499.7,81.1 Q503.7,81.1 503.7,85.1 L503.7,214.0 Z" class="bar" data-tip="2023年: 1414 件"/><text x="499.9" y="232" class="tick" text-anchor="middle">2023</text><path d="M508.7,214.0 L508.7,95.6 Q508.7,91.6 512.7,91.6 L512.3,91.6 Q516.3,91.6 516.3,95.6 L516.3,214.0 Z" class="bar" data-tip="2024年: 1302 件"/><text x="512.5" y="232" class="tick" text-anchor="middle">2024</text><path d="M521.3,214.0 L521.3,109.1 Q521.3,105.1 525.3,105.1 L524.9,105.1 Q528.9,105.1 528.9,109.1 L528.9,214.0 Z" class="bar" data-tip="2025年: 1158 件"/><text x="525.1" y="232" class="tick" text-anchor="middle">2025</text><path d="M533.9,214.0 L533.9,208.6 Q533.9,204.6 537.9,204.6 L537.5,204.6 Q541.5,204.6 541.5,208.6 L541.5,214.0 Z" class="bar" data-tip="2026年: 100 件"/><text x="537.7" y="198.6" class="val" text-anchor="middle">100</text><text x="537.7" y="232" class="tick" text-anchor="middle">2026</text>
+</svg>
+<p class="chart-note">※ 直近1〜2年は未公開・権利化前の案件が含まれず少なく見える点に注意</p></div>
+<div class="panel"><h3>主要出願人 Top 10</h3><svg viewBox="0 0 560 350" role="img" aria-label="出願人別の特許件数トップ10"><text x="196" y="22.0" class="alabel" text-anchor="end">INTEL CORP</text><path d="M204.0,5.0 L530.0,5.0 Q534.0,5.0 534.0,9.0 L534.0,27.0 Q534.0,31.0 530.0,31.0 L204.0,31.0 Z" class="bar" data-tip="INTEL CORP: 1051 件"/><text x="542.0" y="22.0" class="val">1051</text><text x="196" y="56.0" class="alabel" text-anchor="end">BOSCH GMBH ROBERT</text><path d="M204.0,39.0 L367.4,39.0 Q371.4,39.0 371.4,43.0 L371.4,61.0 Q371.4,65.0 367.4,65.0 L204.0,65.0 Z" class="bar" data-tip="BOSCH GMBH ROBERT: 533 件"/><text x="379.4" y="56.0" class="val">533</text><text x="196" y="90.0" class="alabel" text-anchor="end">GOOGLE LLC</text><path d="M204.0,73.0 L286.3,73.0 Q290.3,73.0 290.3,77.0 L290.3,95.0 Q290.3,99.0 286.3,99.0 L204.0,99.0 Z" class="bar" data-tip="GOOGLE LLC: 275 件"/><text x="298.3" y="90.0" class="val">275</text><text x="196" y="124.0" class="alabel" text-anchor="end">HONDA MOTOR CO LTD</text><path d="M204.0,107.0 L282.6,107.0 Q286.6,107.0 286.6,111.0 L286.6,129.0 Q286.6,133.0 282.6,133.0 L204.0,133.0 Z" class="bar" data-tip="HONDA MOTOR CO LTD: 263 件"/><text x="294.6" y="124.0" class="val">263</text><text x="196" y="158.0" class="alabel" text-anchor="end">SAMSUNG ELECTRONICS CO LTD</text><path d="M204.0,141.0 L281.6,141.0 Q285.6,141.0 285.6,145.0 L285.6,163.0 Q285.6,167.0 281.6,167.0 L204.0,167.0 Z" class="bar" data-tip="SAMSUNG ELECTRONICS CO LTD: 260 件"/><text x="293.6" y="158.0" class="val">260</text><text x="196" y="192.0" class="alabel" text-anchor="end">X DEV LLC</text><path d="M204.0,175.0 L276.6,175.0 Q280.6,175.0 280.6,179.0 L280.6,197.0 Q280.6,201.0 276.6,201.0 L204.0,201.0 Z" class="bar" data-tip="X DEV LLC: 244 件"/><text x="288.6" y="192.0" class="val">244</text><text x="196" y="226.0" class="alabel" text-anchor="end">NVIDIA CORP</text><path d="M204.0,209.0 L266.9,209.0 Q270.9,209.0 270.9,213.0 L270.9,231.0 Q270.9,235.0 266.9,235.0 L204.0,235.0 Z" class="bar" data-tip="NVIDIA CORP: 213 件"/><text x="278.9" y="226.0" class="val">213</text><text x="196" y="260.0" class="alabel" text-anchor="end">QUALCOMM INC</text><path d="M204.0,243.0 L264.7,243.0 Q268.7,243.0 268.7,247.0 L268.7,265.0 Q268.7,269.0 264.7,269.0 L204.0,269.0 Z" class="bar" data-tip="QUALCOMM INC: 206 件"/><text x="276.7" y="260.0" class="val">206</text><text x="196" y="294.0" class="alabel" text-anchor="end">BRAIN CORP</text><path d="M204.0,277.0 L260.6,277.0 Q264.6,277.0 264.6,281.0 L264.6,299.0 Q264.6,303.0 260.6,303.0 L204.0,303.0 Z" class="bar" data-tip="BRAIN CORP: 193 件"/><text x="272.6" y="294.0" class="val">193</text><text x="196" y="328.0" class="alabel" text-anchor="end">BOSTON DYNAMICS INC</text><path d="M204.0,311.0 L256.2,311.0 Q260.2,311.0 260.2,315.0 L260.2,333.0 Q260.2,337.0 256.2,337.0 L204.0,337.0 Z" class="bar" data-tip="BOSTON DYNAMICS INC: 179 件"/><text x="268.2" y="328.0" class="val">179</text></svg></div>
+</div>
+<div class="panel"><h3>直近の特許</h3><ul class="patlist"><li><a href="https://patents.google.com/patent/CN122113994A" target="_blank" rel="noopener">一种基于残差动作学习的智能机器人全身动作训练方法</a><span class="meta">2026-04-30 ・ 江苏欣网视讯软件技术有限公司</span></li><li><a href="https://patents.google.com/patent/CN121893295A" target="_blank" rel="noopener">Cooperative control method and system for man-machine cooperative assembly robot based on digital twinning</a><span class="meta">2026-03-24 ・ UNIV NANJING AERONAUTICS &amp; ASTRONAUTICS</span></li><li><a href="https://patents.google.com/patent/CN121912402A" target="_blank" rel="noopener">Humanoid robot movement-operation controller training method</a><span class="meta">2026-03-20 ・ UNIV DALIAN TECH</span></li><li><a href="https://patents.google.com/patent/CN121900451A" target="_blank" rel="noopener">Quadruped robot and control method of joint module of quadruped robot</a><span class="meta">2026-03-18 ・ GUANGDONG TOPS TECH CO LTD</span></li><li><a href="https://patents.google.com/patent/CN121870782A" target="_blank" rel="noopener">Robot long-time operation control model training method, control method and system</a><span class="meta">2026-03-18 ・ UNIV HEFEI TECHNOLOGY</span></li><li><a href="https://patents.google.com/patent/CN121893283A" target="_blank" rel="noopener">Vision-based stateless robot motion control method and system</a><span class="meta">2026-03-18 ・ WANJING QIANXUN BEIJING TECH CO LTD</span></li><li><a href="https://patents.google.com/patent/CN121946508A" target="_blank" rel="noopener">Whole body control method and device of humanoid robot, electronic equipment and storage medium</a><span class="meta">2026-03-16 ・ BEIJING SHENMOU TECH CO LTD</span></li><li><a href="https://patents.google.com/patent/CN121821413A" target="_blank" rel="noopener">Intelligent control method and system for waste automobile disassembling robot</a><span class="meta">2026-03-12 ・ JIANGSU SUBEI WASTE AUTOMOBILE HOME APPLIANCE DISMANTLING RECYCLING CO LTD</span></li><li><a href="https://patents.google.com/patent/KR20260042109A" target="_blank" rel="noopener">Robot Manipulator and Integrated Control System Having High-Speed Reflex Based on Multi-Layer Bitwise Logic</a><span class="meta">2026-02-26 ・ CHO IK YEON</span></li><li><a href="https://patents.google.com/patent/CN121733582A" target="_blank" rel="noopener">Universal robot cognitive architecture based on world model and control method thereof</a><span class="meta">2026-02-26 ・ SUN YANJUN</span></li></ul></div>
+</section>
+
+<a class="brand-banner" href="https://lexi2vent.com/" target="_blank" rel="noopener">
+  <span class="brand-logo"><img src="../assets/lexi-vent-logo.png" alt="LeXi/Vent ロゴ"></span>
+  <span class="brand-text"><strong>Produced by LeXi/Vent</strong>
+  特許情報を「読む」から、事業を「描く」へ — 特許情報分析コンサルティング</span>
+  <span class="brand-cta">サイトを見る →</span>
+</a>
+
+<footer>
+  <p>データソース: Google News RSS ・ 特許CSV(ユーザー提供) ・ ニュースは GitHub Actions により毎日自動更新、
+  特許データは約3ヶ月に1回の手動更新 ・ <a href="./">週次スナップショット一覧</a>。
+  記事の著作権は各媒体に帰属します。集計値は自動収集に基づく参考値であり網羅性を保証しません。</p>
+</footer>
+</main>
+<div id="tip"></div>
+<script>
+(function () {
+  var tip = document.getElementById("tip");
+  function show(text, x, y) {
+    tip.innerHTML = text; tip.style.display = "block";
+    var w = tip.offsetWidth;
+    tip.style.left = Math.min(x + 14, window.innerWidth - w - 8) + "px";
+    tip.style.top = (y + 14) + "px";
+  }
+  function hide() { tip.style.display = "none"; }
+
+  document.querySelectorAll("[data-tip]").forEach(function (el) {
+    el.addEventListener("mousemove", function (e) { show(el.getAttribute("data-tip"), e.clientX, e.clientY); });
+    el.addEventListener("mouseleave", hide);
+  });
+
+  var dataEl = document.getElementById("trend-data");
+  if (dataEl) {
+    var d = JSON.parse(dataEl.textContent);
+    var svg = document.getElementById("trend");
+    var hit = document.getElementById("trend-hit");
+    var cross = document.getElementById("trend-cross");
+    hit.addEventListener("mousemove", function (e) {
+      var box = svg.getBoundingClientRect();
+      var sx = box.width / svg.viewBox.baseVal.width;
+      var mx = (e.clientX - box.left) / sx;
+      var i = Math.round((mx - d.ml) / d.pw * (d.dates.length - 1));
+      i = Math.max(0, Math.min(d.dates.length - 1, i));
+      var x = d.ml + d.pw * i / (d.dates.length - 1);
+      cross.setAttribute("x1", x); cross.setAttribute("x2", x);
+      cross.style.display = "";
+      var rows = d.series.map(function (s) {
+        return s.label + ": <b>" + s.values[i] + "</b>";
+      }).join("<br>");
+      show("<b>" + d.dates[i] + "</b><br>" + rows, e.clientX, e.clientY);
+    });
+    hit.addEventListener("mouseleave", function () { cross.style.display = "none"; hide(); });
+  }
+})();
+</script>
+</body>
+</html>
