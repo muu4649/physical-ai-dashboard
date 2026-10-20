@@ -1,24 +1,32 @@
 {
- "updated_at": "2026-10-18T22:44:09.869117+00:00",
+ "updated_at": "2026-10-20T00:05:17.277026+00:00",
  "kpi": {
-  "articles_7d": 750,
-  "articles_prev_7d": 659,
-  "sources_7d": 327,
-  "articles_30d": 2877,
-  "total_articles": 11190,
+  "articles_7d": 766,
+  "articles_prev_7d": 636,
+  "sources_7d": 334,
+  "articles_30d": 2949,
+  "total_articles": 11301,
   "oldest_news": "1970-01-01"
  },
  "wordcloud": [
   [
    "launches",
-   35
+   36
+  ],
+  [
+   "開発",
+   32
+  ],
+  [
+   "実装",
+   30
   ],
   [
    "現場",
    28
   ],
   [
-   "実装",
+   "nvidia",
    28
   ],
   [
@@ -27,30 +35,18 @@
   ],
   [
    "ceatec",
-   26
+   25
   ],
   [
-   "開発",
-   26
-  ],
-  [
-   "girl",
+   "技術",
    23
   ],
   [
-   "nvidia",
-   22
-  ],
-  [
    "CEATEC",
-   22
-  ],
-  [
-   "data",
    21
   ],
   [
-   "オムロン",
+   "連携",
    21
   ],
   [
@@ -58,20 +54,36 @@
    21
   ],
   [
-   "買収",
+   "girl",
+   21
+  ],
+  [
+   "data",
    20
   ],
   [
-   "技術",
+   "ヤマザキマザック",
    20
+  ],
+  [
+   "オムロン",
+   18
+  ],
+  [
+   "買収",
+   18
   ],
   [
    "企業",
-   19
+   18
   ],
   [
-   "連携",
-   19
+   "build",
+   18
+  ],
+  [
+   "世界",
+   18
   ],
   [
    "future",
@@ -82,7 +94,15 @@
    18
   ],
   [
-   "japan",
+   "開幕",
+   17
+  ],
+  [
+   "産業",
+   17
+  ],
+  [
+   "raises",
    17
   ],
   [
@@ -90,24 +110,12 @@
    17
   ],
   [
-   "開幕",
-   17
-  ],
-  [
-   "世界",
+   "police",
    17
   ],
   [
    "中国",
    17
-  ],
-  [
-   "police",
-   17
-  ],
-  [
-   "onlogic",
-   16
   ],
   [
    "kong",
@@ -118,19 +126,15 @@
    16
   ],
   [
-   "raises",
+   "abeja",
    16
   ],
   [
-   "産業",
-   16
+   "研究",
+   15
   ],
   [
-   "ヤマザキマザック",
-   16
-  ],
-  [
-   "push",
+   "germany",
    15
   ],
   [
@@ -138,23 +142,11 @@
    15
   ],
   [
-   "sexually",
-   15
-  ],
-  [
-   "teen",
-   15
-  ],
-  [
-   "build",
-   15
-  ],
-  [
-   "基盤",
+   "japan",
    14
   ],
   [
-   "研究",
+   "million",
    14
   ],
   [
@@ -162,51 +154,79 @@
    14
   ],
   [
-   "germany",
+   "国産",
    14
+  ],
+  [
+   "sexually",
+   14
+  ],
+  [
+   "teen",
+   14
+  ],
+  [
+   "導入",
+   14
+  ],
+  [
+   "ABEJA",
+   14
+  ],
+  [
+   "onlogic",
+   13
+  ],
+  [
+   "製造",
+   13
   ],
   [
    "agility",
    13
   ],
   [
-   "導入",
+   "openai",
    13
-  ],
-  [
-   "abeja",
-   13
-  ],
-  [
-   "model",
-   12
-  ],
-  [
-   "PC",
-   12
   ],
   [
    "市場",
    12
   ],
   [
-   "国産",
+   "model",
    12
   ],
   [
-   "factory",
-   11
-  ],
-  [
    "world",
+   12
+  ],
+  [
+   "unveils",
+   12
+  ],
+  [
+   "西武鉄道",
+   12
+  ],
+  [
+   "変電",
+   12
+  ],
+  [
+   "industrial",
    11
   ],
   [
-   "korea",
+   "push",
    11
   ],
   [
-   "製造",
+   "基盤",
+   11
+  ],
+  [
+   "点検",
    11
   ],
   [
@@ -218,7 +238,7 @@
    11
   ],
   [
-   "unveils",
+   "デジタル",
    11
   ],
   [
@@ -226,89 +246,138 @@
    11
   ],
   [
-   "西武鉄道",
+   "課題",
    11
-  ],
-  [
-   "変電",
-   11
-  ],
-  [
-   "ABEJA",
-   11
-  ],
-  [
-   "million",
-   10
-  ],
-  [
-   "industrial",
-   10
-  ],
-  [
-   "搭載",
-   10
   ]
  ],
  "today_top5": [
   {
-   "title": "OpenAI Confirms In-House Humanoid Robot Development; Altman Says Intelligent 'Brain' Takes Priority Over Hardware",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zVzYwN3FDRVFlOHVwS01XbUVvbXNlWUMyMi1VaERzR0ZBcGMzSVpBM2ZqYS1OYjd6VU9Oa3NfbWVaNXFpYXdqUjdrYllCbUE2TndQSlhiYUJMWU9KbHRERDBlSUFkTlE5aTExcGFxdmFvYmJZU0E?oc=5",
-   "source": "BigGo Finance",
-   "published": "2026-10-18T08:55:00+00:00",
+   "title": "Reply earns “NVIDIA Physical AI Specialization” for production-ready robotics and digital twins",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUFlncnRyUld5emYwZExlUTBhWEIwWU15UnN5Sks0YWEwSGFicFVCbHNQYS12ZERpTFNxVHJtajI5dzBTdDhCQ1hHSGY4dmRRWEQzbk5RNWtSNG5Ca3hYZ1VoREota0kyRlcyWlVad3I5V0Excmw4M0tPak1OenQya1A3bjFsQ1MwRlRRc3NZb3NDaThmMUFjR1VuRlIxUzlOTUlZeEhCSEtWS0VqRkx0Z0FsZndiRVFVaWFpa3BhSmttVTQzTXhQU0phNk0?oc=5",
+   "source": "Reply",
+   "published": "2026-10-19T08:59:28+00:00",
+   "count": 3,
+   "sources": [
+    "Eagle-Tribune",
+    "Reply"
+   ],
+   "score": 2.43
+  },
+  {
+   "title": "新卒として迎えるヒューマノイド「宮澤ノア」の実機がカクイチに到着 社員の前で動作をお披露目、自律行動はこれから",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnc3lhc1d1dFZJMlVsNDJYbnZ2a3VYcU01c01QdVNXWU5zVmZWMTlZanAzVW4zS0N6NEFFanBQY1ZBQU8yd0xUXzRRYzZ3UmxscGFJLTdIUU1WRmRYMl9wTzhfSENCcldkblJsVFV3?oc=5",
+   "source": "au Webポータル",
+   "published": "2026-10-19T05:18:00+00:00",
+   "count": 3,
+   "sources": [
+    "au Webポータル",
+    "ニコニコニュース",
+    "ロボスタ"
+   ],
+   "score": 2.31
+  },
+  {
+   "title": "Novarc To Show Physical AI Robotic Welding Solution At FABTECH 2026",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbEEtSnlEdUJoYVZHX0J3MmtEa19ReWE3RlNRTHlOS3ZZc2EzeDJOa2YyVkx0QlZBV3JCeDZwZUNDUVRrYkdvd0YtNC1DN1AwMmZ6eXM3eEstYkh5U2lvdWZGTkJiNms4UEJSamZyOW1neWZpaXFFZE83cEt6bGRTMmZHa2l4VXdLQTJPeE9ycld4QjBWby12M3p3OHV6NlJQdDRHbmJIOXZEN1ZQc2ladURZcG5lT2tESWx3ei1VZ0lDZTc1ZHc?oc=5",
+   "source": "Canadian Manufacturing",
+   "published": "2026-10-19T18:32:58+00:00",
    "count": 2,
    "sources": [
-    "BigGo Finance",
-    "UA.NEWS"
+    "Canadian Manufacturing",
+    "WBOC TV"
    ],
-   "score": 1.65
+   "score": 1.85
   },
   {
-   "title": "米国と中国は、5兆ドル規模の人型ロボット開発競争を繰り広げている。",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTjBIZlFDdE43V2gzRlhrRUduNjZrUXVjTkd4c28wNGp1MGwyaklQNWhkX2w5Z1IwVUpFLW52dnlyZVQtTExzYnVjVmd0ZGlOWGhILWw0NXAyM0tyejNjTld5aXBOSzBxdXFZQmFPa01RUWRYYWJfRUhKRXJfNUpNSWV1SVNyNUVhcnZ0bm00UTc?oc=5",
-   "source": "Vietnam.vn",
-   "published": "2026-10-18T22:28:17+00:00",
-   "count": 1,
+   "title": "OpenAI's Altman teases humanoid demo in 2027",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQckRqSldGNTdaS1ZZbG1GVEhoT0F4ZFRKUEZVRHZqeTVzVU9TOUxNMDZrTEpnMG9sOVpSV3hIYjhad0FOSk4xMWxyOG9aZDFGSm8ya3hTNk1ya2hHMU5QclJTcTM4TXEwTUhGOFhRc0JPVGFTb29UUjRIZ1RIOW9oZzU1ZGxIQQ?oc=5",
+   "source": "Fierce Sensors",
+   "published": "2026-10-19T15:15:44+00:00",
+   "count": 2,
    "sources": [
-    "Vietnam.vn"
+    "Fierce Sensors",
+    "India Today"
    ],
-   "score": 1.0
+   "score": 1.77
   },
   {
-   "title": "子どもがフィジカルAIを学べる二足歩行ロボ、約5万円で発売 米国で",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RU2F3QjFDZGZicjNZN0lpU3ZRTzdxMFZ3M2s1UlRUWTVtcHVOVmJhX0xJNDJlUDBSYTNaUlBGNDBBU1ZBQzRKSkhzN2xxeGZFTEFoNFp4OUc5Y1dTT1ZUanhlMHZfa210QUhQTWdGOUFxX21hOFdIVWFxdU1lZEE?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-18T22:23:54+00:00",
-   "count": 1,
+   "title": "フィジカルAIの開発ライフサイクル全体を構築する「AWS Physical AI Toolchain」",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1tQ1hBNHY3ZVZXQXAtODBrNzNRMG1Kc0JSSUg5cjNYZEx5MU5XYklnMHRER1NxeVQtR3U2UUljZTc1ME9LdVFJMllKM25YbGxYdXo0MF9jTkR6X21yTWhrVEx0NA?oc=5",
+   "source": "株式会社インプレス",
+   "published": "2026-10-19T08:43:37+00:00",
+   "count": 2,
    "sources": [
-    "Yahoo!ニュース"
+    "Amazon Web Services (AWS)",
+    "株式会社インプレス"
    ],
-   "score": 1.0
-  },
-  {
-   "title": "マザック、加工の工程設計をAIエージェントで自動化 ABEJAと共同開発：工作機械（1/2 ページ）",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVM1phUVYtdDdYZWVhM18zdVBZaDJWVUsyMzMwblpBR045TFBReTZYV1A2b1V6ZnZLcFdCZlZVNGxnTUF5N1lhOEZxUjdnNjl4aXpDU2pnV1VoVnhyYVVMdW9IVXFmdVlMMktHbm1yYw?oc=5",
-   "source": "MONOist",
-   "published": "2026-10-18T22:15:00+00:00",
-   "count": 1,
-   "sources": [
-    "MONOist"
-   ],
-   "score": 0.99
-  },
-  {
-   "title": "US and China compete in a $5 trillion race for humanoid robots.",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc3BkejI5MUZQR0hHZkEweXpkMGRCeUphU0o0ZE8xNFk0SjZ5Q0JwTUJWWXE4cUdEajJVS1htelhSM2hqMVBPUlNLeFpxUDVscmRYVEFINFVsVE84a1VmYS1pRGU2U19laXlvY3RxZ01IWG1Ham1XUkw4UUFkV2hWSUhjY2dVOE9vQzFCYXhVcDQ?oc=5",
-   "source": "Vietnam.vn",
-   "published": "2026-10-18T22:13:25+00:00",
-   "count": 1,
-   "sources": [
-    "Vietnam.vn"
-   ],
-   "score": 0.99
+   "score": 1.62
   }
  ],
  "hot_news": [
+  {
+   "title": "フィジカルAIは〝お家芸〟進化の切り札 デジタル敗戦挽回へ、社会実装「10年の計」",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3QnZVNXhzTlFLd0hrQ0R2VVVNSHZTUEN2MmhERXJzRXk0akdKY2pJMGZ0eVoxV0I1b1dzd2RDUW5uY21Bc3BrSmgwMVJzYXN2UU1JOVNHdV9pZnFIczJNZW9ueGpSaDM2SUNNTXNrdDYtQlpGTVE?oc=5",
+   "source": "産経ニュース",
+   "published": "2026-10-20T00:00:00+00:00",
+   "count": 7,
+   "sources": [
+    "佐賀新聞",
+    "沖縄タイムス社",
+    "熊本日日新聞社",
+    "琉球新報デジタル",
+    "産経ニュース",
+    "福井新聞社"
+   ],
+   "score": 6.99
+  },
+  {
+   "title": "What Is Physical AI and How Does It Work? Data, World Models, Robots",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSGNjeFBFeDhMZTNlVkFhbnFwMHRTa0tvT2hTalJpZjZqaVhFd1NaU1VJY3NBOGdLU3VCZ1RjTTNwaHRtY3FjRllpaWZCTU5LS09oYWFKc0JQRU51YlY4Z21FR2p0aWxoeHR4dU5XWDItNlN2bENjSDFsQ3dwWjA1OGxR?oc=5",
+   "source": "Pasquale Pillitteri",
+   "published": "2026-10-19T16:22:50+00:00",
+   "count": 6,
+   "sources": [
+    "AI Insider",
+    "BigGo Finance",
+    "PR Newswire",
+    "Pasquale Pillitteri",
+    "Technology Org",
+    "TradingView"
+   ],
+   "score": 5.39
+  },
+  {
+   "title": "Fincantieri Accelerates Robotics and Physical AI to Build The Shipyard of he Future With Nearly €100 Million Investment",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUEt2aFA5eW40MHo0X2JoLW9CcEdBendfQ1YwR3E1NVJOU2szSDJUMURJandWTVNMNmhXS3ozZHFITDRzcjNma1c0ekNIUWN6NXduSUJKOXU2RWFJaE44YUp6dDZTS0dwdFFLclNhVzdmczNVSl9zS05DUElxSXlNYmpMU004a3VyQ0JudlVSNjQ2NGF0bHZVRndLOHp4OVAtR2g3MWl3ZUM0TnZmVFlaZElGUTdkQm5VSTI1S0lDNGNrZGQyOTYtYnlhV2lWZGl3dE1GVUxJVVRhdDA?oc=5",
+   "source": "DredgeWire",
+   "published": "2026-10-19T14:04:44+00:00",
+   "count": 6,
+   "sources": [
+    "DredgeWire",
+    "Fincantieri",
+    "Marine Insight",
+    "Marine Log",
+    "The Maritime Executive",
+    "www.marketscreener.com"
+   ],
+   "score": 5.22
+  },
+  {
+   "title": "ヤマザキマザックが実装へ 工作機械にフィジカルAI ABEJAと業務提携（日刊産業新聞）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CMTNIN3l1MVc2RW92Z1h0RFJIclFHRFl5Vjk0anlHeUcyLWJJS2IzLXNlVWFZbDZNd29xVFdicVFRRGVkcUxIWnBmWlA5WUdJeXU1dEhXR1BfNkxGZHR0S3YyYlBGVmZhUlEzS3lVNUg5Y2NWN2lud2RLcWQyTjg?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-19T08:05:18+00:00",
+   "count": 6,
+   "sources": [
+    "BigGo ファイナンス",
+    "LOGI-BIZ online",
+    "PR TIMES",
+    "Yahoo!ニュース",
+    "ビジネス+IT",
+    "日本経済新聞"
+   ],
+   "score": 4.8
+  },
   {
    "title": "ZOZO NEXT、AVITAとヒューマノイド向け衣服を共同研究へ",
    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xM1I4SnVwNHVKRXZOdHRiVk1CUmhHZ1kxTW5HZUFDbGp5UEtrZHFMcFBENlJ5N3FReGlmREdDUEVPTU1BcmlNTldkSFd5MTdYeXFyeEl3?oc=5",
@@ -323,23 +392,7 @@
     "ニュースメディアVOIX",
     "ロボスタ"
    ],
-   "score": 6.57
-  },
-  {
-   "title": "マザック、加工の工程設計をAIエージェントで自動化 ABEJAと共同開発：工作機械（1/2 ページ）",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVM1phUVYtdDdYZWVhM18zdVBZaDJWVUsyMzMwblpBR045TFBReTZYV1A2b1V6ZnZLcFdCZlZVNGxnTUF5N1lhOEZxUjdnNjl4aXpDU2pnV1VoVnhyYVVMdW9IVXFmdVlMMktHbm1yYw?oc=5",
-   "source": "MONOist",
-   "published": "2026-10-18T22:15:00+00:00",
-   "count": 6,
-   "sources": [
-    "BigGo ファイナンス",
-    "MONOist",
-    "PR TIMES",
-    "ビジネス+IT",
-    "マイナビニュース",
-    "日本経済新聞"
-   ],
-   "score": 5.96
+   "score": 4.62
   },
   {
    "title": "Hong Kong Launches Embodied AI Testing Hub for Robotics",
@@ -355,22 +408,45 @@
     "Tech in Asia",
     "chinadailyhk"
    ],
-   "score": 5.74
+   "score": 4.03
   },
   {
-   "title": "Fincantieri Accelerates Robotics and Physical AI to Build Future Shipyard",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMnN1SGNjaDE0QkFkdzhhZUNoOWdXNE8tbjRBQnpZcl9lSWwxdEZ1bHJrWkZ5am5YRGJJVTU3X3lhaHZ2QzAwOTNjX09nV29XLWd6UHJxWmhvbjJfVTFSNnpqY19ZYnZfNlZZZGVhYm9BbHJNNG04VnNFLXFrWGN0dWVfelRKVHpOX0w1ajhZQVNEREdybU4tajA5S3U2N21nMEo5a21jR2dvMlc0Qy1tVVkyNVQ?oc=5",
-   "source": "The Maritime Executive",
-   "published": "2026-10-17T18:23:15+00:00",
-   "count": 5,
+   "title": "OpenAI's Altman teases humanoid demo in 2027",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQckRqSldGNTdaS1ZZbG1GVEhoT0F4ZFRKUEZVRHZqeTVzVU9TOUxNMDZrTEpnMG9sOVpSV3hIYjhad0FOSk4xMWxyOG9aZDFGSm8ya3hTNk1ya2hHMU5QclJTcTM4TXEwTUhGOFhRc0JPVGFTb29UUjRIZ1RIOW9oZzU1ZGxIQQ?oc=5",
+   "source": "Fierce Sensors",
+   "published": "2026-10-19T15:15:44+00:00",
+   "count": 3,
    "sources": [
-    "Fincantieri",
-    "Marine Insight",
-    "Marine Log",
-    "The Maritime Executive",
-    "www.marketscreener.com"
+    "Fierce Sensors",
+    "India Today",
+    "Tbreak UAE"
    ],
-   "score": 3.37
+   "score": 2.65
+  },
+  {
+   "title": "Faraday Future Launches $2,490 Humanoid Robot and $299 Mini",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdzYyUUFMSTBPUGNvRTNNZzkxUzdocUNnbURwZjhwR3hSVVBGS3VWeV9LS3JremJtX29OYlk1bnVUcWEycFRyZFhjdnRXbVZPNklGeUV0MC1CeW8tOTBmQUkxQXo1cmV1SEh5eUhtRzBmZENkOEdVRlFlNUUxZExaeGIzazdYb2JD?oc=5",
+   "source": "TechRepublic",
+   "published": "2026-10-19T14:33:33+00:00",
+   "count": 3,
+   "sources": [
+    "StreetInsider",
+    "TechRepublic",
+    "Yahoo Finance"
+   ],
+   "score": 2.63
+  },
+  {
+   "title": "Reply earns “NVIDIA Physical AI Specialization” for production-ready robotics and digital twins",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUFlncnRyUld5emYwZExlUTBhWEIwWU15UnN5Sks0YWEwSGFicFVCbHNQYS12ZERpTFNxVHJtajI5dzBTdDhCQ1hHSGY4dmRRWEQzbk5RNWtSNG5Ca3hYZ1VoREota0kyRlcyWlVad3I5V0Excmw4M0tPak1OenQya1A3bjFsQ1MwRlRRc3NZb3NDaThmMUFjR1VuRlIxUzlOTUlZeEhCSEtWS0VqRkx0Z0FsZndiRVFVaWFpa3BhSmttVTQzTXhQU0phNk0?oc=5",
+   "source": "Reply",
+   "published": "2026-10-19T08:59:28+00:00",
+   "count": 3,
+   "sources": [
+    "Eagle-Tribune",
+    "Reply"
+   ],
+   "score": 2.43
   },
   {
    "title": "AiMOGA launches Mobo, a humanoid home companion...",
@@ -382,89 +458,11 @@
     "AI Insider",
     "Pluang"
    ],
-   "score": 3.31
-  },
-  {
-   "title": "Ubitium raises $14M to build universal processor for Physical AI",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUEFPRWhJU05fVnh2Ui04NkdmZFh1V1JJTk54ejdQTEZHbDJEdlc1Ym5laGt4UUk4LXhfYnIwZ3pNVXBfTWFWLXl1S2kwMkROWmtmeWwtMjBzTThucUw5anp5dVl1RE5jbWotNGVHOHh1UUZFNE0xLXNObGd0OTA3ODVuTms2VW42M0pjRlFHSnpnWjBpRThDU0djVy1Fb0Za?oc=5",
-   "source": "Evertiq",
-   "published": "2026-10-16T12:03:42+00:00",
-   "count": 5,
-   "sources": [
-    "AI Insider",
-    "Evertiq",
-    "Pulse 2.0",
-    "Robotics & Automation News",
-    "Tech.eu"
-   ],
-   "score": 2.21
-  },
-  {
-   "title": "「フィジカルAI」でアベジャとの連携を発表したヤマザキマザックの山崎高嗣社長（左）ら＝16日午後、名古屋市 - フィジカルAI実装へ連携 マザックとアベジャ - 写真・画像(1/1)",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5oQkFPQ01jdmJzVTU2b1hXajFMRTFoSWxCRkx3Q05OZHJPVFUxMUctdWlKMTlIMFlNY3h4OVltSXlKTTlwWmF6Unozb081bXhKUXZ1Z2kzZw?oc=5",
-   "source": "西日本新聞me",
-   "published": "2026-10-16T08:34:46+00:00",
-   "count": 5,
-   "sources": [
-    "Yahoo!ニュース",
-    "佐賀新聞",
-    "南日本新聞",
-    "西日本新聞me"
-   ],
-   "score": 2.11
-  },
-  {
-   "title": "西武鉄道とｕｇｏ、フィジカルAIロボットを変電所に常駐させる実証実験を開始",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81cU51eWN3QTZBWUp6bUJJN1BBZ3dHLXpYazVrdHVfeFdPVTJVbXJuUmpDd3pqUlUzR2R6c2dqenlyV1NCTWFwR0UzVngzMGFVcnY5bG9oak9OamNDdDZvZUw2X3ExeTRhY0Nwd09yeHNLS1dE?oc=5",
-   "source": "AIsmiley",
-   "published": "2026-10-16T06:26:56+00:00",
-   "count": 5,
-   "sources": [
-    "AIsmiley",
-    "BigGo ファイナンス",
-    "レスポンス（Response.jp）",
-    "産経ニュース",
-    "西日本新聞me"
-   ],
-   "score": 2.05
-  },
-  {
-   "title": "Axonex AI Group Joins FLAIR’s Embodied AI International Applications Hub and Launches Education Humanoid TOMO",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQY29YZjZHdjVzN1NheHdqMHJqUmRCNFh4YUxzenl2dnBIQXRDQVBqZDZPd1BTb0V0eWJselFTbHFBeHc0ZWpSMVRST2RlN1VTb1RDVk5Oajl1b2JQZkdnT2tsUkpHMW5uUzVvNVU4dFUybDI3dm4yUDZMX0pxYkN0WmYtcmpvT0E0UUNGbkcteW1UTkRibEZzcllxX2o0bmNwamswWktlZFU5bDlSczM3VldyTWJURnZINlpNLS1Rcjdselg5Y0RJNFlqRFdxSjR4U3NkQ1ZDUUhMbXkxdmwzSFNpbnIzSWhWbmhrcmlKM0FjdW1nUmlGRWdpSE8?oc=5",
-   "source": "markets.businessinsider.com",
-   "published": "2026-10-15T17:03:13+00:00",
-   "count": 6,
-   "sources": [
-    "Alvinology",
-    "Investing.com",
-    "Investing.com Canada",
-    "Media OutReach Newswire",
-    "The Manila Times",
-    "markets.businessinsider.com"
-   ],
-   "score": 2.04
-  },
-  {
-   "title": "German Police Seize Robot After Alleged Groping of 16-Year-Old Girl",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbEJHZDhJM0dpX0c0LWZXUTdsUzVPYlpjTGpzT1YzVGpjVXBVcEp5U1p1SThuSUpYVTM1c3VfZ1E3X096QUNGVmVVSjhzMlgtOW5JaWpVdlRwZ2tIa0V3Q2lNZkpwRjRTZDdTNmJHYUM4d0w2Wk1aa2xHQk9FbjNrbE1DajZXc0ZDZ0xVd2I1Tzc?oc=5",
-   "source": "TechRepublic",
-   "published": "2026-10-15T16:37:57+00:00",
-   "count": 6,
-   "sources": [
-    "CBS News",
-    "Firstpost",
-    "NBC News",
-    "TechRepublic",
-    "Türkiye Today",
-    "Yahoo"
-   ],
-   "score": 2.03
+   "score": 2.33
   }
  ],
  "trend": {
   "dates": [
-   "2026-09-19",
-   "2026-09-20",
    "2026-09-21",
    "2026-09-22",
    "2026-09-23",
@@ -492,15 +490,15 @@
    "2026-10-15",
    "2026-10-16",
    "2026-10-17",
-   "2026-10-18"
+   "2026-10-18",
+   "2026-10-19",
+   "2026-10-20"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     6,
-     4,
      45,
      48,
      52,
@@ -525,18 +523,18 @@
      39,
      57,
      46,
-     36,
+     37,
      40,
      10,
-     5
+     6,
+     39,
+     0
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     10,
-     12,
      12,
      17,
      17,
@@ -561,18 +559,18 @@
      12,
      66,
      47,
-     32,
-     40,
+     33,
+     43,
      2,
-     7
+     8,
+     24,
+     1
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     8,
-     3,
      8,
      10,
      8,
@@ -598,17 +596,17 @@
      6,
      8,
      12,
-     12,
+     13,
      0,
-     3
+     3,
+     3,
+     0
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     8,
-     15,
      51,
      38,
      27,
@@ -635,16 +633,16 @@
      40,
      32,
      27,
-     22,
-     14
+     23,
+     16,
+     25,
+     0
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     4,
-     8,
      14,
      31,
      12,
@@ -670,9 +668,11 @@
      24,
      10,
      25,
-     17,
+     18,
      3,
-     8
+     9,
+     12,
+     0
     ]
    }
   ]
@@ -694,13 +694,13 @@
    "name": "GOOGLE LLC",
    "core": "GOOGLE",
    "patents": 275,
-   "news": 12
+   "news": 13
   },
   {
    "name": "HONDA MOTOR CO LTD",
    "core": "HONDA MOTOR",
    "patents": 263,
-   "news": 2
+   "news": 3
   },
   {
    "name": "SAMSUNG ELECTRONICS CO LTD",
@@ -718,7 +718,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 87
+   "news": 95
   },
   {
    "name": "QUALCOMM INC",
