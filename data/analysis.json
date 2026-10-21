@@ -1,52 +1,56 @@
 {
- "updated_at": "2026-10-20T23:36:08.870137+00:00",
+ "updated_at": "2026-10-21T23:53:22.764791+00:00",
  "kpi": {
-  "articles_7d": 739,
-  "articles_prev_7d": 664,
+  "articles_7d": 774,
+  "articles_prev_7d": 704,
   "sources_7d": 335,
-  "articles_30d": 3062,
-  "total_articles": 11456,
+  "articles_30d": 3113,
+  "total_articles": 11634,
   "oldest_news": "1970-01-01"
  },
  "wordcloud": [
   [
+   "nvidia",
+   57
+  ],
+  [
    "開発",
-   43
+   55
   ],
   [
    "launches",
-   37
+   39
   ],
   [
-   "nvidia",
+   "連携",
+   31
+  ],
+  [
+   "共同",
    30
   ],
   [
    "china",
-   28
-  ],
-  [
-   "現場",
-   27
+   29
   ],
   [
    "実装",
    27
   ],
   [
-   "共同",
-   27
-  ],
-  [
-   "連携",
-   24
-  ],
-  [
-   "future",
-   21
+   "data",
+   23
   ],
   [
    "中国",
+   23
+  ],
+  [
+   "現場",
+   22
+  ],
+  [
+   "時代",
    21
   ],
   [
@@ -54,31 +58,27 @@
    21
   ],
   [
-   "raises",
+   "日本",
    20
   ],
   [
-   "agility",
+   "future",
    19
   ],
   [
-   "日本",
-   18
-  ],
-  [
-   "million",
-   17
-  ],
-  [
-   "build",
-   17
-  ],
-  [
-   "実証",
-   17
+   "unitree",
+   19
   ],
   [
    "技術",
+   18
+  ],
+  [
+   "factory",
+   18
+  ],
+  [
+   "raises",
    17
   ],
   [
@@ -86,15 +86,19 @@
    17
   ],
   [
-   "data",
+   "企業",
+   17
+  ],
+  [
+   "unveils",
    16
   ],
   [
-   "hub",
+   "million",
    16
   ],
   [
-   "hong",
+   "世界",
    16
   ],
   [
@@ -102,35 +106,47 @@
    16
   ],
   [
+   "hong",
+   16
+  ],
+  [
+   "agility",
+   16
+  ],
+  [
    "abeja",
    16
   ],
   [
-   "germany",
+   "platform",
    15
   ],
   [
-   "世界",
+   "機械",
    15
+  ],
+  [
+   "ユナイテッドアローズ",
+   15
+  ],
+  [
+   "ウェア",
+   15
+  ],
+  [
+   "industrial",
+   14
   ],
   [
    "world",
    14
   ],
   [
-   "企業",
+   "build",
    14
   ],
   [
-   "導入",
-   14
-  ],
-  [
-   "変電",
-   14
-  ],
-  [
-   "西武鉄道",
+   "hub",
    14
   ],
   [
@@ -142,79 +158,63 @@
    14
   ],
   [
-   "国産",
+   "製造",
    13
   ],
   [
-   "時代",
-   13
+   "ceo",
+   12
+  ],
+  [
+   "社会",
+   12
   ],
   [
    "産業",
-   13
-  ],
-  [
-   "industrial",
    12
   ],
   [
-   "agents",
+   "digit",
    12
   ],
   [
-   "ceatec",
+   "工作",
    12
-  ],
-  [
-   "公開",
-   12
-  ],
-  [
-   "teen",
-   12
-  ],
-  [
-   "factory",
-   12
-  ],
-  [
-   "model",
-   11
-  ],
-  [
-   "CEATEC",
-   11
-  ],
-  [
-   "実験",
-   11
   ],
   [
    "開催",
-   11
-  ],
-  [
-   "製造",
-   11
-  ],
-  [
-   "ロボティクス",
-   11
+   12
   ],
   [
    "global",
    11
   ],
   [
-   "police",
+   "agents",
    11
   ],
   [
-   "girl",
+   "advance",
    11
   ],
   [
-   "digit",
+   "実証",
+   11
+  ],
+  [
+   "未来",
+   11
+  ],
+  [
+   "披露",
+   11
+  ],
+  [
+   "導入",
+   11
+  ],
+  [
+   "production",
    11
   ],
   [
@@ -222,11 +222,23 @@
    11
   ],
   [
-   "expands",
+   "agco",
+   11
+  ],
+  [
+   "gmo",
+   11
+  ],
+  [
+   "GMO",
+   11
+  ],
+  [
+   "germany",
    10
   ],
   [
-   "unveils",
+   "japan",
    10
   ],
   [
@@ -234,169 +246,202 @@
    10
   ],
   [
-   "robotic",
-   10
-  ],
-  [
-   "avita",
-   10
-  ],
-  [
-   "AVITA",
-   10
-  ],
-  [
-   "進化",
+   "ロボティクス",
    10
   ]
  ],
  "today_top5": [
   {
-   "title": "Unitree G1向けウェア4点、ユナイテッドアローズ×GMOが共同開発——価格は未定",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1KWF91Um05X09Jc0hSeEROeUJTTUxaaVdHR3pwMk9uQkVvZjRTZVA4Q0kwSG12OGR2Y0JseXV1Vl9XTHQxZU1R?oc=5",
-   "source": "shiritomo",
-   "published": "2026-10-20T22:52:47+00:00",
-   "count": 8,
+   "title": "三菱電機、ヒューマノイドと工作機械が連携して加工 JIMTOF20226でデモ",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TREkyTEFzcEQzbGl3dW5wS184SmExV2ZvZlZBV2MwYkJWWDhwazRSQ0dhMnVPTVBtSVFBaUdkeDRzdWRrRllmNkt0SURJTHpHclN1ZUFUQVpoLUctdnRYcWVuZmdhV01mSGY3NjNqbw?oc=5",
+   "source": "MONOist",
+   "published": "2026-10-21T21:15:00+00:00",
+   "count": 5,
    "sources": [
-    "Fashionsnap.com",
-    "MEDIAMIXI",
-    "PR TIMES",
-    "https://dreamseed.blog/",
-    "shiritomo",
-    "テクノエッジ TechnoEdge"
+    "MONOist",
+    "https://kabu-ir.com/",
+    "ビジネス+IT",
+    "ロボスタ",
+    "千葉テレビ放送株式会社"
    ],
-   "score": 7.92
+   "score": 4.82
   },
   {
-   "title": "Humanoid Robot Pilot by AGCO and Agility Robotics Planned for Kansas Manufacturing Plant",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRnpkeEduTGxwZUNZMksxTVJTRXZ1bGxzSVV6akk0MUdoRW15Y1dZaU5pS3RsNU5uT3NWSlp3QTBEN2VtS2dWeWZIcUltcUdXQWpSb1pEdnVfTUdMM3NfNmJaUVJoemJKMGpTcTJtN3ZZc3owTkdoNEkwYnhHQVNQX0FNSHNXS05raTJmY0ljM0UyUEYzRFY4cEZuRExWd2Q2WGs5R0V4OVhuaW1rdU1sREl1WVM0a0pTeDZOdktjUEFldC0y?oc=5",
-   "source": "AI Insider",
-   "published": "2026-10-20T14:38:26+00:00",
-   "count": 4,
+   "title": "Nokia, NVIDIA Advance AI-RAN Toward Commercial Deployment",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUUlKVHRnMV95UzY4a0hPOFB4Wkt3LU82YVhFWGFfZm5rZVRBT195ZzNpWm1GUms4UzR4eHF3cjg3ODlETXE3WmtIWUh3Si1xdHNEVUtZWVRsV2ZxSEVEa3RlNm1RVEVlWDZxem8zOFRodHdmd1Nmd2xSVHRnc1I2NHZ6QWVaYnhzMmI4bVdXYU9Nb0FEMnZacmIzcjF4VHpsSmlFbWlNdUc3b0wtOXgwdg?oc=5",
+   "source": "The Fast Mode",
+   "published": "2026-10-21T22:59:53+00:00",
+   "count": 3,
+   "sources": [
+    "Fierce Network",
+    "The Fast Mode",
+    "TradingView"
+   ],
+   "score": 2.96
+  },
+  {
+   "title": "CoreWeave Launches Physical AI Templates for Robotics and Autonomous Vehicle Development",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOV9mQklJUmRtUDIwQklqRTliTGJNZHE3dmVUQXNiNmN6OFBnRzFmYXFtMC1ScmYwNGpuWm5VcXZTM0NJSE5FYVd0YTZYWVo1N21mdzZCLTNlLW5oaVJUYVNQZnBQXy1qSlBLbWUtdDA1TndXM3o4eHpNYTFZZ1UzMFRucHNXNlZKa0NfaQ?oc=5",
+   "source": "Unite.AI",
+   "published": "2026-10-21T15:24:13+00:00",
+   "count": 3,
+   "sources": [
+    "AI Insider",
+    "Unite.AI",
+    "Yahoo Finance"
+   ],
+   "score": 2.67
+  },
+  {
+   "title": "Tesla's Optimus robots are finally rolling off the production line",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSGs2ZWNWeGl6T3RYTXpyYTJNa2xGWjRMMmo3Q2EydnF0TzNndmpCVGVPNWtkOWVKTGpDejlNcl9GWTJiUV8waUd4WXdIdE1TbHpDRllXVTlaVGlaSDdYaHZkdjFGOVFqckFZQU81Mkg3aWdUQzFsa3E0aVdiWS02WGEwZ2JidVl1VVkwa3lzRTBwLUFGLUFfVFg1U3VpbW83MVE?oc=5",
+   "source": "Business Insider",
+   "published": "2026-10-21T21:12:46+00:00",
+   "count": 2,
+   "sources": [
+    "Business Insider",
+    "WSJ"
+   ],
+   "score": 1.93
+  },
+  {
+   "title": "応用脳科学コンソーシアム、アニュアルシンポジウム 「エージェントAI/フィジカルAI時代に問い直す脳科学の役割～社会脳と身体性から考える人間中心AIの未来～」11月9日に開催",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VZmZQbVYtdFFJLWp3S1hUejNZdE9SaFFNU1JoNXlQZk9CbDZ4cWFOMjZLSHRSMXRkYnh6d2hrNkl0OVM1amExb2d2ejM3Ym85SVp6WndBYUJDb3VGM3N3?oc=5",
+   "source": "千葉テレビ放送",
+   "published": "2026-10-21T20:41:53+00:00",
+   "count": 2,
+   "sources": [
+    "アットプレス",
+    "千葉テレビ放送"
+   ],
+   "score": 1.91
+  }
+ ],
+ "hot_news": [
+  {
+   "title": "ユナイテッドアローズが人型ロボット（ヒューマノイド）向けウェアを開発（ネットショップ担当者フォーラム）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BSWU0VFJ5NFBrcWQ1TkdVbG1QQkd1cXdodUNPR1BMZEFkYnY0YjdxWnVlQjh2QVdQZEYwTXY1M1ZiWUU2MEYzZ002Xzk0M2szN1lHQ3p0RmNnY3VVSVpFdXBNXy13V1RJTEN4MHlvS0hmWmtYc09vcDM1T3huaDA?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-10-21T09:31:36+00:00",
+   "count": 8,
+   "sources": [
+    "MEDIAMIXI",
+    "PR TIMES",
+    "Yahoo!ニュース",
+    "https://dreamseed.blog/",
+    "テクノエッジ TechnoEdge",
+    "ネットショップ担当者フォーラム"
+   ],
+   "score": 6.55
+  },
+  {
+   "title": "Chery's AiMOGA opens global pre-orders for MOBO home companion humanoid",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWmpRYmxFSERNZU1TcEZueVRpOUx6SE0xanR5TzRsMVVEQWY4aFJQTy1feGxiOHg1XzZKR3dSZVdkWTlNaUlsdzZZSTI1WURVTml1MUZrVUUzM3FhaGxQLWEwYUtMRWtLcmNfek4zc25jUGVxQzFQUUJidXltQmUzMGt2NWV4YmFqemptVU1NVlZGMHJjSUtMVXBoaDJyb2VMc0hTcVExOGR3RENRVDRXaGdJUFpNNUlKa1hBN0I3SEZQdkxCSi14V0JOdFA?oc=5",
+   "source": "Gasgoo",
+   "published": "2026-10-21T11:32:57+00:00",
+   "count": 6,
+   "sources": [
+    "AI Insider",
+    "Gasgoo",
+    "Pluang"
+   ],
+   "score": 5.05
+  },
+  {
+   "title": "三菱電機、ヒューマノイドと工作機械が連携して加工 JIMTOF20226でデモ",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TREkyTEFzcEQzbGl3dW5wS184SmExV2ZvZlZBV2MwYkJWWDhwazRSQ0dhMnVPTVBtSVFBaUdkeDRzdWRrRllmNkt0SURJTHpHclN1ZUFUQVpoLUctdnRYcWVuZmdhV01mSGY3NjNqbw?oc=5",
+   "source": "MONOist",
+   "published": "2026-10-21T21:15:00+00:00",
+   "count": 5,
+   "sources": [
+    "MONOist",
+    "https://kabu-ir.com/",
+    "ビジネス+IT",
+    "ロボスタ",
+    "千葉テレビ放送株式会社"
+   ],
+   "score": 4.82
+  },
+  {
+   "title": "AGCO to deploy Agility Digit humanoid in Kansas factory",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcUZCUzAwcG1Nb2lqQS1xSU5STGtfLWQ3bEVTSmliWWxsUzV0ZkxCekVTM05mXzV0ZDFSa013a2xpN2VEYndPZUNORTkyNHZZUzVFZFM2cmVRNzdEaE1kM2NrMDlQc1hYM0Z1X2NXWFFiS0F1SUEtOFZIUlRvM3hGRE0wemY1YlFUQnJ0Mk1wT0E?oc=5",
+   "source": "The Robot Report",
+   "published": "2026-10-21T13:23:56+00:00",
+   "count": 5,
    "sources": [
     "AI Insider",
     "PR Newswire",
     "StreetInsider",
+    "The Robot Report",
     "www.marketscreener.com"
    ],
-   "score": 3.53
+   "score": 4.32
+  },
+  {
+   "title": "Voxel51 launches new data platform for robotics and physical AI",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVmtTemt1ZTVKR3YwdE1scDE0Y21IM2FFU3FhaUNSc3R6V3VFMEpGbDBXN1YtLVU3bWpQUGc3ZXgtU0ZSa2pyVFowX2NiZE1DQnp1M2xmX1lEYTlqay1OUXlWSnByN0drTXI3ZmtBNFRlS3p1U3NCY2ZyR25pSUJISXllMzlOMi1qQjdEZDVESmFsMEdRUUNDSHNwMnFnWEEtbGExOExBWkc3NC0tN05ZR0hwalM4Z0NUTjFzcw?oc=5",
+   "source": "Robotics & Automation News",
+   "published": "2026-10-21T09:12:50+00:00",
+   "count": 4,
+   "sources": [
+    "Engineering.com",
+    "MarkTechPost",
+    "Robotics & Automation News",
+    "Unite.AI"
+   ],
+   "score": 3.26
+  },
+  {
+   "title": "Nokia, NVIDIA Advance AI-RAN Toward Commercial Deployment",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUUlKVHRnMV95UzY4a0hPOFB4Wkt3LU82YVhFWGFfZm5rZVRBT195ZzNpWm1GUms4UzR4eHF3cjg3ODlETXE3WmtIWUh3Si1xdHNEVUtZWVRsV2ZxSEVEa3RlNm1RVEVlWDZxem8zOFRodHdmd1Nmd2xSVHRnc1I2NHZ6QWVaYnhzMmI4bVdXYU9Nb0FEMnZacmIzcjF4VHpsSmlFbWlNdUc3b0wtOXgwdg?oc=5",
+   "source": "The Fast Mode",
+   "published": "2026-10-21T22:59:53+00:00",
+   "count": 3,
+   "sources": [
+    "Fierce Network",
+    "The Fast Mode",
+    "TradingView"
+   ],
+   "score": 2.96
+  },
+  {
+   "title": "日立がフィジカルAIソリューションを開発、AIエージェントで設備故障の予兆検知から原因特定・対処案提示まで自動化",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EVHAtYkRTcnh6eE9jclEyS2pPLVpELWdodkhCM0lWVEZXMl9Mb2pUZTdlNjlVRUFtSjlXNU5GeGo1dDBCdnRIV3JSbGlQQ2N2alUyUVNhSFI0T1g3dnFhUnR5RnU1MmFxZVFLLURR?oc=5",
+   "source": "au Webポータル",
+   "published": "2026-10-21T02:18:29+00:00",
+   "count": 4,
+   "sources": [
+    "PR TIMES",
+    "au Webポータル",
+    "クラウド Watch",
+    "ｄメニューニュース"
+   ],
+   "score": 2.96
+  },
+  {
+   "title": "CoreWeave Launches Physical AI Templates for Robotics and Autonomous Vehicle Development",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOV9mQklJUmRtUDIwQklqRTliTGJNZHE3dmVUQXNiNmN6OFBnRzFmYXFtMC1ScmYwNGpuWm5VcXZTM0NJSE5FYVd0YTZYWVo1N21mdzZCLTNlLW5oaVJUYVNQZnBQXy1qSlBLbWUtdDA1TndXM3o4eHpNYTFZZ1UzMFRucHNXNlZKa0NfaQ?oc=5",
+   "source": "Unite.AI",
+   "published": "2026-10-21T15:24:13+00:00",
+   "count": 3,
+   "sources": [
+    "AI Insider",
+    "Unite.AI",
+    "Yahoo Finance"
+   ],
+   "score": 2.67
   },
   {
    "title": "Amulya Vishwanath says physical AI is in its “LEGO era”",
    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd1hlMGJmc0Ntb1JQWFBkN0gtSlA5dkphVWtKaEhaTVJJVVl5OFY4bEU1NkVULXpDRml5WDVlRWJtVnhPWDI5T2pNY0RiQjNIdGdqX2FkaGYybmNJR0xwQmpJREVjN0xLODZPeWdnS3lRODA1c3VPS3h0ajllcngwTHRsc1licWlM?oc=5",
    "source": "Mezha.net",
    "published": "2026-10-20T17:52:28+00:00",
-   "count": 3,
+   "count": 4,
    "sources": [
     "Mezha.net",
     "TechCrunch"
    ],
-   "score": 2.77
-  },
-  {
-   "title": "Firefly raises $20 million to expand AI-powered safety platform",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWXA2TnRVVU5Xb0M3OXFEUjQ3RHYzSUtRQl9FUlZMc1E3VFV5QnU4dXdQNzN5LWVGSlhfVDZ2NEhRZGRIYi1ZY2NJdUIzd3Vqanl4aUR4MWw0U2tuTjlRUGNwNnptblVMQlQ2ODB3NzRrbmx5MkltXzlreFdPeTNfSWZPWlk4bkxOamEtdFFsMEIxVmk4QVkxa21CaFBwSGVyOEc0QzdUQWY4dw?oc=5",
-   "source": "Security Systems News",
-   "published": "2026-10-20T17:31:00+00:00",
-   "count": 3,
-   "sources": [
-    "Business Wire",
-    "Pulse 2.0",
-    "Security Systems News"
-   ],
-   "score": 2.76
-  },
-  {
-   "title": "Lincoln Electric Introduces XpertLINC™, a Physical AI-Technology Platform That Redefines the Future of Robotic Automation - News-Press NOW",
-   "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPNjNRVXRiTEtHQnMxWVN4cE1GaWJId2ZuRFhhWHlnX192UWxZRU5TNEsxaDRpVjhBSzhZaE8tdTVSdnJEM3M2NjVXSnBoclAtU1I5UUdkbVphaHJQckdZSGJGQmRKNFNXZkRPV2RqZ29SQ1JuUzZETjR2ejFOM3hWR3oyLUlDSjJRN0N1ZE9VLVJQSVNzNUZKMG5lNUNRYm4yUmtBNVdCWHlEVHpxYjZoWWM1cThmSk1JM1U1YkNlZ1FFSHp5NlF4Nm5xX2ZJY0pONDVVX0dPTjY2dXFqQ3daZ2NLclV3NUZHNXEwMFlJT1EwcDRDekQ4UmdTNmdFTEgyTU9XYS04SXpicW1qQmZORTREd18ycVA3ZWNNWnVwVUUzSDFUUjFkQm1jX3BWczNiU04yeHNUNTZBYmM?oc=5",
-   "source": "News-Press NOW",
-   "published": "2026-10-20T11:32:10+00:00",
-   "count": 3,
-   "sources": [
-    "Business Wire",
-    "Eagle-Tribune",
-    "News-Press NOW"
-   ],
-   "score": 2.54
-  }
- ],
- "hot_news": [
-  {
-   "title": "Unitree G1向けウェア4点、ユナイテッドアローズ×GMOが共同開発——価格は未定",
-   "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1KWF91Um05X09Jc0hSeEROeUJTTUxaaVdHR3pwMk9uQkVvZjRTZVA4Q0kwSG12OGR2Y0JseXV1Vl9XTHQxZU1R?oc=5",
-   "source": "shiritomo",
-   "published": "2026-10-20T22:52:47+00:00",
-   "count": 8,
-   "sources": [
-    "Fashionsnap.com",
-    "MEDIAMIXI",
-    "PR TIMES",
-    "https://dreamseed.blog/",
-    "shiritomo",
-    "テクノエッジ TechnoEdge"
-   ],
-   "score": 7.92
-  },
-  {
-   "title": "フィジカルAIは〝お家芸〟進化の切り札 デジタル敗戦挽回へ、社会実装「10年の計」",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3QnZVNXhzTlFLd0hrQ0R2VVVNSHZTUEN2MmhERXJzRXk0akdKY2pJMGZ0eVoxV0I1b1dzd2RDUW5uY21Bc3BrSmgwMVJzYXN2UU1JOVNHdV9pZnFIczJNZW9ueGpSaDM2SUNNTXNrdDYtQlpGTVE?oc=5",
-   "source": "産経ニュース",
-   "published": "2026-10-20T00:00:00+00:00",
-   "count": 7,
-   "sources": [
-    "佐賀新聞",
-    "沖縄タイムス社",
-    "熊本日日新聞社",
-    "琉球新報デジタル",
-    "産経ニュース",
-    "福井新聞社"
-   ],
-   "score": 5.04
-  },
-  {
-   "title": "Fincantieri commits $100m to shipyard robotics and AI",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOUkwRnlrWTZ3WFprTUZ6TVRlWjNUUURBV29aSVVIX2hnMl84cmhJNUk5LXNSNXRCUHhjVnBrQWV2Q0hDWHNMSUkzc2lMdWtHM3FGQ2xxTmNLT1ltYWdMd2kzZVhzbUgzUHdTYW9zTGFnOGE1a0V0b2FWS19jVzIxZzVWWk5HUGhRUkFzOThmNjBfWnVKeTNCMkpHTFl6QQ?oc=5",
-   "source": "Smart Maritime Network",
-   "published": "2026-10-20T09:53:37+00:00",
-   "count": 5,
-   "sources": [
-    "Fincantieri",
-    "Marine Log",
-    "Smart Maritime Network",
-    "The Maritime Executive",
-    "www.marketscreener.com"
-   ],
-   "score": 4.13
-  },
-  {
-   "title": "What Is Physical AI and How Does It Work? Data, World Models, Robots",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSGNjeFBFeDhMZTNlVkFhbnFwMHRTa0tvT2hTalJpZjZqaVhFd1NaU1VJY3NBOGdLU3VCZ1RjTTNwaHRtY3FjRllpaWZCTU5LS09oYWFKc0JQRU51YlY4Z21FR2p0aWxoeHR4dU5XWDItNlN2bENjSDFsQ3dwWjA1OGxR?oc=5",
-   "source": "Pasquale Pillitteri",
-   "published": "2026-10-19T16:22:50+00:00",
-   "count": 6,
-   "sources": [
-    "AI Insider",
-    "BigGo Finance",
-    "PR Newswire",
-    "Pasquale Pillitteri",
-    "Technology Org",
-    "TradingView"
-   ],
-   "score": 3.89
-  },
-  {
-   "title": "Humanoid Robot Pilot by AGCO and Agility Robotics Planned for Kansas Manufacturing Plant",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRnpkeEduTGxwZUNZMksxTVJTRXZ1bGxzSVV6akk0MUdoRW15Y1dZaU5pS3RsNU5uT3NWSlp3QTBEN2VtS2dWeWZIcUltcUdXQWpSb1pEdnVfTUdMM3NfNmJaUVJoemJKMGpTcTJtN3ZZc3owTkdoNEkwYnhHQVNQX0FNSHNXS05raTJmY0ljM0UyUEYzRFY4cEZuRExWd2Q2WGs5R0V4OVhuaW1rdU1sREl1WVM0a0pTeDZOdktjUEFldC0y?oc=5",
-   "source": "AI Insider",
-   "published": "2026-10-20T14:38:26+00:00",
-   "count": 4,
-   "sources": [
-    "AI Insider",
-    "PR Newswire",
-    "StreetInsider",
-    "www.marketscreener.com"
-   ],
-   "score": 3.53
+   "score": 2.64
   },
   {
    "title": "ヤマザキマザックが実装へ 工作機械にフィジカルAI ABEJAと業務提携（日刊産業新聞）",
@@ -412,71 +457,11 @@
     "ビジネス+IT",
     "日本経済新聞"
    ],
-   "score": 3.47
-  },
-  {
-   "title": "ZOZO NEXT、AVITAとヒューマノイド向け衣服を共同研究へ",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xM1I4SnVwNHVKRXZOdHRiVk1CUmhHZ1kxTW5HZUFDbGp5UEtrZHFMcFBENlJ5N3FReGlmREdDUEVPTU1BcmlNTldkSFd5MTdYeXFyeEl3?oc=5",
-   "source": "日本ネット経済新聞",
-   "published": "2026-10-18T00:01:49+00:00",
-   "count": 9,
-   "sources": [
-    "Dellows News",
-    "Impress Watch",
-    "MONOist",
-    "PR TIMES",
-    "ニュースメディアVOIX",
-    "ロボスタ"
-   ],
-   "score": 3.33
-  },
-  {
-   "title": "Agility Robotics’ new Digit humanoid to work 20 hours a day with Nyobolt fast-charging battery",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUFF1Z3JPR0N1RlByWU4tZkRVRzR6WERpeDh5YkNGVU1Nc0xBTmNuZURlNE1Zc1dodGR2TGtkVWpUbDJzbEE0Yl9kdGRQeVRGbnRLZkl4TmZCMUszb05QRWQ2T09BNXlTSDNVYUZHZWROSmJPSDd1TlozZTl0ZGF3ODBLYzlvS1NLT3BFcXE2TTBJNjdmcGZZWDBIUmdUOGlOLVN6cGFUWHRoOUtGSmx5VjM0T180bXRGN1B5LTN2UkNMS2dkMEUyRGZoMzZCczJtU3I2SDQwMVBJVEdfTElrejZBSnpzdkM0bVJ5c2NBSDVZX1M2S0hR?oc=5",
-   "source": "Robotics & Automation News",
-   "published": "2026-10-20T08:01:14+00:00",
-   "count": 4,
-   "sources": [
-    "New Electronics",
-    "Robotics & Automation News",
-    "The Robot Report",
-    "TradingView"
-   ],
-   "score": 3.22
-  },
-  {
-   "title": "【全文PDFプレカン】西武鉄道×ugo フィジカルAIロボットによる変電所メンテナンス実証実験",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LNDhfVG8zcXJEWDExNENIYWhqdnhyeFdGUlhRdGMtZkw2eHZJQXV2SjFrMXNmeXVyS1lDMFVCRmNBNExPQmpuUDExRnhaUVpCOUs2TEFaMnJMTmdyZUln?oc=5",
-   "source": "レスポンス（Response.jp）",
-   "published": "2026-10-20T01:30:03+00:00",
-   "count": 4,
-   "sources": [
-    "ugo",
-    "レスポンス（Response.jp）",
-    "産経ニュース"
-   ],
-   "score": 2.94
-  },
-  {
-   "title": "Hong Kong Launches Embodied AI Testing Hub for Robotics",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ25GYlNCRGVRMy1GTzVGY2lJSWIzWW9IQTMweTVXUDlfTnZEZUxyT2dqd1JjLUoySU9OUU1BbzI0MkdMNGJfQ3Y3bXFudGtESGpFcnN3TTg4Ukoybll5S013djlpSzdySkNHellmeUFldWJMV3FjUHF6bzlFbmJVcGNEQ0R2dw?oc=5",
-   "source": "ForkLog",
-   "published": "2026-10-18T08:24:11+00:00",
-   "count": 7,
-   "sources": [
-    "Asia Business Outlook",
-    "ForkLog",
-    "StreetInsider",
-    "TNGlobal",
-    "Tech in Asia",
-    "chinadailyhk"
-   ],
-   "score": 2.91
+   "score": 2.47
   }
  ],
  "trend": {
   "dates": [
-   "2026-09-21",
    "2026-09-22",
    "2026-09-23",
    "2026-09-24",
@@ -505,14 +490,14 @@
    "2026-10-17",
    "2026-10-18",
    "2026-10-19",
-   "2026-10-20"
+   "2026-10-20",
+   "2026-10-21"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     45,
      48,
      52,
      23,
@@ -540,15 +525,15 @@
      40,
      10,
      6,
-     43,
-     55
+     45,
+     56,
+     64
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     12,
      17,
      17,
      37,
@@ -576,15 +561,15 @@
      45,
      2,
      8,
-     25,
-     33
+     26,
+     34,
+     36
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     8,
      10,
      8,
      10,
@@ -613,14 +598,14 @@
      0,
      3,
      3,
-     2
+     2,
+     9
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     51,
      38,
      27,
      18,
@@ -648,15 +633,15 @@
      27,
      23,
      16,
-     26,
-     33
+     27,
+     36,
+     39
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     14,
      31,
      12,
      23,
@@ -665,7 +650,7 @@
      6,
      14,
      19,
-     21,
+     22,
      24,
      18,
      5,
@@ -681,11 +666,12 @@
      24,
      10,
      25,
-     18,
+     19,
      3,
      9,
      12,
-     29
+     33,
+     27
     ]
    }
   ]
@@ -731,7 +717,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 103
+   "news": 133
   },
   {
    "name": "QUALCOMM INC",
