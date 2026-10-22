@@ -1,80 +1,92 @@
 {
- "updated_at": "2026-10-21T23:53:22.764791+00:00",
+ "updated_at": "2026-10-22T23:51:54.464607+00:00",
  "kpi": {
-  "articles_7d": 774,
-  "articles_prev_7d": 704,
-  "sources_7d": 335,
-  "articles_30d": 3113,
-  "total_articles": 11634,
+  "articles_7d": 780,
+  "articles_prev_7d": 725,
+  "sources_7d": 341,
+  "articles_30d": 3117,
+  "total_articles": 11779,
   "oldest_news": "1970-01-01"
  },
  "wordcloud": [
   [
    "nvidia",
-   57
+   75
   ],
   [
    "開発",
-   55
-  ],
-  [
-   "launches",
-   39
+   63
   ],
   [
    "連携",
-   31
+   34
   ],
   [
-   "共同",
-   30
+   "launches",
+   33
   ],
   [
    "china",
    29
   ],
   [
-   "実装",
-   27
+   "unitree",
+   26
   ],
   [
-   "data",
-   23
+   "共同",
+   25
+  ],
+  [
+   "実装",
+   25
   ],
   [
    "中国",
-   23
-  ],
-  [
-   "現場",
-   22
-  ],
-  [
-   "時代",
-   21
+   25
   ],
   [
    "ヤマザキマザック",
    21
   ],
   [
-   "日本",
-   20
-  ],
-  [
-   "future",
+   "data",
    19
   ],
   [
-   "unitree",
+   "unveils",
    19
   ],
   [
    "技術",
-   18
+   19
+  ],
+  [
+   "機械",
+   19
   ],
   [
    "factory",
+   19
+  ],
+  [
+   "abeja",
+   18
+  ],
+  [
+   "future",
+   18
+  ],
+  [
+   "tesla",
+   18
+  ],
+  [
+   "日本",
+   18
+  ],
+  [
+   "openai",
    18
   ],
   [
@@ -82,51 +94,43 @@
    17
   ],
   [
-   "openai",
+   "platform",
    17
   ],
   [
-   "企業",
+   "production",
    17
   ],
   [
-   "unveils",
-   16
+   "現場",
+   17
+  ],
+  [
+   "時代",
+   17
   ],
   [
    "million",
+   17
+  ],
+  [
+   "industrial",
    16
   ],
   [
-   "世界",
+   "工作",
    16
   ],
   [
-   "kong",
-   16
-  ],
-  [
-   "hong",
-   16
-  ],
-  [
-   "agility",
-   16
-  ],
-  [
-   "abeja",
-   16
-  ],
-  [
-   "platform",
+   "ABEJA",
    15
   ],
   [
-   "機械",
+   "企業",
    15
   ],
   [
-   "ユナイテッドアローズ",
+   "optimus",
    15
   ],
   [
@@ -134,59 +138,63 @@
    15
   ],
   [
-   "industrial",
-   14
+   "ユナイテッドアローズ",
+   15
   ],
   [
    "world",
    14
   ],
   [
-   "build",
-   14
-  ],
-  [
-   "hub",
-   14
-  ],
-  [
-   "研究",
-   14
-  ],
-  [
-   "ABEJA",
-   14
-  ],
-  [
    "製造",
-   13
+   14
   ],
   [
-   "ceo",
-   12
-  ],
-  [
-   "社会",
-   12
+   "世界",
+   14
   ],
   [
    "産業",
-   12
+   14
   ],
   [
-   "digit",
-   12
+   "三菱電機",
+   14
   ],
   [
-   "工作",
-   12
+   "build",
+   13
   ],
   [
    "開催",
+   13
+  ],
+  [
+   "agility",
+   13
+  ],
+  [
+   "GMO",
+   13
+  ],
+  [
+   "gmo",
+   13
+  ],
+  [
+   "Unitree",
    12
   ],
   [
    "global",
+   12
+  ],
+  [
+   "manufacturing",
+   11
+  ],
+  [
+   "series",
    11
   ],
   [
@@ -194,27 +202,7 @@
    11
   ],
   [
-   "advance",
-   11
-  ],
-  [
-   "実証",
-   11
-  ],
-  [
-   "未来",
-   11
-  ],
-  [
-   "披露",
-   11
-  ],
-  [
    "導入",
-   11
-  ],
-  [
-   "production",
    11
   ],
   [
@@ -222,102 +210,128 @@
    11
   ],
   [
+   "未来",
+   11
+  ],
+  [
+   "データ",
+   11
+  ],
+  [
+   "ceo",
+   11
+  ],
+  [
+   "工場",
+   11
+  ],
+  [
+   "chinese",
+   11
+  ],
+  [
+   "scale",
+   11
+  ],
+  [
+   "accelerate",
+   11
+  ],
+  [
+   "electric",
+   11
+  ],
+  [
+   "tech",
+   11
+  ],
+  [
    "agco",
    11
-  ],
-  [
-   "gmo",
-   11
-  ],
-  [
-   "GMO",
-   11
-  ],
-  [
-   "germany",
-   10
-  ],
-  [
-   "japan",
-   10
-  ],
-  [
-   "launch",
-   10
-  ],
-  [
-   "ロボティクス",
-   10
   ]
  ],
  "today_top5": [
   {
-   "title": "三菱電機、ヒューマノイドと工作機械が連携して加工 JIMTOF20226でデモ",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TREkyTEFzcEQzbGl3dW5wS184SmExV2ZvZlZBV2MwYkJWWDhwazRSQ0dhMnVPTVBtSVFBaUdkeDRzdWRrRllmNkt0SURJTHpHclN1ZUFUQVpoLUctdnRYcWVuZmdhV01mSGY3NjNqbw?oc=5",
-   "source": "MONOist",
-   "published": "2026-10-21T21:15:00+00:00",
-   "count": 5,
-   "sources": [
-    "MONOist",
-    "https://kabu-ir.com/",
-    "ビジネス+IT",
-    "ロボスタ",
-    "千葉テレビ放送株式会社"
-   ],
-   "score": 4.82
-  },
-  {
-   "title": "Nokia, NVIDIA Advance AI-RAN Toward Commercial Deployment",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUUlKVHRnMV95UzY4a0hPOFB4Wkt3LU82YVhFWGFfZm5rZVRBT195ZzNpWm1GUms4UzR4eHF3cjg3ODlETXE3WmtIWUh3Si1xdHNEVUtZWVRsV2ZxSEVEa3RlNm1RVEVlWDZxem8zOFRodHdmd1Nmd2xSVHRnc1I2NHZ6QWVaYnhzMmI4bVdXYU9Nb0FEMnZacmIzcjF4VHpsSmlFbWlNdUc3b0wtOXgwdg?oc=5",
-   "source": "The Fast Mode",
-   "published": "2026-10-21T22:59:53+00:00",
+   "title": "フィジカルＡＩ技術紹介 福井北陸技術交流テクノフェア開幕",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95YTJWTUE5cmxZakNPMnl3VHREajdybEFJVVgwdnRFR1BOQzNqTnJYVldxdU5FTGRFRk1sZjJobm1rTEx1bWtxZm5jVEdRMHpTV1AtYQ?oc=5",
+   "source": "中日新聞Web",
+   "published": "2026-10-22T20:05:00+00:00",
    "count": 3,
    "sources": [
-    "Fierce Network",
-    "The Fast Mode",
-    "TradingView"
+    "中日新聞Web",
+    "日テレNEWS NNN",
+    "福井テレビ"
    ],
-   "score": 2.96
+   "score": 2.85
   },
   {
-   "title": "CoreWeave Launches Physical AI Templates for Robotics and Autonomous Vehicle Development",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOV9mQklJUmRtUDIwQklqRTliTGJNZHE3dmVUQXNiNmN6OFBnRzFmYXFtMC1ScmYwNGpuWm5VcXZTM0NJSE5FYVd0YTZYWVo1N21mdzZCLTNlLW5oaVJUYVNQZnBQXy1qSlBLbWUtdDA1TndXM3o4eHpNYTFZZ1UzMFRucHNXNlZKa0NfaQ?oc=5",
-   "source": "Unite.AI",
-   "published": "2026-10-21T15:24:13+00:00",
+   "title": "120ft emerges from stealth with €576,000 to build humanoid-powered microfactories",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWkUteFFvQl9Nck1kcGlLOVJlODJoS2FzVWVwQXkwcEphNjUxNkNBUGNCM2lWMHd3UDBuNURBd0o3eGdnS05lQVg1d3Z3aHYtTGRpdHFMZTh1UTFHdHMyS21RYWdwdldSaWd6Q25iTnFVT3JoXzF1dzFtR3Y3NWkzakFwWVdQN1gtQ2tCeWpVZkpJaUJUS0J5QjZLU2FIMkxuckRrbkQxWnYwQS1LUy1JS00xdFVidUE2ODV6TndlMnhLS0RtU1dPMmc4YS1CRHlrVHNz?oc=5",
+   "source": "Robotics & Automation News",
+   "published": "2026-10-22T19:19:53+00:00",
    "count": 3,
    "sources": [
     "AI Insider",
-    "Unite.AI",
-    "Yahoo Finance"
+    "Robotics & Automation News",
+    "Startupticker"
    ],
-   "score": 2.67
+   "score": 2.82
   },
   {
-   "title": "Tesla's Optimus robots are finally rolling off the production line",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSGs2ZWNWeGl6T3RYTXpyYTJNa2xGWjRMMmo3Q2EydnF0TzNndmpCVGVPNWtkOWVKTGpDejlNcl9GWTJiUV8waUd4WXdIdE1TbHpDRllXVTlaVGlaSDdYaHZkdjFGOVFqckFZQU81Mkg3aWdUQzFsa3E0aVdiWS02WGEwZ2JidVl1VVkwa3lzRTBwLUFGLUFfVFg1U3VpbW83MVE?oc=5",
-   "source": "Business Insider",
-   "published": "2026-10-21T21:12:46+00:00",
-   "count": 2,
+   "title": "Schneider Electric, Nvidia and HPE bring AI agents to the plant edge",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVVZuNUE2dlB5MkJGTmlTOWY1b3pHSWVmcGpxd3B2VWdlNEM5SGF2OVota19sVmRQS0VBUVNoQkhEZVVkQlFEeXRSOG9XR2JiWUVMNHNVeHVTLWhfNnZBRXA4Ym1SQU1wUkc4MHJOTnlrZmItR0dESU5pNkRnQW5DSUtaRzkxaEQxaGJ6djVqek5fSWxqVEx1ajUzdksyNHR1ZC1YMnRKbGR4YlA2b01KNEJ3b21jZ0cxOXJTY0twTFF0UWpaX3QxWlYycF9aTnY5NWl6dDdCVjdtM0ZRRTJVaWRtOGNERF9yZnRwd05ORlNLa0pXODlpcV9wcktfYWRpZllTWm5rQ0tRQQ?oc=5",
+   "source": "Putman Media",
+   "published": "2026-10-22T17:01:31+00:00",
+   "count": 3,
    "sources": [
-    "Business Insider",
-    "WSJ"
+    "Control Engineering Europe",
+    "Data Centre Magazine",
+    "Putman Media"
    ],
-   "score": 1.93
+   "score": 2.73
   },
   {
-   "title": "応用脳科学コンソーシアム、アニュアルシンポジウム 「エージェントAI/フィジカルAI時代に問い直す脳科学の役割～社会脳と身体性から考える人間中心AIの未来～」11月9日に開催",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1VZmZQbVYtdFFJLWp3S1hUejNZdE9SaFFNU1JoNXlQZk9CbDZ4cWFOMjZLSHRSMXRkYnh6d2hrNkl0OVM1amExb2d2ejM3Ym85SVp6WndBYUJDb3VGM3N3?oc=5",
-   "source": "千葉テレビ放送",
-   "published": "2026-10-21T20:41:53+00:00",
+   "title": "三菱電機、フィジカルＡＩで人型ロボと工作機械連携",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05NmZLOHJ4S1pEYjh3ZWdjTlVnNENXT1cyTUtLcTMzSWMwMXp3NVpTRFYyTEpkM0hQUmF2ZXhCNVdYMTZsdDZCMjVQV1JkbHZPQ3I0?oc=5",
+   "source": "化学工業日報 電子版",
+   "published": "2026-10-22T20:03:08+00:00",
    "count": 2,
    "sources": [
-    "アットプレス",
-    "千葉テレビ放送"
+    "bp-Affairs",
+    "化学工業日報 電子版"
    ],
-   "score": 1.91
+   "score": 1.9
+  },
+  {
+   "title": "Schneider Electric, NVIDIA And HPE Announce Strategic Collaboration To Accelerate Physical AI For Process Industries",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdVNYVGpfZXNlT3pNUy1WRm9zZnZsclMxYkh5LVRoSV8xaTItOGVVMEpRVGZSQmtqM2ctTUxGdmJXTGhRY0JBT1RDNUlnVW5VRlpMT241UkNjWVYxM09iQVNMMFMzRnZ6WnlOTzdkRjZ2MjI3VWNNbFdwMW56Q0FkRURKV3hGRW5vZE9Tdkp3T2dCZW9WRFVHRHFGRzVwNk9LU0dvZWhsdUtzb1BSOUhRS0JSai1odHJSZmlEWEh0ZzBZc25NUlVUM1NwYnFpOGcyLWFVZXNnaVVqd3RERXVIeTRZU093X2M?oc=5",
+   "source": "marketscreener.com",
+   "published": "2026-10-22T16:07:55+00:00",
+   "count": 2,
+   "sources": [
+    "Engineer Live",
+    "marketscreener.com"
+   ],
+   "score": 1.8
   }
  ],
  "hot_news": [
+  {
+   "title": "三菱電機、フィジカルＡＩで人型ロボと工作機械連携",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05NmZLOHJ4S1pEYjh3ZWdjTlVnNENXT1cyTUtLcTMzSWMwMXp3NVpTRFYyTEpkM0hQUmF2ZXhCNVdYMTZsdDZCMjVQV1JkbHZPQ3I0?oc=5",
+   "source": "化学工業日報 電子版",
+   "published": "2026-10-22T20:03:08+00:00",
+   "count": 6,
+   "sources": [
+    "bp-Affairs",
+    "www.mitsubishielectric.co.jp",
+    "ビジネス+IT",
+    "ロボスタ",
+    "化学工業日報 電子版",
+    "日刊工業新聞 電子版"
+   ],
+   "score": 5.69
+  },
   {
    "title": "ユナイテッドアローズが人型ロボット（ヒューマノイド）向けウェアを開発（ネットショップ担当者フォーラム）",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BSWU0VFJ5NFBrcWQ1TkdVbG1QQkd1cXdodUNPR1BMZEFkYnY0YjdxWnVlQjh2QVdQZEYwTXY1M1ZiWUU2MEYzZ002Xzk0M2szN1lHQ3p0RmNnY3VVSVpFdXBNXy13V1RJTEN4MHlvS0hmWmtYc09vcDM1T3huaDA?oc=5",
@@ -332,7 +346,21 @@
     "テクノエッジ TechnoEdge",
     "ネットショップ担当者フォーラム"
    ],
-   "score": 6.55
+   "score": 4.7
+  },
+  {
+   "title": "Schneider Electric, Nvidia and HPE bring AI agents to the plant edge",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVVZuNUE2dlB5MkJGTmlTOWY1b3pHSWVmcGpxd3B2VWdlNEM5SGF2OVota19sVmRQS0VBUVNoQkhEZVVkQlFEeXRSOG9XR2JiWUVMNHNVeHVTLWhfNnZBRXA4Ym1SQU1wUkc4MHJOTnlrZmItR0dESU5pNkRnQW5DSUtaRzkxaEQxaGJ6djVqek5fSWxqVEx1ajUzdksyNHR1ZC1YMnRKbGR4YlA2b01KNEJ3b21jZ0cxOXJTY0twTFF0UWpaX3QxWlYycF9aTnY5NWl6dDdCVjdtM0ZRRTJVaWRtOGNERF9yZnRwd05ORlNLa0pXODlpcV9wcktfYWRpZllTWm5rQ0tRQQ?oc=5",
+   "source": "Putman Media",
+   "published": "2026-10-22T17:01:31+00:00",
+   "count": 4,
+   "sources": [
+    "Control Engineering Europe",
+    "Data Centre Magazine",
+    "Putman Media",
+    "TradingView"
+   ],
+   "score": 3.64
   },
   {
    "title": "Chery's AiMOGA opens global pre-orders for MOBO home companion humanoid",
@@ -345,22 +373,21 @@
     "Gasgoo",
     "Pluang"
    ],
-   "score": 5.05
+   "score": 3.62
   },
   {
-   "title": "三菱電機、ヒューマノイドと工作機械が連携して加工 JIMTOF20226でデモ",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9TREkyTEFzcEQzbGl3dW5wS184SmExV2ZvZlZBV2MwYkJWWDhwazRSQ0dhMnVPTVBtSVFBaUdkeDRzdWRrRllmNkt0SURJTHpHclN1ZUFUQVpoLUctdnRYcWVuZmdhV01mSGY3NjNqbw?oc=5",
-   "source": "MONOist",
-   "published": "2026-10-21T21:15:00+00:00",
-   "count": 5,
+   "title": "FLAIR launches Hong Kong’s first embodied AI research hub",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX25KQjFZQy01N1hfcWY4U3BFMDZyX3Y2djExM05jcHp2MXlUQU02ZzFaMTVhVkRsVjBGbzhoZy1KeFJGTjJxU2pMOUgzZS1YWWlrblBpY05ITVJSTnBxZEx0ZExvRVZvd2ZyUmF5UXlMUUUyeHk1ODNxeWtGN1RyTURDY3ZnQXRjTHlFZjd1OU5pUEV0anYxUg?oc=5",
+   "source": "Frontier Enterprise",
+   "published": "2026-10-22T12:00:00+00:00",
+   "count": 4,
    "sources": [
-    "MONOist",
-    "https://kabu-ir.com/",
-    "ビジネス+IT",
-    "ロボスタ",
-    "千葉テレビ放送株式会社"
+    "ForkLog",
+    "Frontier Enterprise",
+    "TNGlobal",
+    "Tech in Asia"
    ],
-   "score": 4.82
+   "score": 3.39
   },
   {
    "title": "AGCO to deploy Agility Digit humanoid in Kansas factory",
@@ -375,94 +402,63 @@
     "The Robot Report",
     "www.marketscreener.com"
    ],
-   "score": 4.32
+   "score": 3.1
   },
   {
-   "title": "Voxel51 launches new data platform for robotics and physical AI",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVmtTemt1ZTVKR3YwdE1scDE0Y21IM2FFU3FhaUNSc3R6V3VFMEpGbDBXN1YtLVU3bWpQUGc3ZXgtU0ZSa2pyVFowX2NiZE1DQnp1M2xmX1lEYTlqay1OUXlWSnByN0drTXI3ZmtBNFRlS3p1U3NCY2ZyR25pSUJISXllMzlOMi1qQjdEZDVESmFsMEdRUUNDSHNwMnFnWEEtbGExOExBWkc3NC0tN05ZR0hwalM4Z0NUTjFzcw?oc=5",
-   "source": "Robotics & Automation News",
-   "published": "2026-10-21T09:12:50+00:00",
-   "count": 4,
+   "title": "Maxinsights Raises $30 Million In Seed Funding Led By Peak XV To Build Physical AI Data Platform For Robotics",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeUgzRGJ5ejF5ZXdSV3RCa3VXVE5zRzN2TFBaLUtiN1FQdGJSZ3pRNi0tTE5RM3JleWR0YlFIRkpCMmN2X3BmeFdCVkpHMVhTZEg4TjFOV1k2TkpqQ1gyQTVQYlNHbFoxdllTUmtWSW5oQVpPN2xYV0JmMWs1RU96QmJTeVpKdUZ6WTZsT29vNDdDN0lTMXNwYndXWndzRnJVTFlSQ2NWRVBSQTlZbXVfdVhZeTBha3p1RHAxSVpPckhlN1FwcG5n?oc=5",
+   "source": "Pulse 2.0",
+   "published": "2026-10-22T20:24:28+00:00",
+   "count": 3,
    "sources": [
-    "Engineering.com",
-    "MarkTechPost",
-    "Robotics & Automation News",
-    "Unite.AI"
+    "Business Wire",
+    "Pulse 2.0"
    ],
-   "score": 3.26
+   "score": 2.86
+  },
+  {
+   "title": "フィジカルＡＩ技術紹介 福井北陸技術交流テクノフェア開幕",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95YTJWTUE5cmxZakNPMnl3VHREajdybEFJVVgwdnRFR1BOQzNqTnJYVldxdU5FTGRFRk1sZjJobm1rTEx1bWtxZm5jVEdRMHpTV1AtYQ?oc=5",
+   "source": "中日新聞Web",
+   "published": "2026-10-22T20:05:00+00:00",
+   "count": 3,
+   "sources": [
+    "中日新聞Web",
+    "日テレNEWS NNN",
+    "福井テレビ"
+   ],
+   "score": 2.85
   },
   {
    "title": "Nokia, NVIDIA Advance AI-RAN Toward Commercial Deployment",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUUlKVHRnMV95UzY4a0hPOFB4Wkt3LU82YVhFWGFfZm5rZVRBT195ZzNpWm1GUms4UzR4eHF3cjg3ODlETXE3WmtIWUh3Si1xdHNEVUtZWVRsV2ZxSEVEa3RlNm1RVEVlWDZxem8zOFRodHdmd1Nmd2xSVHRnc1I2NHZ6QWVaYnhzMmI4bVdXYU9Nb0FEMnZacmIzcjF4VHpsSmlFbWlNdUc3b0wtOXgwdg?oc=5",
    "source": "The Fast Mode",
    "published": "2026-10-21T22:59:53+00:00",
-   "count": 3,
+   "count": 4,
    "sources": [
     "Fierce Network",
+    "Nokia",
     "The Fast Mode",
     "TradingView"
    ],
-   "score": 2.96
+   "score": 2.83
   },
   {
-   "title": "日立がフィジカルAIソリューションを開発、AIエージェントで設備故障の予兆検知から原因特定・対処案提示まで自動化",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EVHAtYkRTcnh6eE9jclEyS2pPLVpELWdodkhCM0lWVEZXMl9Mb2pUZTdlNjlVRUFtSjlXNU5GeGo1dDBCdnRIV3JSbGlQQ2N2alUyUVNhSFI0T1g3dnFhUnR5RnU1MmFxZVFLLURR?oc=5",
-   "source": "au Webポータル",
-   "published": "2026-10-21T02:18:29+00:00",
-   "count": 4,
-   "sources": [
-    "PR TIMES",
-    "au Webポータル",
-    "クラウド Watch",
-    "ｄメニューニュース"
-   ],
-   "score": 2.96
-  },
-  {
-   "title": "CoreWeave Launches Physical AI Templates for Robotics and Autonomous Vehicle Development",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOV9mQklJUmRtUDIwQklqRTliTGJNZHE3dmVUQXNiNmN6OFBnRzFmYXFtMC1ScmYwNGpuWm5VcXZTM0NJSE5FYVd0YTZYWVo1N21mdzZCLTNlLW5oaVJUYVNQZnBQXy1qSlBLbWUtdDA1TndXM3o4eHpNYTFZZ1UzMFRucHNXNlZKa0NfaQ?oc=5",
-   "source": "Unite.AI",
-   "published": "2026-10-21T15:24:13+00:00",
+   "title": "120ft emerges from stealth with €576,000 to build humanoid-powered microfactories",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWkUteFFvQl9Nck1kcGlLOVJlODJoS2FzVWVwQXkwcEphNjUxNkNBUGNCM2lWMHd3UDBuNURBd0o3eGdnS05lQVg1d3Z3aHYtTGRpdHFMZTh1UTFHdHMyS21RYWdwdldSaWd6Q25iTnFVT3JoXzF1dzFtR3Y3NWkzakFwWVdQN1gtQ2tCeWpVZkpJaUJUS0J5QjZLU2FIMkxuckRrbkQxWnYwQS1LUy1JS00xdFVidUE2ODV6TndlMnhLS0RtU1dPMmc4YS1CRHlrVHNz?oc=5",
+   "source": "Robotics & Automation News",
+   "published": "2026-10-22T19:19:53+00:00",
    "count": 3,
    "sources": [
     "AI Insider",
-    "Unite.AI",
-    "Yahoo Finance"
+    "Robotics & Automation News",
+    "Startupticker"
    ],
-   "score": 2.67
-  },
-  {
-   "title": "Amulya Vishwanath says physical AI is in its “LEGO era”",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd1hlMGJmc0Ntb1JQWFBkN0gtSlA5dkphVWtKaEhaTVJJVVl5OFY4bEU1NkVULXpDRml5WDVlRWJtVnhPWDI5T2pNY0RiQjNIdGdqX2FkaGYybmNJR0xwQmpJREVjN0xLODZPeWdnS3lRODA1c3VPS3h0ajllcngwTHRsc1licWlM?oc=5",
-   "source": "Mezha.net",
-   "published": "2026-10-20T17:52:28+00:00",
-   "count": 4,
-   "sources": [
-    "Mezha.net",
-    "TechCrunch"
-   ],
-   "score": 2.64
-  },
-  {
-   "title": "ヤマザキマザックが実装へ 工作機械にフィジカルAI ABEJAと業務提携（日刊産業新聞）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1CMTNIN3l1MVc2RW92Z1h0RFJIclFHRFl5Vjk0anlHeUcyLWJJS2IzLXNlVWFZbDZNd29xVFdicVFRRGVkcUxIWnBmWlA5WUdJeXU1dEhXR1BfNkxGZHR0S3YyYlBGVmZhUlEzS3lVNUg5Y2NWN2lud2RLcWQyTjg?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-19T08:05:18+00:00",
-   "count": 6,
-   "sources": [
-    "BigGo ファイナンス",
-    "LOGI-BIZ online",
-    "PR TIMES",
-    "Yahoo!ニュース",
-    "ビジネス+IT",
-    "日本経済新聞"
-   ],
-   "score": 2.47
+   "score": 2.82
   }
  ],
  "trend": {
   "dates": [
-   "2026-09-22",
    "2026-09-23",
    "2026-09-24",
    "2026-09-25",
@@ -491,14 +487,14 @@
    "2026-10-18",
    "2026-10-19",
    "2026-10-20",
-   "2026-10-21"
+   "2026-10-21",
+   "2026-10-22"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     48,
      52,
      23,
      20,
@@ -526,15 +522,15 @@
      10,
      6,
      45,
-     56,
-     64
+     57,
+     66,
+     44
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     17,
      17,
      37,
      29,
@@ -561,20 +557,20 @@
      45,
      2,
      8,
-     26,
-     34,
-     36
+     27,
+     37,
+     40,
+     25
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     10,
      8,
      10,
      1,
-     2,
+     3,
      0,
      6,
      17,
@@ -592,21 +588,21 @@
      0,
      7,
      6,
-     8,
+     9,
      12,
      13,
      0,
      3,
      3,
      2,
-     9
+     10,
+     6
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     38,
      27,
      18,
      16,
@@ -615,7 +611,7 @@
      25,
      27,
      35,
-     45,
+     46,
      30,
      10,
      8,
@@ -635,14 +631,14 @@
      16,
      27,
      36,
-     39
+     39,
+     31
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     31,
      12,
      23,
      9,
@@ -670,8 +666,9 @@
      3,
      9,
      12,
-     33,
-     27
+     34,
+     27,
+     25
     ]
    }
   ]
@@ -681,7 +678,7 @@
    "name": "INTEL CORP",
    "core": "INTEL",
    "patents": 1051,
-   "news": 10
+   "news": 9
   },
   {
    "name": "BOSCH GMBH ROBERT",
@@ -693,7 +690,7 @@
    "name": "GOOGLE LLC",
    "core": "GOOGLE",
    "patents": 275,
-   "news": 14
+   "news": 16
   },
   {
    "name": "HONDA MOTOR CO LTD",
@@ -717,7 +714,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 133
+   "news": 142
   },
   {
    "name": "QUALCOMM INC",
