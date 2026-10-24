@@ -1,44 +1,56 @@
 {
- "updated_at": "2026-10-23T23:44:28.409743+00:00",
+ "updated_at": "2026-10-24T22:51:28.366346+00:00",
  "kpi": {
-  "articles_7d": 745,
-  "articles_prev_7d": 760,
-  "sources_7d": 343,
-  "articles_30d": 3107,
-  "total_articles": 11880,
+  "articles_7d": 755,
+  "articles_prev_7d": 761,
+  "sources_7d": 354,
+  "articles_30d": 3051,
+  "total_articles": 11935,
   "oldest_news": "1970-01-01"
  },
  "wordcloud": [
   [
    "nvidia",
-   83
+   85
   ],
   [
    "開発",
-   49
+   53
   ],
   [
    "unitree",
-   36
+   39
   ],
   [
    "china",
-   31
+   33
+  ],
+  [
+   "中国",
+   24
   ],
   [
    "launches",
-   25
+   23
   ],
   [
    "unveils",
+   23
+  ],
+  [
+   "tesla",
+   23
+  ],
+  [
+   "日本",
    22
   ],
   [
-   "data",
-   21
+   "factory",
+   22
   ],
   [
-   "factory",
+   "optimus",
    21
   ],
   [
@@ -46,27 +58,19 @@
    21
   ],
   [
-   "tesla",
+   "million",
    21
   ],
   [
-   "optimus",
+   "data",
    20
   ],
   [
-   "日本",
-   19
-  ],
-  [
    "openai",
-   19
+   20
   ],
   [
-   "中国",
-   19
-  ],
-  [
-   "million",
+   "platform",
    19
   ],
   [
@@ -74,7 +78,7 @@
    19
   ],
   [
-   "platform",
+   "連携",
    18
   ],
   [
@@ -82,7 +86,11 @@
    17
   ],
   [
-   "連携",
+   "工作",
+   16
+  ],
+  [
+   "機械",
    16
   ],
   [
@@ -98,19 +106,19 @@
    16
   ],
   [
-   "機械",
-   15
-  ],
-  [
-   "工作",
-   15
-  ],
-  [
    "産業",
-   15
+   16
   ],
   [
    "industrial",
+   16
+  ],
+  [
+   "ceo",
+   15
+  ],
+  [
+   "三菱電機",
    15
   ],
   [
@@ -122,31 +130,31 @@
    15
   ],
   [
-   "global",
-   14
-  ],
-  [
-   "build",
-   14
-  ],
-  [
-   "三菱電機",
-   14
-  ],
-  [
    "h2-x",
-   14
+   15
   ],
   [
    "企業",
-   13
-  ],
-  [
-   "ceo",
-   13
+   14
   ],
   [
    "scale",
+   14
+  ],
+  [
+   "agents",
+   13
+  ],
+  [
+   "build",
+   13
+  ],
+  [
+   "データ",
+   13
+  ],
+  [
+   "manufacturing",
    13
   ],
   [
@@ -158,15 +166,11 @@
    13
   ],
   [
-   "future",
+   "expands",
    12
   ],
   [
-   "agents",
-   12
-  ],
-  [
-   "データ",
+   "series",
    12
   ],
   [
@@ -178,27 +182,27 @@
    12
   ],
   [
-   "manufacturing",
+   "tech",
    12
-  ],
-  [
-   "chinese",
-   11
-  ],
-  [
-   "工場",
-   11
   ],
   [
    "投資",
    11
   ],
   [
-   "series",
+   "musk",
+   11
+  ],
+  [
+   "training",
    11
   ],
   [
    "開催",
+   11
+  ],
+  [
+   "工場",
    11
   ],
   [
@@ -210,11 +214,7 @@
    11
   ],
   [
-   "market",
-   10
-  ],
-  [
-   "work",
+   "自動",
    10
   ],
   [
@@ -226,11 +226,15 @@
    10
   ],
   [
-   "musk",
+   "chinese",
    10
   ],
   [
-   "expands",
+   "global",
+   10
+  ],
+  [
+   "future",
    10
   ],
   [
@@ -238,81 +242,87 @@
    10
   ],
   [
-   "training",
-   10
-  ],
-  [
    "NVIDIA",
    10
   ],
   [
-   "tech",
+   "nokia",
    10
   ]
  ],
  "today_top5": [
   {
-   "title": "Tractian Raises $130 Million Series D At $1.4 Billion Valuation To Scale Physical AI Platform",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdDJXOTNWMktuS3BjbVY0V2k5R1lUcno5Q3haSWxZbTFFZ2FCR2lrdXBzcWxCVTU2UmltUXBaZmpBd0wxdGxQa0dRYkJvNHRHbWVpSjJPNHJIZEt6MlJRVTl0TUVHMlpuVnRlNFQyaFNBRjUtWEJjSFo3cnRVcTBSSkFxOTc5NHFOT1NWbmpaZldYcGdRSHRWWGtSTS12aHQ4U05oXy1RSVpzMV83LUZCNg?oc=5",
-   "source": "Pulse 2.0",
-   "published": "2026-10-23T21:03:40+00:00",
-   "count": 3,
-   "sources": [
-    "Pulse 2.0",
-    "Verdict",
-    "Wowtale"
-   ],
-   "score": 2.89
-  },
-  {
-   "title": "Nvidia CEO proposes turning Kazakhstan into global physical AI hub",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUWZlenI0RUp3TVNDUEF6ZEhVbzZfMGFMZWxzSFRsWEl1MnVwQm5FcXZFX1lDblFTb1hidHUxbUZRdDBDS1UtenJRRWdsYkc4dVd0UjhjMHNabkdZOWNHWlhIeVZhMTNUbzhLbnhGeUVjYldZUXJfeVp5VnJ6cUotb3h5N2R2d3pyTjFpcGp2VlhieEFta2VPZFBYZHBEME15RUxkX21R?oc=5",
-   "source": "Report.az",
-   "published": "2026-10-23T18:44:58+00:00",
-   "count": 3,
-   "sources": [
-    "Report.az",
-    "The Astana Times"
-   ],
-   "score": 2.8
-  },
-  {
-   "title": "心を満たす「かわいいフィジカルAI」、日本の勝ち筋になり得るか？ 「LOVOT」林社長が説く可能性（ITmedia ビジネスオンライン）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TQzhqS3gxOFNma25fdlhjMkJGTHBUODcydU9wdGZPRmpYWFg1LVJNOVFRcGpvcmw5dXE0LXhpOFh4V280OVM0cVE5VXJFZ3dqZ0ZqQ015a3A5S0tTdFJleDRtV2ZGMHNJcTNxWk02RExOaEtlcElTZGRiQ0pBWUk?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-23T21:05:50+00:00",
+   "title": "Nvidia CEO Jensen Huang proposes making Kazakhstan global physical AI Hub",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KYWdmOHVWbTVHRWdTNXN4SDhlbENDX2ZMY2R0VkRIbUkxMHJ0TEJBY1R2UjJBQWZoWUdtaVQtVlYtc3M2U3p6b012d2ppVGFVYzg5UA?oc=5",
+   "source": "AzerNews",
+   "published": "2026-10-24T10:04:00+00:00",
    "count": 2,
    "sources": [
-    "Yahoo!ニュース"
+    "AzerNews",
+    "The Diplomatic Insight"
    ],
-   "score": 1.93
+   "score": 1.67
   },
   {
-   "title": "NVIDIA Expands Isaac Tools for Robot Training, Simulation and Deployment",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMXQyTjZ5Z1VBZVByXzlpdE9JTWQ0M0FRd1RXNTZrZ1BkbGNYNk1RdkF3QjVBRVRfVmRRbnFZaVNUTzBBOTBIY3pfdGllQzBrR0k1bXVjdks0VG5Ka1FPMGdjVlFUeWd3Ukx3WFlxZmR2X2dpanlmVWdocmpiN2xfRHlMWElpMGk0Vm1hUEZRNTlTaURDMTdFcW5LYW9BUWFPMS1BT1ROb2V0d0h1V0lhTHJobks?oc=5",
-   "source": "HPCwire",
-   "published": "2026-10-23T19:16:28+00:00",
-   "count": 2,
+   "title": "Figure Is Spending $8.1 Million a Week Buying Human Experience for Physical AI",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY0F1UHE4WGVmNlcxQzFGRE5fM1A2MDFwOFF3VHJxVjlVRnFYckFCcDl6Qk5zMGl5dC1GN2F1czA2T2oxTWJtbzNfM1U4ZXF2emtrakpfM3VTSnB2dG54cFZOd0hzcl9MbUNKY19zYzl5V3RFVlBkMURXRzlseXJGZA?oc=5",
+   "source": "Sebastian Barros Newsletter",
+   "published": "2026-10-24T20:12:15+00:00",
+   "count": 1,
    "sources": [
-    "Engineering.com",
-    "HPCwire"
+    "Sebastian Barros Newsletter"
    ],
-   "score": 1.88
+   "score": 0.96
   },
   {
-   "title": "Generative Bionics to launch Physical AI Data Factory in Italy",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSy1MS0dYWUt1MkVGZUh4WkFKREVGeVFDczlRNHo4ZDlVdzVVMjhINnBFWHU4VGI1d1p1NXAxcDJnU2JtendfUzI2WkJ2R3NQMzdnZUNkOWZPWWNWbUJlek42MG1xdXpQUGtZR09yLThYZDBSZndsXzEwb2J6amRpZjF1dk9GbHBLSC1XVk9tZUlrWGVzNFBGbE5B?oc=5",
-   "source": "The Robot Report",
-   "published": "2026-10-23T19:05:25+00:00",
-   "count": 2,
+   "title": "Tokio Marine first Japan nonlife insurer to cover AI-enabled robots",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdjNfMGFlN3lkejRoQ1lNMzhMWjgzbkwzbDZZblFPQkZvWEZ5Nmx4ZmJsenRTOUhfNEJfMFJYVU5vOXo2cVRibWMxVjJfVXNWRjBtV2NTOVI3TEs0Uk9xcDNJOC05MEVQX3lCT1BJUzR2SzBnVkFFQ1k5c1NXUVI3X0I5ZXAxWGZKYnRHdHVCR1V0YWpTXzNxOW82UWZXNFBBczhaaS05SklUWnplY2ZjaHpHcXZsZnFpbG5QQThMYnpYT3EtSWdXVnN2N3BBT3pf?oc=5",
+   "source": "Nikkei Asia",
+   "published": "2026-10-24T20:03:00+00:00",
+   "count": 1,
    "sources": [
-    "Robotics & Automation News",
-    "The Robot Report"
+    "Nikkei Asia"
    ],
-   "score": 1.87
+   "score": 0.96
+  },
+  {
+   "title": "Chinese Hackers Use AI Agents to Breach Thousands of Companies via ConnectWise",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM1JHV2ZuVEVqOEpUS0N5Y3lpTzNkYXZjWjNacTNwVDlDWGZ0T2d3dU5kdGtzak1vcDR0WDZqN3ZhQlNNRkZBcnlqby0tZFRHRnlHWEVMcDVJVUtveUF0V0ZHUElCd0FwWVdXYWtNX3VQSTduTGdFTzZPSVhOVjVFYUxYLXlyZ1BfRDhXcTNPOF9ab2tBS292UmJLd0h6VVhyUm5MU1RVUDR2QVk5c3o5ZDdnSHV6LVk?oc=5",
+   "source": "AI Insider",
+   "published": "2026-10-24T18:53:26+00:00",
+   "count": 1,
+   "sources": [
+    "AI Insider"
+   ],
+   "score": 0.95
+  },
+  {
+   "title": "OpenAI Expands Decisions API, Scales Enterprise Push With Uber and Cuts Frontier Training Off From the Live Internet",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZ1ZXUzdOZGRzNHJhZ19Yc21pSnZ2Z1dUbmk0Q3RhTEVwSUljSGZFQ2xrUE8zd1dLX3RlR2xnVURzNG5fXzB4UXE4SFdPbVd6N0w0aG51djB2QnJseVpfRGlIT2xReXJmWVYtRS1hTUNuRjN5dnBDM3BZbU15Wl9OSHRKZld6aGE2cWdVZW1aWk9KRnNCN0tIR1EwQjRpZFlDWXlWNWs2Nll0QVNyVVZiQzVCVlB4ajBKUE1sa3ZZUDVzaE9UWTZ0R0xTMTI1eThjYzNmTGF4dmR4X3BnNGdqQm91bmNCcnUy?oc=5",
+   "source": "AI Insider",
+   "published": "2026-10-24T18:44:06+00:00",
+   "count": 1,
+   "sources": [
+    "AI Insider"
+   ],
+   "score": 0.94
   }
  ],
  "hot_news": [
+  {
+   "title": "Nvidia CEO Jensen Huang proposes making Kazakhstan global physical AI Hub",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KYWdmOHVWbTVHRWdTNXN4SDhlbENDX2ZMY2R0VkRIbUkxMHJ0TEJBY1R2UjJBQWZoWUdtaVQtVlYtc3M2U3p6b012d2ppVGFVYzg5UA?oc=5",
+   "source": "AzerNews",
+   "published": "2026-10-24T10:04:00+00:00",
+   "count": 4,
+   "sources": [
+    "AzerNews",
+    "Report.az",
+    "The Astana Times",
+    "The Diplomatic Insight"
+   ],
+   "score": 3.35
+  },
   {
    "title": "三菱電機、フィジカルＡＩで人型ロボと工作機械連携",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE05NmZLOHJ4S1pEYjh3ZWdjTlVnNENXT1cyTUtLcTMzSWMwMXp3NVpTRFYyTEpkM0hQUmF2ZXhCNVdYMTZsdDZCMjVQV1JkbHZPQ3I0?oc=5",
@@ -320,14 +330,14 @@
    "published": "2026-10-22T20:03:08+00:00",
    "count": 6,
    "sources": [
+    "Yahoo!ニュース",
     "bp-Affairs",
-    "www.mitsubishielectric.co.jp",
     "ビジネス+IT",
     "ロボスタ",
     "化学工業日報 電子版",
     "日刊工業新聞 電子版"
    ],
-   "score": 4.08
+   "score": 2.96
   },
   {
    "title": "心を満たす「かわいいフィジカルAI」、日本の勝ち筋になり得るか？ 「LOVOT」林社長が説く可能性（ITmedia ビジネスオンライン）",
@@ -339,7 +349,7 @@
     "ITmedia",
     "Yahoo!ニュース"
    ],
-   "score": 3.86
+   "score": 2.8
   },
   {
    "title": "Generative Bionics to launch Physical AI Data Factory in Italy",
@@ -353,7 +363,7 @@
     "Robotics & Automation News",
     "The Robot Report"
    ],
-   "score": 3.75
+   "score": 2.72
   },
   {
    "title": "Nokia, Nvidia accelerate AI-RAN, physical AI commercial deployment",
@@ -367,7 +377,7 @@
     "The Fast Mode",
     "TradingView"
    ],
-   "score": 3.44
+   "score": 2.49
   },
   {
    "title": "ユナイテッドアローズが人型ロボット（ヒューマノイド）向けウェアを開発（ネットショップ担当者フォーラム）",
@@ -383,7 +393,7 @@
     "テクノエッジ TechnoEdge",
     "ネットショップ担当者フォーラム"
    ],
-   "score": 3.37
+   "score": 2.45
   },
   {
    "title": "Tractian Raises $130 Million Series D At $1.4 Billion Valuation To Scale Physical AI Platform",
@@ -396,19 +406,7 @@
     "Verdict",
     "Wowtale"
    ],
-   "score": 2.89
-  },
-  {
-   "title": "Nvidia CEO proposes turning Kazakhstan into global physical AI hub",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUWZlenI0RUp3TVNDUEF6ZEhVbzZfMGFMZWxzSFRsWEl1MnVwQm5FcXZFX1lDblFTb1hidHUxbUZRdDBDS1UtenJRRWdsYkc4dVd0UjhjMHNabkdZOWNHWlhIeVZhMTNUbzhLbnhGeUVjYldZUXJfeVp5VnJ6cUotb3h5N2R2d3pyTjFpcGp2VlhieEFta2VPZFBYZHBEME15RUxkX21R?oc=5",
-   "source": "Report.az",
-   "published": "2026-10-23T18:44:58+00:00",
-   "count": 3,
-   "sources": [
-    "Report.az",
-    "The Astana Times"
-   ],
-   "score": 2.8
+   "score": 2.1
   },
   {
    "title": "Formic Raises $50 Million To Expand Physical AI And General-Purpose Robotics Across U.S. Manufacturing",
@@ -421,7 +419,7 @@
     "Industrial Equipment News",
     "Pulse 2.0"
    ],
-   "score": 2.72
+   "score": 1.97
   },
   {
    "title": "Schneider Electric, Nvidia and HPE bring AI agents to the plant edge",
@@ -435,25 +433,25 @@
     "Putman Media",
     "TradingView"
    ],
-   "score": 2.61
+   "score": 1.89
   },
   {
-   "title": "Chery's AiMOGA opens global pre-orders for MOBO home companion humanoid",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWmpRYmxFSERNZU1TcEZueVRpOUx6SE0xanR5TzRsMVVEQWY4aFJQTy1feGxiOHg1XzZKR3dSZVdkWTlNaUlsdzZZSTI1WURVTml1MUZrVUUzM3FhaGxQLWEwYUtMRWtLcmNfek4zc25jUGVxQzFQUUJidXltQmUzMGt2NWV4YmFqemptVU1NVlZGMHJjSUtMVXBoaDJyb2VMc0hTcVExOGR3RENRVDRXaGdJUFpNNUlKa1hBN0I3SEZQdkxCSi14V0JOdFA?oc=5",
-   "source": "Gasgoo",
-   "published": "2026-10-21T11:32:57+00:00",
-   "count": 6,
+   "title": "Tesla started Optimus humanoid robot production as profit fell 43%",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GTGlCd0JYdnIwclVReWw0aGxTdTdfVkJBRnJNOGMwajM1MGVQdFJ0MzlLQm5yRGptYlRGNk52cXNJSzNPanBiUW80MkRzMHg3VmN2V3l5SFhLVmd0QkxERHd5NmlFMHBwVHgzY1NrVUpxM2J3amxfdnVDYVo?oc=5",
+   "source": "Quartz",
+   "published": "2026-10-22T12:10:58+00:00",
+   "count": 4,
    "sources": [
-    "AI Insider",
-    "Gasgoo",
-    "Pluang"
+    "Interesting Engineering",
+    "Quartz",
+    "Technology Org",
+    "https://tech-insider.org/"
    ],
-   "score": 2.6
+   "score": 1.77
   }
  ],
  "trend": {
   "dates": [
-   "2026-09-24",
    "2026-09-25",
    "2026-09-26",
    "2026-09-27",
@@ -482,14 +480,14 @@
    "2026-10-20",
    "2026-10-21",
    "2026-10-22",
-   "2026-10-23"
+   "2026-10-23",
+   "2026-10-24"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     23,
      20,
      8,
      6,
@@ -508,7 +506,7 @@
      12,
      8,
      39,
-     57,
+     58,
      46,
      37,
      40,
@@ -516,16 +514,16 @@
      6,
      45,
      57,
-     66,
+     67,
      47,
-     40
+     41,
+     10
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     37,
      29,
      9,
      12,
@@ -552,16 +550,16 @@
      8,
      27,
      37,
-     41,
+     42,
      26,
-     17
+     19,
+     4
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     10,
      1,
      3,
      0,
@@ -587,17 +585,17 @@
      0,
      3,
      3,
-     3,
+     4,
      10,
      7,
-     2
+     3,
+     3
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     18,
      16,
      14,
      10,
@@ -623,17 +621,17 @@
      23,
      16,
      27,
-     36,
-     40,
+     37,
      41,
-     20
+     43,
+     20,
+     6
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     23,
      9,
      6,
      6,
@@ -659,10 +657,11 @@
      3,
      9,
      12,
-     34,
-     29,
+     35,
+     30,
      25,
-     6
+     9,
+     4
     ]
    }
   ]
@@ -696,7 +695,7 @@
    "name": "SAMSUNG ELECTRONICS CO LTD",
    "core": "SAMSUNG ELECTRONICS",
    "patents": 260,
-   "news": 16
+   "news": 17
   },
   {
    "name": "X DEV LLC",
@@ -708,13 +707,13 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 149
+   "news": 150
   },
   {
    "name": "QUALCOMM INC",
    "core": "QUALCOMM",
    "patents": 206,
-   "news": 4
+   "news": 3
   }
  ]
 }
