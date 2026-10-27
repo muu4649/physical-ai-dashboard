@@ -1,116 +1,128 @@
 {
- "updated_at": "2026-10-25T23:00:06.860527+00:00",
+ "updated_at": "2026-10-27T00:13:24.505409+00:00",
  "kpi": {
-  "articles_7d": 773,
-  "articles_prev_7d": 769,
-  "sources_7d": 353,
-  "articles_30d": 3039,
-  "total_articles": 12009,
+  "articles_7d": 804,
+  "articles_prev_7d": 783,
+  "sources_7d": 370,
+  "articles_30d": 3139,
+  "total_articles": 12187,
   "oldest_news": "1970-01-01"
  },
  "wordcloud": [
   [
    "nvidia",
-   88
-  ],
-  [
-   "開発",
-   53
+   85
   ],
   [
    "unitree",
-   40
+   48
+  ],
+  [
+   "開発",
+   47
   ],
   [
    "china",
-   34
+   35
+  ],
+  [
+   "tesla",
+   29
   ],
   [
    "中国",
+   28
+  ],
+  [
+   "data",
    27
+  ],
+  [
+   "raises",
+   26
+  ],
+  [
+   "launches",
+   26
   ],
   [
    "日本",
    25
   ],
   [
-   "tesla",
-   25
-  ],
-  [
-   "raises",
-   22
-  ],
-  [
    "unveils",
-   22
-  ],
-  [
-   "million",
-   21
-  ],
-  [
-   "factory",
-   21
-  ],
-  [
-   "launches",
-   21
-  ],
-  [
-   "production",
-   21
-  ],
-  [
-   "連携",
-   21
-  ],
-  [
-   "optimus",
-   21
+   24
   ],
   [
    "platform",
+   23
+  ],
+  [
+   "factory",
+   22
+  ],
+  [
+   "production",
+   22
+  ],
+  [
+   "optimus",
+   22
+  ],
+  [
+   "連携",
    20
   ],
   [
-   "data",
+   "million",
    19
   ],
   [
    "industrial",
-   18
+   19
   ],
   [
    "技術",
    18
   ],
   [
-   "産業",
-   17
-  ],
-  [
-   "三菱電機",
-   17
-  ],
-  [
-   "scale",
-   16
+   "h2-x",
+   18
   ],
   [
    "world",
    16
   ],
   [
-   "時代",
+   "三菱電機",
    16
   ],
   [
-   "工作",
+   "agents",
+   15
+  ],
+  [
+   "時代",
    15
   ],
   [
    "共同",
+   15
+  ],
+  [
+   "企業",
+   15
+  ],
+  [
+   "データ",
+   15
+  ],
+  [
+   "産業",
+   15
+  ],
+  [
+   "agility",
    15
   ],
   [
@@ -122,19 +134,39 @@
    15
   ],
   [
-   "h2-x",
+   "工作",
    15
-  ],
-  [
-   "agents",
-   14
   ],
   [
    "ceo",
    14
   ],
   [
-   "データ",
+   "accelerate",
+   14
+  ],
+  [
+   "scale",
+   14
+  ],
+  [
+   "tech",
+   14
+  ],
+  [
+   "manufacturing",
+   14
+  ],
+  [
+   "Unitree",
+   14
+  ],
+  [
+   "導入",
+   14
+  ],
+  [
+   "deployment",
    14
   ],
   [
@@ -146,35 +178,11 @@
    13
   ],
   [
-   "build",
-   13
-  ],
-  [
    "series",
    13
   ],
   [
-   "企業",
-   13
-  ],
-  [
-   "openai",
-   13
-  ],
-  [
-   "accelerate",
-   13
-  ],
-  [
-   "tech",
-   13
-  ],
-  [
-   "manufacturing",
-   13
-  ],
-  [
-   "GMO",
+   "agco",
    13
   ],
   [
@@ -182,19 +190,31 @@
    13
   ],
   [
-   "training",
+   "GMO",
+   13
+  ],
+  [
+   "market",
    12
   ],
   [
-   "世界",
+   "build",
    12
   ],
   [
-   "Unitree",
+   "投資",
    12
   ],
   [
-   "開催",
+   "現場",
+   12
+  ],
+  [
+   "製造",
+   12
+  ],
+  [
+   "digit",
    12
   ],
   [
@@ -202,110 +222,98 @@
    12
   ],
   [
-   "agco",
+   "kung",
    12
-  ],
-  [
-   "market",
-   11
   ],
   [
    "electric",
    11
   ],
   [
-   "deployment",
+   "advance",
    11
   ],
   [
-   "future",
-   10
+   "edge",
+   11
   ],
   [
-   "automation",
-   10
+   "開催",
+   11
   ],
   [
-   "NVIDIA",
-   10
+   "training",
+   11
   ],
   [
-   "社会",
-   10
-  ],
-  [
-   "実装",
-   10
-  ],
-  [
-   "投資",
-   10
-  ],
-  [
-   "製造",
-   10
-  ],
-  [
-   "agility",
-   10
+   "人間",
+   11
   ]
  ],
  "today_top5": [
   {
-   "title": "日本は「フィジカルAI」で世界と勝負できるのか 人型ロボット世界出荷の97％を中国勢が占有…元デジタル大臣・平氏、勝ち筋は「繊細さ」と「日米連携」（ABEMA TIMES）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NcllVTlcxdFVnYWdkZTE3Ukx3NlNkY0RWbzRpSE5nSFNPWGlFXzVYem5NMWYwbnozVmhaeTd0YmwxQUVReTZET2xaSWRRVFlFLTNKazc5RlBRc1pxZGlKOGNpbUhSTk40czhsYlpLaGMtc2Utdl9SVmhpYjVDQ0k?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-25T03:00:39+00:00",
+   "title": "Pronto Founder Enters Physical AI Space With Provision Labs",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa0dSZ3g5U3ozb3huZzA3ajBqRkc4cUZSYi1JSXZwb0tCN0FVcXFTeGNrRXczdzhvODhuMXg4UHI0bUJIWExvMUNEWjBHV1JvXzhwN1FqcGdxLXUxUEx2ZjV3V2kzUXdJNkY3dXNGUHlXYUNPcTl3QTItZVZ1RVVHdURrRkNBV0Z1WEhQUHJNUnZKQkNCRzdVU01BblItdw?oc=5",
+   "source": "Analytics India Magazine",
+   "published": "2026-10-26T11:46:26+00:00",
+   "count": 4,
+   "sources": [
+    "Analytics India Magazine",
+    "Entrackr",
+    "Moneycontrol.com",
+    "The Economic Times"
+   ],
+   "score": 3.36
+  },
+  {
+   "title": "IIT Kharagpur AI School to Focus on Physical AI",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc3BNb1FRdzB5TUZWWXE0YVdORjNwVVI4S0JNek4tX21hakdRdHB1b1BPeW9YN2t0QW51eXlxZElHZDl5bFdZRkZiSmxmdXZxVDZrV1pLVlV1Ml95dnhFZUZ2YWh6b1NaY2l1VU1OMTdob19UcHhnN0w4ejlYV1N5bFRDUS1WTFdrNUVIRw?oc=5",
+   "source": "Urban Acres",
+   "published": "2026-10-26T18:45:38+00:00",
+   "count": 3,
+   "sources": [
+    "Elets Technomedia",
+    "Telegraph India",
+    "Urban Acres"
+   ],
+   "score": 2.78
+  },
+  {
+   "title": "Realbotix Launches Echo Line of Humanoid Robots",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX0h5dlV5Nk90UnVEZk5uTDRFbDRSNE4wNzlFeVRDR0VoR2NpRGd4aDE1NGF2Y2E4Q2lWZkxNc2lfMmZWMlpKd2dqTXZCdkswdVBqNHFFVC1oNHg4MmVVbU1vSnFKVHhVX1U3OXNBVzQySVZSeXRNazZBQjRQdEJSdDF6TnpqbEtWaUp3TURn?oc=5",
+   "source": "AI Insider",
+   "published": "2026-10-26T12:30:57+00:00",
+   "count": 3,
+   "sources": [
+    "AI Insider",
+    "Business Wire",
+    "Eagle-Tribune"
+   ],
+   "score": 2.55
+  },
+  {
+   "title": "\"A Robot That Dances Ballet Is Coming\"... Hwaseong City to Showcase Physical AI at MARS 2026",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tb29UV0w5eEU3WDBjN3k2VHN1d3pEWXFoSW1yYm5Yd1VTSF9oWC13R0FMXzgxLWtQZWR6TjFlVlROVmgzZGdXTGx1MHhKTHVGdTQtNVoyV1lHNDYzMUtSTnlMVGxEMWdFNFQwX2VSNS1Qc2U1ay1iVQ?oc=5",
+   "source": "아시아경제",
+   "published": "2026-10-26T22:54:55+00:00",
    "count": 2,
    "sources": [
-    "ABEMA TIMES",
-    "Yahoo!ニュース"
+    "Seoul Economic Daily",
+    "아시아경제"
    ],
-   "score": 1.52
+   "score": 1.96
   },
   {
-   "title": "ダイドー×富士ソフト、フィジカルAI導入支援へ - 実機検証から現場実装まで支援",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBSUERfaGhHTHR5U1otRGRBaEh2d0JvMU9qSFkyT3ZUakJybkFXTmJWVXVtaHgxeXI4a2VseW5IV1JnX1Q4dWc0VWZOdGlMV3lXbl9DclVUZ21aNko3aWstWXBLMjlwNFZoVnRDT1dRWFVLZTZoQ1Z30gF8QVVfeXFMT0s3STBTTDI1YnV6b053QWJTWFM2ZUdQdDR3Y2FNOUdXUHZpUmhFZGRtQ0dUVFNpQjBrTWd0QzdldHVwbU14WTlCeVQ4bjk4ZFVFQVNEenhCWHNHMVlXRkFNbEZDaUR1OWpiSS1KMldXbnJjQXdMR0d0eXNxMw?oc=5",
-   "source": "ｄメニューニュース",
-   "published": "2026-10-25T22:09:07+00:00",
-   "count": 1,
+   "title": "IIT-Kharagpur inks deal with alumni to set up India’s first AI school",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVWY5R0liRmNTdVh1ZG5GQzlneVd1eTkwcFM4em1nOEk5M2xvVEhMcHJ4R09YY1pJdjNHVDNrb0JfaXpsaTRVUHdMQzh0Ty1LQm0xUWI1a1J2Zmd3eEJlZm9oVkdaQ2l2bHFQdjZhTTBiekFDV0NoZlc3eU1mdm9HMkQyX2h1MlZUeHAyRGNpQzM1emI2bWpRTUZ1aEZvc3NHNkNvVW5wdHFDQVNHbFRQckNnLXdPRUwteFpZSG9pYl9vOFlkRW1jU1AyNExEWVRWSW1WTXp3bEpzLUHSAeABQVVfeXFMT1F0NlBiUHQ0MmUzZkRGU2s1QzlHT1FOWFgwRmRrOTd4T1EzUEtlcVAyTlluUGo3RnFlSlMxZGdzazdFWkc3ZG95SFhlemZsWG5lendLYnVWSkJWNFBmdWRfcEIxbWJhdVFDbWFFcGkwTzY0RXRKZ2hRaXQzNGtRRXVsWXlobmZwcjhhcnVxc1lkVG9WTXFjcWZZMjY1a1Ytb0l5b01uNjBFLWFoalc3OEQ2dWZZMi1fVV9jT3R3MGpUZUg4eFJObG5hblkycjh4VGJKbWdCQ2F6UzFnQU53eGo?oc=5",
+   "source": "The Times of India",
+   "published": "2026-10-26T18:08:00+00:00",
+   "count": 2,
    "sources": [
-    "ｄメニューニュース"
+    "Business Standard",
+    "The Times of India"
    ],
-   "score": 0.99
-  },
-  {
-   "title": "中国フィジカルAIの現在地 「ロボットブーム」を鵜呑みにできない理由とは",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1DdGQwVUl5N1JhTWl6MlQwa2hzUllMeFliQU9JWF9kY2tmbm1ZZTdDSW0wTExIZkVxbHdYbVdsRU1sMUlVVXJ1RUdUaXAwR2h2?oc=5",
-   "source": "新潮QUE",
-   "published": "2026-10-25T22:05:00+00:00",
-   "count": 1,
-   "sources": [
-    "新潮QUE"
-   ],
-   "score": 0.99
-  },
-  {
-   "title": "イーロン・マスクが語る「AIの限界」 フィジカルAIで「経済規模100万倍」と期待",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5Y094LWRlb2UxbEg2eERueUFsRnRvOGVYRXpObG9yTDA4RUFBSndmS2FOb25xa3NySDZoN3ViZ09PcGZnX2VYRm9meE40bUxsWG02dTMzVmhTYzA0SXlSbWJBYUdwYTJCQVM3d1cyWS1Tdw?oc=5",
-   "source": "ITmedia",
-   "published": "2026-10-25T22:00:00+00:00",
-   "count": 1,
-   "sources": [
-    "ITmedia"
-   ],
-   "score": 0.99
-  },
-  {
-   "title": "三菱電機、フィジカルAIでヒューマノイドと工作機械が連携する自動化システムを開発",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1qSnFUZDQ3U3ctT1AwRVhMUGZqWWRWT1RzSkVMZi1QLWt3SlZQaEw3c1dpdjBtamZyY0JZcDBBMmZDUGxES1NJOE9CS1RaaldYT29Fbw?oc=5",
-   "source": "ASCII.jp",
-   "published": "2026-10-25T22:00:00+00:00",
-   "count": 1,
-   "sources": [
-    "ASCII.jp"
-   ],
-   "score": 0.99
+   "score": 1.84
   }
  ],
  "hot_news": [
@@ -323,131 +331,131 @@
     "ロボスタ",
     "化学工業日報 電子版"
    ],
-   "score": 8.88
+   "score": 6.25
   },
   {
-   "title": "Teradyne Robotics partners with Sereact to scale physical AI in retail and logistics",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORHBmbFFOZ0dZVGNLQmdLMUlQMXhJZ1U2TDF1RGVhdDVKdlFTeUxJWHkycXZZWDNKTjd2dDF1SWx4MEZGMFRncVZDUzZYaUZxcU5PMk9VbldJWHF6TXBLWnF6d2xzU05vSTREOFM2R1Vza3BubVptTXZMVjJuSjl4VnBMb2ZBMDJOQTQ5dDR0QWxnclZKeDN5VzFlYjdjZTJNdEpN?oc=5",
-   "source": "The Robot Report",
-   "published": "2026-10-25T12:57:27+00:00",
-   "count": 3,
-   "sources": [
-    "Business Wire",
-    "The Robot Report",
-    "TradingView"
-   ],
-   "score": 2.61
-  },
-  {
-   "title": "Nvidia CEO Jensen Huang proposes making Kazakhstan global physical AI Hub",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KYWdmOHVWbTVHRWdTNXN4SDhlbENDX2ZMY2R0VkRIbUkxMHJ0TEJBY1R2UjJBQWZoWUdtaVQtVlYtc3M2U3p6b012d2ppVGFVYzg5UA?oc=5",
-   "source": "AzerNews",
-   "published": "2026-10-24T10:04:00+00:00",
-   "count": 4,
-   "sources": [
-    "AzerNews",
-    "Report.az",
-    "The Astana Times",
-    "The Diplomatic Insight"
-   ],
-   "score": 2.39
-  },
-  {
-   "title": "心を満たす「かわいいフィジカルAI」、日本の勝ち筋になり得るか？ 「LOVOT」林社長が説く可能性（ITmedia ビジネスオンライン）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TQzhqS3gxOFNma25fdlhjMkJGTHBUODcydU9wdGZPRmpYWFg1LVJNOVFRcGpvcmw5dXE0LXhpOFh4V280OVM0cVE5VXJFZ3dqZ0ZqQ015a3A5S0tTdFJleDRtV2ZGMHNJcTNxWk02RExOaEtlcElTZGRiQ0pBWUk?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-23T21:05:50+00:00",
-   "count": 4,
-   "sources": [
-    "ITmedia",
-    "Yahoo!ニュース"
-   ],
-   "score": 2.0
-  },
-  {
-   "title": "Generative Bionics to launch Physical AI Data Factory in Italy",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSy1MS0dYWUt1MkVGZUh4WkFKREVGeVFDczlRNHo4ZDlVdzVVMjhINnBFWHU4VGI1d1p1NXAxcDJnU2JtendfUzI2WkJ2R3NQMzdnZUNkOWZPWWNWbUJlek42MG1xdXpQUGtZR09yLThYZDBSZndsXzEwb2J6amRpZjF1dk9GbHBLSC1XVk9tZUlrWGVzNFBGbE5B?oc=5",
-   "source": "The Robot Report",
-   "published": "2026-10-23T19:05:25+00:00",
-   "count": 4,
+   "title": "Generative Bionics plans AI data center and humanoid robotics factory in Italy",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMmV1VlNLZXpGSU1lZTJyU0pDOFF5MVdlU3JJQW1SRm5BdkRsQTRhbFA1T2tRWl9MWC1OeTY4MTJkaXRVb0JYQTd2U3M2ZDluUG5FNmxWY2dPRzlnRW9rV3dOUHpxckZ5Z2JkVzFTX0t4V2FRbEtZT3g4alRkcFAzQmc1WU4yRTc4QVNlQk1YY19QVnRDODZ2ZEtHNWN1Q1BGRVVqOGMyMkpJdw?oc=5",
+   "source": "Data Center Dynamics",
+   "published": "2026-10-26T16:07:21+00:00",
+   "count": 5,
    "sources": [
     "AI Insider",
+    "Data Center Dynamics",
     "PR Newswire",
     "Robotics & Automation News",
     "The Robot Report"
    ],
-   "score": 1.95
+   "score": 4.47
   },
   {
-   "title": "人型ロボットの出荷台数は28年末にスマホ並み？ 過熱する中国市場の実像",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV3I2dzdkYllaN3R5UjE0dlFGZTgxaFdKaWplQTlEY0RBTHUzNXJseGRkZGdkLW5FOVZuM1FFWnpsbUJvODJMS1ROYVFqZzRKX1I4N2tseDZDOUJ2UjFNampNYTVQVFFCQ0RXaXNNLV9pV1VKalVVTG85U01Zc2dRb0pYMUtoNlhpOXBr?oc=5",
-   "source": "日経クロストレンド",
-   "published": "2026-10-25T15:00:00+00:00",
-   "count": 2,
-   "sources": [
-    "Forbes JAPAN",
-    "日経クロストレンド"
-   ],
-   "score": 1.79
-  },
-  {
-   "title": "Nokia, Nvidia accelerate AI-RAN, physical AI commercial deployment",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ01JVnBEV2lFZG1SYUpocVp1aG9ZRVk0SURHQWN2SDhITjgyNW84aVhWa0hIdElZYVdqX0ZaSzJjMXFBa29hYVZFSlhNcFF0NUxSWG5wRXNkcTBWUEREWXdLZlRWWUlZZnowUlB2eTg5UXY5UzJtYzh6NldocVBaX0prcWcxc0ZtY0MyQWI1eWtUTlIzTG5BMU1ycVNfNjd2Q1dseGVPNzNtU1JYV1VB?oc=5",
-   "source": "Computer Weekly",
-   "published": "2026-10-23T12:50:53+00:00",
+   "title": "Schneider teams with HPE and Nvidia on industrial AI agents at the edge",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeGczRDFGYmlNM3M3dU5aaUZ4OG5DeXM5NDdIa3A1VFZzbHRRNGJlVjMwNHhSbERZZVcwNG1tMlpFNzRnbHpYLWc0M0txbjRHMk1YZ3JMRkRlWGxPMThZRkZ3WUJ5Zk5nSGtuZ3o4cjc5ZFF2bGdQYV9Hd2lIT3FSS0tZeUhmbVU1dUNCeTM4ZEdTYWFrTlZqZw?oc=5",
+   "source": "Fierce Network",
+   "published": "2026-10-26T17:22:08+00:00",
    "count": 4,
    "sources": [
-    "Computer Weekly",
-    "Nokia",
-    "The Fast Mode",
-    "TradingView"
+    "Data Centre Magazine",
+    "Fierce Network",
+    "Industrial Cyber",
+    "Putman Media"
    ],
-   "score": 1.78
+   "score": 3.64
   },
   {
-   "title": "X Pay Secures $1M to Scale Payment Infrastructure for AI Agents",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQb0lpMXA3ZGxiSWxUMkE2cFZkLWU4THhfRmh6WWRValVoZWdEZkxHR1Nfa0hyMnR2aFc2VGE5by1icXo4UGlNZ3RNMjJmLUZPeEM3VU94YXdQb0JzOWxOTUw1WTAtVmJGcElRUDRGTzc0VXcwMnlvUE4yME1jWkJDS3d3QzB1OVprbTZVd0hRaWNodnhHMmxndU55X2FCWDlGbGc?oc=5",
+   "title": "Pronto Founder Enters Physical AI Space With Provision Labs",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPa0dSZ3g5U3ozb3huZzA3ajBqRkc4cUZSYi1JSXZwb0tCN0FVcXFTeGNrRXczdzhvODhuMXg4UHI0bUJIWExvMUNEWjBHV1JvXzhwN1FqcGdxLXUxUEx2ZjV3V2kzUXdJNkY3dXNGUHlXYUNPcTl3QTItZVZ1RVVHdURrRkNBV0Z1WEhQUHJNUnZKQkNCRzdVU01BblItdw?oc=5",
+   "source": "Analytics India Magazine",
+   "published": "2026-10-26T11:46:26+00:00",
+   "count": 4,
+   "sources": [
+    "Analytics India Magazine",
+    "Entrackr",
+    "Moneycontrol.com",
+    "The Economic Times"
+   ],
+   "score": 3.36
+  },
+  {
+   "title": "US startup Formic raises $50 million to scale Physical AI",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSjFqZDA4RkZHS2w1MGZqLWlFUk9NOVNqc3plSUlhaEM2blhISG4za2dGTVM4NTZxUDYzVG5pcmRua1pQSVpDTjlhYndEcy1RSVhpZXlNZ25EZzhBRmZiQjVyaTY2eDI4OV9JTk9oQldUZnJKY2VVbUFzT2FGM2dWWml2NEpBdXdkMUNmU3dpQnA0d2ZIcW5B?oc=5",
+   "source": "Evertiq",
+   "published": "2026-10-26T05:00:00+00:00",
+   "count": 4,
+   "sources": [
+    "01net",
+    "Evertiq",
+    "Industrial Equipment News",
+    "Pulse 2.0"
+   ],
+   "score": 3.06
+  },
+  {
+   "title": "IIT Kharagpur AI School to Focus on Physical AI",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQc3BNb1FRdzB5TUZWWXE0YVdORjNwVVI4S0JNek4tX21hakdRdHB1b1BPeW9YN2t0QW51eXlxZElHZDl5bFdZRkZiSmxmdXZxVDZrV1pLVlV1Ml95dnhFZUZ2YWh6b1NaY2l1VU1OMTdob19UcHhnN0w4ejlYV1N5bFRDUS1WTFdrNUVIRw?oc=5",
+   "source": "Urban Acres",
+   "published": "2026-10-26T18:45:38+00:00",
+   "count": 3,
+   "sources": [
+    "Elets Technomedia",
+    "Telegraph India",
+    "Urban Acres"
+   ],
+   "score": 2.78
+  },
+  {
+   "title": "Realbotix Launches Echo Line of Humanoid Robots",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX0h5dlV5Nk90UnVEZk5uTDRFbDRSNE4wNzlFeVRDR0VoR2NpRGd4aDE1NGF2Y2E4Q2lWZkxNc2lfMmZWMlpKd2dqTXZCdkswdVBqNHFFVC1oNHg4MmVVbU1vSnFKVHhVX1U3OXNBVzQySVZSeXRNazZBQjRQdEJSdDF6TnpqbEtWaUp3TURn?oc=5",
    "source": "AI Insider",
-   "published": "2026-10-25T14:08:11+00:00",
-   "count": 2,
+   "published": "2026-10-26T12:30:57+00:00",
+   "count": 3,
    "sources": [
-    "AI Insider"
+    "AI Insider",
+    "Business Wire",
+    "Eagle-Tribune"
    ],
-   "score": 1.77
+   "score": 2.55
   },
   {
-   "title": "ユナイテッドアローズが人型ロボット（ヒューマノイド）向けウェアを開発（ネットショップ担当者フォーラム）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BSWU0VFJ5NFBrcWQ1TkdVbG1QQkd1cXdodUNPR1BMZEFkYnY0YjdxWnVlQjh2QVdQZEYwTXY1M1ZiWUU2MEYzZ002Xzk0M2szN1lHQ3p0RmNnY3VVSVpFdXBNXy13V1RJTEN4MHlvS0hmWmtYc09vcDM1T3huaDA?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-10-21T09:31:36+00:00",
-   "count": 8,
+   "title": "Affordable humanoid robot maker Noetix reportedly files for Hong Kong IPO",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOektXUkczQXNkSXBTQ0t3MkE5R0hjeVV3MW9yTXZERzJjcFlYZGZCcDJ3SkJTNWpFbkZLT3JoMWhZUkg4QXBiUElUNzcweHZUUXJXWTlqNlhnenU2VkpNSWhkWlB3VWlmd3V6bWVkdURyWmU5UW5qWXZNVVp4S2tFRnMzckl4Q3hNM19WTjJlRGNWRno3ZXNMRUVHNkZRWWtwUUhPWDlZSld1QQ?oc=5",
+   "source": "TechNode",
+   "published": "2026-10-26T12:22:10+00:00",
+   "count": 3,
    "sources": [
-    "MEDIAMIXI",
-    "PR TIMES",
-    "Yahoo!ニュース",
-    "https://dreamseed.blog/",
-    "テクノエッジ TechnoEdge",
-    "ネットショップ担当者フォーラム"
+    "Bloomberg",
+    "Finimize",
+    "TechNode"
    ],
-   "score": 1.75
+   "score": 2.54
   },
   {
-   "title": "Highlandersが「フィジカルAI研究所」を開設---ロボットが京都市長を表敬訪問",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE94dFFlLXRic1BxdTdYaHJScFhmaUJoRjNvM0VOX2R5dHBOQ2RSNzA3VEV4SWRRZEI4LWE5UW9QZ2tvanlBWU9idUFKUm84ekltTkRQNWZfRFp0TlItYkNIZDNR?oc=5",
-   "source": "レスポンス（Response.jp）",
-   "published": "2026-10-25T11:00:03+00:00",
-   "count": 2,
+   "title": "Unitree Founder Predicts AI Humanoid Robot to Reach 'ChatGPT Moment' in 1–2 Years",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yLVc4MTVtQ19JWjU3ZE9xZHk1aHJuWG5FUDZIMjRpTjJQNUJ3UGlVUXNJWFdxNnVnYTBhSVZyRDlzMVhpaVVjRloya9IBQkFVX3lxTE1kMHdyZDhHMU0yWjY2dGpWYlV5UUktTzhITzhDOTVQZXhXcFlwMm93WHZJNnF0aUxhMi1IYmhaa1pQZw?oc=5",
+   "source": "VOI.ID",
+   "published": "2026-10-26T11:57:03+00:00",
+   "count": 3,
    "sources": [
-    "レスポンス（Response.jp）",
-    "ロボスタ"
+    "China Daily",
+    "Global Times",
+    "VOI.ID"
    ],
-   "score": 1.69
+   "score": 2.53
+  },
+  {
+   "title": "GXOとAgility Robotics、Digitヒューマノイドの導入拠点を米国内で拡大",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeTZ2R1pQUFk1Ml8yVGM4Y0FuUEo5ZHJ4bGhHVDJ1SkF6QUhsSjdHZDYxSFNZUHRjcVUtSE9rVi1BdE5tTzZ6SURVRElDcy1kSzA4WmZlWU9QeERDLUV0Q2JxTHNaTTd6VkhkNTBqZ1ZSZHhrZzZxeXVxTVBJVHktcHhlbTlqRGo0SjN5SE9STGdwaGx6amRxbWtjX0F6dw?oc=5",
+   "source": "Unite.AI",
+   "published": "2026-10-26T11:23:52+00:00",
+   "count": 3,
+   "sources": [
+    "Unite.AI"
+   ],
+   "score": 2.51
   }
  ],
  "trend": {
   "dates": [
-   "2026-09-26",
-   "2026-09-27",
    "2026-09-28",
    "2026-09-29",
    "2026-09-30",
@@ -475,15 +483,15 @@
    "2026-10-22",
    "2026-10-23",
    "2026-10-24",
-   "2026-10-25"
+   "2026-10-25",
+   "2026-10-26",
+   "2026-10-27"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     8,
-     6,
      47,
      63,
      52,
@@ -511,19 +519,19 @@
      49,
      43,
      12,
-     11
+     13,
+     54,
+     1
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     9,
-     12,
      35,
      37,
      60,
-     34,
+     35,
      17,
      14,
      14,
@@ -545,17 +553,17 @@
      37,
      43,
      30,
-     22,
+     23,
      7,
-     12
+     17,
+     26,
+     0
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     3,
-     0,
      6,
      17,
      5,
@@ -583,6 +591,8 @@
      7,
      3,
      3,
+     0,
+     5,
      0
     ]
    },
@@ -590,8 +600,6 @@
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     14,
-     10,
      25,
      27,
      35,
@@ -618,16 +626,16 @@
      43,
      43,
      21,
-     7,
-     9
+     8,
+     10,
+     37,
+     0
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     6,
-     6,
      14,
      19,
      22,
@@ -651,11 +659,13 @@
      9,
      12,
      36,
-     30,
+     31,
      26,
      11,
      4,
-     5
+     7,
+     13,
+     0
     ]
    }
   ]
@@ -677,7 +687,7 @@
    "name": "GOOGLE LLC",
    "core": "GOOGLE",
    "patents": 275,
-   "news": 17
+   "news": 18
   },
   {
    "name": "HONDA MOTOR CO LTD",
@@ -689,7 +699,7 @@
    "name": "SAMSUNG ELECTRONICS CO LTD",
    "core": "SAMSUNG ELECTRONICS",
    "patents": 260,
-   "news": 16
+   "news": 17
   },
   {
    "name": "X DEV LLC",
@@ -701,13 +711,13 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 150
+   "news": 155
   },
   {
    "name": "QUALCOMM INC",
    "core": "QUALCOMM",
    "patents": 206,
-   "news": 2
+   "news": 3
   }
  ]
 }
