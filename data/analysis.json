@@ -1,84 +1,72 @@
 {
- "updated_at": "2026-10-29T00:34:44.337234+00:00",
+ "updated_at": "2026-10-30T00:33:59.243696+00:00",
  "kpi": {
-  "articles_7d": 778,
-  "articles_prev_7d": 803,
-  "sources_7d": 378,
-  "articles_30d": 3304,
-  "total_articles": 12524,
+  "articles_7d": 752,
+  "articles_prev_7d": 824,
+  "sources_7d": 366,
+  "articles_30d": 3279,
+  "total_articles": 12654,
   "oldest_news": "1970-01-01"
  },
  "wordcloud": [
   [
    "nvidia",
-   57
+   41
+  ],
+  [
+   "raises",
+   35
   ],
   [
    "unitree",
-   43
-  ],
-  [
-   "開発",
-   34
+   35
   ],
   [
    "china",
    34
   ],
   [
-   "raises",
-   31
-  ],
-  [
    "data",
    28
   ],
   [
-   "技術",
-   27
+   "kddi",
+   26
   ],
   [
    "launches",
    25
   ],
   [
-   "kddi",
+   "開発",
    25
   ],
   [
-   "unveils",
-   24
+   "技術",
+   25
   ],
   [
-   "中国",
+   "導入",
    23
   ],
   [
-   "tesla",
+   "unveils",
+   22
+  ],
+  [
+   "実装",
+   22
+  ],
+  [
+   "中国",
+   22
+  ],
+  [
+   "KDDI",
    22
   ],
   [
    "million",
-   21
-  ],
-  [
-   "導入",
-   21
-  ],
-  [
-   "KDDI",
-   21
-  ],
-  [
-   "日本",
-   20
-  ],
-  [
-   "実装",
-   20
-  ],
-  [
-   "platform",
    19
   ],
   [
@@ -86,7 +74,15 @@
    19
   ],
   [
-   "データ",
+   "deployment",
+   18
+  ],
+  [
+   "日本",
+   18
+  ],
+  [
+   "platform",
    17
   ],
   [
@@ -94,15 +90,31 @@
    16
   ],
   [
-   "deployment",
+   "物流",
    16
   ],
   [
-   "world",
+   "ceo",
    15
   ],
   [
-   "production",
+   "データ",
+   15
+  ],
+  [
+   "関連",
+   15
+  ],
+  [
+   "連携",
+   15
+  ],
+  [
+   "写真",
+   15
+  ],
+  [
+   "画像",
    15
   ],
   [
@@ -110,67 +122,27 @@
    14
   ],
   [
-   "連携",
+   "事業",
    14
+  ],
+  [
+   "設立",
+   14
+  ],
+  [
+   "world",
+   13
   ],
   [
    "動画",
-   14
+   13
   ],
   [
-   "関連",
-   14
-  ],
-  [
-   "写真",
-   14
-  ],
-  [
-   "画像",
-   14
+   "自動",
+   13
   ],
   [
    "factory",
-   13
-  ],
-  [
-   "one",
-   13
-  ],
-  [
-   "optimus",
-   13
-  ],
-  [
-   "ceo",
-   13
-  ],
-  [
-   "industrial",
-   12
-  ],
-  [
-   "funding",
-   12
-  ],
-  [
-   "build",
-   12
-  ],
-  [
-   "NVIDIA",
-   12
-  ],
-  [
-   "産業",
-   12
-  ],
-  [
-   "dynamics",
-   12
-  ],
-  [
-   "korea",
    12
   ],
   [
@@ -178,55 +150,47 @@
    12
   ],
   [
+   "edge",
+   12
+  ],
+  [
+   "拠点",
+   12
+  ],
+  [
+   "tesla",
+   12
+  ],
+  [
+   "活用",
+   12
+  ],
+  [
    "企業",
    12
   ],
   [
-   "設立",
+   "イオン",
    12
   ],
   [
-   "billion",
+   "korea",
    11
   ],
   [
-   "market",
+   "growth",
    11
   ],
   [
-   "manufacturing",
+   "sector",
    11
   ],
   [
-   "活用",
+   "research",
    11
   ],
   [
-   "研究",
-   11
-  ],
-  [
-   "世界",
-   11
-  ],
-  [
-   "勝ち",
-   11
-  ],
-  [
-   "可能",
-   11
-  ],
-  [
-   "Unitree",
-   11
-  ],
-  [
-   "h2-x",
-   11
-  ],
-  [
-   "事業",
+   "dynamics",
    11
   ],
   [
@@ -234,83 +198,118 @@
    11
   ],
   [
-   "startup",
-   10
-  ],
-  [
    "scale",
    10
   ],
   [
-   "global",
+   "agents",
    10
   ],
   [
-   "edge",
+   "industrial",
+   10
+  ],
+  [
+   "series",
+   10
+  ],
+  [
+   "可能",
+   10
+  ],
+  [
+   "世界",
+   10
+  ],
+  [
+   "production",
+   10
+  ],
+  [
+   "japan",
+   10
+  ],
+  [
+   "共同",
+   10
+  ],
+  [
+   "時代",
+   10
+  ],
+  [
+   "製造",
+   10
+  ],
+  [
+   "school",
+   10
+  ],
+  [
+   "未来",
    10
   ]
  ],
  "today_top5": [
   {
-   "title": "China’s 110 Dancing Humanoid Robots Set Guinness Record",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeVRvRU1oZ0NQNHNBX0JKQWZBMk1MbFl6WlpELVFjTDM3TU05bm9uMnFIbEpYMTdiTHBXWXNlZF9xNWF5Mk9rTG1mOF92amFVR0hOWkhjMFo1V2w1ejJlNnE2LVRyNm9yVzB5REFrQnlfSy1UQjBZZnNwQjlmcS04R01jb1VydEJpR0VfY3hqT2daWjlW?oc=5",
-   "source": "ColombiaOne.com",
-   "published": "2026-10-28T20:24:44+00:00",
+   "title": "イオン、フィジカルAI物流拠点を本格稼働 省人化5割から30年に8割へ",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85akk0LW5xaXlxRU4zcGFGUDZEdEpqZldHUlBSeVFlRmw4YWZVR0lLU0dRSFBmaDFydXo0TXZZVW9DQUwtTmllcG5BOFFfbVFnbU1ZYVA4bWdYT0FkQ3lQMl9UNzNISXdPa0F5N0ljWmRrMy1s?oc=5",
+   "source": "BigGo ファイナンス",
+   "published": "2026-10-29T14:25:00+00:00",
    "count": 3,
    "sources": [
-    "ColombiaOne.com",
-    "Interesting Engineering",
-    "VnExpress International"
+    "BigGo ファイナンス",
+    "Yahoo!ファイナンス",
+    "テレ朝NEWS"
    ],
-   "score": 2.83
+   "score": 2.61
   },
   {
-   "title": "XPeng Starts Small-Batch Output of Solid-State Batteries for Humanoid Robot",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUGdrOHNGckFaS1VYV2hkVUZYdnRHMVdiT1B6MllzaVljaEl0MDdFRDRfTmpUMk04cGh3cTdGdjlmWmdPR3licUYxMnpoa0NoeS11OGY2RVNPN2VNako2MlgwLXlBMHhwaVM0Zlp1UzBXd0ZLZFFuVThMUTJqRnZiYlNsdno2ekZJcFpFamNUbzNRTTUtT3hwTW5vZkFXc1RFZ3dOQlR5WFk5QjdNS0pkRW1lT1lsbTRuY3BN?oc=5",
-   "source": "Electric Vehicles",
-   "published": "2026-10-28T09:30:00+00:00",
-   "count": 3,
-   "sources": [
-    "CnEVPost",
-    "Electric Vehicles",
-    "Pandaily"
-   ],
-   "score": 2.43
-  },
-  {
-   "title": "FinSight Ventures Launches $100 Million Physical AI Index Fund",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQck45VXRWTl9tcVByVG1TZGd1Y3hCZ2tpZ1RHMmJOa1gwX3M3UkRzWmdJQ3d5WnNzMTdySk9PTmduWEg0RHF1TWxyMHhrS2JWMnpoUUQ5ZVVXMzJMVmNCTWFVb21sQm04Zi1BNDVsaUpQYUxsTkt2WGRNeUxWanNiRmtzU3dxbmZfTFN3R3ExRzFxRU5qLUNZYWRVdmF2WEhXVTNReWlDeWZlTDZoX2lBV0p0Z2JLMzJVMzJLdg?oc=5",
-   "source": "markets.businessinsider.com",
-   "published": "2026-10-28T20:54:09+00:00",
+   "title": "アトラグループ---RBBと合弁会社を設立しヒューマノイドロボット事業に参入(フィスコ)",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQQU5NZW11RkZGNkJkSF9IUW5EU0VGY0djWnZMRVBlSVQxMVBsNFIyTmNIRTM2LUlTQ3R3djNpNVRENmwzc2lfcER4Q2J1S2VRdWs1S2dFRENUU2NpZGdmTzhGdGwyT2lvY21BS1pIb0hycmNiNWY2dldqRVB0blNsdHVudXFNVWM?oc=5",
+   "source": "Yahoo!ファイナンス",
+   "published": "2026-10-30T00:20:19+00:00",
    "count": 2,
    "sources": [
-    "TradingView",
-    "markets.businessinsider.com"
+    "Yahoo!ファイナンス"
    ],
-   "score": 1.9
+   "score": 1.99
   },
   {
-   "title": "Unitree's quarterly revenue surges 70pc in test for China's robotics sector",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS3YxYTZ0emtoa1pOR2hPcDdkOEFpeHhiamRfdnB2RmdSOE45ajMzM0ZrS2NmVGhTb3I4Qll5NFdpakw0b0ZnQkh2VDBNQUJOMUt5TER3aF96T0RYY0dQQXdZTDZjVXRkSFVSaWJtX21HYlNQWE1yU1pSWHItX0FBcU5PVmt2bTVoZEhkdUdDUk16d2xiWjQwcUUyWTU3b3RuOTQ2RTlKbURKeG9oUmY0SGZZdnkzcWYzNHJYRkFadlFNZjlOcnc?oc=5",
-   "source": "The Standard (HK)",
-   "published": "2026-10-28T12:46:36+00:00",
+   "title": "イオン、物流センターで「フィジカルAI」導入 出荷作業の約8割を自動化",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYaXFzMno5U3NScGpycXlKWTJBbThMYS10d3hLNnFsWUdZYnNyUXRNZ0FhQ2l6bDFwQW9PQ3BkZ0pvUGNobmhwM3hQc2NIbDBaT3B2Z3hCd3o0LUNCUXk3RV9Qdnd2N2N4bEVlNjZ3?oc=5",
+   "source": "au Webポータル",
+   "published": "2026-10-29T11:53:12+00:00",
    "count": 2,
    "sources": [
-    "Reuters",
-    "The Standard (HK)"
+    "Yahoo!ニュース",
+    "au Webポータル"
    ],
-   "score": 1.7
+   "score": 1.68
   },
   {
-   "title": "ミネベアミツミが「ヒューマノイドEXPO」出展を発表 CES 2026で披露したロボットハンドを展示予定 1枚目の写真・画像",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mYzVwUTRrY040ZWNZYU5ON2NDOGJzYUdqa3B5eTJpZ1k4X3VNaVlyM0E3b25KZktxbWlVQkE5bmF6cV91dG15QU5GUV9uUlN4YXRRbUlzLU8xdndveE1ORE5FbWZwYlRtN3FlTGZXcFNlX28?oc=5",
-   "source": "ロボスタ",
-   "published": "2026-10-28T08:30:02+00:00",
+   "title": "Bleu Robotics raises €5M to scale humanoid robot deployment",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOendIdEY0N0ZpbkpRZFpOU0ZWWWxNZG9lVXEyZWdHVi1VUEVhZHZQekl6WVNOVENjbnQtVmhCWFBfVUVDRGpVTEY2OEZyYThCN3RpdExCa1ZHdnhHT2ZCQ2w0bDZrT3ZrS1M1M1BWdnJ1dHhpUm9hUGNlU2dlRmtBeEwxR0RDWjJZT0s2Vy13?oc=5",
+   "source": "Engineer Live",
+   "published": "2026-10-29T11:32:54+00:00",
    "count": 2,
    "sources": [
-    "ロボスタ"
+    "Engineer Live",
+    "The Engineer"
    ],
-   "score": 1.6
+   "score": 1.67
+  },
+  {
+   "title": "松尾研究所とエスプール、障がい者雇用にフィジカルAI 農園で人とロボットの協働モデル検討",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qdkdqamtXSmNyckVmbGt1ekV6MlRlMmxVUjU4TU9OcVpOUnA4bzFoZ2IwdlJxNER6UnVNVHVCcHRObWJCY1JmVWsybnd0WC1yZnR6Uld5MG45S1RqZ3g4?oc=5",
+   "source": "電波タイムズ",
+   "published": "2026-10-29T09:27:40+00:00",
+   "count": 2,
+   "sources": [
+    "Yahoo!ファイナンス",
+    "電波タイムズ"
+   ],
+   "score": 1.62
   }
  ],
  "hot_news": [
@@ -328,7 +327,7 @@
     "NHKニュース",
     "マイナビニュース"
    ],
-   "score": 8.73
+   "score": 6.26
   },
   {
    "title": "Pronto Founder Anjali Sardana Introduces Physical AI Venture Provision Labs",
@@ -344,7 +343,20 @@
     "Moneycontrol.com",
     "The Economic Times"
    ],
-   "score": 4.85
+   "score": 3.47
+  },
+  {
+   "title": "松尾研究所とエスプール、障がい者雇用にフィジカルAI 農園で人とロボットの協働モデル検討",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1qdkdqamtXSmNyckVmbGt1ekV6MlRlMmxVUjU4TU9OcVpOUnA4bzFoZ2IwdlJxNER6UnVNVHVCcHRObWJCY1JmVWsybnd0WC1yZnR6Uld5MG45S1RqZ3g4?oc=5",
+   "source": "電波タイムズ",
+   "published": "2026-10-29T09:27:40+00:00",
+   "count": 4,
+   "sources": [
+    "Yahoo!ファイナンス",
+    "日本経済新聞",
+    "電波タイムズ"
+   ],
+   "score": 3.24
   },
   {
    "title": "China’s 110 Dancing Humanoid Robots Set Guinness Record",
@@ -358,7 +370,57 @@
     "Interesting Engineering",
     "VnExpress International"
    ],
-   "score": 3.78
+   "score": 2.71
+  },
+  {
+   "title": "Edge Sound Research Raises $2M to Help Physical AI Make Sense of Sound",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMlFEeEFoWVZRUzZLX0dHcHVtNmZfZWRKbURYbzRLeUlhNjdrX0pzUnVKSldEeTRfSGZVeXhBSUMzWTRXUzdaTWx2TFZ3bjVscDZ6cUhzaTdDTzE5SVhOTnNNbWlrS3VYQ0VOb003T3dlZExoeWlNTUpuazFkSzFYa0kwSTZ1NDhRSGxiY3lMLUhwYkZPakNhRjZ6cjJUNGgtTnhRcVBZX0ZpNWRFSmY3UEktdDdsMjljOHc?oc=5",
+   "source": "Techstars",
+   "published": "2026-10-29T15:34:01+00:00",
+   "count": 3,
+   "sources": [
+    "SiliconANGLE",
+    "Techstars",
+    "www.tokenpost.com"
+   ],
+   "score": 2.65
+  },
+  {
+   "title": "イオン、フィジカルAI物流拠点を本格稼働 省人化5割から30年に8割へ",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE85akk0LW5xaXlxRU4zcGFGUDZEdEpqZldHUlBSeVFlRmw4YWZVR0lLU0dRSFBmaDFydXo0TXZZVW9DQUwtTmllcG5BOFFfbVFnbU1ZYVA4bWdYT0FkQ3lQMl9UNzNISXdPa0F5N0ljWmRrMy1s?oc=5",
+   "source": "BigGo ファイナンス",
+   "published": "2026-10-29T14:25:00+00:00",
+   "count": 3,
+   "sources": [
+    "BigGo ファイナンス",
+    "Yahoo!ファイナンス",
+    "テレ朝NEWS"
+   ],
+   "score": 2.61
+  },
+  {
+   "title": "Tesla Starts Optimus Robot Production in California",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQk5xcHZpV0Iwd043Y3lXUHA5SFpaZFBiUXNEc3QtOVpUMkxLOHAwY3hOTDd4VDYxYmt4Z3IwWkwxS1kzVUFDa2RiRHdNamEzNkN5VWhScXhGWng0Z1ZvLTZ4WS1tdFluVk85TWNURlBJWXg5T3JVWXR4WHdvUVNRWjhrZmIwRFFNQTQxdGxnUQ?oc=5",
+   "source": "Thomasnet",
+   "published": "2026-10-29T10:24:01+00:00",
+   "count": 3,
+   "sources": [
+    "ABC7 Los Angeles",
+    "Manufacturing Dive",
+    "Thomasnet"
+   ],
+   "score": 2.46
+  },
+  {
+   "title": "アドバンテック、フィジカルAI基盤を展示予定…EdgeTech+ 2026",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9yaUN0YWRjVVd0bkdicUlxQktFVUtIMEpITW1UaTFGSy04SFU0d091OWtnekZKU0hfeHZsSjdHSU5zTlkwYnkwenVLbXVNbDU0N0xEanQwb3dtOV9XM2hj?oc=5",
+   "source": "レスポンス（Response.jp）",
+   "published": "2026-10-29T06:45:03+00:00",
+   "count": 3,
+   "sources": [
+    "レスポンス（Response.jp）"
+   ],
+   "score": 2.34
   },
   {
    "title": "フィジカルAIが拓くテニス練習の未来と技術の可能性LimX Dynamics・Enhanced Robotics【動画】",
@@ -369,7 +431,7 @@
    "sources": [
     "ロボスタ"
    ],
-   "score": 3.22
+   "score": 2.31
   },
   {
    "title": "Robbyant Embodied AI Challenge Attracts 1,800 Teams for Real-Robot Trials",
@@ -382,79 +444,11 @@
     "EE Times Asia",
     "News-Press NOW"
    ],
-   "score": 2.95
-  },
-  {
-   "title": "FinSight Ventures Launches $100 Million Physical AI Index Fund",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQck45VXRWTl9tcVByVG1TZGd1Y3hCZ2tpZ1RHMmJOa1gwX3M3UkRzWmdJQ3d5WnNzMTdySk9PTmduWEg0RHF1TWxyMHhrS2JWMnpoUUQ5ZVVXMzJMVmNCTWFVb21sQm04Zi1BNDVsaUpQYUxsTkt2WGRNeUxWanNiRmtzU3dxbmZfTFN3R3ExRzFxRU5qLUNZYWRVdmF2WEhXVTNReWlDeWZlTDZoX2lBV0p0Z2JLMzJVMzJLdg?oc=5",
-   "source": "markets.businessinsider.com",
-   "published": "2026-10-28T20:54:09+00:00",
-   "count": 3,
-   "sources": [
-    "Robotics & Automation News",
-    "TradingView",
-    "markets.businessinsider.com"
-   ],
-   "score": 2.85
-  },
-  {
-   "title": "Maxinsights raises $30 million to build training data platform for physical AI",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUVk5US1KMHFUci1iaU5PTVhERVZkUUNkV2d5VFRuQzFZeWZJSGRnbzljelU4ZWlTUHlxUzVQYXVWMmo1Wmw4cGkwd2Rva3Q4Vlo4TTdPMjhwV0UxR1J6NndtMjZPR2JPV0FrNWtFblBGSG1Va1NQU0F0eDJweWtNeWx1ajhBNng4eWlqSWdld0wwQnNEdnZEN2U2U3NZOVFFXzcxZDE2WXZUYjVSazZVa3JzVFpnY3pqblcyWU5PQUxCaHhDN0dhWW0tTjlRbTA?oc=5",
-   "source": "Robotics & Automation News",
-   "published": "2026-10-28T19:02:48+00:00",
-   "count": 3,
-   "sources": [
-    "HPCwire",
-    "Pulse 2.0",
-    "Robotics & Automation News"
-   ],
-   "score": 2.78
-  },
-  {
-   "title": "XPeng Starts Small-Batch Output of Solid-State Batteries for Humanoid Robot",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUGdrOHNGckFaS1VYV2hkVUZYdnRHMVdiT1B6MllzaVljaEl0MDdFRDRfTmpUMk04cGh3cTdGdjlmWmdPR3licUYxMnpoa0NoeS11OGY2RVNPN2VNako2MlgwLXlBMHhwaVM0Zlp1UzBXd0ZLZFFuVThMUTJqRnZiYlNsdno2ekZJcFpFamNUbzNRTTUtT3hwTW5vZkFXc1RFZ3dOQlR5WFk5QjdNS0pkRW1lT1lsbTRuY3BN?oc=5",
-   "source": "Electric Vehicles",
-   "published": "2026-10-28T09:30:00+00:00",
-   "count": 3,
-   "sources": [
-    "CnEVPost",
-    "Electric Vehicles",
-    "Pandaily"
-   ],
-   "score": 2.43
-  },
-  {
-   "title": "NVIDIA President proposes making Kazakhstan global Physical AI hub",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNem9sVm1zNGR5dTBOTm91bVg3eDZ6eEdlVDRzVnE3SjJ0U2d1eTBWalV4LTJfNzNfVWlUVS05QTFQSVR6emRwSFhicFIyY0k5bERxVEx4bmcyMkpDd1VUdkkyRTRIcnc3OTIyemo1Zkh5d05GcmZSWGFrTE9BQ2dOMl9vejlxZmItQTNTUXRIbk1KQ2JTcTdRdTZrRG8?oc=5",
-   "source": "Silk Way TV",
-   "published": "2026-10-27T11:29:37+00:00",
-   "count": 4,
-   "sources": [
-    "AzerNews",
-    "Report.az",
-    "Silk Way TV",
-    "The Astana Times"
-   ],
-   "score": 2.39
-  },
-  {
-   "title": "IIT Kharagpur to Build India’s First Physical AI School: What Makes It Different?",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUGFYMHhGS0hHN0hVN0ljXy1uamktZjlHU0o0TFl4VUROR0hycmJaNHg2a1pPbVN2TXlRQTR4eGF3R2xTbWpXZUlKTXdkNC1xMi1NUXlnb3UyNHpfSXVMaklfVWNEZlM1bE5FOGFZRmhzdTBqMkE0VHJvdDRkV294REVOZDVXdk9hVEN2SkxPc1ByREpIM1E?oc=5",
-   "source": "APAC Media",
-   "published": "2026-10-27T09:36:50+00:00",
-   "count": 4,
-   "sources": [
-    "APAC Media",
-    "Elets Technomedia",
-    "NDTV Profit",
-    "Telegraph India"
-   ],
-   "score": 2.33
+   "score": 2.11
   }
  ],
  "trend": {
   "dates": [
-   "2026-09-30",
    "2026-10-01",
    "2026-10-02",
    "2026-10-03",
@@ -483,14 +477,14 @@
    "2026-10-26",
    "2026-10-27",
    "2026-10-28",
-   "2026-10-29"
+   "2026-10-29",
+   "2026-10-30"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     52,
      37,
      37,
      10,
@@ -518,15 +512,15 @@
      13,
      55,
      64,
-     44,
-     0
+     45,
+     39,
+     2
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     60,
      35,
      17,
      14,
@@ -552,17 +546,17 @@
      24,
      7,
      20,
-     36,
-     53,
-     25,
-     0
+     37,
+     57,
+     27,
+     39,
+     1
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     5,
      6,
      6,
      3,
@@ -591,6 +585,7 @@
      5,
      11,
      11,
+     4,
      0
     ]
    },
@@ -598,7 +593,6 @@
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     35,
      46,
      30,
      10,
@@ -625,8 +619,9 @@
      9,
      10,
      42,
-     27,
-     34,
+     28,
+     39,
+     19,
      0
     ]
    },
@@ -634,7 +629,6 @@
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     22,
      24,
      18,
      5,
@@ -653,17 +647,18 @@
      19,
      3,
      9,
-     12,
+     13,
      36,
-     31,
+     32,
      26,
      11,
      4,
      8,
      15,
-     24,
-     16,
-     0
+     25,
+     18,
+     7,
+     3
     ]
    }
   ]
@@ -673,7 +668,7 @@
    "name": "INTEL CORP",
    "core": "INTEL",
    "patents": 1051,
-   "news": 10
+   "news": 12
   },
   {
    "name": "BOSCH GMBH ROBERT",
@@ -685,7 +680,7 @@
    "name": "GOOGLE LLC",
    "core": "GOOGLE",
    "patents": 275,
-   "news": 19
+   "news": 20
   },
   {
    "name": "HONDA MOTOR CO LTD",
@@ -697,7 +692,7 @@
    "name": "SAMSUNG ELECTRONICS CO LTD",
    "core": "SAMSUNG ELECTRONICS",
    "patents": 260,
-   "news": 21
+   "news": 23
   },
   {
    "name": "X DEV LLC",
@@ -709,7 +704,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 161
+   "news": 157
   },
   {
    "name": "QUALCOMM INC",
