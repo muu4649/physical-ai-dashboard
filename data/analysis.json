@@ -1,132 +1,108 @@
 {
- "updated_at": "2026-11-02T00:11:27.162951+00:00",
+ "updated_at": "2026-11-03T02:45:03.464257+00:00",
  "kpi": {
-  "articles_7d": 815,
-  "articles_prev_7d": 790,
-  "sources_7d": 381,
-  "articles_30d": 3110,
-  "total_articles": 12908,
+  "articles_7d": 778,
+  "articles_prev_7d": 843,
+  "sources_7d": 382,
+  "articles_30d": 3215,
+  "total_articles": 13056,
   "oldest_news": "1970-01-01"
  },
  "wordcloud": [
   [
    "china",
-   38
-  ],
-  [
-   "data",
-   33
-  ],
-  [
-   "raises",
-   33
-  ],
-  [
-   "kddi",
-   32
-  ],
-  [
-   "nvidia",
-   28
-  ],
-  [
-   "KDDI",
-   28
-  ],
-  [
-   "launches",
-   27
-  ],
-  [
-   "unitree",
-   27
-  ],
-  [
-   "技術",
-   27
-  ],
-  [
-   "導入",
-   27
-  ],
-  [
-   "物流",
-   27
-  ],
-  [
-   "開発",
-   26
-  ],
-  [
-   "実装",
-   22
-  ],
-  [
-   "画像",
-   22
-  ],
-  [
-   "写真",
-   21
-  ],
-  [
-   "投資",
-   20
-  ],
-  [
-   "イオン",
-   20
-  ],
-  [
-   "自動",
-   19
+   48
   ],
   [
    "meta",
-   19
+   37
   ],
   [
-   "million",
-   18
+   "開発",
+   28
   ],
   [
-   "企業",
-   18
+   "raises",
+   27
+  ],
+  [
+   "kddi",
+   27
+  ],
+  [
+   "launches",
+   26
+  ],
+  [
+   "data",
+   26
+  ],
+  [
+   "導入",
+   26
+  ],
+  [
+   "物流",
+   26
+  ],
+  [
+   "nvidia",
+   24
+  ],
+  [
+   "KDDI",
+   23
+  ],
+  [
+   "イオン",
+   21
   ],
   [
    "中国",
+   20
+  ],
+  [
+   "fourier",
+   20
+  ],
+  [
+   "hyundai",
+   19
+  ],
+  [
+   "実装",
    18
   ],
   [
-   "unveils",
-   17
-  ],
-  [
-   "現場",
-   17
-  ],
-  [
-   "事業",
-   17
-  ],
-  [
-   "world",
-   16
-  ],
-  [
-   "日本",
-   16
-  ],
-  [
-   "設立",
-   16
-  ],
-  [
-   "ceo",
-   15
+   "自動",
+   18
   ],
   [
    "korea",
+   17
+  ],
+  [
+   "unitree",
+   17
+  ],
+  [
+   "million",
+   16
+  ],
+  [
+   "開催",
+   16
+  ],
+  [
+   "活用",
+   16
+  ],
+  [
+   "prototype",
+   16
+  ],
+  [
+   "world",
    15
   ],
   [
@@ -134,79 +110,115 @@
    15
   ],
   [
-   "活用",
+   "設立",
    15
   ],
   [
-   "startup",
-   14
+   "現場",
+   15
   ],
   [
-   "platform",
-   14
+   "事業",
+   15
   ],
   [
-   "race",
-   14
+   "投資",
+   15
   ],
   [
-   "agibot",
-   14
+   "企業",
+   15
   ],
   [
-   "時代",
-   14
+   "日本",
+   15
   ],
   [
-   "deployment",
-   14
+   "画像",
+   15
   ],
   [
    "拠点",
+   15
+  ],
+  [
+   "unveils",
    14
   ],
   [
    "research",
-   13
+   14
   ],
   [
-   "hyundai",
-   13
+   "技術",
+   14
   ],
   [
-   "産業",
-   13
-  ],
-  [
-   "共同",
-   13
-  ],
-  [
-   "future",
-   12
-  ],
-  [
-   "school",
-   12
-  ],
-  [
-   "開催",
-   12
+   "写真",
+   14
   ],
   [
    "industry",
-   12
+   14
   ],
   [
-   "elyza",
-   12
+   "palantir",
+   14
+  ],
+  [
+   "platform",
+   13
+  ],
+  [
+   "startup",
+   13
+  ],
+  [
+   "built",
+   13
   ],
   [
    "基盤",
-   12
+   13
   ],
   [
    "連携",
+   13
+  ],
+  [
+   "時代",
+   13
+  ],
+  [
+   "race",
+   13
+  ],
+  [
+   "作業",
+   13
+  ],
+  [
+   "max",
+   13
+  ],
+  [
+   "push",
+   12
+  ],
+  [
+   "south",
+   12
+  ],
+  [
+   "産業",
+   12
+  ],
+  [
+   "agibot",
+   12
+  ],
+  [
+   "共同",
    12
   ],
   [
@@ -214,23 +226,11 @@
    11
   ],
   [
-   "growth",
+   "ceo",
    11
   ],
   [
-   "動画",
-   11
-  ],
-  [
-   "dynamics",
-   11
-  ],
-  [
-   "未来",
-   11
-  ],
-  [
-   "データ",
+   "infrastructure",
    11
   ],
   [
@@ -238,221 +238,226 @@
    11
   ],
   [
-   "作業",
-   11
-  ],
-  [
-   "fourier",
-   11
-  ],
-  [
    "build",
-   10
+   11
+  ],
+  [
+   "chinese",
+   11
+  ],
+  [
+   "deployment",
+   11
   ]
  ],
  "today_top5": [
   {
-   "title": "China’s robot makers have mastered the moves. Now comes the race for brains",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNUJ0cTlQZnM3WGY5S3FxdGxWZU1mdUthb24yVXltc3VJN1JPTUlRYzdyc09WRWRIZHFmcG42TDRTRnJkeGVwSFpxY0JHMG9IRDdDelo0MVBkRUJXZkhSSUI0WlFjSnlHWnJVSHJwdjFLdElQWVljMExpUHBmTmpVQ1diM3FCOWRlOVl1RDBIYWFsOW05anVuMElaS3VFSDlkU24xbTI3VQ?oc=5",
-   "source": "WTVB",
-   "published": "2026-11-01T23:30:48+00:00",
-   "count": 3,
+   "title": "Meta Develops Humanoid Robot Prototype 'Max' in Partnership with Chinese Startup Fourier",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYzByUUtQc3ZUSXlaRzg0MjEydkpIaVdMcmNvZDFTa1dJQzBMb2FiRkxRVHhKRTNYaGxUbWI2RmUtb2RfaEoyS3BWaTduX2hUMENCRGNDZUxNYTFQUG14NTRsNVJGd2JlbFV5enAzaDhnTks0RTI1RUp5V2FNZHhsMDh4QjZhNXQ2S2ltRDNDSDc3UGtYY2M0NDhReExEZ0xnNnFkeVpOMGtFMmVTV21BSlNYVXdHdVBnMjYyRklDU3F6dFFt?oc=5",
+   "source": "OODA Loop",
+   "published": "2026-11-02T15:48:18+00:00",
+   "count": 4,
    "sources": [
-    "Finimize",
-    "Reuters",
-    "WTVB"
+    "Dataconomy",
+    "OODA Loop",
+    "TechNode",
+    "Technology Org"
    ],
-   "score": 2.97
+   "score": 3.44
   },
   {
-   "title": "【調査レポート】自動車メーカーはロボット企業になるのか～フィジカルAIが変える自動車産業の競争領域～",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DVDNRdTJMY0s5dEhGVVA5emZJelFwU2NOcFlVZEZ6eDExUTFwMDB3VnMwMG1URndHOVAxcW1LRzlLUGtVYnZvQmZIM25nZmppem9hMWhzTlN6azBRZ2I1ODNn?oc=5",
-   "source": "Infoseek",
-   "published": "2026-11-01T21:45:03+00:00",
-   "count": 3,
-   "sources": [
-    "Infoseek",
-    "レスポンス（Response.jp）"
-   ],
-   "score": 2.9
-  },
-  {
-   "title": "HD現代ロボティクスとパランティア、「フィジカルAIソリューション」を高度化",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRWQ5bndxVXFRY3FjU1lyazFWaUJCSEk5aUtVMURKWnQ5OVl1ejgxVmdMWVlsVE1lakJaOHZpT0w3QmVwQVNiYThyeHhjb0o4amxTVnp0OUxmY2QwUDh3bmxjMTZUYjloY2ZMVzcxYTVVcWhQSkZVMWRKdEE0SlRVem8tVQ?oc=5",
-   "source": "스타뉴스",
-   "published": "2026-11-01T11:34:18+00:00",
-   "count": 3,
-   "sources": [
-    "BigGo ファイナンス",
-    "Chosunbiz",
-    "스타뉴스"
-   ],
-   "score": 2.52
-  },
-  {
-   "title": "HD Hyundai Robotics Expands Physical AI Partnership With Palantir",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SREp0QU5YWkYxQ3dEZDBPaEppOTdIeDJYek93YUI0LXRaZ3MyMUhIcmJyZ2ItN1pSTWJTNW80YzNMX3Rpb1FxcXZtd0R6MXJrYTdxZ0dZanJWLVFsaEh3NVJucjNzdVU?oc=5",
-   "source": "THE ELEC, Korea Electronics Industry Media",
-   "published": "2026-11-01T20:15:29+00:00",
+   "title": "【単独】早大教授・尾形氏にズバリ聞いた、日本は「フィジカルAI」で本当に勝てるか？（ビジネス＋IT）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ac2VWUGFpYk5jdTIyQUlRZ1dBQUh1dktXVkwtaDRMbnItT09BWG1Oak9JcDlJS0lKNnBNRkMzSmszZU5CZTRxUzRKcVdyTl9oRWRUQmZxc3hSczdVbG9UOC1BTkFibHVCYkVPb28tRWlaN09WeTJLVHhqRmE4OGs?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-11-02T22:00:07+00:00",
    "count": 2,
    "sources": [
-    "THE ELEC, Korea Electronics Industry Media",
-    "Yonhap News Agency"
-   ],
-   "score": 1.89
-  },
-  {
-   "title": "Meta humanoid robot prototype reportedly built for household chores",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9peFpXalJQdVgzaFU5V0dxUlhaTkVYNHR4QnhOVFEtNndtVTZ1bGdpU2NlX0g5bnFVSU1SMWNaY1JjUWwwbU00TEc1aUs1ak5fbUcyamtmeGdYNVc5VUE?oc=5",
-   "source": "Tbreak UAE",
-   "published": "2026-11-01T19:10:07+00:00",
-   "count": 2,
-   "sources": [
-    "Engadget",
-    "Tbreak UAE"
+    "Yahoo!ニュース",
+    "ビジネス+IT"
    ],
    "score": 1.87
+  },
+  {
+   "title": "部品取り出し、成功率97％に ジェイテクト フィジカルＡＩ活用",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hVExUXzBuV1ZwdXhTZVU1VHRpZzI0VGdJSGxPcS1tSS1mZEFVVU5SaUVFa3F5OWJrV3RGaHBjcWtIc1drNUVNb1dXZDVsWU8wcTVLWmJncG1rQkJkdGk2WVkybkkwT2NxVEZlODhHZnZ1b0U?oc=5",
+   "source": "中部経済新聞",
+   "published": "2026-11-02T20:00:00+00:00",
+   "count": 2,
+   "sources": [
+    "PR TIMES",
+    "中部経済新聞"
+   ],
+   "score": 1.82
+  },
+  {
+   "title": "Meta Just Built a 105-Pound Humanoid Robot That Could One Day Do Your Household Chores",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZVdTNlBCNWIzSjBQNHZFZ3R4MWxwaXlaVUtUQUJsbDJwMmkzazVKWVlMbUw4bHc3aHFhZFJuVGQ5UDlrTDJkNmhUOVBseXZ4alAtdllJcC10d1NoMHNic0NvaFpHMHp4ZGJPRnhMOEVMR0tYalhfbTh0MFJXR0loZlBIU1ZnLVFVNzdV?oc=5",
+   "source": "Yahoo Tech",
+   "published": "2026-11-02T19:40:31+00:00",
+   "count": 2,
+   "sources": [
+    "The Mac Observer",
+    "Yahoo Tech"
+   ],
+   "score": 1.81
+  },
+  {
+   "title": "ECARX, Arm to explore next-generation AI computing platforms",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUF9RRk1NcEFkTVpHSzJwcEdld29vSXFGcTJzdTNWLUZjd3NUOFpUZmZhVXlPY2NRdS1OQjNBdnNjM1VMTXFaTzZJUHY4TUw4TG9pWUJsREQyczB5SWxBY2NqMF9EaFlRaXlObEhiS2lWNE5WMVQ0RlV5SzlGc1dCVlVkSFB5S2cyTW5RVTkzQXF4aVNzQkt0WHJXUTE5MXRwU1Jtc3FORlJxRERWZi1xUkZGYWdnaUFuVjJ1RQ?oc=5",
+   "source": "Gasgoo",
+   "published": "2026-11-02T15:55:10+00:00",
+   "count": 2,
+   "sources": [
+    "Gasgoo",
+    "TradingView"
+   ],
+   "score": 1.72
   }
  ],
  "hot_news": [
+  {
+   "title": "Meta Develops Humanoid Robot Prototype 'Max' in Partnership with Chinese Startup Fourier",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYzByUUtQc3ZUSXlaRzg0MjEydkpIaVdMcmNvZDFTa1dJQzBMb2FiRkxRVHhKRTNYaGxUbWI2RmUtb2RfaEoyS3BWaTduX2hUMENCRGNDZUxNYTFQUG14NTRsNVJGd2JlbFV5enAzaDhnTks0RTI1RUp5V2FNZHhsMDh4QjZhNXQ2S2ltRDNDSDc3UGtYY2M0NDhReExEZ0xnNnFkeVpOMGtFMmVTV21BSlNYVXdHdVBnMjYyRklDU3F6dFFt?oc=5",
+   "source": "OODA Loop",
+   "published": "2026-11-02T15:48:18+00:00",
+   "count": 6,
+   "sources": [
+    "BigGo Finance",
+    "Dataconomy",
+    "OODA Loop",
+    "TechNode",
+    "Technology Org",
+    "The Next Web"
+   ],
+   "score": 5.15
+  },
+  {
+   "title": "Meta Just Built a 105-Pound Humanoid Robot That Could One Day Do Your Household Chores",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZVdTNlBCNWIzSjBQNHZFZ3R4MWxwaXlaVUtUQUJsbDJwMmkzazVKWVlMbUw4bHc3aHFhZFJuVGQ5UDlrTDJkNmhUOVBseXZ4alAtdllJcC10d1NoMHNic0NvaFpHMHp4ZGJPRnhMOEVMR0tYalhfbTh0MFJXR0loZlBIU1ZnLVFVNzdV?oc=5",
+   "source": "Yahoo Tech",
+   "published": "2026-11-02T19:40:31+00:00",
+   "count": 5,
+   "sources": [
+    "Engadget",
+    "Mezha.net",
+    "Tbreak UAE",
+    "The Mac Observer",
+    "Yahoo Tech"
+   ],
+   "score": 4.53
+  },
+  {
+   "title": "松尾研究所とエスプール、障がい者雇用の現場にフィジカルAIを活用",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ydHB1SHpCbjlJZVpUUjAxdVVuRE55d3lRTXJDcmRMN25Ddjh5cWFSTWZyY01jeVhGQ1NWM2ZNQUlhcHk0QlV3UmJJZjJId0lzLVpQZHh1Z0VkVE1YQkZPejlMQQ?oc=5",
+   "source": "株式会社インプレス",
+   "published": "2026-11-03T01:00:00+00:00",
+   "count": 4,
+   "sources": [
+    "Yahoo!ファイナンス",
+    "日本農業新聞",
+    "株式会社インプレス",
+    "電波タイムズ"
+   ],
+   "score": 3.9
+  },
+  {
+   "title": "ドコモ、人に配慮するロボット連携基盤を開発 AIで動作を自動生成",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Nc3hfYlBVUDhuM3pMYVdYQnVzbTFTSk5qRV9RRUh2bXpxT21CYTR1ZzQyaWM0UGhKZjQ2NExVX01uWlZHUFhud0d6Sm9CcmM?oc=5",
+   "source": "LIGARE（リガーレ）",
+   "published": "2026-11-01T23:32:15+00:00",
+   "count": 5,
+   "sources": [
+    "Impress Watch",
+    "LIGARE（リガーレ）",
+    "Yahoo!ニュース",
+    "ビジネスネットワーク"
+   ],
+   "score": 3.43
+  },
+  {
+   "title": "Meta、人型ロボット「Max」を3カ月で開発 販売の予定はなし",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPM0VoUkp3MmJBUzZGdDUzUERncTBxVDctTDdKUmhMaFZwNE96dFJoZG1peFRLTFQ0QW10RjNneDl5Ql9ZWUo2bk0yYWxucnpPc3VzSFlveEpqUDNsTElhTndXQnpQOWo3UkU2Nm42c2dOM1JLYng3cWtDVnpZMmgzSXZNaGRhdGJHcUpnZnViTEVaamZkd2RvVU93dmdxMUZRbFhfaUJmQmI2RWlpUkZtUHlXaDVJbjZ2QzRpN01BYkowcXFMSU9yMkpkUzlzVzNPaEZXTXo1ZVhuSllfZmtqNVh2bG1EdTJxVnc1Sw?oc=5",
+   "source": "Martin Cid Magazine",
+   "published": "2026-11-02T15:09:48+00:00",
+   "count": 4,
+   "sources": [
+    "Informat.ro",
+    "Martin Cid Magazine",
+    "note",
+    "디지털투데이"
+   ],
+   "score": 3.41
+  },
   {
    "title": "KDDIとELYZA、フィジカルAI新会社が事業開始 2030年度までにロボット1000台以上を導入へ",
    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE93WGdhVmVzYkJFaFhhclpSZVhoZF9ELWVvZTJQc0FsZU43aEVEU1B0NTBBMW5Pb1htNTJXYTR4TUgwTEUyN1ZvQjluOUVLaWtuQy10NktQRU40OV9oV0xndDlDSktZQQ?oc=5",
    "source": "NOVAIST",
    "published": "2026-10-30T09:07:53+00:00",
-   "count": 12,
+   "count": 11,
    "sources": [
     "BigGo ファイナンス",
     "CNET Japan",
-    "EnterpriseZine",
     "FNNプライムオンライン",
     "Impress Watch",
-    "LOGISTICS TODAY"
+    "LOGISTICS TODAY",
+    "NHKニュース"
    ],
-   "score": 5.0
+   "score": 3.17
   },
   {
-   "title": "Meta humanoid robot prototype reportedly built for household chores",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9peFpXalJQdVgzaFU5V0dxUlhaTkVYNHR4QnhOVFEtNndtVTZ1bGdpU2NlX0g5bnFVSU1SMWNaY1JjUWwwbU00TEc1aUs1ak5fbUcyamtmeGdYNVc5VUE?oc=5",
-   "source": "Tbreak UAE",
-   "published": "2026-11-01T19:10:07+00:00",
-   "count": 4,
-   "sources": [
-    "Engadget",
-    "Tbreak UAE",
-    "The Information",
-    "TradingView"
-   ],
-   "score": 3.73
-  },
-  {
-   "title": "China’s robot makers have mastered the moves. Now comes the race for brains",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNUJ0cTlQZnM3WGY5S3FxdGxWZU1mdUthb24yVXltc3VJN1JPTUlRYzdyc09WRWRIZHFmcG42TDRTRnJkeGVwSFpxY0JHMG9IRDdDelo0MVBkRUJXZkhSSUI0WlFjSnlHWnJVSHJwdjFLdElQWVljMExpUHBmTmpVQ1diM3FCOWRlOVl1RDBIYWFsOW05anVuMElaS3VFSDlkU24xbTI3VQ?oc=5",
-   "source": "WTVB",
-   "published": "2026-11-01T23:30:48+00:00",
+   "title": "Percepto Launches Axion Physical AI Platform for Autonomous Drone and Infrastructure Inspections",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQV1djUE1VTlNsSXF3Y3ZhQkVTazBZUkFNNUc4THYwcHc3Nl9xWEFOSW9ncWJZd01DME1MNnlyaEVjQTcyRVE4bkJ0eGlqcnpQb2hzTVFid1o4dEVCd09SZlB1OFVBd28xa3RxQ2lFNTdhcUZlbXlyb1B5VjVpYkgxRElRdmNFYmhjNEs0VUR1RHJSUmJvMGJSbjlHbmVoaEhOSUU1YmVScm1aNklOOUtUWDcxZjFzQno2V001YnBLNXBDcHZiQUJQLVdn?oc=5",
+   "source": "UASweekly.com",
+   "published": "2026-11-02T13:17:14+00:00",
    "count": 3,
    "sources": [
-    "Finimize",
-    "Reuters",
-    "WTVB"
+    "The Robot Report",
+    "UASweekly.com",
+    "Unite.AI"
    ],
-   "score": 2.97
+   "score": 2.49
   },
   {
-   "title": "【調査レポート】自動車メーカーはロボット企業になるのか～フィジカルAIが変える自動車産業の競争領域～",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1DVDNRdTJMY0s5dEhGVVA5emZJelFwU2NOcFlVZEZ6eDExUTFwMDB3VnMwMG1URndHOVAxcW1LRzlLUGtVYnZvQmZIM25nZmppem9hMWhzTlN6azBRZ2I1ODNn?oc=5",
-   "source": "Infoseek",
-   "published": "2026-11-01T21:45:03+00:00",
+   "title": "Meta is building humanoid robots with Fourier: What we know",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE56Ykc5UjNCaW54dWNSY0ctSXU4aFJRTGwwdk1KNmR5STJ1RWZ3OS02UHl0RF92cGo3QjVVY0ZwaWlVT1MwT2FraW9lWFVLS0xRS1g1UmV6OTlHSXAteEpRVGtsX091VDhCRnJ3WHBjTnpSX2FtcDN4V0RXWQ?oc=5",
+   "source": "YourStory.com",
+   "published": "2026-11-02T12:02:26+00:00",
    "count": 3,
    "sources": [
-    "Infoseek",
-    "レスポンス（Response.jp）"
+    "YourStory.com",
+    "shattered.io"
    ],
-   "score": 2.9
+   "score": 2.45
   },
   {
-   "title": "Meta's Humanoid Robot \"Max\" Prototype Revealed: Built with China's Fourier in Three Months, Second Generation Already Underway",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9FSy02d29DNEJkRnJoN0YyY1otcXZjeWlnbXFGX1VQR1A4X1dhMkRDRnctRkhkSklMUGtZRmczdWpISXpMaGYwREZsUkpmTDV1aXVEa1BkSmZpNVFFdzNGU3psbkM1S2xrTmVHaXA3YkNGOFRVZkE?oc=5",
-   "source": "BigGo Finance",
-   "published": "2026-11-01T13:25:00+00:00",
+   "title": "Pronto Founder’s Provision Labs Acquires Hardware Startup Basilisk Industries",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdG5xVElERkxKVkFUc3p1U01PT0YxeGRDM01qdVVxQmNkNXBVWG1DNDkxa2l1RmtMbGZHRTRmUER2Y0RkQVNOcHNlQXYxTklYcHQ1a25rVXN6czhJTWQ5OGM3UVR4OEU5a20zOGtXYnJ0bFU1NDlJQTJ2Z2tEMk0wV3RzZHBrRXpSanZTYmlBaUFLdHRVM2JMaDNBZzZzWjEycHc?oc=5",
+   "source": "Inc42",
+   "published": "2026-11-02T09:11:26+00:00",
+   "count": 3,
+   "sources": [
+    "BW Disrupt",
+    "Education Times",
+    "Inc42"
+   ],
+   "score": 2.35
+  },
+  {
+   "title": "Meta builds humanoid prototype in three months to explore home tasks",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMDlLVjM5YmFrU052VnUzb1A0QU4wbEQ1NnV1UkZWRFAybG5hb1NRbC1fX2NqQk1nTTdaRTg1Tm02RlRmSVBDUXgwbVNyNUM5d19Yc0RUc3BLTHJrUVk4N1V5VGxHZFBQakhGX1ZqckRMdEIzUkJLYkJCeTRlUjhjLQ?oc=5",
+   "source": "Interesting Engineering",
+   "published": "2026-11-02T08:41:00+00:00",
    "count": 3,
    "sources": [
     "BigGo Finance",
-    "The Next Web"
+    "Interesting Engineering",
+    "KuCoin"
    ],
-   "score": 2.58
-  },
-  {
-   "title": "HD現代ロボティクスとパランティア、「フィジカルAIソリューション」を高度化",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRWQ5bndxVXFRY3FjU1lyazFWaUJCSEk5aUtVMURKWnQ5OVl1ejgxVmdMWVlsVE1lakJaOHZpT0w3QmVwQVNiYThyeHhjb0o4amxTVnp0OUxmY2QwUDh3bmxjMTZUYjloY2ZMVzcxYTVVcWhQSkZVMWRKdEE0SlRVem8tVQ?oc=5",
-   "source": "스타뉴스",
-   "published": "2026-11-01T11:34:18+00:00",
-   "count": 3,
-   "sources": [
-    "BigGo ファイナンス",
-    "Chosunbiz",
-    "스타뉴스"
-   ],
-   "score": 2.52
-  },
-  {
-   "title": "イオン、フィジカルAI物流拠点を本格稼働 1日約39人分を省人化",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU2l4dDVVSWVkTlgyQmxnazJIc2MxSUwxX0lqUWNBYm9FbTd4NzFsMEZRLU91R19UMVFqMFVTVmwtM2s2UUZ6REtwMVRENy1MREtjQXRwRWNKWFdwX0luWk5uTDlWZ0gtQWszYWtMLWVhQVVQdkltUkhRbjI3eTlTbUNVSGhwWlA4dW1qLU9yZ3RzazZFTGRWLXJETk4zOUZkdGFjc3kyS2E1R3VHamI0?oc=5",
-   "source": "디지털투데이",
-   "published": "2026-10-30T07:30:00+00:00",
-   "count": 5,
-   "sources": [
-    "BigGo ファイナンス",
-    "QAB 琉球朝日放送",
-    "Yahoo!ファイナンス",
-    "テレ朝NEWS",
-    "디지털투데이"
-   ],
-   "score": 2.04
-  },
-  {
-   "title": "Bleu Robotics raises €5 million to scale humanoid robot deployment in factories",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTzFRRjlLb1h5UlVrbmJWVHlxbFlpOWstejhJcmhwaFMxcUxka0lYVk1Nckk0WWJvaGM4NzdHUjd3TGc0QnRoaDhlaWFsejRZT0NubUVEUy1sakt2bEFQa0xKWVNKaDFyNm82Q2JVcWt6S192M2k0QjNKX3JydndFOHRvWUlIVEkwRVRqNVVnSGtxVWQ1UUdYLXVqZ3NVVlZwazN5UUZkOXJSYlJOWmhoU1dUYVJuSWN1SmM4UzB3ZTRKYXJZWTI3bWlSOTdVbnp5SkE?oc=5",
-   "source": "Robotics & Automation News",
-   "published": "2026-10-30T22:49:02+00:00",
-   "count": 4,
-   "sources": [
-    "AI Insider",
-    "Engineer Live",
-    "Robotics & Automation News",
-    "The Engineer"
-   ],
-   "score": 2.01
-  },
-  {
-   "title": "IIT Kharagpur to establish Benjamin Gupta School of Physical AI",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdmVJOERJb09UNmExeFAzWVRXNlZxN3RGX2hjR08tUk1QcmE3dEkwNnNDWVNPUmw5clRzMWI2RzBGWGpDa25sV0pQWEJkVEl1NG5ST1owZmd6eDd6US1OU204ZDVWdG02STA1b1k3WUpFcl9Sa3NrN2FoeTI1dUNNd1FOOWR5b2M3YWhaVlRzOE1abXkxU2hCbWdpRFVVMFowQTVxODduLWVoUXM?oc=5",
-   "source": "New India Abroad",
-   "published": "2026-10-31T16:46:12+00:00",
-   "count": 3,
-   "sources": [
-    "EIN Presswire",
-    "ET Enterprise AI",
-    "New India Abroad"
-   ],
-   "score": 1.94
-  },
-  {
-   "title": "HD Hyundai Robotics Expands Physical AI Partnership With Palantir",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SREp0QU5YWkYxQ3dEZDBPaEppOTdIeDJYek93YUI0LXRaZ3MyMUhIcmJyZ2ItN1pSTWJTNW80YzNMX3Rpb1FxcXZtd0R6MXJrYTdxZ0dZanJWLVFsaEh3NVJucjNzdVU?oc=5",
-   "source": "THE ELEC, Korea Electronics Industry Media",
-   "published": "2026-11-01T20:15:29+00:00",
-   "count": 2,
-   "sources": [
-    "THE ELEC, Korea Electronics Industry Media",
-    "Yonhap News Agency"
-   ],
-   "score": 1.89
+   "score": 2.33
   }
  ],
  "trend": {
   "dates": [
-   "2026-10-04",
    "2026-10-05",
    "2026-10-06",
    "2026-10-07",
@@ -481,14 +486,14 @@
    "2026-10-30",
    "2026-10-31",
    "2026-11-01",
-   "2026-11-02"
+   "2026-11-02",
+   "2026-11-03"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     5,
      46,
      44,
      40,
@@ -516,15 +521,15 @@
      49,
      43,
      11,
-     11,
-     0
+     18,
+     41,
+     4
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     14,
      34,
      59,
      28,
@@ -533,15 +538,15 @@
      6,
      10,
      12,
-     66,
+     67,
      47,
      33,
      45,
      2,
      8,
      27,
-     37,
-     43,
+     39,
+     44,
      30,
      24,
      7,
@@ -549,18 +554,18 @@
      37,
      58,
      28,
-     50,
-     29,
-     5,
-     12,
-     0
+     52,
+     30,
+     6,
+     13,
+     18,
+     1
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     1,
      3,
      3,
      1,
@@ -577,18 +582,19 @@
      3,
      3,
      4,
-     10,
+     11,
      7,
      3,
      4,
      0,
      6,
-     12,
+     13,
      12,
      6,
-     3,
-     2,
      4,
+     2,
+     7,
+     11,
      0
     ]
    },
@@ -596,7 +602,6 @@
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     8,
      23,
      28,
      18,
@@ -624,15 +629,15 @@
      23,
      26,
      16,
-     17,
-     1
+     19,
+     39,
+     2
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     8,
      11,
      32,
      17,
@@ -649,7 +654,7 @@
      9,
      13,
      36,
-     32,
+     33,
      26,
      11,
      4,
@@ -660,8 +665,9 @@
      11,
      22,
      7,
-     5,
-     0
+     6,
+     11,
+     2
     ]
    }
   ]
@@ -695,7 +701,7 @@
    "name": "SAMSUNG ELECTRONICS CO LTD",
    "core": "SAMSUNG ELECTRONICS",
    "patents": 260,
-   "news": 19
+   "news": 22
   },
   {
    "name": "X DEV LLC",
@@ -707,13 +713,13 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 146
+   "news": 149
   },
   {
    "name": "QUALCOMM INC",
    "core": "QUALCOMM",
    "patents": 206,
-   "news": 2
+   "news": 3
   }
  ]
 }
