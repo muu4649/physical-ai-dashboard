@@ -1,76 +1,68 @@
 {
- "updated_at": "2026-11-05T01:16:13.079072+00:00",
+ "updated_at": "2026-11-06T01:20:42.594788+00:00",
  "kpi": {
-  "articles_7d": 714,
-  "articles_prev_7d": 807,
-  "sources_7d": 341,
-  "articles_30d": 3304,
-  "total_articles": 13301,
+  "articles_7d": 710,
+  "articles_prev_7d": 801,
+  "sources_7d": 342,
+  "articles_30d": 3282,
+  "total_articles": 13439,
   "oldest_news": "1970-01-01"
  },
  "wordcloud": [
   [
    "meta",
-   51
+   53
   ],
   [
    "china",
-   50
-  ],
-  [
-   "物流",
-   29
+   52
   ],
   [
    "fourier",
    29
   ],
   [
-   "自動",
-   26
-  ],
-  [
    "中国",
-   26
-  ],
-  [
-   "korea",
-   24
-  ],
-  [
-   "イオン",
-   24
-  ],
-  [
-   "data",
-   23
-  ],
-  [
-   "導入",
-   20
-  ],
-  [
-   "活用",
-   20
+   25
   ],
   [
    "開発",
+   24
+  ],
+  [
+   "korea",
+   23
+  ],
+  [
+   "data",
+   21
+  ],
+  [
+   "nvidia",
+   20
+  ],
+  [
+   "world",
+   20
+  ],
+  [
+   "launches",
    20
   ],
   [
    "max",
+   20
+  ],
+  [
+   "工場",
    19
   ],
   [
-   "nvidia",
-   18
+   "企業",
+   19
   ],
   [
-   "hyundai",
-   18
-  ],
-  [
-   "world",
+   "現場",
    18
   ],
   [
@@ -78,19 +70,11 @@
    18
   ],
   [
-   "launches",
+   "活用",
    17
   ],
   [
-   "開催",
-   17
-  ],
-  [
-   "工場",
-   17
-  ],
-  [
-   "platform",
+   "unveils",
    16
   ],
   [
@@ -98,27 +82,43 @@
    16
   ],
   [
+   "日本",
+   16
+  ],
+  [
+   "factory",
+   16
+  ],
+  [
+   "hyundai",
+   16
+  ],
+  [
+   "産業",
+   15
+  ],
+  [
+   "自動",
+   15
+  ],
+  [
    "builds",
    15
   ],
   [
-   "現場",
+   "platform",
    15
   ],
   [
-   "日本",
+   "built",
    15
   ],
   [
-   "企業",
-   15
-  ],
-  [
-   "raises",
+   "agility",
    14
   ],
   [
-   "funding",
+   "開催",
    14
   ],
   [
@@ -126,71 +126,71 @@
    14
   ],
   [
-   "industry",
-   13
-  ],
-  [
-   "agibot",
-   13
-  ],
-  [
-   "作業",
-   13
-  ],
-  [
-   "産業",
-   13
-  ],
-  [
-   "factory",
-   13
-  ],
-  [
-   "built",
-   13
-  ],
-  [
-   "拠点",
-   12
-  ],
-  [
-   "技術",
-   12
-  ],
-  [
-   "実装",
-   12
-  ],
-  [
-   "事業",
-   12
+   "データ",
+   14
   ],
   [
    "共同",
+   13
+  ],
+  [
+   "画像",
+   13
+  ],
+  [
+   "技術",
+   13
+  ],
+  [
+   "months",
+   13
+  ],
+  [
+   "成功",
+   13
+  ],
+  [
+   "funding",
    12
   ],
   [
-   "startup",
+   "shift",
    12
   ],
   [
-   "training",
+   "technology",
+   12
+  ],
+  [
+   "写真",
+   12
+  ],
+  [
+   "導入",
+   12
+  ],
+  [
+   "three",
+   12
+  ],
+  [
+   "build",
+   12
+  ],
+  [
+   "chinese",
+   12
+  ],
+  [
+   "push",
    11
   ],
   [
-   "unveils",
+   "advance",
    11
   ],
   [
-   "基盤",
-   11
-  ],
-  [
-   "社会",
-   11
-  ],
-  [
-   "データ",
+   "時代",
    11
   ],
   [
@@ -198,119 +198,123 @@
    11
   ],
   [
-   "report",
-   11
-  ],
-  [
-   "months",
-   11
-  ],
-  [
-   "chinese",
-   11
-  ],
-  [
-   "research",
-   10
-  ],
-  [
-   "ceo",
-   10
-  ],
-  [
-   "announces",
-   10
-  ],
-  [
    "model",
+   11
+  ],
+  [
+   "韓国",
+   11
+  ],
+  [
+   "future",
+   11
+  ],
+  [
+   "ジェイテクト",
+   11
+  ],
+  [
+   "industry",
    10
   ],
   [
-   "push",
+   "million",
    10
   ],
   [
-   "出荷",
+   "training",
    10
   ],
   [
-   "稼働",
+   "manufacturing",
    10
   ],
   [
-   "画像",
+   "nasdaq",
    10
   ],
   [
-   "shift",
+   "startup",
    10
   ],
   [
-   "tech",
+   "report",
+   10
+  ],
+  [
+   "物流",
+   10
+  ],
+  [
+   "建設",
    10
   ]
  ],
  "today_top5": [
   {
-   "title": "Xiaomi humanoid robot works its first 8-hour shift in an EV factory",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWXhkMXVwaGJ3QkotdDIwU2Ywcm5kS1hZdDBhUmpISVlySHBnUVNFeW5TUzRJQXB0ZDdhRnBINy1lR0RJTlJ5SjdFV3JORkJzRXZ2UmpkXzdpT1BYNFkwZXJreDJfMENZV0d3T1VTSHdUcWVVUjRhQTNPMnBpclB6S0pXUWp0XzNpdWhMekpTQlFLOGdVR0F5Y3VqRQ?oc=5",
-   "source": "Pasquale Pillitteri",
-   "published": "2026-11-04T18:42:26+00:00",
+   "title": "Humanoid robot manufacturer Agility goes public on NASDAQ",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOVRad1FPYUViWk5HWFFVQ0J3UTJ3b1ZwMjBjQnMyQko2ZDctUmVMaEpNaHdQb1k3SjV0cnRZdV9UT2NPaG1vTXhBNjNOMkd3NjdibjlXdkRtc0VjQzhWeGQtWktkSzJacHlTajNmTmpPVzhrSHcyUTctTlgyZWlZaTJtVzd6RDhnSFVtLXMxa0poRm9SVHY3SjRHdHdvLUhNLURieVJHZk90d2FOaVNaaFc0WEduQWRVWjR4b0NVbU40VDdSX2R0czF3eGVabUk0S3U5eXl6S0xoRmFEM0hSZmQxek00Qnp0TnFyaQ?oc=5",
+   "source": "DC Velocity",
+   "published": "2026-11-05T17:39:41+00:00",
+   "count": 4,
+   "sources": [
+    "Bloomberg.com",
+    "DC Velocity",
+    "Dataconomy",
+    "KuCoin"
+   ],
+   "score": 3.6
+  },
+  {
+   "title": "Serve Robotics Launches Physical AI Platform Play",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaEhnYVhPSU9yQlFYWllpdWtvOEoyUDBFelhUM0YzRk5nRS1DYXVBdm42bHlTMlRTUUd0eDdlZ3prWEh0Z29HWG5fcU9jRWZUaWNaOFpSSTFiQkVDWW4tU2lvYjNVNXFuUDY4d0gwVDFhSXhJZXhmT0V0czlXVEZuaFUwQVlmOEpELWc?oc=5",
+   "source": "The Tech Buzz",
+   "published": "2026-11-05T22:01:36+00:00",
    "count": 3,
    "sources": [
-    "BigGo Finance",
-    "Electrek",
-    "Pasquale Pillitteri"
+    "Investing.com",
+    "Stock Titan",
+    "The Tech Buzz"
    ],
-   "score": 2.74
+   "score": 2.86
   },
   {
-   "title": "ST Expands STM32 Platform to Automotive and Physical AI",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BNHBqVllLamU3bEZ0Z1hUOW5zdEV4b1dCb2lSd19xZjA2emJqdkNjQkl1VkZOLWJaakZXd0MzRmZ5ZF83b2k3a3FqdTNhYmVRSVM2RlRzOFQxaVp1akNTSVJ6Y3p1MXc?oc=5",
-   "source": "THE ELEC, Korea Electronics Industry Media",
-   "published": "2026-11-04T22:14:06+00:00",
-   "count": 2,
+   "title": "Humanoid robot maker Agility Robotics debuts on the Nasdaq after SPAC merger",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQmFiQTZVR24zaU52MkUwME5WaWxQTVZiR2VTMExweVZaUUVvdmtoUmt6d19HSGJJenRGNEVPa0FKeVZaNGR5NE5qYnVrelNweXhxdXo5WUdaN3U5YjJ6a0M3dVlIOWhoeU11Qm44WU1WZldSWWUtanRFMGItX3NnYWk1MWdlS2dfbnI4TmJZSGl4QkFtTGUyQUtFZGtmM1VhZEJXSmZIZEg3LUhiRi1leDdGWQ?oc=5",
+   "source": "SiliconANGLE",
+   "published": "2026-11-05T21:27:00+00:00",
+   "count": 3,
    "sources": [
-    "THE ELEC, Korea Electronics Industry Media",
-    "Unite.AI"
+    "Dealroom",
+    "Quartz",
+    "SiliconANGLE"
    ],
-   "score": 1.92
+   "score": 2.84
   },
   {
-   "title": "Baidu’s new world model highlights value, challenge of physical AI",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVlpFeVlLUGJFWkhXLUV5Ujl0VVk2RV9KOWJ1blpUWnJUMGNJNmpTZ1llZGg5OTNGSndobzZpZVNhd0hyOUNDQ3dVLUkta3EwdkVwUkFaLUZKRTdCMEEwT2ZuSVFNUUVDcUZmU2NHWGdDUkx6NERWNThSTkJPSDcySlMzeXJEQVVSdWtjVEM5WktUV0ZDaW1aNm5pYWFTem5DX0NvWFNwVQ?oc=5",
-   "source": "TechTarget",
-   "published": "2026-11-04T16:35:40+00:00",
-   "count": 2,
+   "title": "フードテックのAGRIST、シンガポールの企業とフィジカルAIを活用した農業課題の解決に向けてMOU締結",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Sek1pb241Z2M0Rnhsc1ZpODhLWmx0TlFrdGpBanZvMUV1cVBxWjVjb0VIMGZWaW9lUl9xYV9YWkVVYXdjWG1UcE1RWVBpZHh3MExWbkNEc2Nyd193cjBQZUM4NlpDTVpBNm1yaGRMVEZHMFV1?oc=5",
+   "source": "Excite エキサイト",
+   "published": "2026-11-05T20:45:00+00:00",
+   "count": 3,
    "sources": [
-    "Gasgoo",
-    "TechTarget"
+    "Excite エキサイト",
+    "毎日新聞",
+    "西日本新聞me"
    ],
-   "score": 1.77
+   "score": 2.81
   },
   {
-   "title": "Meta confirms Max, a humanoid robot built with China's Fourier",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUW9kanBTNHdqTFdmSDItWVNIWmg1cjNRWTRLUTNnQjhJS2VIMXJhYjQxNGVDRjNRbmNFeTd3ekJfcDJ3TnRlZ1lzMmVUSTgzUWlsd3VPZ2JydDdWWFZPNnQyTHFCclIyZ2JPVTRsMDZJT1BfOHN2WERtX1dINUt6Vg?oc=5",
-   "source": "Pasquale Pillitteri",
-   "published": "2026-11-04T15:47:20+00:00",
+   "title": "Meet Clairion: St. Clair College unveils new name for humanoid robot",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBYSEVWZnBldTdWWWtMNkZHVy16YlBKeVJaVTVYZUQ4Z3g2ZHNWd2FyRjNCX1lUOTdUblhvYm9UUXg4ZGZfWW1ycUpBOTFvajhlMjVFdWJ4SC1QWUdtSkg3cTBMM3VhZFBYOWg2WnoxQmJWTGJhUmlnbkZKTQ?oc=5",
+   "source": "Yahoo News Canada",
+   "published": "2026-11-06T01:04:00+00:00",
    "count": 2,
    "sources": [
-    "Pasquale Pillitteri",
-    "TechNode"
+    "CTV News",
+    "Yahoo News Canada"
    ],
-   "score": 1.75
-  },
-  {
-   "title": "一般社団法人AICX協会、「フィジカルAI社会実装委員会」を設立",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9HcmRfa1kzUE1vVHFwbmF4c09Qblh1TjNzRk1ya19aSWNJUURLalhOa0ZfcThoeTVkelUyS0FTeEFfYWUyMzEwR0lXMnNnWlF3VDNMMndPMXJMWDFBbFdpWFo4N3o0TUNjbGRn?oc=5",
-   "source": "時事ドットコム",
-   "published": "2026-11-04T13:10:00+00:00",
-   "count": 2,
-   "sources": [
-    "時事ドットコム",
-    "電波タイムズ"
-   ],
-   "score": 1.69
+   "score": 1.99
   }
  ],
  "hot_news": [
@@ -328,7 +332,38 @@
     "TechNode",
     "Technology Org"
    ],
-   "score": 7.01
+   "score": 5.02
+  },
+  {
+   "title": "ジェイテクト、部品ピッキングでフィジカルAI実証 成功率97.1％を達成",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5pUW1KdEJfMk4zRy1jSkFzVml2cXNhRFZVdDRRd055bVUxaC1wQVhPekd4YWlNVTZoMTd1SHdULWVST3Fhb3c?oc=5",
+   "source": "Dellows News",
+   "published": "2026-11-04T19:03:09+00:00",
+   "count": 6,
+   "sources": [
+    "Dellows News",
+    "LOGISTICS TODAY",
+    "MONOist",
+    "PR TIMES",
+    "中部経済新聞",
+    "日刊工業新聞"
+   ],
+   "score": 3.94
+  },
+  {
+   "title": "イオン、フィジカルAIで店舗別の仕分けから積み付けまで自動化 Mujinと「イオン川口東XD」を本稼働",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNbDBzVV91WHNnN09NTWtYUWctRkVBcTFRSGRBREplamt3cnRkTXk3ZlhQcl9JS3JvbklaUERQQ1FTTWI5Z0hQc1BVVGJPYk94bFVOYVVtZEFuRVl1Y1FiYmJLMlgtM3BVTlE?oc=5",
+   "source": "Ledge.ai",
+   "published": "2026-11-05T06:43:46+00:00",
+   "count": 5,
+   "sources": [
+    "AIsmiley",
+    "Daily Cargo電子版",
+    "Impress Watch",
+    "Ledge.ai",
+    "レスポンス（Response.jp）"
+   ],
+   "score": 3.86
   },
   {
    "title": "Meta、中国Fourierと開発した人型ロボット「Max」を認める",
@@ -344,22 +379,48 @@
     "note",
     "디지털투데이"
    ],
-   "score": 5.37
+   "score": 3.84
   },
   {
-   "title": "イオンら3社、フィジカルAI搭載ロボット導入の「イオン川口東XD」本稼働。仕分けから積み付けまで自動化",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpVllLS1EwaHRyRW1sZlFPMGpuVDduekdBem0wbTlXVHhUSXBtaHBwVUVQcTVVa3QxOFEzTFNiRFEwQUkwdGxMcmdWUDhTRTMwamt0MG13UGEtR0Q3cFdqaVlsQWEzNTRTcmow?oc=5",
-   "source": "AIsmiley",
-   "published": "2026-11-04T08:56:51+00:00",
-   "count": 5,
+   "title": "Xiaomi’s CyberOne Humanoid Robots Finish a Full 8-Hour Factory Shift Sorting Car Panels - TechEBlog -",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ja21jc0ZlRG53UklIZnhoWE1TRl9ocEpDaFBDYjRLNnZVUzVGVV9DSFFiVlVFMzFGdTVLbktNemhuRC02YTFXdUtOTzBhaHMtV01QWkktTDk1MDE0Q1Yxb0xpZmoyQm14ZVZsQ0RYTjl1WlNlTldNNEhaaVM5azQ?oc=5",
+   "source": "TechEBlog -",
+   "published": "2026-11-05T18:29:27+00:00",
+   "count": 4,
    "sources": [
-    "AIsmiley",
-    "Impress Watch",
-    "Yahoo!ニュース",
-    "レスポンス（Response.jp）",
-    "物流ニュースのLNEWS"
+    "BigGo Finance",
+    "Electrek",
+    "Pasquale Pillitteri",
+    "TechEBlog -"
    ],
-   "score": 3.99
+   "score": 3.64
+  },
+  {
+   "title": "Humanoid robot manufacturer Agility goes public on NASDAQ",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOVRad1FPYUViWk5HWFFVQ0J3UTJ3b1ZwMjBjQnMyQko2ZDctUmVMaEpNaHdQb1k3SjV0cnRZdV9UT2NPaG1vTXhBNjNOMkd3NjdibjlXdkRtc0VjQzhWeGQtWktkSzJacHlTajNmTmpPVzhrSHcyUTctTlgyZWlZaTJtVzd6RDhnSFVtLXMxa0poRm9SVHY3SjRHdHdvLUhNLURieVJHZk90d2FOaVNaaFc0WEduQWRVWjR4b0NVbU40VDdSX2R0czF3eGVabUk0S3U5eXl6S0xoRmFEM0hSZmQxek00Qnp0TnFyaQ?oc=5",
+   "source": "DC Velocity",
+   "published": "2026-11-05T17:39:41+00:00",
+   "count": 4,
+   "sources": [
+    "Bloomberg.com",
+    "DC Velocity",
+    "Dataconomy",
+    "KuCoin"
+   ],
+   "score": 3.6
+  },
+  {
+   "title": "Serve Robotics Launches Physical AI Platform Play",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaEhnYVhPSU9yQlFYWllpdWtvOEoyUDBFelhUM0YzRk5nRS1DYXVBdm42bHlTMlRTUUd0eDdlZ3prWEh0Z29HWG5fcU9jRWZUaWNaOFpSSTFiQkVDWW4tU2lvYjNVNXFuUDY4d0gwVDFhSXhJZXhmT0V0czlXVEZuaFUwQVlmOEpELWc?oc=5",
+   "source": "The Tech Buzz",
+   "published": "2026-11-05T22:01:36+00:00",
+   "count": 3,
+   "sources": [
+    "Investing.com",
+    "Stock Titan",
+    "The Tech Buzz"
+   ],
+   "score": 2.86
   },
   {
    "title": "Meta Reportedly Builds Humanoid Robot With China's Fourier in Just Three Months",
@@ -374,93 +435,36 @@
     "KuCoin",
     "eWeek"
    ],
-   "score": 3.98
+   "score": 2.85
   },
   {
-   "title": "ジェイテクト、AIで部品把持成功率97％に",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1pNmVURFRJMmFUb2I3S0JBQjVOOWFmVlRveURRRmRYaWcySVJrZmFUaDdjbU1VemN4VmNZUTlvdGdGYlU4V3FBVzdR?oc=5",
-   "source": "LOGISTICS TODAY",
-   "published": "2026-11-04T06:19:51+00:00",
-   "count": 5,
-   "sources": [
-    "LOGISTICS TODAY",
-    "MONOist",
-    "PR TIMES",
-    "日刊工業新聞",
-    "日刊自動車新聞"
-   ],
-   "score": 3.84
-  },
-  {
-   "title": "Xiaomi humanoid robot works its first 8-hour shift in an EV factory",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWXhkMXVwaGJ3QkotdDIwU2Ywcm5kS1hZdDBhUmpISVlySHBnUVNFeW5TUzRJQXB0ZDdhRnBINy1lR0RJTlJ5SjdFV3JORkJzRXZ2UmpkXzdpT1BYNFkwZXJreDJfMENZV0d3T1VTSHdUcWVVUjRhQTNPMnBpclB6S0pXUWp0XzNpdWhMekpTQlFLOGdVR0F5Y3VqRQ?oc=5",
-   "source": "Pasquale Pillitteri",
-   "published": "2026-11-04T18:42:26+00:00",
+   "title": "Humanoid robot maker Agility Robotics debuts on the Nasdaq after SPAC merger",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQmFiQTZVR24zaU52MkUwME5WaWxQTVZiR2VTMExweVZaUUVvdmtoUmt6d19HSGJJenRGNEVPa0FKeVZaNGR5NE5qYnVrelNweXhxdXo5WUdaN3U5YjJ6a0M3dVlIOWhoeU11Qm44WU1WZldSWWUtanRFMGItX3NnYWk1MWdlS2dfbnI4TmJZSGl4QkFtTGUyQUtFZGtmM1VhZEJXSmZIZEg3LUhiRi1leDdGWQ?oc=5",
+   "source": "SiliconANGLE",
+   "published": "2026-11-05T21:27:00+00:00",
    "count": 3,
    "sources": [
-    "BigGo Finance",
-    "Electrek",
-    "Pasquale Pillitteri"
+    "Dealroom",
+    "Quartz",
+    "SiliconANGLE"
    ],
-   "score": 2.74
+   "score": 2.84
   },
   {
-   "title": "South Korea Opens Humanoid Robot Data Factory to Train AI Models on Real-World Tasks",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWWl2STdYLTRvNFRTMU5WX0xCa0l5RXZnUjVIOWRyMVBXblZqNFAxb01nOE0wb0h6ZmR6Nk5lb0hValQ0Y1BrQmFQbUh4bmJQSGpCNENadEE0SGUzWnlOZ1lpNnlNV0pZZmVxVHJ0SXF2ejZ5TE5DeEVzNEtFN284OHNwWDJjRExiMlFOdWpISmE0eTZfWDJ3RzNpUnpoTHlKTWhWaDRYT2dwSEVwRDBZNC0tUUYzdXZ1bXFYVzNHMA?oc=5",
-   "source": "AI Insider",
-   "published": "2026-11-04T12:14:00+00:00",
+   "title": "Meta reportedly built a robot in 3 months with 5-fingered hands and an expressive face",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNV3REMkJ3c285d08yaTBMQzJzNXpUY3dDMTJaRnBPMzdzX3FmNE4zQjV4eGtBSHJ3eHA5RVZxSERPQ09wYlRFbjAxRmhGeWVmR0tTa2Q3SWQzTzI2cjZJb1JzaGZraXVpSUZIUmNESWtZck5rQ3FXVVhWQ25adXYySHgtVlVWZw?oc=5",
+   "source": "The Cool Down",
+   "published": "2026-11-05T20:49:00+00:00",
    "count": 3,
    "sources": [
-    "AI Insider",
-    "Chosunbiz",
-    "EurekAlert!"
+    "The Cool Down",
+    "shattered.io"
    ],
-   "score": 2.5
-  },
-  {
-   "title": "建機の走行と作業をAIで一体制御、無人作業実現へフィジカルAIの研究開発開始：i-Construction 2.0",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE41NUlIa1BmN214NF9TU2MzT053Q3VDQllYZkVtZGJ3aFhKLWhZSU5JcVRjNXhod1k0WU9uQ1BUN083VU9FQ0JWMHVENElkT1lhWkdDcF8wR1dxcUZjLXMzaUNHQzJyaHNfcTlOSA?oc=5",
-   "source": "ITmedia",
-   "published": "2026-11-04T09:00:00+00:00",
-   "count": 3,
-   "sources": [
-    "ITmedia",
-    "デジコン",
-    "時事ドットコム"
-   ],
-   "score": 2.39
-  },
-  {
-   "title": "Meta Just Built a 105-Pound Humanoid Robot That Could One Day Do Your Household Chores",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZVdTNlBCNWIzSjBQNHZFZ3R4MWxwaXlaVUtUQUJsbDJwMmkzazVKWVlMbUw4bHc3aHFhZFJuVGQ5UDlrTDJkNmhUOVBseXZ4alAtdllJcC10d1NoMHNic0NvaFpHMHp4ZGJPRnhMOEVMR0tYalhfbTh0MFJXR0loZlBIU1ZnLVFVNzdV?oc=5",
-   "source": "Yahoo Tech",
-   "published": "2026-11-02T19:40:31+00:00",
-   "count": 5,
-   "sources": [
-    "Engadget",
-    "Mezha.net",
-    "Tbreak UAE",
-    "The Mac Observer",
-    "Yahoo Tech"
-   ],
-   "score": 2.38
-  },
-  {
-   "title": "物流の効率化に不可欠",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1BU2RrUEhZelJPMWRBbDdRVVVZX2dYUFI0c2Y1VVQyR2R0d3VwVVVuOXpaekl0bEdndy1BUlk2Ylg1aVJqdHJ5cFk4M3RqRG5DMTR0aA?oc=5",
-   "source": "公明党",
-   "published": "2026-11-04T05:00:31+00:00",
-   "count": 3,
-   "sources": [
-    "NHKニュース",
-    "公明党"
-   ],
-   "score": 2.26
+   "score": 2.82
   }
  ],
  "trend": {
   "dates": [
-   "2026-10-07",
    "2026-10-08",
    "2026-10-09",
    "2026-10-10",
@@ -489,14 +493,14 @@
    "2026-11-02",
    "2026-11-03",
    "2026-11-04",
-   "2026-11-05"
+   "2026-11-05",
+   "2026-11-06"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     40,
      37,
      34,
      12,
@@ -524,15 +528,15 @@
      18,
      44,
      33,
+     45,
      43,
-     1
+     0
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     28,
      26,
      15,
      6,
@@ -560,15 +564,15 @@
      13,
      22,
      17,
-     44,
-     3
+     47,
+     41,
+     1
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     1,
      5,
      7,
      1,
@@ -596,15 +600,15 @@
      7,
      12,
      9,
-     6,
-     0
+     8,
+     7,
+     1
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     18,
      38,
      30,
      7,
@@ -630,9 +634,10 @@
      26,
      16,
      20,
-     44,
+     45,
      31,
-     28,
+     32,
+     34,
      1
     ]
    },
@@ -640,7 +645,6 @@
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     17,
      12,
      20,
      4,
@@ -668,8 +672,9 @@
      9,
      13,
      10,
-     12,
-     2
+     13,
+     8,
+     1
     ]
    }
   ]
@@ -715,7 +720,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 155
+   "news": 158
   },
   {
    "name": "QUALCOMM INC",
