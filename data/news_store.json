@@ -134891,7 +134891,1196 @@
    "topics": [
     "humanoid_ja"
    ]
+  },
+  "8624222bc93aab8b": {
+   "id": "8624222bc93aab8b",
+   "title": "MSOE students take first and second place at Physical AI Hackathon",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcEM1MkdOR3JsalgyX21CWlpWcldaZE45RTRRcmpkelVNQm9GN0dNRHowLWNoT0VnNlE4WnhtdHZEc3lQcGFla1I0WmxLNmw3YVBQSWdJOTZsdlZhVUFkV2I1Vmp1VHhnaF92TFJuTHpqei02ZFU5eEZjMHRYYjVlbkFfRGtTaFN4MzN0UWdrbG1sanpfUlQ5NVUycjJvcTZHSTE5aEN5NWdjUHliMnNiZw?oc=5",
+   "source": "Milwaukee School of Engineering",
+   "published": "2026-11-06T17:02:22+00:00",
+   "topics": [
+    "physical_ai_en"
+   ]
+  },
+  "b5d2b23dfb33dff9": {
+   "id": "b5d2b23dfb33dff9",
+   "title": "ABB Robotics Launches Blueprint For Physical AI Education At NVIDIA GTC Berlin",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONzAtRS1YNjJBNUhpdEVRNmpIWWpjQzJhZ2wzTG1aTjE2NVYzMnBvZ0hPVkZ3dXpfNWsweGlHdlVuSGVJeGlKdFJ1QzVSMUljX1Z1N1lLc2RaZVo4cUFldi1hQTVnZEFqRW0wWDZQdUVmUzRBbXFWbVVidkxMOXoxTVRfazh1cVNFY1BmWTViX29fVE81Q1JfeUFidjJmdm0xNVJZYkpWT1B4cnp5ZU5tN3RxYnVYWHJDY3JSeUotbXkyd0lldXpSMXVaRXFtLTg?oc=5",
+   "source": "Automation World",
+   "published": "2026-11-06T17:08:40+00:00",
+   "topics": [
+    "physical_ai_en"
+   ]
+  },
+  "e836dbb9b2f5743b": {
+   "id": "e836dbb9b2f5743b",
+   "title": "Newly Public Agility Wants to Prove Physical AI Has Legs",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbTFSUEl3QmUyckowaEJNLW40U1MtZllGR1NMZC1wb1BJd3lIUjUyM0w3NUp3cUpKcHFteWNUYTBJRFczVnlJRG1hRzBHY2I3VGEtN3ZMX0p0VEdLSE9Od2hCTmgwWUNlZUlDVlBsdzk4OVd5bGgtck1LNFhrSERaaXIzLXRlQ2NKeS1iQlZHNUpJTXBsZmc4bEdGam9wby1UejNRVmxLWjNnbmx4dE9jbVoyR0tFTzlSTG5ocWhFclk?oc=5",
+   "source": "The Daily Upside",
+   "published": "2026-11-06T05:24:09+00:00",
+   "topics": [
+    "physical_ai_en"
+   ]
+  },
+  "0ab46c49705eb091": {
+   "id": "0ab46c49705eb091",
+   "title": "Enabling Physical AI Agents with Lemonade",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNDBXeS12Y29QNmNJY3lSOFBkUzF4dWdRSTBJTzRIYldDTFFpRXhaZ0RYOTQ4VGJ2eUdTMVd1MDE0a1h2MzZ0ZkxmU1pXbndyd3Q3TkRhbGdJdWNQLUVXRE5oSzNfR05lWmJEc1h5cGRHV0tpdjVMZG15TVJ0LU1CN2kwZ0kxUQ?oc=5",
+   "source": "EE Times Asia",
+   "published": "2026-11-06T12:32:51+00:00",
+   "topics": [
+    "physical_ai_en"
+   ]
+  },
+  "29575a0cbbb98cd4": {
+   "id": "29575a0cbbb98cd4",
+   "title": "Physicl Raises $10M Seed to Address Physical AI’s Edge-Case Problem",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXVmakJKZ0NHREVzTE9vYjQ2bTdUNzRGV3FfT1BRR1NHRHc4azVwSzM1TGF6Z1Z1Y29mcHh1c2tuMEdsUUdEWElNYi1SRGt6OHRNS1dCVndJNVl2Z3YtTXA5UjFQeWMwMl8weFNLTlExVWZyZGhnVzBkTmtjS2ptcTlidzh2ZkFnWEJQVnIxZmk?oc=5",
+   "source": "Unite.AI",
+   "published": "2026-11-06T13:20:05+00:00",
+   "topics": [
+    "physical_ai_en"
+   ]
+  },
+  "5c3df24e11183a05": {
+   "id": "5c3df24e11183a05",
+   "title": "Serve Robotics Launches Physical AI Services for Robot Fleet Connectivity and Training",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVFZtV2ViMkRxU2RtdU55OF8tdnZicGUzSTg0ajY0UW1BVFdaZUNCMW95VUptS0ZTR0tTeDRzZTVDMWNyV0RGbkZfTGd0aTJ6X1lFbmh5Mm5kaTJwLUZ5c25oZUdUTEFNNFYtb0RaMmZqX1pCbFhUbHVsTlh4R25zZENTaUx3c2JzRThyNk9ZNk5YNHlJWUJKTGZweWc0ZWVTU2hPR1pvWWlHUlJoeGhoWFR1cWpSLU1jTEZiSnV6Umxadw?oc=5",
+   "source": "AI Insider",
+   "published": "2026-11-06T11:30:15+00:00",
+   "topics": [
+    "physical_ai_en"
+   ]
+  },
+  "dbf478d959640d6e": {
+   "id": "dbf478d959640d6e",
+   "title": "WWT Exec: No One ‘Was Prepared’ For Channel’s Big Physical AI Moment",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZUN0TE9RcE83UG10aWtOeEkxQjBjeTNHWVoxSmlRN2dYcHFBRWxBcExURHRoejRvVjVCUGlzOUhmb0Jha3JIazN4Z3dXSWp3SnpDa2hHU3dFSTg4amV3NE5XczVxdVFuZ1B4V2lobFpYMkhaSGotTFlXaGRub3RuSkgweGJ6WmZQVElYTFVJSkxLNmJvRzE2d1YxTWdraGZhbm5Sei04ZEFpMUNqNmQ3VEtjdWo?oc=5",
+   "source": "CRN",
+   "published": "2026-11-05T14:00:00+00:00",
+   "topics": [
+    "physical_ai_en"
+   ]
+  },
+  "3def977f0de4491e": {
+   "id": "3def977f0de4491e",
+   "title": "Embodied AI's Humanoid Robot Is Built to Work Next to People",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQlRtdHlkVjNxaFNNblpBOHpKSmxwRzhidWxKMHVDQ2tGb0tMZlI1WGFBTTg3TjN1a1I0VG5DbW5ZQTVHc2hHRXZUeE0zQzlOZ1dBTEo0SGlJb0NmNzZiZnE2d3hFM0tsemRmNk9ZV01YTXRiMGxjVzZkU1VoRlNpaHZLQ2VvMDA0RmpJSVkwWGxzOEtDWHJueC1lZ2c0VG42RWs3cEpoNXBRVHZNTzA2c1plTTNMcV9UU3BOQk1yc1RkTEJkenRMTDROM1FiVG54TDIw?oc=5",
+   "source": "Design and Development Today",
+   "published": "2026-11-06T17:39:01+00:00",
+   "topics": [
+    "embodied_ai",
+    "humanoid_en",
+    "physical_ai_en"
+   ]
+  },
+  "4e6a5d586370b02e": {
+   "id": "4e6a5d586370b02e",
+   "title": "Physicl raises $10M to make the digital world real enough for robots",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLUp1SVV0MDNnTEJ3WVR0UDByckFtam9UUHZLeUFmQ3BsWFFFODFzZzhZZElqVmlvZDhOUTVmaWlyM2RNNjRtdmZaWWtPTXVKakp2RzhZVUpVUlo1eWdGTXhMYktWTjR6Z0JObWJrR2otZVlQd0hnbG55U2Ztd3hVYXBfcnZDQ3I0VXRXdWkwa1RiclJrM0J4YWp3MUswaHEyUjZmaA?oc=5",
+   "source": "TechCrunch",
+   "published": "2026-11-06T13:00:00+00:00",
+   "topics": [
+    "physical_ai_en"
+   ]
+  },
+  "1bf58f10c47b61db": {
+   "id": "1bf58f10c47b61db",
+   "title": "Q&A: What will it take to make workplaces robot-ready?",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV3dTS09qdHFldllrbzdOeTlDbXJQbGt6TmZYM1lsYVlSNnhVMnFZa3JERk0yYVlhdUpUUW12Tk1ncGNiS0ktV19xWjAyVFFBUVZQZGw2Sk93cDhoMV9pWDZreG1ReXpldDZGbmlQTkFMRk9wTFdwYUs3WmN6WEJPM1owMjNqWFRkSmR2UWFmUzVtTmNYaTN0UUNiczR4UUhp?oc=5",
+   "source": "Inavate Magazine",
+   "published": "2026-11-06T14:47:14+00:00",
+   "topics": [
+    "physical_ai_en"
+   ]
+  },
+  "b328b0e17d0636d5": {
+   "id": "b328b0e17d0636d5",
+   "title": "Nexdata Delivers 10,000 Hours of Synchronized Ego-Exo Data for Robot Learning",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPS1ZOcUgydWlnUWM0cERhSFhjUkNyWkwwZURidWRGZnZ1UTVJOEZLN3hLYWQ4aHRJUkl4VzkxaFlFYkl2Qk4wVHJ5LV81ZWRUb2p0MDRFZ2FBWUxxTVUteGFDY1BORHlBejd0SEVwbG1rNWJFeWxZQVFMNzE5N2FFYU9SS3hfYnpYanFoam9yM2tpWWllaDJvazF3VldLYk9qYnk4TFAxeFgxUDBYT2E1TmtudWdNSEszaEdDNWUtZDhVcGtINnNPdkJoVQ?oc=5",
+   "source": "Cincinnati Enquirer",
+   "published": "2026-11-06T19:50:03+00:00",
+   "topics": [
+    "embodied_ai",
+    "physical_ai_en"
+   ]
+  },
+  "021ae6653e01553d": {
+   "id": "021ae6653e01553d",
+   "title": "Switzerland's Embodied AI Unveils Humanoid Robot Designed to Learn Factory Tasks From Workers",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQczYyZDNpcWFjcmhtTXhoWnJ6X08yVnl6SDFFSnNiXy1keW1jUFJlRHBvMlhFTTByS2l4dG12eVVRcUF2QU9KLXNFYWxuMU45T3FyQ3k1WDBack82aVN6QkwyRGFxTXNpN1M2MHd0MmpyYS1iU2dMdWg4Yk5nS3RfaWFwRU1mbFBvdFMxcHBUemZnSVJxRk5pQlNhVy1SdnpIeXlOMm1lLTlDTFM3eWNSV1BEQ2QzcmtpUEdhWktxakpXNW9pb0ZjeDZ3?oc=5",
+   "source": "AI Insider",
+   "published": "2026-11-06T10:39:28+00:00",
+   "topics": [
+    "embodied_ai",
+    "humanoid_en",
+    "physical_ai_en"
+   ]
+  },
+  "7f821ae30b908ce4": {
+   "id": "7f821ae30b908ce4",
+   "title": "Ai2 Releases ToyBlocks to Test How Robots Learn and Fail",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeGNHeGtoRlI2SlhMNzVLWlNuUVZuUlJmYWZ2SlJsaEh4YzZzOXdkZzQ2Z2NHaERCbTlwc04ydGo5ZEd2bWZvZkxvSG9yNklhN1V6ak9Kd1Mwb296akN6UFVtZ1ZkRnN2YlFuZC1tbDlBU2NEdXFCNUNLMVl5dUhIMmdDaXY?oc=5",
+   "source": "Unite.AI",
+   "published": "2026-11-06T14:41:05+00:00",
+   "topics": [
+    "physical_ai_en"
+   ]
+  },
+  "34ae54125f3c395b": {
+   "id": "34ae54125f3c395b",
+   "title": "South Korea's Fabless Firms Target Physical AI, Betting on NPUs for Robots and Drones",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9temUzTUZ5ZDJPMXIyb0R4UGlpYVFlTGhmbmh1dUhHYnRMcTlRcnFHT1ZhYzdJeWlOSkM0dGlyYnV4aW1RZVM3T0hBTks0ZG56cVBlNG43Q1dNUjhtby1ZNjN4VjMteXdidHFEa1ZBbTU5ZnRGZUE?oc=5",
+   "source": "BigGo Finance",
+   "published": "2026-11-06T08:06:00+00:00",
+   "topics": [
+    "physical_ai_en"
+   ]
+  },
+  "a58e288cec2c5880": {
+   "id": "a58e288cec2c5880",
+   "title": "Physicl Raises $10 Million in Seed Funding Led by Inovia Capital, With US Venture Partners Participating",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNN3o4LS15ZmZMTVdaWXB6RTc1S09BWXVlUGdqN0U3Y1E2ZmxTbWNtbE1tWkozR0hFOXp2WnNRaGVjRF9oTHZ5M2FEYS04SUNmYUF1bThOdFRhVVplQzFVS294aWR5UTFsenhJVjJlekt3ZVgtYjh3TGVFLXJ5ZlZLbHdBQVJlNkNmUTh1NTlxdVd0d3hDekUyLTlCcUxPZnpTY0s5cHJpOW52QUl2eW9vMzFSeEEwR1FsRXdiOUhFYldxYjhXTzNMbUFaT0ROUENSNDlMNC1YNno?oc=5",
+   "source": "citybiz",
+   "published": "2026-11-06T13:27:01+00:00",
+   "topics": [
+    "physical_ai_en"
+   ]
+  },
+  "da8e3550d733586d": {
+   "id": "da8e3550d733586d",
+   "title": "Serve Robotics launches new business to become the AWS for robots",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX1BDTjhHVkwweU9jY0FBeEhpcWxIanNXa3QzLThVVEZ0cjl6S0tYZmFBeWxkRFI0T0xGcHlLR0psVUh4ekctWVE1NzJrMFVYWEl3MDBOdWg1NXdoT0duY2dMaU9xaTlyWmN5SXU4VldtZVJwNTRJUVA0YTZkV25UbjJtN1hWTXBfbmRhU1hxaU1LRlFtYjZ0eU9LcWJoZkhpZEE?oc=5",
+   "source": "TechCrunch",
+   "published": "2026-11-05T21:15:00+00:00",
+   "topics": [
+    "physical_ai_en"
+   ]
+  },
+  "b86966e8cb252faa": {
+   "id": "b86966e8cb252faa",
+   "title": "Linker AI Nexa brings physical AI to City governance",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdk5iMk02M21BRk5LaWpHYnBORnRYNDlpbGtxUzlGWVp3Y3JPYmpOeFpFcVc5LXZVNHptSzVXY010RUNYOUlscVktMG5IZzRUbTRFWEZaU3NWOGVtcTkzUlRWempETDJIa1N5THNLVzlZcXd6eFY1alVncDJjekwtTVhqTHZYTWtYRWxfZ0pBNDRMckR1bzFrXzNPb2FsVEdoUWdxbkRfaGQ3LVlyU0E?oc=5",
+   "source": "Smart Cities World",
+   "published": "2026-11-06T10:40:41+00:00",
+   "topics": [
+    "physical_ai_en"
+   ]
+  },
+  "fda5d7b02b778b52": {
+   "id": "fda5d7b02b778b52",
+   "title": "Physicl Raises $10M to Bridge Sim-to-Real Gap for Robots",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZzlscDFXS05sa0FIWngxMVg3NVFhX1lMQlpfZXlkWWhWZEFmQjU4Vm1lUU95VEhZb3d6UEFBWklrcGZZeDFzVjdHNlp6VUJ4TFgyMXB3ZU1uTkpfVG8yQ0hmY3RZX0I5d3dCbTE3dHNLWS1OMG1rZnJtWlpCSkFyQmZlOHpGMlNOTVRWWDdhd0NJQQ?oc=5",
+   "source": "The Tech Buzz",
+   "published": "2026-11-06T13:35:11+00:00",
+   "topics": [
+    "physical_ai_en"
+   ]
+  },
+  "31a68e0fc608a54f": {
+   "id": "31a68e0fc608a54f",
+   "title": "Semiconductors Meet Physical AI",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONUY4UGZ1Mlk0YjlVWm96cmxBUUtJY1dTN0RPeXI5Y1MxN0pDT0pPdGRsU1k1bFNUU0FUQ3JNYi1NUGlyUWRtUGZqR004QXdyREZOSnpHaGZRNnJKemgwTVlBcWtockFYa29QQW1uaFVNNkZWTXZXenl1QXBrWXZUZ2x3?oc=5",
+   "source": "Counterpoint Research",
+   "published": "2026-11-04T07:07:43+00:00",
+   "topics": [
+    "physical_ai_en"
+   ]
+  },
+  "9eebd52a53da975f": {
+   "id": "9eebd52a53da975f",
+   "title": "Uber Reports Just Four AI Agent-Booked Rides in Its Busiest Week as Agentic Commerce Struggles to Gain Traction",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOLWxmdkVlYkRqY2hub1pZUVdnOGo2NWptU3JiSy1BaTZLNnZhZ3ZTVWZFRzV4N3NheHFjVHZXbkY1Zmd3bU1OMUpXVVdlLVBuSTA2RXhDS2VfRlJYUlBqMHNxLUNWSVotcXpCQjFSM09wVWtSZHU4bC1IWXNfUFdEcnl6R3NWWEdWdjJmOFQtTFBCeVNlS0F1dDFLOUdMdEI0NHlhSVBJNldRSFFWbmFDMUMxZ1pkQ0dUVlFsRmNOcEhKUU9WTlQ0TlpfMHIwWG8tOGN3d1NUamxIZVBGbXR5czFUMA?oc=5",
+   "source": "AI Insider",
+   "published": "2026-11-06T09:53:38+00:00",
+   "topics": [
+    "physical_ai_en"
+   ]
+  },
+  "4baa0b3ce5d91aa1": {
+   "id": "4baa0b3ce5d91aa1",
+   "title": "Korea opens first data factory to train AI humanoid robots on real tasks",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVDRYRHNHUENuZC1xZmNydkw1VER2dU00TVBBNUJyS3ZKOURlbTI2dnd2X29ZSnBYZWF6LUx3OHhYYU93dTZybHlfZTdWTkFxdXJpQ3NoZ1ZzMGM3dWdjeTYwRUNwODRFQ2FON2VCdF9wRXBuYk5VcW1DNkgtUy1HbUFTa3cyT3NPaWZwcVZ0cUhiYUU0WkhYWVFVbVNkQQ?oc=5",
+   "source": "Bioengineer.org",
+   "published": "2026-11-06T08:31:51+00:00",
+   "topics": [
+    "humanoid_en",
+    "physical_ai_en"
+   ]
+  },
+  "a598371f595a2407": {
+   "id": "a598371f595a2407",
+   "title": "Humble Robotics Raises $51M in Series A Funding to Develop Autonomous Electric Freight Vehicles",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd0xvM3lGenExV3ZoTnM0THFrc3hfLVl5bGtaSWFUb1k0ZDRCUmJfNmVwMTd0QVlIMFFjemktU1FNVUhIS29lNWR3SXdkM1RkY1FBVTZZX1NjZ253Y0lfalNNZ0VSVnVBdUNCVC1tVE9CTHpNdDN5VHdsMEo3WWZORVRtcE81dTRrTVFCV05UQV95SzNpaE1mVENsQ29jV1BIbGN0bHVYQzFoendEcTdCY1p3SF9weEhSZUdsa1A2cmJiNVZJQnJSZFZFcVM?oc=5",
+   "source": "AI Insider",
+   "published": "2026-11-06T09:48:26+00:00",
+   "topics": [
+    "physical_ai_en"
+   ]
+  },
+  "48f00a274f6bfca8": {
+   "id": "48f00a274f6bfca8",
+   "title": "36Kr Exclusive: Heavy-Duty Physical AI Startup Secures Nearly 400 Million Yuan Financing Within 1 Year of Establishment – Core Team Ex-Huawei & Li Auto, 100+ Vehicles in Operation",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00ZjgyX0RiX1NnSnRtelJMdVp2UjlMdkFORXJEM3JpeUNaMEZJano5TXhIZGVKZHdPUUl6LW8tby1YWFdpMTFvRnE3aG4tSDVGSnlV?oc=5",
+   "source": "36Kr.com",
+   "published": "2026-11-06T02:51:48+00:00",
+   "topics": [
+    "physical_ai_en"
+   ]
+  },
+  "899be0a09fdfe510": {
+   "id": "899be0a09fdfe510",
+   "title": "Embodied AI Unveils AIR, a Physically Safe Humanoid Robot That Learns on the Job",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ0RuMHMzRi0xQWc5WW9JYlE3R3dKN1NieEV1NTJ2Ml9rclpqaUVHTERtcks5dUJCazc1UU50VC1zU2RzSDJVQ0FITkFUVUYyR3puVDdXSTYtZHBFbXlUeVg5ZzBNSGU3akg4RlRNR3l4a0NveFBkODhZRkdLcmxCeGtzaXA5eE9DZVM0UWExNC12OGtZd3ZhQ3JvaHQyckVKOUVaeF94R3dXZmctRVBJX0pBWWdOTDZ6VXB3aWRTc3hWLTF3YmlOX2ZHQTF2d1drYU12b0lfbw?oc=5",
+   "source": "StreetInsider",
+   "published": "2026-11-06T08:16:59+00:00",
+   "topics": [
+    "embodied_ai",
+    "humanoid_en",
+    "physical_ai_en"
+   ]
+  },
+  "c24e355681e309c2": {
+   "id": "c24e355681e309c2",
+   "title": "Physical AI Startup URobotics Raises USD 30M in Series A Funding for Autonomous Mobility",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wZ3dVVFpGQUxGV0I2UU1pd3BnVVA4eWpua1Bqc3Q5UFpVcmRzb2lWcEhFUWl2cGVTQXRRa2RqQm41MjM5QloxS0ZfVlVVdjJ5alJr?oc=5",
+   "source": "Wowtale",
+   "published": "2026-11-06T08:26:25+00:00",
+   "topics": [
+    "physical_ai_en"
+   ]
+  },
+  "7142d5a0211962f7": {
+   "id": "7142d5a0211962f7",
+   "title": "China blocks $5.4 billion ABB Robotics deal with billionaire Masayoshi Son’s SoftBank",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNblRsSVNGRjNXeXZXdHR0enZLdktoSmM5R3dydWlhQ0tWWnNpVGNCTmI3ejNqV1g4T1lod2pjTzVKSzhJRmwybHctT1QzM1p0VWNjSFlIa3Bud183anduVy1xOUI3Z3NTemRZWlItSUFMeC1zcThZNHFNcFEyVGt2MFNIT1REa3dpNEw4WUpkWnE?oc=5",
+   "source": "Forbes Australia",
+   "published": "2026-11-06T06:29:40+00:00",
+   "topics": [
+    "physical_ai_en"
+   ]
+  },
+  "e835605e38f3825b": {
+   "id": "e835605e38f3825b",
+   "title": "Infineon unveils RISC-V-based AURIX platform for SDV and AI systems",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQY0IwekR5MnFmMFYxMmZnT05jQzBkWG16TnZJR0NqV0d4aU1PTDRBN0dwWllhTVUycUN3dVIwdXpLdDdaWUVGT0ktVzkxM0NzWXZWOFRpbnhQNUlBS1dZTTBERVhfUndwYnMteEZnSWdJcF8zcmRfUno0NmtWdk04QjNSY1dFNU8xd3lrMGVaR2F1RVJ6YkZFakIxQ1ROMldZSWRiS08wcVl6YldVMHlrZk00TQ?oc=5",
+   "source": "New Electronics",
+   "published": "2026-11-06T03:19:25+00:00",
+   "topics": [
+    "physical_ai_en"
+   ]
+  },
+  "336b50764e396353": {
+   "id": "336b50764e396353",
+   "title": "Physicl Raises $10 Million to Solve Physical AI’s Edge Case Gap",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdE5MLXlnb00zRnlLaG55bHRaWHJoRXVVbktNQW5McG5ZRnZYam1TcURLeTdpX3RtU1VDT0x4ZG5OamM3VXF2NFdjdWFpYUNqMlJVZkl5UWNmZ3pTNVFiWHpUendyVFRGSTNUU0xucXMtaFpKY3RzVmRaaUQycUdONEtDazdaODVrd2REME1HbFJ0T0xaUFROUXVydUg3c1duRGxEUnRSMmlxMmVSWnZuMUxUNXJhWUFFZ0d0YUVnVzBzUkRWRnQ1aGZ3eWc4UTJE0gHWAUFVX3lxTE5jOU5OaWVmZ0xBOGt2elQ2OHpnMWd0NU95X0hFMnA5dHN2V01tX3Bsb3k4TDlmdmNnZXVxeFpyQjVDZkpkeTJWa1VWOVhoZkN4Z2M4VjhlN2FlWm1oMDgxSDQ0Q1MwSU9FUDhhSWcwMTliZ2tJMk9yMnUwZUxhMzJNbUx3bExmRnB1RFZiVlluaDJVSXBPZm8yS0RxTkNtSTRLbFNTUHdQRXZRajBoRTZSc1NFTWtSNldwcjYyWUpFRUxvbGtpMlNZVUxvdTBhd1RJT3FwbXc?oc=5",
+   "source": "The Manila Times",
+   "published": "2026-11-06T13:13:03+00:00",
+   "topics": [
+    "physical_ai_en"
+   ]
+  },
+  "e3b3a71fd48fef48": {
+   "id": "e3b3a71fd48fef48",
+   "title": "Serve Robotics Launches Physical AI Services, Opening",
+   "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxONmxrLVVVZUtteXRvSFQ2TVM4cklVd0lfSzJuTUYyUGxLZ2EzMTllNU1GVGxuQ2RIc2M0d2NVdURVa3B5QXB4aHB5UC1PbDhXSkxKMnhMeXpFUU5yOUhXZU5YdXhrX0FwaXprSTRnUF9nNi1ibXRZM2NORUduQ05KeU1lT3VDdWlnaUdGZmE4TnRWbW5Mc2E4WmRTVkJvOEtFa1Y5bDVDRkRLWnZzeXVfWmhvWGZhVndkSFZKZDk5Mm0ySUNsYzUzLVpDbHFxZ2RJaUdVQmJLMmVzWjVGaUhLeXI1SjZKa2RQYVlzWGcxQ0ZvTVJCQXFxcUhCdk82TDRUWEZyZ3ZHWmlOT29KQThiRlVtV2ZKcXNCc084Sw?oc=5",
+   "source": "GlobeNewswire",
+   "published": "2026-11-05T21:01:00+00:00",
+   "topics": [
+    "physical_ai_en"
+   ]
+  },
+  "64c88f2162e6273b": {
+   "id": "64c88f2162e6273b",
+   "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUU5SZUNqV1pBT2E3RU1QR0ExS2w1SUszaGpOckxzODVOZFJZR0xQVUhqNUViS0VTWFpGNzNQdXBBVC13Zmw0bWlfNTZRc2ZjMC1vNUtiR1A4ZUFsRDJ0OWJxaGkyMUNSWmQtbXZJUThvUlI5b3FqdHFMSnFZd2U3cC1ZRzlKbEhJZlVQNTcxRHl4WV95enRHdW8taHhFZzBmRzBiV0dqc3R5aDJEdEdLN0tsM2ljT29fRmc?oc=5",
+   "source": "TechCrunch",
+   "published": "2026-11-05T12:00:00+00:00",
+   "topics": [
+    "humanoid_en",
+    "physical_ai_en"
+   ]
+  },
+  "65a95c17e3225ac5": {
+   "id": "65a95c17e3225ac5",
+   "title": "Cyprus Offers Armenia to Share Experience in Using AI Programs for Teachers - ARKA-Telecom",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWnNHZjNvR1d5ZkV5R0JIWXJqOTFUdGw1X1lFOXN2eE5NSUgxSDhHTkRoR190UDZyOW9hWDU3aXZkYXdlTE94dDVQT180VmJZcHN0dWVkVlVEYU9YWF9SV0NPSGJZTmJKTC1jVFkyTXp5cGp1d1c2UnFOcXA2MGtXdmhoQXpuQXFHdGxfNXN3RHJkT3V1dHEwU1lxbTloTEJiYnpZYjI5RGVCQW9FcGxlc1FUc2ExUQ?oc=5",
+   "source": "ARKA-Telecom",
+   "published": "2026-11-06T14:12:31+00:00",
+   "topics": [
+    "physical_ai_en"
+   ]
+  },
+  "85b3f010a4befd79": {
+   "id": "85b3f010a4befd79",
+   "title": "Arm and STMicroelectronics collaborate to advance Cortex-M in $200bn a year market",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbkNET2NucHB5ZHU4bUIwLVBqMVBDOEdfampDWUg1NHROZ1FZeEtlTmZXVEVqNEFKMGhWU0dpOU01ZzFaVHRXNGxGX0pvYmx6VU55eTlQb1BETDRWaUJqOEtwS3RKdmU5TmRfUnVBZVo0bUNCc1h4YUN5eUYtY1A3ajZSMGItNEhuZEZmeVBlYWdYX2dBZzdIcm0xaGt5WlpuT3ZJbHNqTlhWcmhMMi1tQ01TcjFpQ2ZBd1BuXw?oc=5",
+   "source": "Business Weekly",
+   "published": "2026-11-06T09:22:26+00:00",
+   "topics": [
+    "physical_ai_en"
+   ]
+  },
+  "0d9a9ce62c4d63bf": {
+   "id": "0d9a9ce62c4d63bf",
+   "title": "London startup Saturn Dynamics launches Arc for robots",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb1Z2WG5ZUGp6Q2tJTGFsazRjN00zVld3aEJkYlFaRGZhaEtkS0FzUXdLT2dCamowYmgxNW4wLXp4RU9nZm5aYWVYOS1YZFgybEpLZUY0NGZZU2FpMnQ1d3NaOEI1eTJvNFBJMlZ4d3Z4dklIN0h3bF85M2VqMDRYUHdJU3JvN09JV3c?oc=5",
+   "source": "IT Brief UK",
+   "published": "2026-11-06T09:30:00+00:00",
+   "topics": [
+    "physical_ai_en"
+   ]
+  },
+  "cea4d0227c6f83b5": {
+   "id": "cea4d0227c6f83b5",
+   "title": "BlackBerry (TSX:BB) Stock May Be 15% Undervalued Following Physical AI Robot Growth News",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd2pwTzAta0VpelJYRkpVYlE5V2ZYUHhLcUQwdE94QzFIS0NlNDJGbmJBM2J0bk9DSVV1M3dBdnRFajVOalpxdUpka0hGaXlnN1dPNjFtQXVTZlRpODRJdGpFZUtuLWNET3BqU0QyZnN2RkFsLUVEOS1KMzR6UmhyOUF0YXdBU2s3eGtLTXN2UnVGZkRvWnlXSlZVQXNXY01Ub25aSmxCV2hIekd5ZzRDcExkOTMtRDZPQ1EtYTZSRDhEMWlNeEJfelBmZ9IB0AFBVV95cUxOQVF0dWx5VmFlQWRKSHpraGdpSUFsZzFsTHktUnI5eXYybXNyWTBxVVhScHhyV2o2LUhaQ21CSzNzbU1CLWdPeDBCbFhEeGgzSHRVSS1NUDMxd2FNTVY0a0xoMDlMLXhvQmh4MzBaQURqMURxN2JTNVBPSm9wOThaT3ZXeE93R241WllIc3ZNUlYtMjU0TVFwLXdMZWJYRHlnRnlOaW9yc3RmSnZvYlNvdEVpSHcxbDU3TjdHbWswZnRZNHZsLW1CRzVGNXkzaEZM?oc=5",
+   "source": "Simply Wall St",
+   "published": "2026-11-06T14:27:44+00:00",
+   "topics": [
+    "physical_ai_en"
+   ]
+  },
+  "817de288fea6218b": {
+   "id": "817de288fea6218b",
+   "title": "Kakao Mobility Expands Robot Platform to Speed Physical AI Rollout",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWjJZYWkwQzEyZl9Db3k5YzZSb01WNlFNSWtuZnRtWUxUNjF2QS1lQ0JnbXdKRW5Nb2VDZnlVN0hiekpRN1QzYVE3YXN1TjRENUFjTENfU1pqakV0VHJESl9GbUZkNU41bUN3cUsxd0N1U3J5OGwwb1hiYlFCWmFXdms5UF90S25tUVNJcVJIemNGajlBWVFmTEdHbm1vNzBqVEhMdUNn?oc=5",
+   "source": "Seoul Economic Daily",
+   "published": "2026-11-06T01:22:48+00:00",
+   "topics": [
+    "physical_ai_en"
+   ]
+  },
+  "b5fee022912adb26": {
+   "id": "b5fee022912adb26",
+   "title": "ジェイテクト、フィジカルAIでピッキング成功率97.1％達成…平均サイクルタイムも16％短縮",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13TUtibVY5VTE3cEt1NGJCQkNjcUVOUm1UZlIwR1haUXFxeEdYTEc2cjBQeVBDcWVpTGVMX2RyQXFqUG55VHBCSWhFZmNzUjRnNWJ4Zk1ZMHFKZG9iQ2pj?oc=5",
+   "source": "レスポンス（Response.jp）",
+   "published": "2026-11-06T07:15:03+00:00",
+   "topics": [
+    "physical_ai_ja"
+   ]
+  },
+  "3b4ce9a9df740045": {
+   "id": "3b4ce9a9df740045",
+   "title": "アナログ・デバイセズがAlif Semiconductorの買収を完了、フィジカルAI向け半導体を強化",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBzeTQwd25IM2xRbFZTRUxqYy10a2dnSkl2bU5xaHdCR3VBYUdoaVV2Y1lDMVloLUt6amRJa1pyY0hRTjJoWExuX2UtUHA0MXN1b1FxR2lZSDZJT04tbUVMblNTSjBxVWNo?oc=5",
+   "source": "マイナビニュース",
+   "published": "2026-11-06T08:33:39+00:00",
+   "topics": [
+    "physical_ai_ja"
+   ]
+  },
+  "142e001b98b91393": {
+   "id": "142e001b98b91393",
+   "title": "フィジカルAI導入、事前登録者の約6割が具体的な検討を開始 ロボティクス特化カンファレンス「Physical AI",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0yZjhLajB3cE1wY3VNNEhHSEE4QnVPOHVTQ1BNMXBiLVUyMUJxU2lIeEU3WUpmLTVIWW9EdlhYY3I0M3BETUphXzJLQVRlMlBTbzJnY3FhaGFxOVVyYlhsX2gzYjBTeG9N?oc=5",
+   "source": "ニコニコニュース",
+   "published": "2026-11-06T02:30:31+00:00",
+   "topics": [
+    "physical_ai_ja"
+   ]
+  },
+  "58497de4a3b8cc6e": {
+   "id": "58497de4a3b8cc6e",
+   "title": "フィジカルAIが建設・物流の人手不足を補う…ARAV、T2、Mujinに見る2026年の現在地",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zQlpqcXpUSjNpMlVJWndxdHFGMGxyX21CcGVtbkUzTTZrTWNldzQ3U3BVanVYVFM1XzVYaXJCa2JzZHI3ZFFsLW5QUFlhUG80T0dRNTEzY0xtakE?oc=5",
+   "source": "ビジネスジャーナル",
+   "published": "2026-11-06T20:55:54+00:00",
+   "topics": [
+    "physical_ai_ja"
+   ]
+  },
+  "0231294df356952f": {
+   "id": "0231294df356952f",
+   "title": "テレ東系日米経済WEEK フィジカルAI ～ニッポンの勝ち筋～｜ガイアの夜明け",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE44QVBydVV1end3Njl2WHBrcjBIVE9RUnJtUzZSV2ZwcFpobVM5RHEwbGpNTm1yTWtiQjJTZm01LXhieHBmSDAwdEh6SjFRNUh5MGFwRjZYNWpWdjZZVEE?oc=5",
+   "source": "テレ東BIZ",
+   "published": "2026-11-06T13:00:00+00:00",
+   "topics": [
+    "physical_ai_ja"
+   ]
+  },
+  "c97a3dbcbe2571a3": {
+   "id": "c97a3dbcbe2571a3",
+   "title": "“フィジカルAI”ロボットが公道で実証実験 インフラ点検への活用目指す",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yUEdETDNINUotRUlESXFRd04tUjJVeDNLYnQyUTh0QldNWmVSY2ZBWDMtRmV6c2Z0YzRrLWY4MkR1UTNGbGtKLS03ZWx3dHJtazNJdllpMFBhOGdQQ0xGU3YxVnp6Tlo5REtJSm93?oc=5",
+   "source": "KBC九州朝日放送",
+   "published": "2026-11-06T07:59:00+00:00",
+   "topics": [
+    "physical_ai_ja"
+   ]
+  },
+  "0de3137ba548904e": {
+   "id": "0de3137ba548904e",
+   "title": "福岡：フィジカルＡＩ公道走る 北九州市支援実証実験 橋の点検実用化目指す：地域ニュース",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1NNlhnMjFBNWZhUU1PV2p2NmNQcDJPdENtTVNZVE8zQWVQUHUzUDBzRm5IdlhiVXFGLTdQekNtbFA4SFZxRk1VeUw1WEM3QTExUy1kcG15TzFYYW81VGVYRE1lOG1KLU9xRmNkenA3MS1ybEE?oc=5",
+   "source": "読売新聞",
+   "published": "2026-11-06T20:00:00+00:00",
+   "topics": [
+    "physical_ai_ja"
+   ]
+  },
+  "867eb11ff7179bd0": {
+   "id": "867eb11ff7179bd0",
+   "title": "成長戦略の実行へ「フィジカルAI」など16項目を「重点項目」に | NHKニュース | 高市内閣、ＡＩ・ネット・ＩＴ、半導体",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41blVvV3pIZVdMTm9FYW1pVXhkTFlQZWFPbUo2V0l3RXVBQjNGODFxUEJvSVVVSjZDVWotVE1uRlVsZVhQaEwxSHZ6UHpXUW5jT3paVDlNOU10alFkUHpZ?oc=5",
+   "source": "NHKニュース",
+   "published": "2026-11-06T10:16:00+00:00",
+   "topics": [
+    "physical_ai_ja"
+   ]
+  },
+  "c7ff24989e21f0b9": {
+   "id": "c7ff24989e21f0b9",
+   "title": "大林組と東北大学、フィジカルAIで研究協力 人材不足・災害に対応",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LQkhGUXFkM0tEVFNtNEw3aTZqanYxeDNqUVVOVi16VDNSZTRrVXZzWW9BSm9qZ1dLeFZNRlA5ZlBrUG9YdEpaTG1OSDBaalR4MmE5OEV3b0FWYWVMa1k0WTJjajlKV1hEQ253Mg?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-11-06T05:00:00+00:00",
+   "topics": [
+    "physical_ai_ja"
+   ]
+  },
+  "26940b03fab71220": {
+   "id": "26940b03fab71220",
+   "title": "三菱電機、フィジカルAIでヒューマノイドとCNC工作機械が連携する加工システムを開発。省人化に貢献",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jZ096eUN4X1RwSXFTbzZ5UU9TckRRa214S0RNdGRwRG5Xckg2X2x4UVNZaUp0MFh5V3ZrTlVaWEtrRk52WGpFOVFKRnBhMTItNURrWUp5eS1kME9hbkxqN3pnZkhyTW0waHdTRnU0SDI?oc=5",
+   "source": "AIsmiley",
+   "published": "2026-11-06T07:36:19+00:00",
+   "topics": [
+    "physical_ai_ja"
+   ]
+  },
+  "35ddf45eeb9e5758": {
+   "id": "35ddf45eeb9e5758",
+   "title": "【AI Innovators Forum 2026レポート】 フィジカルAIは産業をどう塗り替えるのか 〜早稲田大・尾形哲也教授×ロボット議連会長・山際大志郎衆院議員が語る”日本の勝ち筋”〜",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BQm9hT2EzblRSSFUtaWNGczNFM2hHNWd4dGdmcjQ2MzF0SnZONklGZDhXRnVPNW5TdnVnSUswUFpLVVRGREF5S0F2ZUxKMkNPNWhRdzdrWXc1Y1ZrZEVOQVlQbWNIMWdO?oc=5",
+   "source": "株式会社エクサウィザーズ",
+   "published": "2026-11-06T02:30:30+00:00",
+   "topics": [
+    "physical_ai_ja"
+   ]
+  },
+  "eba254e0c1339511": {
+   "id": "eba254e0c1339511",
+   "title": "マクニカとTGES、フィジカルAIでプラント点検自律化へ 人型ロボットとデジタルツインで実証",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52Y3dmVW03R3dpSUlJOVBBejdOM1NqMHVVeHVxZHA5VnhIOVBIb2NCMUgxVHZ0RjZLeG01WVNjemZSZm94TWU3ZWcyampvVmlnbG1sR0lsVl9KTmVBRGRV?oc=5",
+   "source": "電波タイムズ",
+   "published": "2026-11-06T06:32:53+00:00",
+   "topics": [
+    "physical_ai_ja"
+   ]
+  },
+  "25f88d247f4b89cc": {
+   "id": "25f88d247f4b89cc",
+   "title": "韓国のファブレス各社、フィジカルAI向けNPUでロボット・無人機市場を狙う",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKbWhxY3Btb1JDaXBRZ0FoSVpDYnQwMkNHTS02OWllT1lHNS1GejlsUlk5SEVmdlZGNFBpYWxxVWZoRm9pY3JNT0llaUVZQlhwOWo3eTRwdDlUS2ZCRDZYSUZuUFRmQ3k5NGZrWjFQRmc0dGZE?oc=5",
+   "source": "BigGo ファイナンス",
+   "published": "2026-11-06T08:06:00+00:00",
+   "topics": [
+    "physical_ai_ja"
+   ]
+  },
+  "4395f09350a78a41": {
+   "id": "4395f09350a78a41",
+   "title": "北九州 八幡東区でフィジカルAIロボの公道走行実験",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaQ1c0VndVem5qTHFLcTY0eGNOMTRad2JxMUgwMjV6MHN5eVFMOVhmSzlITXU1d0p3LS1PZ1hqeXA0cWxoNmlyaFBEZGN2RHV5VjdNWDJjbTRHR1Vxb0xR?oc=5",
+   "source": "NHKニュース",
+   "published": "2026-11-06T07:45:58+00:00",
+   "topics": [
+    "physical_ai_ja"
+   ]
+  },
+  "0d54d27e0823f8c6": {
+   "id": "0d54d27e0823f8c6",
+   "title": "日立とKongが協業、AIエージェント連携ソリューションを拡充 アクセス制御・ガバナンス・コスト管理を一元化",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9vSnB5a0YwVGRMTmw3b1JfY2ZITk5sSy1ENGFRb01HQ3lGYVFXN2JlQTdTR082QzllUlk1UXlEb1RsQjFzSTBSSjVBZmRydUY5WVFScDRMaGhyVEprZlJGSkw2SkQ?oc=5",
+   "source": "ロボスタ",
+   "published": "2026-11-06T08:15:03+00:00",
+   "topics": [
+    "physical_ai_ja"
+   ]
+  },
+  "77cf22169876fba5": {
+   "id": "77cf22169876fba5",
+   "title": "2026年の流行語大賞に「AI暴走」「フィジカルAI」がノミネート！ デジタル関連の言葉も続々",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95Z0dKb2ltYk9wX1hXdnFsLS1EeXZhTzIxMzZzcEV4YWlLTVdsTWR2NHRWZ1ZON3RCajEwQzJaa0dBMEpObjdHT3E5U0E1UzBXM2c?oc=5",
+   "source": "DXマガジン",
+   "published": "2026-11-06T06:05:19+00:00",
+   "topics": [
+    "physical_ai_ja"
+   ]
+  },
+  "5a9a0b12da52280d": {
+   "id": "5a9a0b12da52280d",
+   "title": "AGIBOT、データ収集から現場運用までを統合する基盤「Genie Studio 2.0」の紹介動画を公開",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41bEZINWIybWJHcko3NmwzSWVwdWRaZEJ1dXJWMmtiYjZOTU1OaTFyaXZoY2RrbDZzd25xb2ZRSkw5bURsb3hBQ1hzb2w4alg0YkExV1JFNzVLYVc5NDlFVHUzUjc?oc=5",
+   "source": "ロボスタ",
+   "published": "2026-11-06T09:00:03+00:00",
+   "topics": [
+    "physical_ai_ja"
+   ]
+  },
+  "68319127db2be00d": {
+   "id": "68319127db2be00d",
+   "title": "Physicl、フィジカルAIのエッジケース問題に取り組むため1,000万ドルのシード資金を調達",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM2Y3eFRjb0kwM2JDbEJMdTNUam5SNTk3aVQxVVlKclROYkp5cHllaVRCNHJTRGtwTTJXTG81SW94dTlGeW12RXA0S0JNUnFwRVhIVS1NNzFGZS1ybTUwSWFMUlJCLU5WV3diRTR4MG04VVVTdFBfRXh0aXkxN3BhelM2OFpDci1VbnZicW5PeHRveE9Y?oc=5",
+   "source": "Unite.AI",
+   "published": "2026-11-06T13:20:05+00:00",
+   "topics": [
+    "physical_ai_ja"
+   ]
+  },
+  "075f2d3c6990e3e0": {
+   "id": "075f2d3c6990e3e0",
+   "title": "Samsung、KT・SKテレコムと韓国の「AI RAN」プロジェクトを推進",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE94b2FWZWxYenRCOE5LeUxIek42UGdzZ2hIWDcxQVJkWkVIQ200d3R3WjJPNmlKNnJsMlFJcTdNVWVEc3ZmeWM4XzZaa1BNaElQWEl5ZQ?oc=5",
+   "source": "ASCII.jp",
+   "published": "2026-11-06T19:05:44+00:00",
+   "topics": [
+    "physical_ai_ja"
+   ]
+  },
+  "02205577dd4232e4": {
+   "id": "02205577dd4232e4",
+   "title": "韓国の「ROBOTWORLD 2026」が11/4から開幕 フィジカルAIとAI製造をテーマにヒューマノイドパビリオンを新設 1枚目の写真・画像",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE81cURFWEQ2OXp6ZEF3MlB4MlpFa3hCWG5hbUltUlAxb0N4U2RYZ0RjOC1aNXFLTzlyU1hZLUFZTWdrcVVLX1RvZkRHeEFPTS1VenJST1hCSFcxVU1xWlJDdzZxR1RKRTZOeGhOY3M5cmotWVE?oc=5",
+   "source": "ロボスタ",
+   "published": "2026-11-04T06:30:03+00:00",
+   "topics": [
+    "physical_ai_ja"
+   ]
+  },
+  "597efacadefb6fce": {
+   "id": "597efacadefb6fce",
+   "title": "【NVIDIA Jetson Thor】【フィジカルAI】ロボットの「頭脳」を現場へ、ファンレスAIコンピュータ『EAC-7000』",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43WTg1dEI1cFpQTFpIeWVVUWZOMnAtWDNxWUZVaUR4em9iNUlZTlJxaUszc0hUU3dHdHZTa3FGd3lMUDBLdWt6VGZxUFFGaTN1QlI2cWtxeFo2cms?oc=5",
+   "source": "valuepress",
+   "published": "2026-11-06T04:00:00+00:00",
+   "topics": [
+    "physical_ai_ja"
+   ]
+  },
+  "effe974dcd47e234": {
+   "id": "effe974dcd47e234",
+   "title": "丸文、エッジAIなど3分野を展示へ…EdgeTech+ 2026",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tbVIyVmRPZGs5R1JCNWhZUGhnR2FLZ2YzOXBXRXVJUW93UF85RW12Q2lSc0p3c1hjVHlpWlhCY2NTWTh2Sm9EYTh6NGtWNGlaX2VvRlFPcjVybnliVEx4OVJ0X20?oc=5",
+   "source": "ロボスタ",
+   "published": "2026-11-06T01:25:02+00:00",
+   "topics": [
+    "physical_ai_ja"
+   ]
+  },
+  "10c7d299a12592a3": {
+   "id": "10c7d299a12592a3",
+   "title": "世界が注目！日本のAIユニコーン「Mujin」物流センター省人化へ：ガイアの夜明け",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMElGNWY4LXQ1TVBYbnlkMEk2Z3REcGZVRzJqNEZyRUpqRUZWYkdpSWktV1dRdlc5WGt5cFFDVXUyWS1rMHIxQkE5SkNJSmQwNURiY2hNekpOOW1PMDBETm12VWo0OUZNRFVyUG5QenNfd3hXeGxid0RzdG9BdFNLYTUxSWhXVVNJalNwQ2F5Vk9RV1BidXl6elZPQTRyZ0V2RDdFZVpoUmpibDVCYXlsYzA2OWtzcTJrZ1ExRmJiM2lVV25EcW5JVVFJTVdjSTTSAX9BVV95cUxPUC1kS1hNRTBzaFJZSzVPMjQ4eWc2UEZtWUtNY1p2bHJHZmVsUFpDdzgtZUJ6RUtsSS0zOVREWGV5TEM5OUJHd0laLUpGczFMNGdGOXViY3paOE9jcERFdnFweThXR0FsaWQ0YkNQWVRNcWF4N25lMkxHQnNibGxJ?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-11-06T13:54:00+00:00",
+   "topics": [
+    "physical_ai_ja"
+   ]
+  },
+  "aac9332fcb0f5ea2": {
+   "id": "aac9332fcb0f5ea2",
+   "title": "九工大発フィジカルAIスタートアップ「HPI」、日本政策金融公庫から1,000万円を融資で調達 - 写真・画像(1/1)",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TNnpWVEZEaG1LRkNzSzl4N20teG9iOXRsWFRrNDhycWNkWGNkNlNkRWpxMHVKVlEtVWNlTVk5dnhzTjZSQ0JsQjZKVjhsZE5ZQlBNYk5Wbw?oc=5",
+   "source": "西日本新聞me",
+   "published": "2026-11-06T05:31:41+00:00",
+   "topics": [
+    "physical_ai_ja"
+   ]
+  },
+  "b487d405f3918749": {
+   "id": "b487d405f3918749",
+   "title": "九州・台湾クリエイティブカンファレンス in 大分が開幕 AIの現状と未来を議論",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWUhIdHJLUi16X0FjVnplSnFZWmZYRkR5dTJseWpjdWZlTldLM3dmUTlPSTFDbWljdVpmYWVlYWxfeTFfVkdLTFQ4NnpReHctb1laU0o2OWx5UzFRclRrQl95MEViMUdHV1hLbWF4RmxhVGpYaEZ2WEpFU3F0ZUlyZ2Vpc0swcm02LVN1RkU2WTlfVkZYbnphMmpRVlBPLW9iVVVZ0gGoAUFVX3lxTE4wNkxwUTZFMlFObGNZaEVZdkpraWVLRGpFSW9jRC03Q0t4OTVWZXJCaGlXZ3pORFN0Z0E1ZVNoQmVDMTdhanFtWDdZbXVKV2hrQk9YNTVDdmhqdXo3dVJndDlYMWZhYUNDMFVLVy1xa3dKSUl1QjJ3VGNsTmlhQkZLamZsemNXdzI1ZUkzeGJDOHpnMlFXTWZwV0Q2ZWZwVXpWaHFGaC1PaA?oc=5",
+   "source": "ｄメニューニュース",
+   "published": "2026-11-06T09:08:00+00:00",
+   "topics": [
+    "physical_ai_ja"
+   ]
+  },
+  "beebc8dc3cd98e95": {
+   "id": "beebc8dc3cd98e95",
+   "title": "イオンとMujin、AIロボットやWESなどでフィジカルAIを構築し仕分けから混載積み付けまでを自動化",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzMkdidmwyUFVCQURmcDZFYmJXZTlJZ0JGY0M0X29RMWk4X21zN0pyNG16a2t0VmpsVmV3bVVIdHp5MXBIbklPRXlyQlh6cy1Sb2hUZtIBWkFVX3lxTE5kSFhaTGhZN2NZNlhGamhTa0dCd0VFeklKNzBmekozSURJamJvaXg5QTM2alB5ZWRjc1p5c09PWGEyaVBINFdndjdoRDJFZF9SN0wxWnJnc2xEQQ?oc=5",
+   "source": "IoTNEWS AI+",
+   "published": "2026-11-05T05:04:29+00:00",
+   "topics": [
+    "physical_ai_ja"
+   ]
+  },
+  "d3620183fa0f3f05": {
+   "id": "d3620183fa0f3f05",
+   "title": "Fairy Devices、「Kotlin Fest 2026」にゴールドスポンサーとして協賛決定！",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JN2k4UnpDMlVfNmNNNGgyd1lwd2VnNEE3ZEZfWnFTZDV5U2c1ZWloUXZ0akZxZjhYY1c1LWJ0RldaQVI5MDk3ZmZVYmtNcm5zWTBiWQ?oc=5",
+   "source": "ASCII.jp",
+   "published": "2026-11-06T03:02:34+00:00",
+   "topics": [
+    "physical_ai_ja"
+   ]
+  },
+  "22fd91eee0ece908": {
+   "id": "22fd91eee0ece908",
+   "title": "九工大発フィジカルAIスタートアップ「HPI」、日本政策金融公庫から1,000万円を融資で調達",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBDUlpPd1dqcFVKS0xXbWg1S3c1NjZxWUtvamw2QU4tN0E0RktCbnVLWWF4N1gtUjNldFYyM3Zsa1dVbWduN2NWdW82Z3JvdmMxYlVfUDFLTXZDWUlhWVc2VFR4RDVacnNDSVE?oc=5",
+   "source": "PR TIMES",
+   "published": "2026-11-06T02:40:01+00:00",
+   "topics": [
+    "physical_ai_ja"
+   ]
+  },
+  "146ac78ae5816e7a": {
+   "id": "146ac78ae5816e7a",
+   "title": "Embodied AI Unveils Factory Robot That Learns from Human Workers",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb2psakViZGZJcDFEMURqLWNnWVlneDZyY2RhZWNVbzNtQ3E2RXJFc0dDRng2eDh0WTVmMEpWNGJzOGFEYWZUaHpDSllKd0t4MHBpdGVLR1hiT1NjVEZCcFlnY3hvSzZqdFV2dl9vT084cWZTTzhudXRubXdnNjVKeTlVT2NFTkxuMUVlbUktZ0V3ekFPeU5HZUxFNmNQYWVNNnZkZVdaMnRPMFJ5UDlaakpn?oc=5",
+   "source": "EME Outlook Magazine",
+   "published": "2026-11-06T09:58:01+00:00",
+   "topics": [
+    "embodied_ai"
+   ]
+  },
+  "d5d928506cfd0dbf": {
+   "id": "d5d928506cfd0dbf",
+   "title": "Aptiv partners with TARS, Shanghai Electric on industrial embodied AI deployment",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMTBTVGZ0SzlyUERwZEdXNXpLcUx0b0FXVWRvSDY5dWdGdkhQcmxDQmZZd1NrTzU3cElnM3ZHeTBqNjctRWtzZEJvREpZMEstb2NnSDN3SGZWUVpBVUFRVlVCSlhjNFpNb3lpMUNNZy1oMHY1NS1paXRDTEpQLWNYSVNmcHd1Q0xQcE9xVmJ2UjRPSE1vckUwOEpfbEkwX3RGZG83YVUzaXlibURFYmtaTTljSm9IU3BJUldEVnRMQWJZc2tzTHUyeV9XckRneVpfYU02dXA2TXY?oc=5",
+   "source": "Gasgoo",
+   "published": "2026-11-06T13:05:41+00:00",
+   "topics": [
+    "embodied_ai"
+   ]
+  },
+  "5822afde9f1c6c82": {
+   "id": "5822afde9f1c6c82",
+   "title": "EMBODIED-AI",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQWxuSnpMSmpXdzViOXdXOFlNWVAzV1NlNmhYbHhLNFBndWh5U0ZRenFudUw4SnJjMnVjN0F0WE1rUU5GVTNfMDBiNFc3UFU0b2p0NkxoMTBQZkNHYldQeGU5cFlJR2dKN1paNmI3TXVxNlNJb0k3NWxQM2hYd1l4M3VwdjdVTFp3RHpXTEdnM01Odw?oc=5",
+   "source": "The Facts",
+   "published": "2026-11-06T08:00:17+00:00",
+   "topics": [
+    "embodied_ai"
+   ]
+  },
+  "945365142213a519": {
+   "id": "945365142213a519",
+   "title": "Unitree ties up with oil giant, AI startup to develop embodied AI robots for oilfields, refineries",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJb05KSDdYdzBCLXAxNzBlYjNvQkh1TzhlNllnVE9jXzg2VE0yRTM1VHhwUExYcHlpbmtndnU5X3pGdVQ0ZFcxc0pyMTJoallmWXgyVmc5OXBDdi00ejR4TlNn?oc=5",
+   "source": "Global Times",
+   "published": "2026-11-06T14:34:00+00:00",
+   "topics": [
+    "embodied_ai"
+   ]
+  },
+  "9872faeb63ce415b": {
+   "id": "9872faeb63ce415b",
+   "title": "Embodied AI at your service: From expos to coffee counters and beyond",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQanpwX3BmSHd3LTFwdTVVYVJiMVFITkRlXzBwclI1cWgyTjdDc2FGSVAxVWZfMGVPaUotZlQxdmx1Qlk1SlROQWNGQ1JkQ2tYbTZQZnItZmxabnM0VjFPU3hOMEN5Nm1aV0lfUGs5U2hRUWh2SlZCTC1qZ0lTU29tUDg2Z3FKMEtKWWYwczRxX0xma3I5T0RVRkRIdUp4cVlocDJ1ZjdwSWp4Sm0wNVNhdTdQeXZjcjJIamlPUnhBa1V6N28?oc=5",
+   "source": "CGTN",
+   "published": "2026-11-06T06:40:27+00:00",
+   "topics": [
+    "embodied_ai"
+   ]
+  },
+  "04f5ae249f2ee8be": {
+   "id": "04f5ae249f2ee8be",
+   "title": "Cainiao Opens Global Warehouse Network to Robotics Firms as Embodied AI Moves From Showroom to Workstation",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nbDV6elh3c3hiYmwybl9FNUg3LVEwelJSdHNlaldOQjlBeDFmekNoU2d0Q05yWjFZeVR3YUZCWnNHLVJVUEVmN2xGTTFkbHBIRy1tbUEwMXFQbXpCU3pRSURvbTV1cl9mdUNhdkVsTjlmN1FuNXc?oc=5",
+   "source": "BigGo Finance",
+   "published": "2026-11-06T15:55:00+00:00",
+   "topics": [
+    "embodied_ai"
+   ]
+  },
+  "149b1b0191fbd65a": {
+   "id": "149b1b0191fbd65a",
+   "title": "Cainiao Opens Its Global Warehouse Network as a Real-World Training Ground for Embodied AI",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd2pYN0VyT3RWR25zTldlYVB1QVlfNDFoRWdpVmtoWmV6bG1YSTNTUkh1YWFGQ2lhaUtfbkUwQlZIOXctOTBNMFh5ejBsRjNCUDJUMzcyZFhoRFhFaVBYcnlZVGlNUkVvQ0htZ2hQWGI0d1VYU05lSzJTbDQ3azNpaEFMb09COXR1UjBVcWVXMmpWemRxYUhGNTd5TkUtMGlUVTRxakJhSTdPcExaclJiVA?oc=5",
+   "source": "Pandaily",
+   "published": "2026-11-06T07:58:58+00:00",
+   "topics": [
+    "embodied_ai"
+   ]
+  },
+  "a4b5ec42216498ac": {
+   "id": "a4b5ec42216498ac",
+   "title": "Aptiv Showcases at CIIE, Embodied AI Computing Platform Nears Mass Production",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTG9TbF9MdjBob3ZqMzhldXpEQzNzdmp5LUFaZzg3NFJVd3Z5SWpnVHRmQXZWY05XZU04U2M0NmZyMEo5RDgtSGRJNjY4MU1SVnUyMnNFOExvSXA4ZWxJUWJBRE9ETkx6aDhIVEdiTnZiaXpXUnNubEwyamV1OWlfcXJxNGVUOXZBbENKbk1fTjFOT0RyeFhnNFpNUVpEUjk0ZjAyU1ZsTlJCQ2FROHZPdkEwR3U2Qkl3Y0NhSUF2WERwaHN2QlJfMzJlRVRnbmo0UXFLMg?oc=5",
+   "source": "Gasgoo",
+   "published": "2026-11-06T04:15:21+00:00",
+   "topics": [
+    "embodied_ai"
+   ]
+  },
+  "3562d5d79a6087c3": {
+   "id": "3562d5d79a6087c3",
+   "title": "Guangzhou Boosts Embodied AI With Open Use Cases, 40 Billion Yuan Industry Fund",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNjlVdnRZbFRxT0dUbUpBdm9GY3hKRE5PRnFWdUVoVWM3V1hLRDNMT1c1eVlEaHVxWUFTbkRqRldNMUJmUG8zY1g5STh2ZEdxaWFBcHZGOWFVZGZLSFJEakc2ckpSUnZrOHhvS3VjdGhFRC1yWDJxakFCT1ZxZVgwSkZPcEtkc1JZcW9pekNyTUtxOEIxeXBYWGZvTmlTRGZLakZ4bUNQM3RyMFBRQmxRZzNQN1Z4dzlTYUd3eEFBQ2xoTlVabHZDT3FTY0M1ZmxOZTF2VDltMA?oc=5",
+   "source": "Gasgoo",
+   "published": "2026-11-06T03:38:11+00:00",
+   "topics": [
+    "embodied_ai"
+   ]
+  },
+  "43159c5f59897bef": {
+   "id": "43159c5f59897bef",
+   "title": "Lightwheel AI, Unitree enter partnership, bridging full pipeline from robot training to deployment",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTFkwQUZrdFJCQ0xMT0pTT1Vwd2lVOGNZVzVRWTdrakstOUdaYXJURFAwZnRfZnZCMmRDcDM0bVE3VFdrU0ppVGZIaDFlYUp1WjlISHV1Z1poRUsyWEpxTGpLOVF5M25JYkRxZGlIZjJXZG1kV3VYYldlUkVKTEtBVGF4bjY0Q2huNXAxLTBTWTBaajNURFRNdTJNSEtpMVhUTDVrM3RabF93QkRfTE8yZUdKNVJKSl9qaXRxUkNsNFh5M3BkcnhhaDFZUkNmSF8yV3Fud21nSFdUS3RNMWxfWHpfR0Y0RFppY3RZT0JZVQ?oc=5",
+   "source": "Gasgoo",
+   "published": "2026-11-06T14:05:33+00:00",
+   "topics": [
+    "embodied_ai"
+   ]
+  },
+  "b6fe3a94ff3bceec": {
+   "id": "b6fe3a94ff3bceec",
+   "title": "China’s robot makers have mastered the moves. Now comes the race for brains.",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdnhwajF6a0JNSm0xcU1WeGJGbUFlWEVRSzc5SzlBc1hKSFVmdUh1aXB2bWdDSm1wcGpoVWF5TGFhaC13V01xOXVZTkp5NkZZanVLUGxGc09mVzUxY1REWGR3ZGJIbXc1Rzg4VjBSZkl2QnpDRVFjSk1STHk4SWQyQlowS05HM28?oc=5",
+   "source": "The Japan Times",
+   "published": "2026-11-02T00:29:00+00:00",
+   "topics": [
+    "embodied_ai"
+   ]
+  },
+  "4dda76846f05faad": {
+   "id": "4dda76846f05faad",
+   "title": "AI Leaders from JD and Xiaomi Discuss Talent, Innovation, and Navigating Uncertainty at HKU Forum in Beijing",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaVZVT1pHel9BanhJVm9ZS1BqRUF3RFFFbUZGdWo2Nk1BaE5iaVYyMkZTMllGMmJmYjg3d0ZTdENYMXEzSkZ1STJUWU1aWEFqYXhSRV9ydHl4a2xxQ1ltYWFpUmwxZDJ2TU9MN0drdGh2eGVPUUx5TmxrbktBalNoTw?oc=5",
+   "source": "The University of Hong Kong (HKU)",
+   "published": "2026-11-06T07:29:00+00:00",
+   "topics": [
+    "embodied_ai"
+   ]
+  },
+  "ccd72ba03596ffac": {
+   "id": "ccd72ba03596ffac",
+   "title": "Pudu’s unveils new strategy to make all its robots share an AI brain",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ18wOXdFYjJVNlpON2xGV2xISFFCX1JIZEQxelRKWVN2a0ZkZjhCdlBFdWFDV3RzaV80NFF6Xzhhay1PYnN3OGFfcFp0LUI2eEFMbG5PSlM5RnE2MV9UV0JlQVhid2dQR0s0ZVV2WGlfRklsb0ZvSFBDWUdiRGZSVGRXSGVNbDZMcVdHeGlpQ1o0UHc?oc=5",
+   "source": "TechStory",
+   "published": "2026-11-06T07:28:41+00:00",
+   "topics": [
+    "embodied_ai"
+   ]
+  },
+  "7403bc4e3adaa709": {
+   "id": "7403bc4e3adaa709",
+   "title": "Chery Group Global Strategy: Local Assembly To Reach 70%",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSEY1Y0ZYajZMTzM0cUhYM3czcmd5U2JNdHFFalFLcm1OZjNGcTF2aHV1OFhGUkUtUENpcHdPbC1jR2pCbGJHb0NST2xVTlhzV05adXdyMDIydU5OeUExTnQ2R25acUktMFI2M1VTU2ZBMEtVRnhoNVZlUzZLY05xd243RE5jWk9DNEVpTl9WVHA4TV9KaFJpQUFzb21UaEtKaHJNOVpCX1FiLXpPeF9OQjV3RENmR3BiUjlPbWF2MGUxZ3FsZ08yVGFWZXpZMWhZb29TOFlINXFuNkhwaXl3UHRjbXFoWDlX?oc=5",
+   "source": "DSF.my",
+   "published": "2026-11-06T01:33:43+00:00",
+   "topics": [
+    "embodied_ai"
+   ]
+  },
+  "608cd88c3a8f3ff2": {
+   "id": "608cd88c3a8f3ff2",
+   "title": "Embodied AI in Singapore: How Construction Robotics Could Transform the Building Industry",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQjdoWGdlcl9wakZ5Wk5GaXpMV1hCM2I1dV94ZlBCSXpJZnFPM0RCbTExUVZ1eFRUc1ZjNWVGODNienVpQUpXR1lhRUFXVms2UlFoaW5QbE0wb0tWcDZiMXdXVDNNOXMyNFZWSE9kUklKMFRibTdrNEk0bHZNNmFUMjk5SWhKbFJyckQ3YXdBem5tSjJRVkp4czhDWFhqV0ZHQ3hRR19LSGI1QUlGOFZkSEVHQTMtcUNKMUU1V0VGeWJPOG9uOF9jYW9iTVRDQQ?oc=5",
+   "source": "Business News This Week",
+   "published": "2026-11-06T10:31:47+00:00",
+   "topics": [
+    "embodied_ai"
+   ]
+  },
+  "1a98000d35c37b85": {
+   "id": "1a98000d35c37b85",
+   "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVzlkcUZFWmc3Uk8zUXVDTi1TclV5dGtSM0d4bG5hTF82TzZhbkZxc0tXbGE1b0ZtN0Z4UDhsdy1pTmFBNjE3RmEwd0V0akVrWExpbXktR3FhSUZlb2ZRNFhNczh4S2xGb0RNbElZTlliZXBVMENNNmdKbE1MSGJaREhDanhxMlN6bXpHZEtDcWttU01Zc1F2MnJaRy0yM29BVDUwVGlpc1ZaQlFsT1Y3Q2RPeEdKNU4zc1p4LWtsbC16MkYyeGh4cFAzYnJlZ9IB0wFBVV95cUxQMHVGVXhVb2FVVjNlaVF3dFZlT3UtNlhybEdBaVEwWHAwSVFETUhBWDJacFdDSVpzLXZjbDJlamJyQmJZQU1idWd6dXpvVnl3VVU4dzlDRElpVlp5TFRKYXJLUVpabnp3SEs1TlhqbTg2cV9wRVNmRTROZGkzRmlXUXAzZG91VTNBN3Axb0pyX25HT2NvTnRLUVBWRUNrMVhrVzBpN2N6RWxoVmRVMmRHc0MyVlk4T1NZbFFneXJsNzN5TE5iMkk5UzRzZWJ0RFIzU1VJ?oc=5",
+   "source": "MIT Technology Review",
+   "published": "2026-11-06T10:00:00+00:00",
+   "topics": [
+    "humanoid_en"
+   ]
+  },
+  "53f8c4f500e2ffa6": {
+   "id": "53f8c4f500e2ffa6",
+   "title": "Agility Robotics’ Nasdaq debut invites scrutiny of humanoid robot market",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcmp2QnJjbUhiWkhTQmhfZzgydGJIS1g3QkZsVnVyYjJvV19xUWpMVkNwS0dyWXBoOU56WThDRVZPMGk4cTExY1lEQTZaREtVNDdiSjB0a3NNOEtTb1F2MHg3aHJBdkN0V1RWTWhVUWRONmRkM1JrY29NeDBzZkw3ZFh1U2c0cV9KcGg3X0VHamxONS1yNk9oWU03dEs0TFNyM2FDTG1NVGpVZFU?oc=5",
+   "source": "Ars Technica",
+   "published": "2026-11-05T12:00:41+00:00",
+   "topics": [
+    "humanoid_en"
+   ]
+  },
+  "e51aeded5e55b6e1": {
+   "id": "e51aeded5e55b6e1",
+   "title": "Humanoid developer Agility debuts on Wall Street as it 'doubles down' on Pittsburgh - Pittsburgh Post-Gazette",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM25EdGExMTBmRFZmLVpzcWlod2hwQnV0am5nZ3U1NG94YW4tcFo0blVPZ3FwZmN5NDNudnF2Z1RWdExIeFRiV29VZVhOYTMwWEFUWXpIbWpsQ1IwejVBTWxKdlpIcUU5SmR5LUFsSk5NbUhNa05wQW04ZDNhdThydHVfNldGNHc1ZVZyV1FYU012UVl3NEVNdE1DYmNpNjd6b0ZVZUxQNlhZQ1VKazZmMDNYWUpXb00tUGc?oc=5",
+   "source": "Pittsburgh Post-Gazette",
+   "published": "2026-11-07T00:00:00+00:00",
+   "topics": [
+    "humanoid_en"
+   ]
+  },
+  "d638e050ff66c00b": {
+   "id": "d638e050ff66c00b",
+   "title": "Salem humanoid robotics company Agility goes public on stock market",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcU94VTBpTW16MVRtNDBSZ2hnV3BqS3RIRXVFd0ZrazRyWFNpbnBGR0Q3bW5NRWt2ajV4NlJjRlMxWEF3YXFxeXZSUUFmTno1Und6MkN0UFdpZmUtQjRSUXFfcnhRVWNxMUxvcFhKVFFnQjFMN2M3aGV4bHZHWnpqbEYza05PMVN3R0kxOE1iai1DQklpYV91dWpVYjdVM2dOU1UtZGtRaDdwb2dvTEp3WXFDLVB2VV9vd1RYdw?oc=5",
+   "source": "Statesman Journal",
+   "published": "2026-11-06T23:59:00+00:00",
+   "topics": [
+    "humanoid_en"
+   ]
+  },
+  "4fe8655a204dfbdd": {
+   "id": "4fe8655a204dfbdd",
+   "title": "​‘World-first’ bionic humanoid robot anchors unveiled by Chinese state media",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQUhjWmJrT1Y0ZGtqeVVxVG50X3FCT2l6TTI5Z2R3c2ZPazhMOXRhUDdXOWhnSS1LQTgyWmhNUXlwcmpkNUpjT3F0Xzg3UjZwcjdfeG53VEtqMEtwajlJV0xuTFJPc2p2TUdQcHRyT05mb01INmhkSUZOMzFWTGpVY2prZ3A0MkNJc2dFdjB3QkxqczdrSXFkTjQ0QQ?oc=5",
+   "source": "Interesting Engineering",
+   "published": "2026-11-06T15:07:00+00:00",
+   "topics": [
+    "humanoid_en"
+   ]
+  },
+  "a6f2269999aa83be": {
+   "id": "a6f2269999aa83be",
+   "title": "Two Humanoid Robots Fail 24-Hour Convenience Store Shift Challenge",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbkpLcFp2MDVWOGhiTWJiMTFWTjFzTnBvVFBkZ1gzS3JsRnJiUTU3NTk5aThSaTNlV0RyN0dIZmNIaW1FamE0VUJNRm9jY2tGYWxjMHF0NlVjb2NIdXB0QXhJNDJMeFJtUkxmSDNDWWNrVzQyMVpXQUx5UHE4UkVzV1dybklNRVJkSk9RQ3EyMTgzWU9YVDdIWmQ4b1AybDBFTU9xalhQRdIBrwFBVV95cUxPTWFvRWdjQ0dSY0tLTURxV2lKREVQckV3YlA0UVRoRDJxbEdQUUlkRk9yTUxYZjFCcE4wbF9qNFdoZFRUQUV4U3RsR3ZMcmtHSF9qVmhQQ19HMDVJS3FDNGhHTXN0aG41bEJRUTU2MnJCMHBwMFhWZG1XdWs3WU1Ld1c1RGRQcnNTRFc4TzhiNHN0bE8xMzFNTEo5VlNDZnpNYlBvQU9yWlBPcXYxMzBz?oc=5",
+   "source": "NDTV",
+   "published": "2026-11-05T15:12:23+00:00",
+   "topics": [
+    "humanoid_en"
+   ]
+  },
+  "e0abddea872853a1": {
+   "id": "e0abddea872853a1",
+   "title": "Humanoid robotics firm Agility goes public in US robot bet",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUDlDNUJuN0xSUEJ1TUhfYnQ2WHhMaEMwU0dIT2FFS2hVcHpISkNsZGZhS3ZPTUZDZkRUdUZuV1F1ZV9zQjMza2tZWHBBRXdHdl9yaEVNSk5jcE9qTmN4QWZhQkkzeGVSUmplUzI4eHNZNTVFTkdQTGtqbWE2MnU3b3htd0s?oc=5",
+   "source": "Semafor",
+   "published": "2026-11-06T17:32:00+00:00",
+   "topics": [
+    "humanoid_en"
+   ]
+  },
+  "57743fcc3d76ac26": {
+   "id": "57743fcc3d76ac26",
+   "title": "Humanoid Robotics Reaches Public Markets as Agility Begins Trading",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVmU3OXFscEJDVDVIUlk5NTZaVnM0Y1BZdWE4a3p5ckVRMlNCZkt3eC1aRHBrUXNySkNndG1fV3RiNWYzcm1FdXRCRUpxU3lEdndFNG56WFJMeWlqbURvb25FWHduTlZNUDJ0YWd0dTE3X1pSbE5ucVZBMVJ4aFlkdXRnamxLaVVTdmVSX050cXZWODNmS3k3c21DQ2tWZ1pnUWhXR2dLNTBpR193a3NmU3J0c2U2RWpNY2NQNkVwdmRoZnMxbnlQdHp3?oc=5",
+   "source": "Machine Design",
+   "published": "2026-11-06T14:01:32+00:00",
+   "topics": [
+    "humanoid_en"
+   ]
+  },
+  "0ecf549895c5d22c": {
+   "id": "0ecf549895c5d22c",
+   "title": "AGLT: First Pure-Play Humanoid Robot Company Starts Trading On Nasdaq Today",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZml0VGRneE1GZkM3MlU1SDhBeTlpRy1pRXlvMWpnQzMwUzJfU2ZnT2Jkb1lLV2pmb3BfTVlQYnpYTHBnbGhWdnJRdzBaYjdGbTB0RDdoaHdQZzRtQVJYUmlldURtdGpvdXNMSjBaZDZQcExxNk5CQllGV0xURHN4TDM4S1NqRzRhRHJsRnVuTWJvdGd6NjNma09uVzlQTGJmWllQMWhsYmNSemFPSVFaZDZ0LXNuRGg5VXBoRkpULWZIeklhaEpj?oc=5",
+   "source": "Forbes",
+   "published": "2026-11-05T18:49:28+00:00",
+   "topics": [
+    "humanoid_en"
+   ]
+  },
+  "700254326505858f": {
+   "id": "700254326505858f",
+   "title": "Chinese humanoid robots are hunting for work in South Korea",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TTU0yV21lNXpwXzBVM04xN2ItQTJDbWJXdDl6OGtsU3JtNXNPLUM0eGVLT3RxUm9GY3Q1Tl9aUE42Ml9PRlNlQk94R25pYlM0SElDVmNOR3V0Y3JpSGZiT1hXVnVDYWd3YXg3REhIYXcxdVJValVHRE5PN0dCdw?oc=5",
+   "source": "The Gadgeteer",
+   "published": "2026-11-06T10:00:00+00:00",
+   "topics": [
+    "humanoid_en"
+   ]
+  },
+  "0a882287511b3877": {
+   "id": "0a882287511b3877",
+   "title": "'Natural extreme testing ground': Robots tackle over 3,000 steps on Mount Tai in humanoid competition",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWm9seURXRjkwOW9STnBCbFZSajd4dC1TRWdla0lJVzFWTmg0aDBkeTctck5USU81SlljOHVXR0thZ2c5dDAzOUNnb0dEUDJnYkprWTdmaXVaX1VjaFc0cDFCOWotVWNSbjZNVThfeTJOekVMbWJnbFhRVnhjdmhpdzByUFBZTzA?oc=5",
+   "source": "The Cool Down",
+   "published": "2026-11-06T22:02:00+00:00",
+   "topics": [
+    "humanoid_en"
+   ]
+  },
+  "935e29064ba72ce8": {
+   "id": "935e29064ba72ce8",
+   "title": "Is a Full-Size Humanoid Robot Ready for Industry?",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOWU2dF9kNE50dnRZMGlycjJVbll3LTZXTUc5RnBLcWJXNjUzUHJzSC1hTzdrMFJRQms0dlVJamlUdHRuNUNNam02NHU2eVQ3YjQ5N2ZnVHFHTzJaRlRtSEgwUVJqeUpxdWRDNG1PbnBsdkRQR3VPSjNLcDJHNkxXeFVFUDPSAYwBQVVfeXFMTlc2YnpQX1VYM3gwTG5YMjJrRDdJZ1pjS1Q5R2ZTZlhqaW5PWE1RZ2JlSGd5c3RDeWh0aklZdko1bUVjeDI1V21KZDJPNkpOZFJDX0VHQzZyN3Y3QnBVeWxkMktLSWdWS1c1aVhieFRNbTRCY295cXl0aEhkU3BzX0VjNUZET3BOaS1yZkU?oc=5",
+   "source": "FindArticles",
+   "published": "2026-11-06T07:26:38+00:00",
+   "topics": [
+    "humanoid_en"
+   ]
+  },
+  "35a081a06d232e74": {
+   "id": "35a081a06d232e74",
+   "title": "Tau’s humanoid robots scrub toilets for $100 a visit, and a human steers them",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRnlTZnN2V1BLcFJhdlByR29KdHlmald6WXpKWG9TYUhQazJOUkc0blJVNGdEa1g2U0F2bTAxREcyTS1YUjROenFkMzYzaU1qUzhwXzFyalBsaW1NdWU2eGFtb2NxWElmQ0lpLTR0dENFWWh1Q3V4dDUtX1MyZDc3dTF0am95R0kyLVA1MENSYnROOWJlWWtnaEotd1ppcEhYcXZnOQ?oc=5",
+   "source": "Martin Cid Magazine",
+   "published": "2026-11-06T15:09:21+00:00",
+   "topics": [
+    "humanoid_en"
+   ]
+  },
+  "58075730cee36c38": {
+   "id": "58075730cee36c38",
+   "title": "Tau Robotics opens robot cleaner subscriptions at $60 a visit as the hourly rate climbs to $50",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOFpaVzd2MHlPcGd3aE03SG51VFBHUkZQX0M3YnRBODdOV1NMWjRzS1hfazg3TGFyUndYbmV1WmJnSG1IRTMyLTNLdjFFdzdpbVlPQXNSblpnUEM5U05DUVpmOVg1dWhYOEVkMjJ2emJaeFo2UUhGX2ZRMjNvNVNtb0gwbHM?oc=5",
+   "source": "The Gadgeteer",
+   "published": "2026-11-06T16:00:00+00:00",
+   "topics": [
+    "humanoid_en"
+   ]
+  },
+  "ec44fc898c64f68c": {
+   "id": "ec44fc898c64f68c",
+   "title": "Nvidia-Backed Agility Robotics Goes Public at $2.5B in Humanoid Robot Milestone",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObVZvM2ltdDFRcEFzdHJaSkhuTHl1eTlReVlQaGtyX2dyS0JJeHh4b2xESXZJeUx1Vjd5VUYxYzVaTnlMaXJFcl8zWGtOWXliRW1VbmhwN2xMTFo2OGctRDVCVDdXTzNwV1pPeldGZkdEMW4xeUJSVFVNSEN6TkRRSDladnRBWW41ZWlmalBfNURsaGwyNEl3aEJB?oc=5",
+   "source": "TechRepublic",
+   "published": "2026-11-05T21:29:19+00:00",
+   "topics": [
+    "humanoid_en"
+   ]
+  },
+  "397c920978249164": {
+   "id": "397c920978249164",
+   "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWUE2Wk9STEhia0N2Sm9vdGM1aThIbGphOFprcDVNWVhVYi1zZlI4UXhBMlFMVVZMaF90alRNeW1ndTFmOTJFRTVKR0pEdElZaWdtVW9veENLd09SRV8xalhSMXVjWjNmYUNFdUcwVkwyekVpOW1DWG9keV9lRGFBZnZSd293TnMxQnFyVkE5UHhFblpGRWFFTFpJVUJnV1RNaTlCb1NMcVlZak1BQkHSAbMBQVVfeXFMUFhHblNaeGlJSEc1bVVlMEludTZ5SDBuQ1RRSHB1dkxnNFVzS0FhWDQ5eW9reU9OdzBVWmlMRXhwcTRNUnZDYmIwZml5bnpsRUR3cjBaSk9QN3BHR2lRanUtSEZjNTVXMVlqZXNxbnlkR3paaFZ1ZFlxT1BjdUJVM3kwVVUtZ2VwZjlkR2dZb09fYWZwaTBBekQ3Y3VZci1ueW9EazNFcXk3VlRkeTRmemtSUm8?oc=5",
+   "source": "MIT Technology Review",
+   "published": "2026-11-06T13:10:00+00:00",
+   "topics": [
+    "humanoid_en"
+   ]
+  },
+  "b559fa23c9724e53": {
+   "id": "b559fa23c9724e53",
+   "title": "Humanoid Maker Agility Robotics Goes Public On $1.8 Million Of 2025 Sales",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTXNHdXdvTzdzQVM4Vjd6OVE4OW9UY2lneldCcDJmYS1lSXZxdWl6OGVIQkx6Ymw4R2czemVjT3lnVndESDNwZmRJVFF5LUN5QXhNVm5MYzlsLXNGZ09CbXlfV1lNWkNfaUdOOVdzNkIwQTJpZWVVN2JLWnFJdWZmbnpFUWZ6bmNvelhCMk9WWTU0ZmNoUlRoWjVyc2RLdk1NaEpvYVpZcmczb0RhS05sbTRkMmZZZFVORlpXaGpxZHk?oc=5",
+   "source": "Forbes",
+   "published": "2026-11-05T15:59:13+00:00",
+   "topics": [
+    "humanoid_en"
+   ]
+  },
+  "55625d24dae69556": {
+   "id": "55625d24dae69556",
+   "title": "Agility Robotics Goes Public With $2.5bn Valuation as Humanoid Robot Economics Face Scrutiny",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLTlVa1JkYVlpblNONmtzMThmRE9TUHVTWG9RQUtXeUczajdyRWZKeEFFUTF2ZHNuam5leHNLVXJzLWllYUZCcllwd2trVjhQbHpGVHk3NTZlVFVfNXg2R0FNazJmcmlmclFGZHFqOXYtV0lsc0psRW9uc2dXbGVMUHFBdnBOcDF5OHRrY0lWVy1jRktKRmk1RjhmYjF1N3JYczFKNVktR21kQkpLUzd0aFVWZ1FhNEk?oc=5",
+   "source": "Tekedia",
+   "published": "2026-11-06T18:10:42+00:00",
+   "topics": [
+    "humanoid_en"
+   ]
+  },
+  "2899acdeaebc9f0a": {
+   "id": "2899acdeaebc9f0a",
+   "title": "Chinese humanoid robots serve, dance and play football - www.daily-sun.com",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU2ZZcTFwbWtRZ2tSSGZWOWV3Q1l6bW80ZUtKRGJwRnZpcTFVWF9CdzZiX1gyenZZbkFvTHZEZ0sxTWJtUkZRMEFaci1Qdl9oWHRLRmhaSmM5Unlidnl3MmpHNUdyOGVmT0Q5TFVucURmRFBpbjN3SHJQT2NUT28yWlU1bVM0ZUg0Wl9Lb2FFdjVnb3c1OWRrcWt2Vk0wZGRjRG4wMEhsUzFHT1JMNFNJ?oc=5",
+   "source": "www.daily-sun.com",
+   "published": "2026-11-06T13:04:30+00:00",
+   "topics": [
+    "humanoid_en"
+   ]
+  },
+  "5e356d3a2780498f": {
+   "id": "5e356d3a2780498f",
+   "title": "Meet Clairion: St. Clair College’s new humanoid robot",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS2RGUVZPS3RSREx1aFpuSTdpSGVnTjIzNmdMM05pR001aWluN2djWkU5amRWSFAzMjU2QW1GNUhPZWh5VGx1NEJaVXI1UmRZbUVxeXhEYlNaTGpGdzdDSGw4OWFBbXJFY1pxM090Y2k1RlZaQUNrQXNhcERfTHkzczNUZi1yWFE?oc=5",
+   "source": "Windsor Star",
+   "published": "2026-11-06T11:41:45+00:00",
+   "topics": [
+    "humanoid_en"
+   ]
+  },
+  "72e1ea4110153b65": {
+   "id": "72e1ea4110153b65",
+   "title": "Could a robot be your next caregiver?",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWGFRTWRobUlxNXVWMXBsNmJXS0IzWFc5LUhRaGF6MjNrOWw3VXowekZrS2M0cERnQkJBZjlrTVJ2VENjUGljRzRyYmcwN194REEtaXFQY2p1TjN5SXNwdjFvZ0wyRDZITDRxUDFNRzg0TWwxU2hWbHU1RDB3UWxHWkVLZ1VXZk9jMUZkV1FHeDNpNnpBQTc3U0tMWXhkR19FS3AyNXVlTHdCaERhcTJ5Q3R2UElqZw?oc=5",
+   "source": "The Globe and Mail",
+   "published": "2026-11-06T10:30:00+00:00",
+   "topics": [
+    "humanoid_en"
+   ]
+  },
+  "0d1eca3afc549589": {
+   "id": "0d1eca3afc549589",
+   "title": "Humanoid Robot Tried to Climb a Mountain, Overheated and Had to Be Carried Down on a Stretcher",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNXzVOUjFIcTFWYlpLZ3hJa1FndlhacTNOTDRfNVNhYlVpeEM4ZWkzc3dZeVZHU1V3N3FrdzkxTHRVaDVHVk1iSHZNd0t4Z3J1MnRiR0V6bHlFaUNwTjMyYVU3ZzMxc3QtUExNdU5aX1Y0ekVlcHowejZGUGRiWkRXWE5CV2g?oc=5",
+   "source": "www.techtimes.co.uk",
+   "published": "2026-11-06T12:52:57+00:00",
+   "topics": [
+    "humanoid_en"
+   ]
+  },
+  "c2219951450ec502": {
+   "id": "c2219951450ec502",
+   "title": "Robot boxing gets \"out of hand\"",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ZSnlvOGlkWlhnS3ViNlBuM2x0VEdRNEJYMGZ0V3hGVVMwaWhkejRLZV9LdzdTYXhvdXlNU1ZNRWZSTThkWVVlQWkzZnJISDJwVmxMc1Z2SVVVb2JkQkZuQkNXTHlkSWtvSUdzbmRaQXk1S05zM254d3RFRVM?oc=5",
+   "source": "Xinhua",
+   "published": "2026-11-06T06:50:16+00:00",
+   "topics": [
+    "humanoid_en"
+   ]
+  },
+  "94b8c6110c311969": {
+   "id": "94b8c6110c311969",
+   "title": "UAE opens its first humanoid robotics showroom as Dubai races to 200,000 robots",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOeXZRNm9DYkVLd1lyMDZOa1dpUmhuMmlJV0Q1LTlfQlp3b19UeWt2YWMteWRXaFVWQjNCeTZOeExmMDkzT0FkaTFMN2dROWVmMU1CcGUwQy1qSzFmbGJPQ1FieUc2SkpnX2M5ZkNrSTBZSjF6TXd0Tk83TGR3VHdxUFNKc0JoOXprSU9vQ3lPTHhZanpmS3pYWDZEdFNrMHhFTGFZMlc1R1ItR0NyeHJlcVBGcjZLVGZNOG9RamxsR1RjT1JSbEJBczNUSQ?oc=5",
+   "source": "The National",
+   "published": "2026-11-06T16:53:37+00:00",
+   "topics": [
+    "humanoid_en"
+   ]
+  },
+  "71b0acc17c0a071f": {
+   "id": "71b0acc17c0a071f",
+   "title": "Robot steals the show with a full split",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9pT1FCcXNKY0ZSaDBSbWZfU0JfVjRVbS1kQy1LS2lDN1IzWnhCZWdfSS1lTmJOaW5rZU9IWG1OX0p2TXRPN192M2toR19ZNEFaRHpUM0lxdFhCbi1HcjVHOGpBd0Z6OTRTYmVqMkFDclZIWVRIU0NxVDBqVjY?oc=5",
+   "source": "Xinhua",
+   "published": "2026-11-06T06:49:16+00:00",
+   "topics": [
+    "humanoid_en"
+   ]
+  },
+  "e9fcb427c6b895ec": {
+   "id": "e9fcb427c6b895ec",
+   "title": "Tesla Is Getting Closer to Selling Humanoid Robots, but There's a Catch",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeW10VEJqSVlSTW11amo4RGZhclhZZ3RHWmlmOUJ5cVJJLUdRaGsyY1NYX1hGV1NXaFpNbjJzVGliRnhjNlVQUVUyOXNVdFoxcTg0cTJHelFsYlNxNUphY0U4Wk1EdUhaVy1FcFBVbExRckpUTG5vTUpHZDVvckNqUEQ5WmdRSS0tVjJOV183TXZUcWJoLWdZ?oc=5",
+   "source": "Yahoo Tech",
+   "published": "2026-11-05T18:30:58+00:00",
+   "topics": [
+    "humanoid_en"
+   ]
+  },
+  "ae8e5cbe0ad5990d": {
+   "id": "ae8e5cbe0ad5990d",
+   "title": "Tesla patent describes tendon-like cables for underactuated robot fingers",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kV2hVa1JLaERUVE1Hb0x3eExqR1BXV1JGcW16d3NaRHN1dnFvZFJwZ1JnMXNTLTBva0p6bnRWOHc4eVZRckU1bl9XUkhISVVfS1YzZjVIWDlicHNVTjVqVTZnbTB3NExKQUFzM1lZbFpyZw?oc=5",
+   "source": "Drive Tesla Canada",
+   "published": "2026-11-06T17:00:58+00:00",
+   "topics": [
+    "humanoid_en"
+   ]
+  },
+  "bf632ad7a9d8bf8d": {
+   "id": "bf632ad7a9d8bf8d",
+   "title": "Agility’s $2.5B humanoid hits Nasdaq",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DU2lCSzZJVDc2dWdDWXljQWRYNjl0ZFdRSFBLNVMtQW42ZTJISXJHWlY1dldCXzhCMzBsUi1kR3N1aEUzLUlhend3dFNiLVRMYUJ2cGtGZXNhUXMwN3dzWldwV3U4aWNVYnk5NDhNMzFzaDJTU0ZF?oc=5",
+   "source": "The Rundown AI",
+   "published": "2026-11-05T08:00:00+00:00",
+   "topics": [
+    "humanoid_en"
+   ]
+  },
+  "20484eda6d44261f": {
+   "id": "20484eda6d44261f",
+   "title": "ヒューマノイドロボットが初登場 県内最大『山梨テクノICTメッセ2026』 90を超える情報通信業者などが参加 山梨",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Gb2N6V1hTZkF4R2FtV3hRc3FHT3hsNHYzRWFZblZfZGdTOUZPZHYwZ3FSclJXZTZjU0ktQTNZR18zQ25DWGJPVmxhX0VUMHFYRHJsdE9tSElneVY0ZS1mQU9lY3NDb3hJRzNHSGg2RU1QU2c4bG1XWHBSTG5xd3M?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-11-06T10:45:30+00:00",
+   "topics": [
+    "humanoid_ja"
+   ]
+  },
+  "f7e39ab831fab5b0": {
+   "id": "f7e39ab831fab5b0",
+   "title": "ヒューマノイドロボット格闘技のREK、2027年に東京アリーナ開設",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50NjFYU2Rjc1pfbmJMaWhwYWFYeEdqekoxVUxXRDVpcWV3T0NWUE9KbEdIaVZiQm5hYm1ZT3JwLWl4bEVUa2k1V0E1YlZiTmppUFk5X2VsZngwUQ?oc=5",
+   "source": "Forbes JAPAN",
+   "published": "2026-11-06T07:45:00+00:00",
+   "topics": [
+    "humanoid_ja"
+   ]
+  },
+  "73f96c18965e1070": {
+   "id": "73f96c18965e1070",
+   "title": "マウザー・エレクトロニクス、ヒューマノイドロボット実演へ…electronica 2026",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9QeEVKVlJTOTBwUDMyamZPUmlWTGJGU0EyUmhsVVhZRDd0ZFFuQVIyVTNhR2dHcDlQRHRVZ3MzcUhiSWo4elZ4dzk1aktuX2ZwRWQyZkRXX0pXeWx4REJn?oc=5",
+   "source": "レスポンス（Response.jp）",
+   "published": "2026-11-06T02:30:03+00:00",
+   "topics": [
+    "humanoid_ja"
+   ]
+  },
+  "fc3f228428a50d40": {
+   "id": "fc3f228428a50d40",
+   "title": "Xiaomiのヒューマノイド、工場で初の8時間勤務を完了",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNFB4cU9rRVRCNm1idWNoUFBCYzgxMjFBRUNsQnVoakxJOFMyZmQ0dTZsMUp2eU5SU0dINWJsMnFRbktTVmlBeWZTYWNXMnN6clZ6bC1BdG1HMVpOTTBWZktmSzc3SWFOdzk2eGdyYXl4WmlRQ1dWWUtXZGM5Q0ZPdzNzVTRFUQ?oc=5",
+   "source": "Pasquale Pillitteri",
+   "published": "2026-11-04T20:03:17+00:00",
+   "topics": [
+    "humanoid_ja"
+   ]
+  },
+  "3d1f00dc5f3f78c3": {
+   "id": "3d1f00dc5f3f78c3",
+   "title": "9分充電で90分働く人型ロボットのAgilityが上場、約735億円を調達し量産に挑む",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORjFTY21tUFUwT29keWN3YS00TXhNWWVld1NrSi13TWVneS1sVTY2MDZlS0Nqd2lUMHdjTnhrdHFUM1NfbGsyQkxtRlZIOWlrWU5RMHdtQUlmeGI5M2hEUEgzbkVjYU0zeTU5eEZHNWNSZkNmREtnN3RmcDNPMVMyV2FZWkt0RVdS?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-11-06T02:00:00+00:00",
+   "topics": [
+    "humanoid_ja"
+   ]
+  },
+  "7f2f8f4230fed948": {
+   "id": "7f2f8f4230fed948",
+   "title": "ロボット産業の発展：ベトナムとイタリアの戦略的協力の展望。",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONlpZSVRRTmtmb1dZbFNLM3FhdjFwMXBNTE82Tmw3MXRBMHM5bENfTUhjMWFDNk8xQUNRV1kzRnJhTjc0UVhVbE5nbXlaR2dERWdweV9FZ2ZqN3FrTG5sZm8yZ01obVFjRjh6ZWN1S1A0WkFSQWJWMGlmbDFrRzRlVkNxYU5OVGRyX3hIMHlsdEpGdzVIdW94eQ?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-11-06T10:51:54+00:00",
+   "topics": [
+    "humanoid_ja"
+   ]
+  },
+  "787fda1634aecd87": {
+   "id": "787fda1634aecd87",
+   "title": "AI時代における中国のロボット産業発展戦略。",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYmxSNGpvcWRjVnFNaEl1bDdEODkxVkR5THBJTnlSbmJKWE9BcEpqTmRNVlhuNi1NOVlaMm51aThIWUtleGZTQld0RGZMcUFLeXhEREJ0X3ByVXV1RXNBT0lvX1pYYjhzdWpydlAzR2VGQW1nZ1JHTE9hNld3WUpZQ3A5amo4dHdZSHo2cElMVVdDQ1laNjBNcA?oc=5",
+   "source": "Vietnam.vn",
+   "published": "2026-11-06T03:52:02+00:00",
+   "topics": [
+    "humanoid_ja"
+   ]
+  },
+  "64cd8134d88e878a": {
+   "id": "64cd8134d88e878a",
+   "title": "スイカ載せて3100段の石段上がったロボット…中国で異色の登山大会",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zb2pWZFJkSElILVlJazN3cC14UEhVeFJXdEM2eVl6bHoyeEl6cFgwTjBhY1Btd0FxdFdoMmI4ODdEYUVLeVNacE0xdHhIU1BXX21nTTRYdDQzYXdfMHhhZnMzVml1LTTSAWxBVV95cUxPLV9GTXBBRVBadmpfWmJOQkk1Um9obnRWT21iYXQ0MzBTeEh4NTN3Q3ROWjBqVzA4UHdxZ1NpdmVWWGRjQ0RnTU5iV0FUc1FXRHFnbndXMFhQbnlRa1MtMmFnMl9LOThhclZZb0g?oc=5",
+   "source": "Infoseek",
+   "published": "2026-11-03T08:12:56+00:00",
+   "topics": [
+    "humanoid_ja"
+   ]
+  },
+  "5c694b953862e506": {
+   "id": "5c694b953862e506",
+   "title": "優必選がAIキャスター発表、世界初のヒューマノイド型",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hNFMzRVFMWFg0RGRzNTVYSlpDTW1kR0l0b2dablNyWHpQTFMzUTJZU19mRURVVUVmNGR3Q3VlYXZHX2hwWFJrOWNvQXloMHgzZUlCQktLb2RsaFZKMVk1bWg1MWpXUTR5?oc=5",
+   "source": "亜州ビジネス中国",
+   "published": "2026-11-06T07:06:00+00:00",
+   "topics": [
+    "humanoid_ja"
+   ]
+  },
+  "fde9b17daed6f8bf": {
+   "id": "fde9b17daed6f8bf",
+   "title": "Tauの人型ロボットが100ドルで家を掃除、ただし操縦するのは遠隔の人間",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQZEl2SldqSEZtaXVpSnppWk5hZ1ZMTF9taTd2SHJNVnAzalFaXzdPckVVMFRfTEV1Qi1PYVYzVjlKOEc4NndtTkgyNVVQZGlHempaOTZjWWljSEp0eVJTV2REQmY3Rl9CNE1kbkEtU3JfVEY5QUYtcUVqOWYtWjMtSE1fWTVOaXBiQkIxcWlnM28xSXNTNE83TVotYlg4LVppQm1SOWNtbE9TY0xLaWZEb1RXU1VaeW50NVUtM0xxREUtd2xiX01HeGktSGZiSVdlN2lNQUV2U09ES3pJdGFhdDRrdWpEX0FtSVhKXzlnajFjLTd0TWQ5U2sxQ0dVY3pHeHc?oc=5",
+   "source": "Martin Cid Magazine",
+   "published": "2026-11-06T15:09:21+00:00",
+   "topics": [
+    "humanoid_ja"
+   ]
+  },
+  "58023a407607188d": {
+   "id": "58023a407607188d",
+   "title": "［連載コラム：いまさら聞けないキーワード］vol.15 ヒューマノイドロボット",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YMVRtbGdSaTNWbDZsbmlCdGsxLU5pWFB5SUFYcVUyQ09uZDFnWXgxOWJmbUd5WUJQN295NFJEZTJ3cTBZUlJuUFIwVmhXUGl1SnE4RTZtWkZfN3Q5dVE5LURPd01pQ2RaMXk0?oc=5",
+   "source": "robot digest",
+   "published": "2025-12-08T02:26:01+00:00",
+   "topics": [
+    "humanoid_ja"
+   ]
+  },
+  "18d640a24d85c5c6": {
+   "id": "18d640a24d85c5c6",
+   "title": "なぜトヨタ自動車はヒューマノイドロボットを開発するのか",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ja2N5N3Jfekl2UzRRb1ltZmRoeGFaOXBJS0NnQ3dDMUhsSHcyRXdvWmFxMjZ5WFFDdTNOdEt6UWVPZVdVbTZtUWxyQTg4ZkVJaVhFeVF0Nmxqb2EyajRkYUJndlVXeHpt?oc=5",
+   "source": "トヨタ自動車",
+   "published": "2019-12-13T08:00:00+00:00",
+   "topics": [
+    "humanoid_ja"
+   ]
   }
  },
- "updated_at": "2026-11-06T01:20:41.777967+00:00"
+ "updated_at": "2026-11-07T00:35:55.374824+00:00"
 }
