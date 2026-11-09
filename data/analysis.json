@@ -1,45 +1,41 @@
 {
- "updated_at": "2026-11-08T00:09:47.924035+00:00",
+ "updated_at": "2026-11-09T00:28:17.600787+00:00",
  "kpi": {
-  "articles_7d": 725,
-  "articles_prev_7d": 821,
-  "sources_7d": 353,
-  "articles_30d": 3234,
-  "total_articles": 13605,
+  "articles_7d": 713,
+  "articles_prev_7d": 839,
+  "sources_7d": 355,
+  "articles_30d": 3187,
+  "total_articles": 13676,
   "oldest_news": "1970-01-01"
  },
  "wordcloud": [
   [
    "china",
-   50
+   43
   ],
   [
    "meta",
-   46
-  ],
-  [
-   "korea",
-   26
+   35
   ],
   [
    "agility",
-   26
+   29
   ],
   [
-   "launches",
+   "korea",
    24
   ],
   [
-   "開発",
-   22
+   "nvidia",
+   24
   ],
   [
-   "fourier",
-   22
+   "launches",
+   23
   ],
   [
    "中国",
-   21
+   20
   ],
   [
    "factory",
@@ -50,39 +46,35 @@
    19
   ],
   [
-   "nvidia",
-   19
-  ],
-  [
-   "企業",
-   18
-  ],
-  [
-   "max",
-   18
-  ],
-  [
-   "日本",
-   18
-  ],
-  [
    "south",
    18
   ],
   [
-   "産業",
-   17
-  ],
-  [
-   "platform",
-   17
-  ],
-  [
    "world",
-   17
+   18
   ],
   [
    "現場",
+   18
+  ],
+  [
+   "開発",
+   18
+  ],
+  [
+   "opens",
+   18
+  ],
+  [
+   "活用",
+   17
+  ],
+  [
+   "日本",
+   17
+  ],
+  [
+   "データ",
    17
   ],
   [
@@ -90,11 +82,19 @@
    17
   ],
   [
+   "platform",
+   16
+  ],
+  [
    "chinese",
    16
   ],
   [
-   "活用",
+   "data",
+   16
+  ],
+  [
+   "fourier",
    16
   ],
   [
@@ -102,39 +102,15 @@
    16
   ],
   [
-   "データ",
-   16
-  ],
-  [
-   "hyundai",
+   "技術",
    15
-  ],
-  [
-   "prototype",
-   15
-  ],
-  [
-   "built",
-   15
-  ],
-  [
-   "data",
-   15
-  ],
-  [
-   "palantir",
-   14
-  ],
-  [
-   "company",
-   14
-  ],
-  [
-   "自動",
-   14
   ],
   [
    "成功",
+   14
+  ],
+  [
+   "unitree",
    14
   ],
   [
@@ -142,19 +118,23 @@
    14
   ],
   [
-   "opens",
+   "産業",
    14
   ],
   [
-   "画像",
-   13
-  ],
-  [
    "世界",
-   13
+   14
   ],
   [
    "shift",
+   13
+  ],
+  [
+   "company",
+   13
+  ],
+  [
+   "自動",
    13
   ],
   [
@@ -162,7 +142,7 @@
    13
   ],
   [
-   "技術",
+   "企業",
    13
   ],
   [
@@ -174,19 +154,7 @@
    13
   ],
   [
-   "導入",
-   12
-  ],
-  [
-   "写真",
-   12
-  ],
-  [
-   "future",
-   12
-  ],
-  [
-   "共同",
+   "実証",
    12
   ],
   [
@@ -194,23 +162,23 @@
    12
   ],
   [
-   "実証",
-   12
-  ],
-  [
    "xiaomi",
    12
-  ],
-  [
-   "建設",
-   11
   ],
   [
    "global",
    11
   ],
   [
-   "advance",
+   "model",
+   11
+  ],
+  [
+   "future",
+   11
+  ],
+  [
+   "push",
    11
   ],
   [
@@ -218,7 +186,11 @@
    11
   ],
   [
-   "unitree",
+   "max",
+   11
+  ],
+  [
+   "公開",
    11
   ],
   [
@@ -226,84 +198,114 @@
    11
   ],
   [
-   "race",
+   "画像",
+   11
+  ],
+  [
+   "写真",
+   11
+  ],
+  [
+   "共同",
+   11
+  ],
+  [
+   "建設",
+   11
+  ],
+  [
+   "industry",
    10
   ],
   [
-   "moves",
+   "samsung",
    10
   ],
   [
-   "three",
+   "導入",
    10
   ],
   [
-   "model",
-   10
-  ],
-  [
-   "training",
+   "billion",
    10
   ],
   [
    "hour",
    10
+  ],
+  [
+   "戦略",
+   10
+  ],
+  [
+   "部品",
+   9
+  ],
+  [
+   "funding",
+   9
+  ],
+  [
+   "video",
+   9
   ]
  ],
  "today_top5": [
   {
-   "title": "Video shows Chinese humanoid robot performing Tai Chi moves | To watch the video | Inshorts",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcEROeGRmRFE5OGNPQjJZRjZBdkVQSldabjVORllsa3BwWXduQ3dvWVFiYllnUXVQSGdXSzZYWjZjTnhhU25XUkZNRmplY1dPOGh1X2xLcU9INk9tQTlJcXEwSEhWUkxLYm91UFBhYXNBa0VTOGFlOTU3UUxiaWoyRTVzWWVTUzJwWkxSdXRqT0JwSjNiODZoQ20wSlZJVzUtRTJOZtIBqgFBVV95cUxOOTZ6REh3c05FLVdockRQZU1NUnNaMmM3dEI2LURZVUk0Q1YxR0YwVmJyZTJKUGF2TWRJcTYwNmJ6cHU0bVZkN2pHc2xMbEVYMEU0Nkkyek13SmlLRWJQOUYzVTdnVmNMekRFY2xSOURSNEF2UzJxTkFMcHdYa29SbmFKd0NQM1hyUVZaUXhtdXc2VjNqdWJzMHVhS2tzRFYwRlZpZTZtYk92dw?oc=5",
-   "source": "Inshorts",
-   "published": "2026-11-07T15:45:34+00:00",
+   "title": "11月10日は「フィジカルAIの日」！ 新規事業・社会実装プロジェクトの募集を開始（BCN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aOEVIdE1TQnhRNmk3Ym43aURFOEJvS1pacHgxNHRLdnRDckJ0VHRsRlh4RHJjc05XR0dMQzkySGN6Smd3dE1rMllxUmxNT2hMV21pWXVDaDh1SXdqYnFxbmkwZVl2N0h5VWo2SXA5aF9lU3cxeTdTMUJ3NXZnN1E?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-11-08T23:28:42+00:00",
    "count": 2,
    "sources": [
-    "Inshorts",
-    "Xinhua"
+    "Yahoo!ニュース",
+    "ｄメニューニュース"
    ],
-   "score": 1.78
+   "score": 1.97
   },
   {
-   "title": "Apple's HALO System Lets Robots \"Move House With Their Brains\" as Embodied AI Funding Puts Over 50% on Brains",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1FbU5xcUdXZDBRMGMwaEticGJOcEJzSUEzRGtNaGZzRjJVc1RQcGh5QU0zUkFpV1NPajc0eVVqODliUjNJcXdwUzQ2SVBkUGdCU01tVWZ6emxaYWt6RFRjeElFblY1c0VTZ21pcUtxbWRPai1tM2c?oc=5",
-   "source": "finance.biggo.com",
-   "published": "2026-11-08T00:05:00+00:00",
-   "count": 1,
+   "title": "ヒューマノイド「Figure 03」、キャンパスを歩く姿を公開――量産は1時間に1台、350台超に",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE51S0szSGdLa0poZ0dsWENYNkk4MFVOcXYzNkh0QU5BQ2k3SmhVSEgxN0Ixbks5QU1nT2h2SFBUdk14UQ?oc=5",
+   "source": "shiritomo",
+   "published": "2026-11-08T14:31:39+00:00",
+   "count": 2,
    "sources": [
-    "finance.biggo.com"
+    "X",
+    "shiritomo"
    ],
-   "score": 1.0
+   "score": 1.74
   },
   {
-   "title": "アップルのHALOシステム、ロボットが「頭脳ごと引っ越す」ことを可能に 身体性AIの資金調達、5割超が「頭脳」に集中",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zakJfUTVubnR4bEhSME9NakpSY1ZFMWNtTExBUWlPRncyQTJIc1lxSGFUbndsVnk1djRvUGpERXNkbTM4TFZneS1DQmNpMU9ua3laaF8yOEJoTnJxQWNEVm5aWHpBRVg5VTdhUE9MR0dUWU9D?oc=5",
+   "title": "Camerimage Opens With a Humanoid Robot, AI Debate and Silence for Kraków Shooting Victims",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVzFwZDJCM1F1Nk02SWdYZ2tOaVNwOUQ4NUMxQnNhd2VMNDVRYXc1RGhoS0RlbHhGTVJJVTVmWXRnS3N4TGE4dVJQbUhuSW0tTW5lTGtJbW1pbXRtUC1wUlJiS2xvY3loZklYUXFnQXg5bzBjRTNWeG5GVnZUWUN4cUJRc2RYTTQ?oc=5",
+   "source": "Mezha.net",
+   "published": "2026-11-08T10:35:46+00:00",
+   "count": 2,
+   "sources": [
+    "Mezha.net",
+    "The Hollywood Reporter"
+   ],
+   "score": 1.65
+  },
+  {
+   "title": "アマゾンが家庭用ロボットに再挑戦：新チームは「前例のない」製品を目指すも、Astroの前例が課題に",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vTk5xV3JTNUJjUFNvbFZ6NjFzd1NSMk83a2lPT0VpeU43Q0dMOXUzSF9GUlV0a2IxajlqUi1KU0RBUTVONG1FMGV5b3dVT1l6UHF5aTNFMVU4eWp1Rkw0TkNxM0Z2a2o4bWdGRnRLX2JrZ1Jr?oc=5",
    "source": "BigGo ファイナンス",
-   "published": "2026-11-08T00:05:00+00:00",
+   "published": "2026-11-08T23:25:00+00:00",
    "count": 1,
    "sources": [
     "BigGo ファイナンス"
    ],
-   "score": 1.0
-  },
-  {
-   "title": "世界初のヒューマノイドロボットニュースキャスター。",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON0o5bFE3cmtpZFR4M1p0U2VPUUtrMDNyZ0x1Zy1qWVFHWmNkaHlEVEI3dTVkdVFuZG83ZTVrYTdaNjdyRGdPbjdqX0NSTm8zRF9CV2VQbWNrX0RMRzhiaEYyX3NxOFdrakFSM2o4S0N4VFJvdVRVek1iU0JfekI3YXNSU2ZqSkFZVzF5NndycTIwc2NO?oc=5",
-   "source": "Vietnam.vn",
-   "published": "2026-11-07T23:25:18+00:00",
-   "count": 1,
-   "sources": [
-    "Vietnam.vn"
-   ],
    "score": 0.99
   },
   {
-   "title": "「フィジカルAIは今後1～3年で重大なブレークスルーを迎える」人型ロボット大手・宇樹科技の王興興CEOが見据える「ChatGPT時刻」の到来（マネーポストWEB）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9fYUt4UGNkRjhNZmZ3VFlZaTJYS1AyS3VxaE9vb0Y0cmtha0JzV0FTellvdHVtRS16UDZpeTNHcnJLeDlwektmd3FpLU5NcXVsM0x5bXNwbm9UdHV3cFdTejF2dWhheWk0cFZ5NGhlVTBod3ZtbkdkN1BTeVRncVU?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-07T22:27:18+00:00",
+   "title": "AIロボット6台をコンビニの24時間シフトで働かせたら、2台がクビに",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDcTYyc3ZOQkRPUGNmbHdNQ1YyOFpsR2VDamI3a2dNbVJzbGNfMDR1UGk1RkQ3ZXg5dTlEV3ZRRmg3SFZsYVhyR05OSngwek5QS1hWTw?oc=5",
+   "source": "Switch news",
+   "published": "2026-11-08T23:05:06+00:00",
    "count": 1,
    "sources": [
-    "Yahoo!ニュース"
+    "Switch news"
    ],
    "score": 0.98
   }
@@ -323,7 +325,20 @@
     "Newswise",
     "Yahoo Tech"
    ],
-   "score": 5.54
+   "score": 3.95
+  },
+  {
+   "title": "11月10日は「フィジカルAIの日」！ 新規事業・社会実装プロジェクトの募集を開始（BCN）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aOEVIdE1TQnhRNmk3Ym43aURFOEJvS1pacHgxNHRLdnRDckJ0VHRsRlh4RHJjc05XR0dMQzkySGN6Smd3dE1rMllxUmxNT2hMV21pWXVDaDh1SXdqYnFxbmkwZVl2N0h5VWo2SXA5aF9lU3cxeTdTMUJ3NXZnN1E?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-11-08T23:28:42+00:00",
+   "count": 3,
+   "sources": [
+    "Yahoo!ニュース",
+    "アットプレス",
+    "ｄメニューニュース"
+   ],
+   "score": 2.96
   },
   {
    "title": "ジェイテクト、フィジカルAIでピッキング成功率97.1％達成…平均サイクルタイムも16％短縮",
@@ -339,7 +354,7 @@
     "中部経済新聞",
     "日刊工業新聞"
    ],
-   "score": 3.4
+   "score": 2.43
   },
   {
    "title": "Ondine Capital Announces First Close Of Fund III To Invest In AI, Semiconductors, And Physical AI Startups",
@@ -352,7 +367,7 @@
     "SMEStreet",
     "vietnamnews.vn"
    ],
-   "score": 2.92
+   "score": 2.08
   },
   {
    "title": "Six humanoid robots in China work 24-hour shift in a store, two fail assessment",
@@ -365,23 +380,7 @@
     "NDTV",
     "TechSpot"
    ],
-   "score": 2.75
-  },
-  {
-   "title": "Meta confirms Max, a humanoid robot built with China's Fourier",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUW9kanBTNHdqTFdmSDItWVNIWmg1cjNRWTRLUTNnQjhJS2VIMXJhYjQxNGVDRjNRbmNFeTd3ekJfcDJ3TnRlZ1lzMmVUSTgzUWlsd3VPZ2JydDdWWFZPNnQyTHFCclIyZ2JPVTRsMDZJT1BfOHN2WERtX1dINUt6Vg?oc=5",
-   "source": "Pasquale Pillitteri",
-   "published": "2026-11-04T15:47:20+00:00",
-   "count": 8,
-   "sources": [
-    "AI Magazine",
-    "BigGo Finance",
-    "Dealroom",
-    "Pasquale Pillitteri",
-    "TechNode",
-    "Technology Org"
-   ],
-   "score": 2.62
+   "score": 1.96
   },
   {
    "title": "Cainiao Opens Global Warehouse Network to Robotics Firms as Embodied AI Moves From Showroom to Workstation",
@@ -395,7 +394,43 @@
     "Pandaily",
     "Unite.AI"
    ],
-   "score": 2.56
+   "score": 1.82
+  },
+  {
+   "title": "ヒューマノイド「Figure 03」、キャンパスを歩く姿を公開――量産は1時間に1台、350台超に",
+   "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE51S0szSGdLa0poZ0dsWENYNkk4MFVOcXYzNkh0QU5BQ2k3SmhVSEgxN0Ixbks5QU1nT2h2SFBUdk14UQ?oc=5",
+   "source": "shiritomo",
+   "published": "2026-11-08T14:31:39+00:00",
+   "count": 2,
+   "sources": [
+    "X",
+    "shiritomo"
+   ],
+   "score": 1.74
+  },
+  {
+   "title": "Camerimage Opens With a Humanoid Robot, AI Debate and Silence for Kraków Shooting Victims",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVzFwZDJCM1F1Nk02SWdYZ2tOaVNwOUQ4NUMxQnNhd2VMNDVRYXc1RGhoS0RlbHhGTVJJVTVmWXRnS3N4TGE4dVJQbUhuSW0tTW5lTGtJbW1pbXRtUC1wUlJiS2xvY3loZklYUXFnQXg5bzBjRTNWeG5GVnZUWUN4cUJRc2RYTTQ?oc=5",
+   "source": "Mezha.net",
+   "published": "2026-11-08T10:35:46+00:00",
+   "count": 2,
+   "sources": [
+    "Mezha.net",
+    "The Hollywood Reporter"
+   ],
+   "score": 1.65
+  },
+  {
+   "title": "Samsung to Supply Memory for Hyundai's Atlas Robot",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ2o4ZVNIVHVoeFd4V2RqZ0tveTNjQ3ZockVMOGxPSFo3RzBLSUlURHlGLW5Rd0YycTFRb3pjUUVlUlRCSjBGSE1IanJnTlBwMkMwTGQyOWQ0aGQxV0N6Z3RTRnJVZWc2NlFaNXIybEw2RUdRZ1Rvb0xpUEIzQzFMbDFxSzhwMU9fXzFNc0tNcnc4UldrQmc?oc=5",
+   "source": "Seoul Economic Daily",
+   "published": "2026-11-08T09:39:06+00:00",
+   "count": 2,
+   "sources": [
+    "Seoul Economic Daily",
+    "THE ELEC, Korea Electronics Industry Media"
+   ],
+   "score": 1.63
   },
   {
    "title": "Salem humanoid robotics company Agility goes public on stock market",
@@ -408,55 +443,11 @@
     "Statesman Journal",
     "TechCrunch"
    ],
-   "score": 2.14
-  },
-  {
-   "title": "Meta、中国Fourierと開発した人型ロボット「Max」を認める",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMS1ocVZ2YUt4bnVSb2p2SnRpRm5qaXNnQnpVakE1MFVMSzhkMThyTmpHeWhKNFNqNjVIeVdYZlM3M3ExX0dOc3NHdlU1TTVONGdYV19QR1ZGTTJwY25nZ3dnYUV2bTVSb2kxbGRRQWdYTmpFZUx1dG0ycjZyaE0tU0YyVHlKQQ?oc=5",
-   "source": "Pasquale Pillitteri",
-   "published": "2026-11-04T17:15:46+00:00",
-   "count": 6,
-   "sources": [
-    "BigGo ファイナンス",
-    "Martin Cid Magazine",
-    "NeoTeo",
-    "Pasquale Pillitteri",
-    "note",
-    "디지털투데이"
-   ],
-   "score": 2.01
-  },
-  {
-   "title": "Serve Robotics Launches Physical AI Platform Play",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaEhnYVhPSU9yQlFYWllpdWtvOEoyUDBFelhUM0YzRk5nRS1DYXVBdm42bHlTMlRTUUd0eDdlZ3prWEh0Z29HWG5fcU9jRWZUaWNaOFpSSTFiQkVDWW4tU2lvYjNVNXFuUDY4d0gwVDFhSXhJZXhmT0V0czlXVEZuaFUwQVlmOEpELWc?oc=5",
-   "source": "The Tech Buzz",
-   "published": "2026-11-05T22:01:36+00:00",
-   "count": 4,
-   "sources": [
-    "GlobeNewswire",
-    "Investing.com",
-    "Stock Titan",
-    "The Tech Buzz"
-   ],
-   "score": 1.99
-  },
-  {
-   "title": "Agility Robotics Goes Public With $2.5bn Valuation as Humanoid Robot Economics Face Scrutiny",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLTlVa1JkYVlpblNONmtzMThmRE9TUHVTWG9RQUtXeUczajdyRWZKeEFFUTF2ZHNuam5leHNLVXJzLWllYUZCcllwd2trVjhQbHpGVHk3NTZlVFVfNXg2R0FNazJmcmlmclFGZHFqOXYtV0lsc0psRW9uc2dXbGVMUHFBdnBOcDF5OHRrY0lWVy1jRktKRmk1RjhmYjF1N3JYczFKNVktR21kQkpLUzd0aFVWZ1FhNEk?oc=5",
-   "source": "Tekedia",
-   "published": "2026-11-06T18:10:42+00:00",
-   "count": 3,
-   "sources": [
-    "Bloomberg.com",
-    "TechRepublic",
-    "Tekedia"
-   ],
-   "score": 1.98
+   "score": 1.53
   }
  ],
  "trend": {
   "dates": [
-   "2026-10-10",
    "2026-10-11",
    "2026-10-12",
    "2026-10-13",
@@ -485,14 +476,14 @@
    "2026-11-05",
    "2026-11-06",
    "2026-11-07",
-   "2026-11-08"
+   "2026-11-08",
+   "2026-11-09"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     12,
      8,
      39,
      58,
@@ -519,8 +510,9 @@
      33,
      47,
      48,
-     33,
-     5,
+     34,
+     7,
+     10,
      0
     ]
    },
@@ -528,7 +520,6 @@
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     6,
      10,
      12,
      67,
@@ -557,6 +548,7 @@
      44,
      30,
      3,
+     9,
      0
     ]
    },
@@ -564,7 +556,6 @@
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     1,
      0,
      7,
      7,
@@ -593,14 +584,14 @@
      7,
      19,
      2,
-     1
+     3,
+     0
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     7,
      13,
      25,
      31,
@@ -626,9 +617,10 @@
      45,
      31,
      32,
-     42,
-     28,
-     18,
+     43,
+     29,
+     20,
+     14,
      0
     ]
    },
@@ -636,7 +628,6 @@
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     4,
      10,
      11,
      24,
@@ -662,10 +653,11 @@
      13,
      12,
      14,
-     9,
-     9,
+     10,
+     10,
      3,
-     1
+     12,
+     0
     ]
    }
   ]
@@ -687,7 +679,7 @@
    "name": "GOOGLE LLC",
    "core": "GOOGLE",
    "patents": 275,
-   "news": 17
+   "news": 16
   },
   {
    "name": "HONDA MOTOR CO LTD",
@@ -699,7 +691,7 @@
    "name": "SAMSUNG ELECTRONICS CO LTD",
    "core": "SAMSUNG ELECTRONICS",
    "patents": 260,
-   "news": 22
+   "news": 27
   },
   {
    "name": "X DEV LLC",
@@ -711,7 +703,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 155
+   "news": 156
   },
   {
    "name": "QUALCOMM INC",
