@@ -1,68 +1,64 @@
 {
- "updated_at": "2026-11-10T03:08:07.935890+00:00",
+ "updated_at": "2026-11-11T00:59:22.585396+00:00",
  "kpi": {
-  "articles_7d": 754,
-  "articles_prev_7d": 798,
-  "sources_7d": 363,
-  "articles_30d": 3332,
-  "total_articles": 13857,
+  "articles_7d": 797,
+  "articles_prev_7d": 730,
+  "sources_7d": 381,
+  "articles_30d": 3432,
+  "total_articles": 13992,
   "oldest_news": "1970-01-01"
  },
  "wordcloud": [
   [
    "nvidia",
-   43
+   42
+  ],
+  [
+   "factory",
+   28
   ],
   [
    "china",
-   30
+   28
+  ],
+  [
+   "開発",
+   28
   ],
   [
    "agility",
    28
   ],
   [
-   "factory",
-   24
-  ],
-  [
    "launches",
-   24
-  ],
-  [
-   "korea",
    23
   ],
   [
-   "unveils",
+   "opens",
    22
-  ],
-  [
-   "開発",
-   22
-  ],
-  [
-   "活用",
-   21
   ],
   [
    "現場",
-   21
-  ],
-  [
-   "opens",
-   21
+   22
   ],
   [
    "platform",
    20
   ],
   [
-   "技術",
+   "korea",
+   20
+  ],
+  [
+   "活用",
+   20
+  ],
+  [
+   "model",
    19
   ],
   [
-   "中国",
+   "unveils",
    19
   ],
   [
@@ -70,11 +66,15 @@
    19
   ],
   [
-   "データ",
+   "public",
    18
   ],
   [
-   "data",
+   "samsung",
+   18
+  ],
+  [
+   "建設",
    17
   ],
   [
@@ -82,15 +82,19 @@
    17
   ],
   [
-   "public",
+   "技術",
    17
   ],
   [
-   "samsung",
-   17
+   "world",
+   16
   ],
   [
-   "企業",
+   "data",
+   16
+  ],
+  [
+   "hyundai",
    16
   ],
   [
@@ -98,19 +102,31 @@
    16
   ],
   [
-   "韓国",
+   "自動",
    16
   ],
   [
-   "世界",
+   "中国",
    16
   ],
   [
-   "world",
+   "atlas",
+   16
+  ],
+  [
+   "ソラコム",
+   16
+  ],
+  [
+   "chinese",
    15
   ],
   [
-   "自動",
+   "company",
+   15
+  ],
+  [
+   "世界",
    15
   ],
   [
@@ -118,27 +134,31 @@
    15
   ],
   [
-   "meta",
-   14
-  ],
-  [
-   "chinese",
-   14
-  ],
-  [
-   "hyundai",
-   14
-  ],
-  [
-   "south",
-   13
-  ],
-  [
-   "future",
-   13
+   "million",
+   15
   ],
   [
    "training",
+   14
+  ],
+  [
+   "実装",
+   14
+  ],
+  [
+   "企業",
+   14
+  ],
+  [
+   "支援",
+   14
+  ],
+  [
+   "push",
+   13
+  ],
+  [
+   "summit",
    13
   ],
   [
@@ -146,23 +166,39 @@
    13
   ],
   [
-   "工場",
+   "韓国",
    13
   ],
   [
-   "nasdaq",
+   "データ",
    13
   ],
   [
-   "company",
+   "raises",
    13
   ],
   [
-   "成功",
+   "公開",
+   13
+  ],
+  [
+   "システム",
+   13
+  ],
+  [
+   "future",
    12
   ],
   [
-   "xiaomi",
+   "stock",
+   12
+  ],
+  [
+   "manufacturing",
+   12
+  ],
+  [
+   "technology",
    12
   ],
   [
@@ -170,39 +206,31 @@
    12
   ],
   [
-   "建設",
+   "共同",
    12
   ],
   [
-   "million",
+   "実証",
    12
-  ],
-  [
-   "公開",
-   12
-  ],
-  [
-   "model",
-   11
   ],
   [
    "series",
-   11
+   12
   ],
   [
-   "shift",
-   11
+   "xiaomi",
+   12
   ],
   [
-   "共同",
-   11
+   "nasdaq",
+   12
   ],
   [
-   "push",
-   11
+   "セキュリティ",
+   12
   ],
   [
-   "実装",
+   "edge",
    11
   ],
   [
@@ -210,111 +238,194 @@
    11
   ],
   [
-   "raises",
+   "導入",
    11
   ],
   [
-   "billion",
-   10
+   "時代",
+   11
   ],
   [
-   "連携",
-   10
-  ],
-  [
-   "物流",
-   10
-  ],
-  [
-   "生産",
-   10
-  ],
-  [
-   "導入",
-   10
-  ],
-  [
-   "写真",
-   10
-  ],
-  [
-   "画像",
-   10
-  ],
-  [
-   "stock",
-   10
-  ],
-  [
-   "hour",
-   10
+   "market",
+   11
   ]
  ],
  "today_top5": [
   {
-   "title": "Samsung, Hyundai Motor Deepen Physical AI Alliance",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uLUl6WlVhNE1ZMm1TM3NOQW1tOWJTMFp3S19zSmozdW1Oa1JreEJCUUFVRzRDOExRS0RoTml5dEY5clA1Uk9QMmVJR3BiTnJlZzI2em4ybzJWZkhnd1pBeDRqMlBCazRmazQxcml6ZUVodVR4?oc=5",
-   "source": "Businesskorea",
-   "published": "2026-11-09T12:12:51+00:00",
+   "title": "ソラコム、フィジカルAIシステム向けに、通信・セキュリティ・運用を支援する「SORACOM フィジカルAI Suite」を提供",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KWGlqaHdSSmVqYVJuaXFQQ0owSGY2MVdoNlJHdElpUW1idkJEc29jWDRzVWkxWFZsa1VPbS1RbWdzdDdjYWZhejF1Ym10eVJtSHNZVDZqQVNIZGt5R29WMVc5M3d1T09fVEZhMi1JUGcyaEVNSU9LTWtyNUZCeHM?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-11-10T22:30:00+00:00",
+   "count": 6,
+   "sources": [
+    "ASCII.jp",
+    "PR TIMES",
+    "Yahoo!ニュース",
+    "ニュースメディアVOIX",
+    "ビジネスネットワーク",
+    "ロボスタ"
+   ],
+   "score": 5.8
+  },
+  {
+   "title": "ソラコム、IoT・フィジカルAIシステムのセキュリティ診断・堅牢化支援サービス開始 - LOGI-BIZ online",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlSGhyU3hZU19CNjlONWpHZF9jX2Z6MjU0TjlWSUgzQzNjVUFRR2dHT2R0X1BXaW9ZaXpOOS1XRzJXWEh5Y1ZjNVRTaw?oc=5",
+   "source": "LOGI-BIZ online",
+   "published": "2026-11-10T21:00:08+00:00",
+   "count": 6,
+   "sources": [
+    "ASCII.jp",
+    "LOGI-BIZ online",
+    "PR TIMES",
+    "Yahoo!ファイナンス",
+    "ニュースメディアVOIX",
+    "株式会社インプレス"
+   ],
+   "score": 5.68
+  },
+  {
+   "title": "Intel and Altera collaborate on sensor integration for edge & physical AI",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZVloNkxkbTVwNi1IU2pTVDZZbEVtdi1WMFZoTElMM0N1QmVUVVo5b0UwUFhLU1RXejNQcTFNU0VVb3RvZDMyeFRhbTFkTTBIaGN0cHZQRE1RWGJPd2k5dTROeVFYVVVKcnJ1UzZDYVBiTzgyZzlvVkVGM2lGZ2VYVUV3UzBiLUUzSHllbXJUN0Z0SkRWdFE?oc=5",
+   "source": "Electronic Products & Technology",
+   "published": "2026-11-10T22:05:47+00:00",
+   "count": 4,
+   "sources": [
+    "Electronic Products & Technology",
+    "Intel",
+    "TechPowerUp",
+    "The Robot Report"
+   ],
+   "score": 3.84
+  },
+  {
+   "title": "Boston Dynamics Swaps Atlas Humanoid Feet for Scooter Wheels in High-Stress Actuator Experiment",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjV5WE9iTDBtMFpPNTZxcHAzMzZxN0x5VlZ4Y1hDSnhIOU1pUjNkdFZKRWxHSVNyRGlUN29SUGJpTi1HUklGeWw3RDZsWk9sYlpSM1JjSWtSdTIzOHI3ZXhnS2htVnNkUzBGWHF5cHdjUmYtR2xiNk0yS25Mb3VHM09JbVdkTTJOa2Fyam1DRWdMd05RMVVURWNScGNUdmV6Y0JndGRtbkJPcGlLb3V1bE5DVU1ZMzREUmVvUzNxNGJVZw?oc=5",
+   "source": "Gadget Review",
+   "published": "2026-11-10T16:05:47+00:00",
+   "count": 4,
+   "sources": [
+    "Gadget Review",
+    "Interesting Engineering",
+    "Moneycontrol.com",
+    "The Korea Times"
+   ],
+   "score": 3.54
+  },
+  {
+   "title": "Path Robotics: $300 Million Series E At $2.45 Billion Valuation Funds Manufacturing AI Expansion",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYTFCV1hoNUNHZ0J0UjhMME5kS1BsVkxqSmlPaUZ2MGRhUUxWdEV4SGNNamplZVFwcjZtTm41ZFdHUVZ1NEQxZU9lOG90c2pqVTJodm1xalRaR0hidGd1VWJKX1E5ZEt1VFVMd2hMS0xZQWZ4WFJ4ZmlvTlQwc0ZIV3R2VHlxRmN2UFU0ZnZVRW5USHIzdzZVMlQ2Vnl1NFdid0lpZ3dIZXZtdmNkRldDSnkxRQ?oc=5",
+   "source": "Pulse 2.0",
+   "published": "2026-11-10T21:58:04+00:00",
    "count": 3,
    "sources": [
-    "Businesskorea",
-    "KED Global",
-    "Unite.AI"
+    "Business Wire",
+    "Ohio Tech News",
+    "Pulse 2.0"
    ],
-   "score": 2.44
-  },
-  {
-   "title": "NXP Unveils Unified Robotics Platform to Speed Trusted Physical AI Deployment",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX0tMa1hIN0l5aFJwUEg3QS1WZ1ZvYl9UTFhQX2Z4VERzN3hQSUZsQ0ZCQXl4dXdjRmVYRTNYak04Z0U0akYtZzR5TUhVMXBnMjdUcGxiU0h3OGVKaTB2Rk9iX0JYWVFpLTk3WEp1M0NrMVZzNVJSUTdnU2d5d1lVVE1oLXdEVkFwVWFMMFIwbHpZcXVoZTE1Y1ZHaWlLcmk2WGFOSDdQUnNMb1FTeVVMVE9OM1hSQXJ1X1VmZmlHUEdYSV92RGkyRm1NSXpMZ1pUUGc?oc=5",
-   "source": "markets.businessinsider.com",
-   "published": "2026-11-09T09:13:39+00:00",
-   "count": 3,
-   "sources": [
-    "All About Circuits",
-    "markets.businessinsider.com",
-    "marketscreener.com"
-   ],
-   "score": 2.34
-  },
-  {
-   "title": "Nvidia teams up with Samsung, LG, Kakao to advance physical AI",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sX1J0YTU4akNBYnIxSFRReTFOOWxSdzFrMWFwbmpHcF9OQmhvemlWak9aaUZucUh4RklpNy1yaFpzSGhuZGZpclRoc1Y5cVJFZWV0aDBR?oc=5",
-   "source": "mkbn.mk.co.kr",
-   "published": "2026-11-10T01:47:33+00:00",
-   "count": 2,
-   "sources": [
-    "AI Insider",
-    "mkbn.mk.co.kr"
-   ],
-   "score": 1.96
-  },
-  {
-   "title": "Nvidia Surprises With Direct Investments in Four Korean AI, Robotics Startups",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSU13UFk4MWkySlB5bGVoN1h3T1A2cGlFdm5oQ191bF9LS2pXT1lDZVpNSGlLa2dTaER4czBuRjcyZ09MU2lPZzViRDVEMHZlUXVoZVhGQ2lncS00X2dFSjJXT0s3RzNudEQtQkJ0cGZRNHFYNENaV3kxTE5RaHBqY0ROOVBpbkRrWGtpQ01wTVQ0c0hydS1oOVVzS2xyOHZZRlE?oc=5",
-   "source": "Seoul Economic Daily",
-   "published": "2026-11-10T01:00:05+00:00",
-   "count": 2,
-   "sources": [
-    "NVIDIA Blog",
-    "Seoul Economic Daily"
-   ],
-   "score": 1.94
-  },
-  {
-   "title": "ドローンショーのノウハウをロボットに、レッドクリフがUnitreeと協業に向けた基本合意を締結",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44dlYxU19XLTZ1R2FKVThrXzZhak8tRUVjekd5TWd5dnljUkV5cmJhZFVXUTZTREZmUHg2NWlpSEVtQTVwZDVGRG0ydXhDbVJwUml2MElLNFZnekNYZnpMS0MxRmQ?oc=5",
-   "source": "ロボスタ",
-   "published": "2026-11-10T01:00:03+00:00",
-   "count": 2,
-   "sources": [
-    "ロボスタ",
-    "時事ドットコム"
-   ],
-   "score": 1.94
+   "score": 2.88
   }
  ],
  "hot_news": [
+  {
+   "title": "ソラコム、フィジカルAIシステム向けに、通信・セキュリティ・運用を支援する「SORACOM フィジカルAI Suite」を提供",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KWGlqaHdSSmVqYVJuaXFQQ0owSGY2MVdoNlJHdElpUW1idkJEc29jWDRzVWkxWFZsa1VPbS1RbWdzdDdjYWZhejF1Ym10eVJtSHNZVDZqQVNIZGt5R29WMVc5M3d1T09fVEZhMi1JUGcyaEVNSU9LTWtyNUZCeHM?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-11-10T22:30:00+00:00",
+   "count": 6,
+   "sources": [
+    "ASCII.jp",
+    "PR TIMES",
+    "Yahoo!ニュース",
+    "ニュースメディアVOIX",
+    "ビジネスネットワーク",
+    "ロボスタ"
+   ],
+   "score": 5.8
+  },
+  {
+   "title": "ソラコム、IoT・フィジカルAIシステムのセキュリティ診断・堅牢化支援サービス開始 - LOGI-BIZ online",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlSGhyU3hZU19CNjlONWpHZF9jX2Z6MjU0TjlWSUgzQzNjVUFRR2dHT2R0X1BXaW9ZaXpOOS1XRzJXWEh5Y1ZjNVRTaw?oc=5",
+   "source": "LOGI-BIZ online",
+   "published": "2026-11-10T21:00:08+00:00",
+   "count": 6,
+   "sources": [
+    "ASCII.jp",
+    "LOGI-BIZ online",
+    "PR TIMES",
+    "Yahoo!ファイナンス",
+    "ニュースメディアVOIX",
+    "株式会社インプレス"
+   ],
+   "score": 5.68
+  },
+  {
+   "title": "Boston Dynamics Swaps Atlas Humanoid Feet for Scooter Wheels in High-Stress Actuator Experiment",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjV5WE9iTDBtMFpPNTZxcHAzMzZxN0x5VlZ4Y1hDSnhIOU1pUjNkdFZKRWxHSVNyRGlUN29SUGJpTi1HUklGeWw3RDZsWk9sYlpSM1JjSWtSdTIzOHI3ZXhnS2htVnNkUzBGWHF5cHdjUmYtR2xiNk0yS25Mb3VHM09JbVdkTTJOa2Fyam1DRWdMd05RMVVURWNScGNUdmV6Y0JndGRtbkJPcGlLb3V1bE5DVU1ZMzREUmVvUzNxNGJVZw?oc=5",
+   "source": "Gadget Review",
+   "published": "2026-11-10T16:05:47+00:00",
+   "count": 5,
+   "sources": [
+    "Gadget Review",
+    "Interesting Engineering",
+    "Moneycontrol.com",
+    "The Korea Times",
+    "파이낸셜뉴스"
+   ],
+   "score": 4.42
+  },
+  {
+   "title": "Intel and Altera collaborate on sensor integration for edge & physical AI",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZVloNkxkbTVwNi1IU2pTVDZZbEVtdi1WMFZoTElMM0N1QmVUVVo5b0UwUFhLU1RXejNQcTFNU0VVb3RvZDMyeFRhbTFkTTBIaGN0cHZQRE1RWGJPd2k5dTROeVFYVVVKcnJ1UzZDYVBiTzgyZzlvVkVGM2lGZ2VYVUV3UzBiLUUzSHllbXJUN0Z0SkRWdFE?oc=5",
+   "source": "Electronic Products & Technology",
+   "published": "2026-11-10T22:05:47+00:00",
+   "count": 4,
+   "sources": [
+    "Electronic Products & Technology",
+    "Intel",
+    "TechPowerUp",
+    "The Robot Report"
+   ],
+   "score": 3.84
+  },
+  {
+   "title": "Path Robotics: $300 Million Series E At $2.45 Billion Valuation Funds Manufacturing AI Expansion",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYTFCV1hoNUNHZ0J0UjhMME5kS1BsVkxqSmlPaUZ2MGRhUUxWdEV4SGNNamplZVFwcjZtTm41ZFdHUVZ1NEQxZU9lOG90c2pqVTJodm1xalRaR0hidGd1VWJKX1E5ZEt1VFVMd2hMS0xZQWZ4WFJ4ZmlvTlQwc0ZIV3R2VHlxRmN2UFU0ZnZVRW5USHIzdzZVMlQ2Vnl1NFdid0lpZ3dIZXZtdmNkRldDSnkxRQ?oc=5",
+   "source": "Pulse 2.0",
+   "published": "2026-11-10T21:58:04+00:00",
+   "count": 3,
+   "sources": [
+    "Business Wire",
+    "Ohio Tech News",
+    "Pulse 2.0"
+   ],
+   "score": 2.88
+  },
+  {
+   "title": "Boston Dynamics' Atlas Wheel Robot Executes 360-Degree Jump",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVWlOS0JDTWRWS0pNdXAxb2JJVmVoSWFGZGxHZzF0V3Q1RkJYVE4teGhGdEpVcU1oOU9XWUFxWTdLcUw0c1VFVU1LeGRFeVpuVVJPOTBnSmRONU5KOFhuSVdFZ3BfcVNGZW9IalR4STdSRHZtV3NKbEJvVEFqb1h5RmxwNHpaUGlkVjFHWXp3?oc=5",
+   "source": "조선일보",
+   "published": "2026-11-10T15:36:06+00:00",
+   "count": 3,
+   "sources": [
+    "Businesskorea",
+    "Chosunbiz",
+    "조선일보"
+   ],
+   "score": 2.63
+  },
+  {
+   "title": "Web Summit 2026 opens in Lisbon, Portugal",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX29NbC04UFc3eDB1bGJISnFkZ0ZQemQ0MFp6dXJFLUtuVkV5NWI4b1VHTk1UNmNYU18tMFl3bmJkVnBudnIwWFBqUlhZcnFnWlBlUVNENU1abm5pYjZ3dmNFa19WQnNXdmNwWHZDZlJzRGpjM2ZIMElqczE0bWN1THJFSVZBQQ?oc=5",
+   "source": "Xinhua",
+   "published": "2026-11-10T13:20:28+00:00",
+   "count": 3,
+   "sources": [
+    "Euronews.com",
+    "Xinhua",
+    "Українські Національні Новини (УНН)"
+   ],
+   "score": 2.55
+  },
   {
    "title": "フィジカルAIを活用した農業課題の解決に向けて、シンガポールの企業とMOUを締結 AGRIST",
    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UQ2ZqMkRZLUFVTy1pZTJkcmRiVmtLN3lQYXlWbVVucWExUGUteWZxSVNhZVhOUnpHb3BSVHp5eFFndzBRdXBTMnhaTzZKYjFzZWl5Nkk1dTA5U2JkWklYcXJpMy0?oc=5",
@@ -327,7 +438,7 @@
     "毎日新聞",
     "西日本新聞me"
    ],
-   "score": 3.04
+   "score": 2.24
   },
   {
    "title": "フィジカルAI搭載ロボット導入のイオン物流構造改革の次世代自動化モデルセンター「イオン川口東XD」の特長は",
@@ -340,116 +451,23 @@
     "レスポンス（Response.jp）",
     "ｄメニューニュース"
    ],
-   "score": 2.87
+   "score": 2.12
   },
   {
-   "title": "Samsung, Hyundai Motor Deepen Physical AI Alliance",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uLUl6WlVhNE1ZMm1TM3NOQW1tOWJTMFp3S19zSmozdW1Oa1JreEJCUUFVRzRDOExRS0RoTml5dEY5clA1Uk9QMmVJR3BiTnJlZzI2em4ybzJWZkhnd1pBeDRqMlBCazRmazQxcml6ZUVodVR4?oc=5",
-   "source": "Businesskorea",
-   "published": "2026-11-09T12:12:51+00:00",
-   "count": 3,
-   "sources": [
-    "Businesskorea",
-    "KED Global",
-    "Unite.AI"
-   ],
-   "score": 2.44
-  },
-  {
-   "title": "NXP Unveils Unified Robotics Platform to Speed Trusted Physical AI Deployment",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX0tMa1hIN0l5aFJwUEg3QS1WZ1ZvYl9UTFhQX2Z4VERzN3hQSUZsQ0ZCQXl4dXdjRmVYRTNYak04Z0U0akYtZzR5TUhVMXBnMjdUcGxiU0h3OGVKaTB2Rk9iX0JYWVFpLTk3WEp1M0NrMVZzNVJSUTdnU2d5d1lVVE1oLXdEVkFwVWFMMFIwbHpZcXVoZTE1Y1ZHaWlLcmk2WGFOSDdQUnNMb1FTeVVMVE9OM1hSQXJ1X1VmZmlHUEdYSV92RGkyRm1NSXpMZ1pUUGc?oc=5",
-   "source": "markets.businessinsider.com",
-   "published": "2026-11-09T09:13:39+00:00",
-   "count": 3,
-   "sources": [
-    "All About Circuits",
-    "markets.businessinsider.com",
-    "marketscreener.com"
-   ],
-   "score": 2.34
-  },
-  {
-   "title": "ロボットバンク／フィジカルAI活用の自社ロボット開発プロジェクトを始動",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40akNuUkVYVUd4UVJ3ZnpxanFsXzNkZDkyczdDMTJoak9SOTVGaFd4SjdNOXNqR1oxYmhOdmo5blFOUFVXdkJJTW1vVDBhUlVVUndTbg?oc=5",
-   "source": "物流ニュースのLNEWS",
-   "published": "2026-11-09T07:52:12+00:00",
-   "count": 3,
-   "sources": [
-    "PR TIMES",
-    "ロボスタ",
-    "物流ニュースのLNEWS"
-   ],
-   "score": 2.3
-  },
-  {
-   "title": "South Korea’s new humanoid robot data factory teaches real-world tasks",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOGlaSm90SEhEcFNDc3RJYjlqODMxOHNuMkhnVHlnM1c5Z1R2Y0lPWV9hb0tJdHVpeHhpQUhSbTZxdktHVHNlakRfR2pzWFNiNXlWQjBVZ0xDbl82VjdwM1pPelhGV2Jub1BQeE56Z1lSY0ZQX3YycVl2enE3NDloSFVsaGlrNDAzc0ZDXzE1bzJsRFU?oc=5",
-   "source": "Yahoo Tech",
-   "published": "2026-11-07T18:24:28+00:00",
-   "count": 5,
-   "sources": [
-    "AI Insider",
-    "Bioengineer.org",
-    "EurekAlert!",
-    "Newswise",
-    "Yahoo Tech"
-   ],
-   "score": 2.27
-  },
-  {
-   "title": "South Korea's shrinking workforce opens factory doors to Chinese humanoid robots",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMmRXNkxQUTNFVUVTdG9MaEw2SmNQRWFlNFR6Y2NWQzB6SVNfNGE3NnJKSWZtbVVJclpZaEk0NS1HaG1kRWpCX0hNY2tfdGpReUpINVEtVm1FZTdYejVPWmppTHBYYy1qZlZpY1FibWJjcDlIUUFFNTNqSW9yeTZqd2VBbVlwaFVIXzB3?oc=5",
-   "source": "The Cool Down",
-   "published": "2026-11-09T04:20:00+00:00",
-   "count": 3,
-   "sources": [
-    "Chosunbiz",
-    "The Cool Down",
-    "The Gadgeteer"
-   ],
-   "score": 2.19
-  },
-  {
-   "title": "11月10日は「フィジカルAIの日」！ 新規事業・社会実装プロジェクトの募集を開始（BCN）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aOEVIdE1TQnhRNmk3Ym43aURFOEJvS1pacHgxNHRLdnRDckJ0VHRsRlh4RHJjc05XR0dMQzkySGN6Smd3dE1rMllxUmxNT2hMV21pWXVDaDh1SXdqYnFxbmkwZVl2N0h5VWo2SXA5aF9lU3cxeTdTMUJ3NXZnN1E?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-08T23:28:42+00:00",
-   "count": 3,
-   "sources": [
-    "Yahoo!ニュース",
-    "アットプレス",
-    "ｄメニューニュース"
-   ],
-   "score": 2.04
-  },
-  {
-   "title": "Nvidia teams up with Samsung, LG, Kakao to advance physical AI",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sX1J0YTU4akNBYnIxSFRReTFOOWxSdzFrMWFwbmpHcF9OQmhvemlWak9aaUZucUh4RklpNy1yaFpzSGhuZGZpclRoc1Y5cVJFZWV0aDBR?oc=5",
-   "source": "mkbn.mk.co.kr",
-   "published": "2026-11-10T01:47:33+00:00",
+   "title": "Hedra Launches Model Factory for Physical AI Development",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Fbl9qQUx4NEotemttcS10UVY4bUlwWkxxV1pGeXJEMVU2aG53RVlfNjcxc01QMS1ZLXBoTGpxb0txSFFTeHJ0clpLV2RiUy1MTEotNnAxaUNRS3AxMWVBNGZ2SXo2ZjdORXRGbGNWT0o?oc=5",
+   "source": "Korea IT Times",
+   "published": "2026-11-11T00:54:40+00:00",
    "count": 2,
    "sources": [
-    "AI Insider",
-    "mkbn.mk.co.kr"
+    "HackerNoon",
+    "Korea IT Times"
    ],
-   "score": 1.96
-  },
-  {
-   "title": "Nvidia Surprises With Direct Investments in Four Korean AI, Robotics Startups",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSU13UFk4MWkySlB5bGVoN1h3T1A2cGlFdm5oQ191bF9LS2pXT1lDZVpNSGlLa2dTaER4czBuRjcyZ09MU2lPZzViRDVEMHZlUXVoZVhGQ2lncS00X2dFSjJXT0s3RzNudEQtQkJ0cGZRNHFYNENaV3kxTE5RaHBqY0ROOVBpbkRrWGtpQ01wTVQ0c0hydS1oOVVzS2xyOHZZRlE?oc=5",
-   "source": "Seoul Economic Daily",
-   "published": "2026-11-10T01:00:05+00:00",
-   "count": 2,
-   "sources": [
-    "NVIDIA Blog",
-    "Seoul Economic Daily"
-   ],
-   "score": 1.94
+   "score": 2.0
   }
  ],
  "trend": {
   "dates": [
-   "2026-10-12",
    "2026-10-13",
    "2026-10-14",
    "2026-10-15",
@@ -478,14 +496,14 @@
    "2026-11-07",
    "2026-11-08",
    "2026-11-09",
-   "2026-11-10"
+   "2026-11-10",
+   "2026-11-11"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     39,
      58,
      46,
      37,
@@ -513,15 +531,15 @@
      34,
      7,
      11,
-     67,
-     3
+     68,
+     45,
+     5
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     12,
      67,
      47,
      33,
@@ -548,16 +566,16 @@
      44,
      30,
      3,
-     10,
-     32,
-     12
+     11,
+     34,
+     47,
+     0
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     7,
      7,
      9,
      12,
@@ -586,6 +604,7 @@
      2,
      4,
      10,
+     5,
      0
     ]
    },
@@ -593,7 +612,6 @@
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     25,
      31,
      40,
      32,
@@ -618,18 +636,18 @@
      31,
      32,
      43,
-     29,
+     30,
      21,
      15,
-     36,
-     5
+     38,
+     41,
+     3
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     11,
      24,
      10,
      25,
@@ -657,8 +675,9 @@
      10,
      4,
      14,
-     10,
-     4
+     11,
+     11,
+     0
     ]
    }
   ]
@@ -668,7 +687,7 @@
    "name": "INTEL CORP",
    "core": "INTEL",
    "patents": 1051,
-   "news": 18
+   "news": 25
   },
   {
    "name": "BOSCH GMBH ROBERT",
@@ -680,7 +699,7 @@
    "name": "GOOGLE LLC",
    "core": "GOOGLE",
    "patents": 275,
-   "news": 16
+   "news": 20
   },
   {
    "name": "HONDA MOTOR CO LTD",
@@ -704,7 +723,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 178
+   "news": 180
   },
   {
    "name": "QUALCOMM INC",
