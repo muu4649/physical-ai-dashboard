@@ -1,64 +1,72 @@
 {
- "updated_at": "2026-11-12T02:05:59.980744+00:00",
+ "updated_at": "2026-11-13T01:39:01.939063+00:00",
  "kpi": {
-  "articles_7d": 804,
-  "articles_prev_7d": 740,
-  "sources_7d": 377,
-  "articles_30d": 3478,
-  "total_articles": 14154,
+  "articles_7d": 819,
+  "articles_prev_7d": 738,
+  "sources_7d": 381,
+  "articles_30d": 3465,
+  "total_articles": 14310,
   "oldest_news": "1970-01-01"
  },
  "wordcloud": [
   [
    "nvidia",
-   43
+   41
   ],
   [
    "開発",
-   29
-  ],
-  [
-   "agility",
-   27
-  ],
-  [
-   "現場",
-   26
+   30
   ],
   [
    "ソラコム",
+   25
+  ],
+  [
+   "現場",
    24
   ],
   [
-   "launches",
+   "世界",
    22
   ],
   [
-   "china",
-   22
+   "raises",
+   21
   ],
   [
    "factory",
    21
   ],
   [
-   "world",
+   "日本",
    21
   ],
   [
-   "opens",
+   "実装",
+   21
+  ],
+  [
+   "million",
    20
   ],
   [
-   "unveils",
+   "china",
    20
-  ],
-  [
-   "技術",
-   19
   ],
   [
    "システム",
+   20
+  ],
+  [
+   "ntt",
+   20
+  ],
+  [
+   "world",
+   19
+  ],
+  [
+   "korea",
    19
   ],
   [
@@ -66,27 +74,23 @@
    19
   ],
   [
-   "million",
+   "技術",
+   19
+  ],
+  [
+   "atlas",
    18
   ],
   [
-   "unitree",
-   18
+   "agility",
+   17
   ],
   [
-   "活用",
-   18
+   "edge",
+   17
   ],
   [
-   "産業",
-   18
-  ],
-  [
-   "korea",
-   18
-  ],
-  [
-   "セキュリティ",
+   "production",
    17
   ],
   [
@@ -94,27 +98,23 @@
    17
   ],
   [
-   "atlas",
+   "セキュリティ",
    17
   ],
   [
-   "serve",
+   "unveils",
    16
   ],
   [
-   "public",
+   "opens",
    16
   ],
   [
-   "日本",
+   "活用",
    16
   ],
   [
-   "公開",
-   16
-  ],
-  [
-   "世界",
+   "中国",
    16
   ],
   [
@@ -122,7 +122,15 @@
    16
   ],
   [
-   "中国",
+   "首相",
+   16
+  ],
+  [
+   "platform",
+   15
+  ],
+  [
+   "unitree",
    15
   ],
   [
@@ -130,47 +138,63 @@
    15
   ],
   [
-   "chinese",
-   15
+   "launches",
+   14
   ],
   [
    "data",
    14
   ],
   [
-   "platform",
+   "高市",
    14
   ],
   [
-   "raises",
+   "産業",
    14
   ],
   [
-   "建設",
+   "公開",
    14
-  ],
-  [
-   "支援",
-   14
-  ],
-  [
-   "training",
-   13
-  ],
-  [
-   "company",
-   13
-  ],
-  [
-   "画像",
-   13
   ],
   [
    "写真",
+   14
+  ],
+  [
+   "chinese",
+   14
+  ],
+  [
+   "通信",
+   14
+  ],
+  [
+   "予測",
+   14
+  ],
+  [
+   "物流",
    13
   ],
   [
-   "edge",
+   "支援",
+   13
+  ],
+  [
+   "市場",
+   13
+  ],
+  [
+   "事業",
+   13
+  ],
+  [
+   "モデル",
+   13
+  ],
+  [
+   "intel",
    13
   ],
   [
@@ -178,11 +202,31 @@
    13
   ],
   [
-   "push",
+   "診断",
+   13
+  ],
+  [
+   "suite",
+   13
+  ],
+  [
+   "NTT",
+   13
+  ],
+  [
+   "billion",
    12
   ],
   [
-   "future",
+   "戦略",
+   12
+  ],
+  [
+   "画像",
+   12
+  ],
+  [
+   "push",
    12
   ],
   [
@@ -190,132 +234,129 @@
    12
   ],
   [
-   "予測",
-   12
-  ],
-  [
-   "事業",
-   12
-  ],
-  [
-   "モデル",
-   12
-  ],
-  [
-   "通信",
-   12
-  ],
-  [
    "IoT",
    12
   ],
   [
-   "診断",
+   "Suite",
    12
   ],
   [
-   "suite",
-   12
-  ],
-  [
-   "technology",
+   "training",
    11
   ],
   [
-   "news",
-   11
-  ],
-  [
-   "tech",
-   11
-  ],
-  [
-   "summit",
-   11
-  ],
-  [
-   "物流",
-   11
-  ],
-  [
-   "点検",
-   11
-  ],
-  [
-   "共同",
-   11
-  ],
-  [
-   "データ",
+   "south",
    11
   ]
  ],
  "today_top5": [
   {
-   "title": "NTTがロボットの失敗を回避するフィジカルAI技術を開発 行動前に荷崩れや落下を予測",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56Q213X0h6c3hXTWRLT0UtNVNBRjQtOGRwcUJ1SkxKVjdoQ1phMEZ4djhTZENGdkVkeWVhSGFJV2J2WjViQWZzNEdha2VqSmh1bEVpRE1LTU5XUDZVWVhWVHRTb0U?oc=5",
-   "source": "ロボスタ",
-   "published": "2026-11-11T06:35:02+00:00",
-   "count": 4,
+   "title": "高市首相、フィジカルＡＩを体感",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LaGhHVkxvRUJMZmR5RWxBV1JiZUtWdlQ0N2l5VDdYb2FGMVdIdmFlOUxkZGVENlZTMUlOUDhjeFNDbkUtMV96SDkxSlFHOVgw?oc=5",
+   "source": "佐賀経済新聞",
+   "published": "2026-11-12T10:11:28+00:00",
+   "count": 5,
+   "sources": [
+    "佐賀経済新聞",
+    "南日本新聞",
+    "時事ドットコム",
+    "時事通信ニュース",
+    "西日本新聞me"
+   ],
+   "score": 4.03
+  },
+  {
+   "title": "NTT、介護向けのフィジカルAIを実証 SOMPOと協業で",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tS0dUa2NEMzE2M3h5M2IxTjhLVmdyQ2V5bjZ3bkJpNDh1b19ROVhObTU3d0lKM3JXUVRPcnNRVzZuZ2kzUnFoTUotdVhrdW1jQ0dkYXU4Vm1yN0ZybGhocnU1WS1fNDdCVDVQMA?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-11-12T09:38:57+00:00",
+   "count": 5,
    "sources": [
     "Digital PR Platform",
-    "MONOist",
-    "ロボスタ"
-   ],
-   "score": 3.05
-  },
-  {
-   "title": "China unveils world's first bionic humanoid robot news anchors",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMlQtd2lobTFGYTlCN2tNZTBscGVIcU5HWVNiSkkzTFNhSDVweVVJUjgxUC1SZ0tVVUVyVFFGYURtUFBrYXg5bXJLVGZ2SWo3RjFxNklqcmRwTjVZcmJIUE5xVy1pV2l3YjJOSVVzenBkNzNhQVAwQ3Z6VmRWUGROc2dWa1l6VFJkQ1hJcXJQdW4zZGxydC15RXJkMXg5eS1MdXl2eVZacm90cDhtbXpB?oc=5",
-   "source": "The Peninsula Qatar",
-   "published": "2026-11-11T07:12:55+00:00",
-   "count": 3,
-   "sources": [
-    "The Peninsula Qatar",
-    "Toronto Star",
-    "thecanadianpressnews.ca"
-   ],
-   "score": 2.31
-  },
-  {
-   "title": "NTTがフィジカルAIを支える「世界モデル」を開発 動く前に未来を予測し、失敗を防ぐ",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRNnRvUTNhbFJDUVJ4dC1mSWYtOWltSlc2Z0thTktKaHBnUVVmLVc1TXZLQm1FeW53cEN5Wk1RdEhPV3pDNWp5c1VORDM1bmw5dXVB?oc=5",
-   "source": "ビジネスネットワーク",
-   "published": "2026-11-11T06:10:41+00:00",
-   "count": 3,
-   "sources": [
-    "Impress Watch",
     "ビジネスネットワーク",
-    "マイナビニュース"
+    "マイナビニュース",
+    "日本経済新聞",
+    "株式会社インプレス"
    ],
-   "score": 2.27
+   "score": 4.0
   },
   {
-   "title": "Google DeepMind、ロボットAI「Gemini Robotics 2.5」発表",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeVFrNnhlZmRkc2ZrYW5hcmEtejFrT2ppMGl3T2RwQzBYdEtwUnJYYzdjSHlEQmlycnhhRi1fWEduX082Ny1zc2pOY2JXSzFhaEJHM3gtRmxhZzlNZjY2RTZiNjBpbk03R0tteGRsTUVsMkZ5a2lqU0o5S2tCZHBPcGh2UFlpRTdDOXR3aDM3NHNDM29V?oc=5",
-   "source": "디지털투데이",
-   "published": "2026-11-12T00:44:00+00:00",
-   "count": 2,
+   "title": "U.S. Humanoid Robot Production Could Hit 1.5 Million by 2035",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE4yU2VlOXVSMmRQQ01PVUJmT2NiODNZaTBoaUU2dkRvTjFaemRRNWF0cGpmRzJfTlRxbDU4?oc=5",
+   "source": "Howl.Link",
+   "published": "2026-11-12T22:00:44+00:00",
+   "count": 4,
    "sources": [
-    "CNET Japan",
-    "디지털투데이"
+    "FOX 2 Detroit",
+    "Howl.Link",
+    "Reuters",
+    "TimesLIVE"
    ],
-   "score": 1.96
+   "score": 3.8
   },
   {
-   "title": "ロボットが仮想空間で“何万回も落下・衝突”…バーチャルツインが切り拓くフィジカルAI訓練の新常識",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpTE03Z0dIYXB6N0xRcldDMG83c01WbDZ1SU13TGlHT2kwR1JCVWVKTzBWTGloVmxoTDZrNWNVT0dZSjVRRTQ0RmhDRTA3d1g5WDJNbUcxSlhjUmw0aUd1azBZLTFwSFU1Z2Q5OV9HN3NXUdIBVEFVX3lxTE9Dd2xRMTc0cjdTaDdrNG1JamphZkh4ZFFLaE8xUWM1UkNzUGppYmNTUEpYMjI4SE81T0xka0EtdE4wWS12S0tHVGR0b2hOaG5FUFc5Qw?oc=5",
-   "source": "AFPBB News",
-   "published": "2026-11-11T22:25:28+00:00",
-   "count": 2,
+   "title": "Agile Robots Secures $500 Million in Funding Led by SoftBank to Scale Humanoid Robot Production",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY2VYc0pfVnpqN3IxeFBDYk5RNTZJWlc4VzdOQWR2dXJjUWtpRTdDb2JtT01va1p1bXNXQ3BwUTBjbjZOQVljcVkxSkh2WFhmVVFwTkh0TTNidUlkTWM5YWx0NzlULTh0SnUwYkU5a2xZUTRleWdmcDlVWXNFLUdfNmNLbTZlY25ON2xGM3NhcHlpcC1nSGFUWU1kaVQ2aTZyaUxxcnhWRGRtdmlwV1czalVrclpCVnRWVEhaeTN3?oc=5",
+   "source": "KuCoin",
+   "published": "2026-11-12T17:22:05+00:00",
+   "count": 4,
    "sources": [
-    "AFPBB News",
-    "Yahoo!ニュース"
+    "AI Insider",
+    "KuCoin",
+    "SiliconANGLE",
+    "Unite.AI"
    ],
-   "score": 1.9
+   "score": 3.57
+  },
+  {
+   "title": "フィジカルＡＩ関連企業との意見交換会-2026年11月12日",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhY1FXU05FcW45RG5nZGVCM1JERVhMV0pFN1NpUndYN3o2ekVidXdJS2oyeUx4UnRFWG5RU05sSlFkVVFPTVpXR1pteGJUTTczRkJrQTVudE1CSUFT?oc=5",
+   "source": "YouTube",
+   "published": "2026-11-12T15:14:51+00:00",
+   "count": 4,
+   "sources": [
+    "TBS NEWS DIG",
+    "YouTube",
+    "日刊スポーツ",
+    "産経ニュース"
+   ],
+   "score": 3.46
   }
  ],
  "hot_news": [
+  {
+   "title": "Can Intel's Altera Partnership Drive Growth in Edge and Physical AI?",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeU1qUW5UZmZadnJFaVBCc2cta25oLW80eXc2WG53SzBSUkFBMjFoZVREbGNVWms2ZkRKcFhxZXBHZF9ObC1OUEZtdWM0UHctM3lxbGRaYWVpVE1QUzlReC1oREVrRl9IamRZMHR6LWNEU1JIc0lET2o2elVTbUloMnJnX0N2QU5leWNIa3dlSnU5OC1GcXQ0Z0pmVC1kODVQdHd0aVp6TjlIbzg?oc=5",
+   "source": "Zacks Investment Research",
+   "published": "2026-11-12T15:02:47+00:00",
+   "count": 6,
+   "sources": [
+    "Electronic Products & Technology",
+    "Electronics360",
+    "Industrial Equipment News",
+    "Intel",
+    "The Robot Report",
+    "Zacks Investment Research"
+   ],
+   "score": 5.18
+  },
+  {
+   "title": "ソラコム、物流ロボットの通信・運用を支援",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJMS1NNTcwMW9FUzZsaEs3TG5wYkpTMDFGZ2RCeHppTUk0VDB6cU5XY2hwSXB2djc1RHdWMUhEUFZaLTlFS0wtdE1n?oc=5",
+   "source": "LOGISTICS TODAY",
+   "published": "2026-11-11T06:21:51+00:00",
+   "count": 8,
+   "sources": [
+    "ASCII.jp",
+    "LOGISTICS TODAY",
+    "Yahoo!ニュース",
+    "ニュースメディアVOIX",
+    "ビジネスネットワーク",
+    "ロボスタ"
+   ],
+   "score": 4.39
+  },
   {
    "title": "ソラコム、IoTやフィジカルAIシステムのセキュリティ診断・堅牢化サービスを提供開始",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LZDRleXd2ay1DWFQxOTZBYUdrOXlyWWllTHRjZExxM09uV2dIVmRpUWhqRkg2TkNkOER3NG1WWGp1SFRfQm9lZ3BicjBpMExTaklTenItSEtsUTJoNnhIZGxmZDBBQnowUThZ?oc=5",
@@ -330,23 +371,79 @@
     "Yahoo!ファイナンス",
     "クラウド Watch"
    ],
-   "score": 5.93
+   "score": 4.27
   },
   {
-   "title": "ソラコム、物流ロボットの通信・運用を支援",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJMS1NNTcwMW9FUzZsaEs3TG5wYkpTMDFGZ2RCeHppTUk0VDB6cU5XY2hwSXB2djc1RHdWMUhEUFZaLTlFS0wtdE1n?oc=5",
-   "source": "LOGISTICS TODAY",
-   "published": "2026-11-11T06:21:51+00:00",
-   "count": 7,
+   "title": "高市首相、フィジカルＡＩを体感",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9LaGhHVkxvRUJMZmR5RWxBV1JiZUtWdlQ0N2l5VDdYb2FGMVdIdmFlOUxkZGVENlZTMUlOUDhjeFNDbkUtMV96SDkxSlFHOVgw?oc=5",
+   "source": "佐賀経済新聞",
+   "published": "2026-11-12T10:11:28+00:00",
+   "count": 5,
    "sources": [
-    "ASCII.jp",
-    "LOGISTICS TODAY",
-    "Yahoo!ニュース",
-    "ニュースメディアVOIX",
-    "ビジネスネットワーク",
-    "ロボスタ"
+    "佐賀経済新聞",
+    "南日本新聞",
+    "時事ドットコム",
+    "時事通信ニュース",
+    "西日本新聞me"
    ],
-   "score": 5.32
+   "score": 4.03
+  },
+  {
+   "title": "NTT、介護向けのフィジカルAIを実証 SOMPOと協業で",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tS0dUa2NEMzE2M3h5M2IxTjhLVmdyQ2V5bjZ3bkJpNDh1b19ROVhObTU3d0lKM3JXUVRPcnNRVzZuZ2kzUnFoTUotdVhrdW1jQ0dkYXU4Vm1yN0ZybGhocnU1WS1fNDdCVDVQMA?oc=5",
+   "source": "日本経済新聞",
+   "published": "2026-11-12T09:38:57+00:00",
+   "count": 5,
+   "sources": [
+    "Digital PR Platform",
+    "ビジネスネットワーク",
+    "マイナビニュース",
+    "日本経済新聞",
+    "株式会社インプレス"
+   ],
+   "score": 4.0
+  },
+  {
+   "title": "U.S. Humanoid Robot Production Could Hit 1.5 Million by 2035",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE4yU2VlOXVSMmRQQ01PVUJmT2NiODNZaTBoaUU2dkRvTjFaemRRNWF0cGpmRzJfTlRxbDU4?oc=5",
+   "source": "Howl.Link",
+   "published": "2026-11-12T22:00:44+00:00",
+   "count": 4,
+   "sources": [
+    "FOX 2 Detroit",
+    "Howl.Link",
+    "Reuters",
+    "TimesLIVE"
+   ],
+   "score": 3.8
+  },
+  {
+   "title": "Agile Robots Secures $500 Million in Funding Led by SoftBank to Scale Humanoid Robot Production",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY2VYc0pfVnpqN3IxeFBDYk5RNTZJWlc4VzdOQWR2dXJjUWtpRTdDb2JtT01va1p1bXNXQ3BwUTBjbjZOQVljcVkxSkh2WFhmVVFwTkh0TTNidUlkTWM5YWx0NzlULTh0SnUwYkU5a2xZUTRleWdmcDlVWXNFLUdfNmNLbTZlY25ON2xGM3NhcHlpcC1nSGFUWU1kaVQ2aTZyaUxxcnhWRGRtdmlwV1czalVrclpCVnRWVEhaeTN3?oc=5",
+   "source": "KuCoin",
+   "published": "2026-11-12T17:22:05+00:00",
+   "count": 4,
+   "sources": [
+    "AI Insider",
+    "KuCoin",
+    "SiliconANGLE",
+    "Unite.AI"
+   ],
+   "score": 3.57
+  },
+  {
+   "title": "フィジカルＡＩ関連企業との意見交換会-2026年11月12日",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBhY1FXU05FcW45RG5nZGVCM1JERVhMV0pFN1NpUndYN3o2ekVidXdJS2oyeUx4UnRFWG5RU05sSlFkVVFPTVpXR1pteGJUTTczRkJrQTVudE1CSUFT?oc=5",
+   "source": "YouTube",
+   "published": "2026-11-12T15:14:51+00:00",
+   "count": 4,
+   "sources": [
+    "TBS NEWS DIG",
+    "YouTube",
+    "日刊スポーツ",
+    "産経ニュース"
+   ],
+   "score": 3.46
   },
   {
    "title": "GITEX World RobotiX 2026 to showcase humanoid robots, embodied AI and next-generation automation in Dubai",
@@ -361,109 +458,25 @@
     "Social News XYZ",
     "www.wam.ae"
    ],
-   "score": 4.49
+   "score": 3.24
   },
   {
-   "title": "Intel, Altera Partner on Sensor Integration for Edge and Physical AI",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNekVMaGR5b1lRTXcxdV96R1dIdXhKanBHQXlpWEV0aG5DY3lJR3RiRm84eEdlOElSTlotUWJ2aHBxc04zUllhVDJwSmt2SU95em5FOERrandGUUI3Ny1LekFEZTgxVDFLek9udHVKVk5QWnBtU2dXWnlHdnExV3V2dlVMU3p3c19JVXBOR2VkTG5vbXhoOUZQb0psQ1c5Q0d4ZGxxWEZJTTJOZ3ZrMV9fTWtleDFJU2JFdmFRQ3Y0MTgxbHM?oc=5",
-   "source": "Industrial Equipment News",
-   "published": "2026-11-11T18:16:28+00:00",
-   "count": 5,
-   "sources": [
-    "Electronic Products & Technology",
-    "Industrial Equipment News",
-    "Intel",
-    "TechPowerUp",
-    "The Robot Report"
-   ],
-   "score": 4.49
-  },
-  {
-   "title": "China unveils world's first bionic humanoid robot news anchors",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMlQtd2lobTFGYTlCN2tNZTBscGVIcU5HWVNiSkkzTFNhSDVweVVJUjgxUC1SZ0tVVUVyVFFGYURtUFBrYXg5bXJLVGZ2SWo3RjFxNklqcmRwTjVZcmJIUE5xVy1pV2l3YjJOSVVzenBkNzNhQVAwQ3Z6VmRWUGROc2dWa1l6VFJkQ1hJcXJQdW4zZGxydC15RXJkMXg5eS1MdXl2eVZacm90cDhtbXpB?oc=5",
-   "source": "The Peninsula Qatar",
-   "published": "2026-11-11T07:12:55+00:00",
-   "count": 5,
-   "sources": [
-    "The Peninsula Qatar",
-    "Toronto Star",
-    "Unite.AI",
-    "Xinhua",
-    "thecanadianpressnews.ca"
-   ],
-   "score": 3.85
-  },
-  {
-   "title": "Boston Dynamics Swaps Atlas Humanoid Feet for Scooter Wheels in High-Stress Actuator Experiment",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjV5WE9iTDBtMFpPNTZxcHAzMzZxN0x5VlZ4Y1hDSnhIOU1pUjNkdFZKRWxHSVNyRGlUN29SUGJpTi1HUklGeWw3RDZsWk9sYlpSM1JjSWtSdTIzOHI3ZXhnS2htVnNkUzBGWHF5cHdjUmYtR2xiNk0yS25Mb3VHM09JbVdkTTJOa2Fyam1DRWdMd05RMVVURWNScGNUdmV6Y0JndGRtbkJPcGlLb3V1bE5DVU1ZMzREUmVvUzNxNGJVZw?oc=5",
-   "source": "Gadget Review",
-   "published": "2026-11-10T16:05:47+00:00",
-   "count": 5,
-   "sources": [
-    "Gadget Review",
-    "Interesting Engineering",
-    "Moneycontrol.com",
-    "The Korea Times",
-    "파이낸셜뉴스"
-   ],
-   "score": 3.12
-  },
-  {
-   "title": "NTTがロボットの失敗を回避するフィジカルAI技術を開発 行動前に荷崩れや落下を予測",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE56Q213X0h6c3hXTWRLT0UtNVNBRjQtOGRwcUJ1SkxKVjdoQ1phMEZ4djhTZENGdkVkeWVhSGFJV2J2WjViQWZzNEdha2VqSmh1bEVpRE1LTU5XUDZVWVhWVHRTb0U?oc=5",
-   "source": "ロボスタ",
-   "published": "2026-11-11T06:35:02+00:00",
+   "title": "世界のヒューマノイドロボット市場、2035年に602億8,000万米ドルへ急拡大予測｜AI・自動化技術の進化が年平均35.78％の高成長を後押し",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yUWJ1ZG1aS1lMQnIyTFhIVkFHZF9FNEpaUkc1VVYyeUZ4aHlKRXJuUmpOeVhyZEhkcjdvT0lBbGVkUjU1allLM21jR3BZZlR0X3kw?oc=5",
+   "source": "ZDNET Japan",
+   "published": "2026-11-12T06:30:00+00:00",
    "count": 4,
    "sources": [
-    "Digital PR Platform",
-    "MONOist",
-    "ロボスタ"
+    "Newscast.jp",
+    "PR TIMES",
+    "ZDNET Japan",
+    "ライブドアニュース"
    ],
-   "score": 3.05
-  },
-  {
-   "title": "Embodied AI Unveils AIR Humanoid Robots for Factories",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwbnVIVXJ0RTdER0Qzd3ZGTkhYaEJUNm02LTljWDlza0FkcEs2YVhvMmktZkc1SC1nb1BvRG8tUmxiMDlodTJlbFlYNTFvemlmYWVoM1U0aEVlZ2RTcW1BTU5uZEdaTG1CczhLY0twWlVwZzBSc1E?oc=5",
-   "source": "Thomasnet",
-   "published": "2026-11-11T20:43:20+00:00",
-   "count": 3,
-   "sources": [
-    "Greater Geneva Bern area (GGBa)",
-    "StreetInsider",
-    "Thomasnet"
-   ],
-   "score": 2.78
-  },
-  {
-   "title": "South Korea to Invest $330 Million in Humanoid Robot Core Parts, Targets 80% Localization by 2030",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SeXB2MEZYcE5QeVc0c2Iydl9SZlhqVUt3NVpNdEdVWnNxbWZ2RGk0V1h5LXdtZFFIZmo3ejNkUEV3VlhOS2ZCemhzZGFNTTh0dG9EbHk5ei1VQXhEVXBVdVZpRlJpZFFDaWdfS1Fudld2QU1FS0E?oc=5",
-   "source": "BigGo Finance",
-   "published": "2026-11-11T09:25:00+00:00",
-   "count": 3,
-   "sources": [
-    "BigGo Finance",
-    "Chosunbiz",
-    "Seoul Economic Daily"
-   ],
-   "score": 2.38
-  },
-  {
-   "title": "NTTがフィジカルAIを支える「世界モデル」を開発 動く前に未来を予測し、失敗を防ぐ",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRNnRvUTNhbFJDUVJ4dC1mSWYtOWltSlc2Z0thTktKaHBnUVVmLVc1TXZLQm1FeW53cEN5Wk1RdEhPV3pDNWp5c1VORDM1bmw5dXVB?oc=5",
-   "source": "ビジネスネットワーク",
-   "published": "2026-11-11T06:10:41+00:00",
-   "count": 3,
-   "sources": [
-    "Impress Watch",
-    "ビジネスネットワーク",
-    "マイナビニュース"
-   ],
-   "score": 2.27
+   "score": 3.07
   }
  ],
  "trend": {
   "dates": [
-   "2026-10-14",
    "2026-10-15",
    "2026-10-16",
    "2026-10-17",
@@ -492,14 +505,14 @@
    "2026-11-09",
    "2026-11-10",
    "2026-11-11",
-   "2026-11-12"
+   "2026-11-12",
+   "2026-11-13"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     46,
      37,
      40,
      10,
@@ -527,15 +540,15 @@
      11,
      68,
      46,
-     46,
-     6
+     48,
+     49,
+     3
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     47,
      33,
      45,
      2,
@@ -562,16 +575,16 @@
      3,
      12,
      34,
-     56,
-     39,
-     5
+     57,
+     42,
+     51,
+     4
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     9,
      12,
      16,
      0,
@@ -599,15 +612,15 @@
      4,
      11,
      7,
-     8,
-     1
+     10,
+     4,
+     0
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     40,
      32,
      27,
      23,
@@ -635,15 +648,15 @@
      15,
      38,
      44,
-     34,
-     2
+     37,
+     27,
+     0
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     10,
      25,
      19,
      3,
@@ -672,7 +685,8 @@
      11,
      14,
      16,
-     2
+     21,
+     3
     ]
    }
   ]
@@ -682,7 +696,7 @@
    "name": "INTEL CORP",
    "core": "INTEL",
    "patents": 1051,
-   "news": 26
+   "news": 27
   },
   {
    "name": "BOSCH GMBH ROBERT",
@@ -694,7 +708,7 @@
    "name": "GOOGLE LLC",
    "core": "GOOGLE",
    "patents": 275,
-   "news": 25
+   "news": 24
   },
   {
    "name": "HONDA MOTOR CO LTD",
@@ -718,7 +732,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 182
+   "news": 179
   },
   {
    "name": "QUALCOMM INC",
