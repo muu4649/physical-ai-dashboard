@@ -1,21 +1,21 @@
 {
- "updated_at": "2026-11-14T01:14:08.592445+00:00",
+ "updated_at": "2026-11-15T00:41:34.594064+00:00",
  "kpi": {
-  "articles_7d": 823,
-  "articles_prev_7d": 744,
-  "sources_7d": 372,
-  "articles_30d": 3437,
-  "total_articles": 14428,
+  "articles_7d": 829,
+  "articles_prev_7d": 741,
+  "sources_7d": 375,
+  "articles_30d": 3349,
+  "total_articles": 14471,
   "oldest_news": "1970-01-01"
  },
  "wordcloud": [
   [
    "nvidia",
-   44
+   46
   ],
   [
    "開発",
-   36
+   37
   ],
   [
    "ntt",
@@ -26,16 +26,8 @@
    26
   ],
   [
-   "世界",
-   24
-  ],
-  [
-   "日本",
-   23
-  ],
-  [
    "実装",
-   23
+   25
   ],
   [
    "現場",
@@ -50,23 +42,39 @@
    22
   ],
   [
-   "china",
-   21
-  ],
-  [
-   "factory",
-   21
-  ],
-  [
-   "world",
-   21
+   "世界",
+   22
   ],
   [
    "million",
+   22
+  ],
+  [
+   "日本",
+   22
+  ],
+  [
+   "world",
    20
   ],
   [
-   "korea",
+   "企業",
+   20
+  ],
+  [
+   "raises",
+   20
+  ],
+  [
+   "factory",
+   20
+  ],
+  [
+   "model",
+   19
+  ],
+  [
+   "atlas",
    19
   ],
   [
@@ -74,23 +82,15 @@
    19
   ],
   [
-   "システム",
+   "写真",
    19
   ],
   [
-   "model",
-   19
-  ],
-  [
-   "企業",
+   "production",
    18
   ],
   [
-   "atlas",
-   18
-  ],
-  [
-   "raises",
+   "korea",
    18
   ],
   [
@@ -98,23 +98,27 @@
    18
   ],
   [
+   "システム",
+   18
+  ],
+  [
    "予測",
    18
   ],
   [
-   "写真",
+   "首相",
    18
   ],
   [
-   "公開",
+   "edge",
    17
   ],
   [
-   "production",
+   "china",
    17
   ],
   [
-   "首相",
+   "高市",
    17
   ],
   [
@@ -126,7 +130,15 @@
    16
   ],
   [
-   "edge",
+   "事業",
+   16
+  ],
+  [
+   "公開",
+   16
+  ],
+  [
+   "中国",
    16
   ],
   [
@@ -134,19 +146,7 @@
    16
   ],
   [
-   "高市",
-   16
-  ],
-  [
    "unitree",
-   15
-  ],
-  [
-   "中国",
-   15
-  ],
-  [
-   "事業",
    15
   ],
   [
@@ -163,22 +163,30 @@
   ],
   [
    "連携",
-   14
+   15
   ],
   [
    "tech",
+   15
+  ],
+  [
+   "モデル",
    14
   ],
   [
-   "south",
+   "training",
+   14
+  ],
+  [
+   "dynamics",
+   14
+  ],
+  [
+   "models",
    13
   ],
   [
    "社会",
-   13
-  ],
-  [
-   "モデル",
    13
   ],
   [
@@ -190,7 +198,7 @@
    13
   ],
   [
-   "training",
+   "産業",
    13
   ],
   [
@@ -198,11 +206,11 @@
    13
   ],
   [
-   "診断",
+   "iot",
    13
   ],
   [
-   "iot",
+   "診断",
    13
   ],
   [
@@ -214,23 +222,15 @@
    13
   ],
   [
-   "dynamics",
-   13
-  ],
-  [
    "体験",
    13
   ],
   [
-   "apple",
+   "south",
    12
   ],
   [
-   "opens",
-   12
-  ],
-  [
-   "産業",
+   "拡大",
    12
   ],
   [
@@ -246,74 +246,65 @@
    12
   ],
   [
-   "物流",
-   11
+   "boston",
+   12
   ]
  ],
  "today_top5": [
   {
-   "title": "NTT西日本、フィジカルAI分野での人材育成を京都大学と推進",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LMjdwUUdvcnNuZUNWRHgycEZXYzFsMm9ZdXk3MzZzZDZEX1JKY1c1Zmh6WGloQ1RJYWtVNFp6R1JsUFBrSXpETG1WWVpJSFhYMWNvWHFxWG5nT0RBSGtkY2JOUQ?oc=5",
-   "source": "株式会社インプレス",
-   "published": "2026-11-13T10:21:56+00:00",
-   "count": 9,
+   "title": "人型ロボットの「表情」に商機 中国スタートアップ、ワイヤで動く顔を開発",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hN2JNUDJWRHhLNmw1M1JNaVNZREpKNzA0a2hGNC12aElNUzRFeUREeXJtTVRkNDBTeGQzVDBDdXk0eHNGR2VVOHNUdjk3TDh0VV9oOFRPLXlkdVR2Y1Y1R05STzVZX1hscjlxMlZtY2ZQbTR4S0RTT3lxUHJmaWc?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-11-14T23:38:51+00:00",
+   "count": 1,
    "sources": [
-    "BigGo ファイナンス",
-    "NTT西日本",
-    "PR TIMES",
-    "ニコニコニュース",
-    "ビジネスネットワーク",
-    "ロボスタ"
+    "Yahoo!ニュース"
    ],
-   "score": 7.32
+   "score": 0.99
   },
   {
-   "title": "Maniformer、日本のNexTech Week 2026 秋のヒューマノイドロボット展に初出展",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IUjdDOFBPc3hObDk2NHVuSDJZVVpCREc4anJYVnlqMk9qTE8xTGlyRU5wdm05TVZKazA4UjBCR2YyMjFNbGFCbVdCTFhJeWJVNU9yODZiRGt2am8?oc=5",
-   "source": "valuepress",
-   "published": "2026-11-13T23:40:41+00:00",
-   "count": 2,
+   "title": "California’s AI craze hits the road as Silicon Valley city enlists humanoid robot to woo America",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa01XQk5aNmszdllkRHA0ME9zUXRHWk1oT1hvQU90ZG8tZFM0b240WldRUkQxWmVVNGZRaE16RS0weU5tVFdQVzc1Z2RJVGNHc3FTUmhZdG5MbGpoLW1hVEFDZGlLWE5GTVprSmtCZnNiMlFoWVFMRVlmUVhDd0Vmekoyc2M1SGdBNWNuZ2JVajFWMlhtN2RXZmlBWU5sbnMySWV3Y3RpbHE?oc=5",
+   "source": "New York Post",
+   "published": "2026-11-14T23:26:00+00:00",
+   "count": 1,
    "sources": [
-    "PR TIMES",
-    "valuepress"
+    "New York Post"
    ],
-   "score": 1.96
+   "score": 0.98
   },
   {
-   "title": "ASUS Sets Human-Pace Packing Target for Gallop Humanoid Robot",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPXzJ2aUY4RlRJclMxbVRfaHp1U2c0OFA5ZDdZTEwweFAxeU9wbjFGNVZEMlU4TnBWNkt6Q2NTdG5NaHdXRU5kRmJWSTdiQzJoZFVmZ0ItemVkUTljSG14eFhfOENCOVBaM0xvLTcyZzlvNWIwbHVzdkZjeHVJQ3h5TGhBVG0xWGZVZWxV?oc=5",
-   "source": "Unite.AI",
-   "published": "2026-11-13T12:51:04+00:00",
-   "count": 2,
+   "title": "Robot Skin Detecting 0.0005N, 20-Degree-of-Freedom Robot Hands: Physical AI Competition Ignites in Zurich",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yUXNFeE80T0xtbDlzSjdJM21sNjFaZElET1lUWFdOTWl6THpsbXRpNjR5S2I3VVJHS1ZZeVZFTkVrLVVaT1RpOHlxck1FTnZSNlRMNEFmNDdvTEtOOHVod1dhMTIwdVdJV3YtYmhvVktEcUllbFE?oc=5",
+   "source": "BigGo Finance",
+   "published": "2026-11-14T22:35:00+00:00",
+   "count": 1,
    "sources": [
-    "CNBC",
-    "Unite.AI"
+    "BigGo Finance"
    ],
-   "score": 1.68
+   "score": 0.97
   },
   {
-   "title": "ASUS、ヒューマノイドロボット「Gallop」で人間並みの梱包速度を目標に設定",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWmFyOXhvc1RXUDVMYVJIS2E2N24tUEpITXVQUjg0RHVaU1VMNU5LbFJRWkhKaExGUnFKdkFEZFNwSzhncmRuVU5fQ3NJMVIzS3VqeGNnUEhHYWhyUWM5THJWeHhzdTBtUFZMa1doSmJzbzNQZDlVU1FkemhKczlUOTdTMXpqUklWQ1o3X0pyZw?oc=5",
-   "source": "Unite.AI",
-   "published": "2026-11-13T12:51:04+00:00",
-   "count": 2,
+   "title": "ETH Zurich's Hutter: \"Physical AI Won't Arrive as Fast as Generative AI… Scaling Models Alone Has Limits\"",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGT09xSWdneVNoUGZqUnQ0Mmk4WElfWlB3Y1hqMWZ1MFM2VHg1OHJPWW1yczdabHlTOXBVbDJ0STFNSlhXcjRlbXc5ZlNVdnJEdnR5T0g2cTVYQS1nOFBqV0VZeFZjck5ma2NwVXVNajRKRnVCQkE?oc=5",
+   "source": "BigGo Finance",
+   "published": "2026-11-14T21:55:00+00:00",
+   "count": 1,
    "sources": [
-    "Martin Cid Magazine",
-    "Unite.AI"
+    "BigGo Finance"
    ],
-   "score": 1.68
+   "score": 0.96
   },
   {
-   "title": "MeitY Reviews House Help Platforms Data Collection Process For Physical AI Training",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSThqb0txY3czZGZsTDZWaTY1TzlRQmFsQ2FRYUpkQ29LUkNTMHBCcXhKa3hKY0tCTjZXSkJqMVRTaWlxQ0N1RThxTHFHa3hzcE9YME9vWU85aEpaT2RxSW93MkRYVzZrRTFMZTFBR21meWg2OGpjLWliTmYwX0g2S0VlcXhDek1Tbl9ZejF1UGxBZ1JRQUs4UlJDTWx0aGJjNURlN3FLSDBQR2s?oc=5",
-   "source": "Inc42",
-   "published": "2026-11-13T11:36:54+00:00",
-   "count": 2,
+   "title": "ETHチューリヒ校のフッター教授「フィジカルAI、生成AIのようには早く来ない…モデルを大きくするだけでは限界」",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzMEdERTFjbG5McUkyUmJiNFhSNHNOSVk2emdjQzZTOHJiRDIxRnZoclJwS2pLY2hhZ05BVGttUEZXem1UOEpZandRamxoODlXaVJQU1pCNVpkUm9kWkNESUx4Y3BfNlNEY1hKNHZjbnRBNUNC?oc=5",
+   "source": "BigGo ファイナンス",
+   "published": "2026-11-14T21:55:00+00:00",
+   "count": 1,
    "sources": [
-    "Entrackr",
-    "Inc42"
+    "BigGo ファイナンス"
    ],
-   "score": 1.66
+   "score": 0.96
   }
  ],
  "hot_news": [
@@ -331,7 +322,7 @@
     "ビジネスネットワーク",
     "ロボスタ"
    ],
-   "score": 7.32
+   "score": 5.29
   },
   {
    "title": "Can Intel's Altera Partnership Drive Growth in Edge and Physical AI?",
@@ -347,7 +338,7 @@
     "The Robot Report",
     "Zacks Investment Research"
    ],
-   "score": 3.73
+   "score": 2.69
   },
   {
    "title": "高市総理が家族型ロボット『LOVOT』と対面、「阪神くん」と命名。首相官邸で開催されたフィジカルAI関連企業との意見交換会に",
@@ -361,7 +352,21 @@
     "日刊スポーツ",
     "産経ニュース"
    ],
-   "score": 3.44
+   "score": 2.48
+  },
+  {
+   "title": "高市総理 フィジカルAIの社会実装へ 企業トップと意見交換",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1sSDFyYXNWZHZxbWJDNjhtOG82a0cxZ25DUG1pSFp1bXdTY3BtZDlqODlZRk9INC12TDZkaVZxcVNpZnJyX3hYQ3doVXBzb21mV2gwZ0lzc01Qdm1UVFIyWDRlWQ?oc=5",
+   "source": "テレ東BIZ",
+   "published": "2026-11-12T20:45:00+00:00",
+   "count": 5,
+   "sources": [
+    "YouTube",
+    "テレ東BIZ",
+    "毎日新聞",
+    "首相官邸"
+   ],
+   "score": 2.43
   },
   {
    "title": "ソラコム、物流ロボットの通信・運用を支援",
@@ -377,7 +382,7 @@
     "ビジネスネットワーク",
     "ロボスタ"
    ],
-   "score": 3.16
+   "score": 2.28
   },
   {
    "title": "ソラコム、IoTやフィジカルAIシステムのセキュリティ診断・堅牢化サービスを提供開始",
@@ -393,7 +398,7 @@
     "Yahoo!ファイナンス",
     "クラウド Watch"
    ],
-   "score": 3.08
+   "score": 2.22
   },
   {
    "title": "Maniformer、日本のNexTech Week 2026 秋のヒューマノイドロボット展に初出展",
@@ -405,7 +410,19 @@
     "PR TIMES",
     "valuepress"
    ],
-   "score": 2.94
+   "score": 2.12
+  },
+  {
+   "title": "[Science Video] Boston Dynamics Atlas robot rolls on wheels and lands 360° jumps",
+   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXQm1wV1lxZ0hqM1Q1Q0Y4cXVXbERuMjZGVnhiaEl5dEk1ZWV0ZENBQWlhMXlsT2NkNTZWTURabzRQX1NucFNsVk1ZbGoyMlBKcmltUQ?oc=5",
+   "source": "DongA Science",
+   "published": "2026-11-13T23:00:00+00:00",
+   "count": 3,
+   "sources": [
+    "DongA Science",
+    "Interesting Engineering"
+   ],
+   "score": 2.1
   },
   {
    "title": "高市首相、フィジカルＡＩを体感",
@@ -420,7 +437,7 @@
     "時事通信ニュース",
     "西日本新聞me"
    ],
-   "score": 2.91
+   "score": 2.1
   },
   {
    "title": "NTT、介護向けのフィジカルAIを実証 SOMPOと協業で",
@@ -435,39 +452,11 @@
     "日本経済新聞",
     "株式会社インプレス"
    ],
-   "score": 2.89
-  },
-  {
-   "title": "U.S. Humanoid Robot Production Could Hit 1.5 Million by 2035",
-   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE4yU2VlOXVSMmRQQ01PVUJmT2NiODNZaTBoaUU2dkRvTjFaemRRNWF0cGpmRzJfTlRxbDU4?oc=5",
-   "source": "Howl.Link",
-   "published": "2026-11-12T22:00:44+00:00",
-   "count": 4,
-   "sources": [
-    "FOX 2 Detroit",
-    "Howl.Link",
-    "Reuters",
-    "TimesLIVE"
-   ],
-   "score": 2.74
-  },
-  {
-   "title": "Gritt Partners With MasTec to Deploy AI-Powered Robotics on Solar Construction Sites",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZENKN09wQkE4SmlxMWVuaVJNR0R3b3NGSk5JM3d5eDhKNmZJd3hnVnZJLXFJRE1fQXRsQXVqVXYzOS1Ra280NmpfdExmZER6STc4ZjBFelh2X1lMUnloNTlpTDNQN21vMUtvUVRXT0JVcG5mN2FCZGhrWjBTS09GWGZWWWw3UDhsbk5IdDZ4d0JaRTZMTV9XT3FHQ2JBSFV3WGlPT2paa2E3Uk5sb0s0TFhCZFVWbXNoS214eUFsaw?oc=5",
-   "source": "AI Insider",
-   "published": "2026-11-13T12:33:35+00:00",
-   "count": 3,
-   "sources": [
-    "AI Insider",
-    "Robotics & Automation News",
-    "Unite.AI"
-   ],
-   "score": 2.52
+   "score": 2.08
   }
  ],
  "trend": {
   "dates": [
-   "2026-10-16",
    "2026-10-17",
    "2026-10-18",
    "2026-10-19",
@@ -496,14 +485,14 @@
    "2026-11-11",
    "2026-11-12",
    "2026-11-13",
-   "2026-11-14"
+   "2026-11-14",
+   "2026-11-15"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     40,
      10,
      6,
      45,
@@ -530,16 +519,16 @@
      68,
      46,
      48,
-     50,
-     41,
-     1
+     51,
+     44,
+     10,
+     0
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     45,
      2,
      8,
      27,
@@ -565,9 +554,10 @@
      12,
      34,
      57,
-     44,
-     54,
-     33,
+     45,
+     57,
+     34,
+     3,
      0
     ]
    },
@@ -575,7 +565,6 @@
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     16,
      0,
      3,
      3,
@@ -603,7 +592,8 @@
      7,
      10,
      4,
-     6,
+     7,
+     2,
      0
     ]
    },
@@ -611,7 +601,6 @@
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     27,
      23,
      16,
      27,
@@ -636,10 +625,11 @@
      21,
      15,
      38,
-     44,
+     45,
      37,
-     30,
-     27,
+     34,
+     28,
+     10,
      0
     ]
    },
@@ -647,7 +637,6 @@
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     19,
      3,
      9,
      13,
@@ -676,6 +665,7 @@
      16,
      21,
      16,
+     5,
      0
     ]
    }
@@ -686,7 +676,7 @@
    "name": "INTEL CORP",
    "core": "INTEL",
    "patents": 1051,
-   "news": 29
+   "news": 27
   },
   {
    "name": "BOSCH GMBH ROBERT",
@@ -698,7 +688,7 @@
    "name": "GOOGLE LLC",
    "core": "GOOGLE",
    "patents": 275,
-   "news": 22
+   "news": 19
   },
   {
    "name": "HONDA MOTOR CO LTD",
