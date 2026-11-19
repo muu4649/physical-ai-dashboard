@@ -1,132 +1,176 @@
 {
- "updated_at": "2026-11-18T02:43:24.564544+00:00",
+ "updated_at": "2026-11-19T02:13:59.699739+00:00",
  "kpi": {
-  "articles_7d": 547,
-  "articles_prev_7d": 820,
-  "sources_7d": 292,
-  "articles_30d": 3237,
-  "total_articles": 14580,
+  "articles_7d": 635,
+  "articles_prev_7d": 827,
+  "sources_7d": 318,
+  "articles_30d": 3357,
+  "total_articles": 14822,
   "oldest_news": "1970-01-01"
  },
  "wordcloud": [
   [
-   "ntt",
+   "raises",
    35
   ],
   [
-   "NTT",
+   "million",
+   30
+  ],
+  [
+   "ntt",
    27
   ],
   [
-   "開発",
-   25
+   "NTT",
+   23
+  ],
+  [
+   "企業",
+   23
   ],
   [
    "技術",
+   23
+  ],
+  [
+   "実装",
    22
+  ],
+  [
+   "首相",
+   22
+  ],
+  [
+   "世界",
+   21
   ],
   [
    "nvidia",
    20
   ],
   [
-   "million",
-   20
+   "production",
+   19
   ],
   [
-   "raises",
-   20
+   "高市",
+   19
   ],
   [
-   "世界",
-   20
-  ],
-  [
-   "首相",
-   20
-  ],
-  [
-   "実装",
-   18
+   "開発",
+   19
   ],
   [
    "日本",
    18
   ],
   [
-   "高市",
+   "atlas",
    18
   ],
   [
-   "予測",
-   17
-  ],
-  [
-   "現場",
-   17
-  ],
-  [
-   "production",
-   17
-  ],
-  [
-   "world",
-   16
-  ],
-  [
-   "data",
-   16
+   "dynamics",
+   18
   ],
   [
    "市場",
+   17
+  ],
+  [
+   "開催",
+   17
+  ],
+  [
+   "data",
+   17
+  ],
+  [
+   "startup",
    16
   ],
   [
-   "safety",
+   "体験",
+   16
+  ],
+  [
+   "現場",
+   16
+  ],
+  [
+   "社会",
    15
   ],
   [
-   "企業",
-   14
-  ],
-  [
-   "体験",
-   14
-  ],
-  [
-   "korea",
-   13
-  ],
-  [
-   "写真",
-   13
+   "china",
+   15
   ],
   [
    "強化",
-   12
+   15
   ],
   [
-   "連携",
-   12
+   "boston",
+   15
   ],
   [
-   "china",
-   11
-  ],
-  [
-   "tech",
-   11
-  ],
-  [
-   "失敗",
-   11
-  ],
-  [
-   "育成",
-   11
+   "training",
+   14
   ],
   [
    "agile",
+   14
+  ],
+  [
+   "連携",
+   14
+  ],
+  [
+   "series",
+   13
+  ],
+  [
+   "factory",
+   13
+  ],
+  [
+   "西日本",
+   13
+  ],
+  [
+   "交換",
+   12
+  ],
+  [
+   "分野",
+   12
+  ],
+  [
+   "関連",
+   12
+  ],
+  [
+   "week",
+   12
+  ],
+  [
+   "予測",
+   12
+  ],
+  [
+   "scale",
+   12
+  ],
+  [
+   "中国",
+   12
+  ],
+  [
+   "world",
+   12
+  ],
+  [
+   "safety",
    11
   ],
   [
@@ -134,7 +178,55 @@
    11
   ],
   [
-   "video",
+   "意見",
+   11
+  ],
+  [
+   "戦略",
+   11
+  ],
+  [
+   "Week",
+   11
+  ],
+  [
+   "産業",
+   11
+  ],
+  [
+   "写真",
+   11
+  ],
+  [
+   "工場",
+   11
+  ],
+  [
+   "ceo",
+   11
+  ],
+  [
+   "人材",
+   11
+  ],
+  [
+   "hyundai",
+   11
+  ],
+  [
+   "billion",
+   10
+  ],
+  [
+   "industry",
+   10
+  ],
+  [
+   "company",
+   10
+  ],
+  [
+   "chip",
    10
   ],
   [
@@ -146,301 +238,227 @@
    10
   ],
   [
-   "画像",
-   10
-  ],
-  [
-   "人材",
-   10
-  ],
-  [
-   "week",
-   10
-  ],
-  [
-   "中国",
-   10
-  ],
-  [
-   "training",
-   10
-  ],
-  [
-   "社会",
-   10
-  ],
-  [
-   "分野",
-   10
-  ],
-  [
    "家族",
    10
   ],
   [
-   "西日本",
+   "nextech",
    10
   ],
   [
-   "electronics",
-   9
-  ],
-  [
-   "south",
-   9
-  ],
-  [
-   "回避",
-   9
-  ],
-  [
-   "開催",
-   9
-  ],
-  [
-   "産業",
-   9
-  ],
-  [
-   "Week",
-   9
-  ],
-  [
-   "交換",
-   9
-  ],
-  [
-   "意見",
-   9
-  ],
-  [
-   "受注",
-   9
-  ],
-  [
-   "partners",
-   8
-  ],
-  [
-   "bring",
-   8
-  ],
-  [
-   "factory",
-   8
-  ],
-  [
-   "自動",
-   8
-  ],
-  [
-   "公開",
-   8
-  ],
-  [
-   "工場",
-   8
-  ],
-  [
-   "生産",
-   8
-  ],
-  [
-   "nextech",
-   8
+   "NexTech",
+   10
   ]
  ],
  "today_top5": [
   {
-   "title": "四足歩行ロボット向けナビ「現場犬」を実演 NexTech Week 2026【秋】 にXNOVAが出展",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zYUROSC1iU3oxV0VzalBNQVpUVk5YWGZQT1BVVW1Ea2t6R3BLcmVyR2JMSHVVZ2ZJVVA2TWQyWHYtNWFaczhETkxhV0pESFQ0Z2JXdmRRY1dObW5Fc1B0bVdxbzc?oc=5",
-   "source": "ロボスタ",
-   "published": "2026-11-17T03:00:03+00:00",
-   "count": 1,
+   "title": "Boston Dynamics' Atlas to Enter Semiconductor Industry in 2027",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcVJ5VDIyemE3bHhoWmE2czlDb203RzZSSnlwTzFYNjBYT0gyZ1hUS3dBQURPVGN5bnNXb3I5VkNSZGJERmJQX2k5d0ZaeG4zU05MMll5ZkpZZ01HZmpKZVJyY1ptZzFHMERxd00yd3kwcGhMVUJaVXdEUy12UTNONy1tRFNseTJf?oc=5",
+   "source": "조선일보",
+   "published": "2026-11-18T15:34:58+00:00",
+   "count": 5,
    "sources": [
-    "ロボスタ"
+    "Interesting Engineering",
+    "The Korea Daily",
+    "조선일보"
    ],
-   "score": 0.72
+   "score": 4.31
   },
   {
-   "title": "Humanoid Robot Makes Runway Debut at Tokyo Fashion Show",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA5M0l1N1FPeTBrWVdwOXBkOUxXZHFZejRSRkZ5NFdYN3pWcEVQSXNjTFg5ZHVoV0lVOUxoYUlBZ3NPYkFXMndqeHFVbE5LazZWc0xZRA?oc=5",
-   "source": "News On Japan",
-   "published": "2026-11-17T02:11:14+00:00",
-   "count": 1,
+   "title": "Boston Dynamics to test Atlas humanoid in GlobalFoundries chip plants from early 2027",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ0JfYnZCRU41N2xzQVBXUkNtZXJNclhJSVRId0d1V1l2VXVNV2wwV3AtaDNaVzdHa01sdi1kNThJVmRJd016VkpkaEtHMWNmMDdIWmxJQjIxWUV2X0FLV3ZvbkdyUWJpdmR1WlI0dUZSVjVsVjgyaFhNSG12M0RvNHNqd1JCMTdoUTBTaG4tU2xDc2cyVXBDM09PbUFqcHl3ajRqZER2aEhYZ3M?oc=5",
+   "source": "digitimes",
+   "published": "2026-11-18T23:45:15+00:00",
+   "count": 3,
    "sources": [
-    "News On Japan"
+    "AI Insider",
+    "The Korea Times",
+    "digitimes"
    ],
-   "score": 0.71
+   "score": 2.9
   },
   {
-   "title": "韓国WIRobotics、歩行支援ロボット「WIM S」の北米販売でOttobockと提携",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBQS2N0RjRtWG5fM29lQW1LZzFYN01LaUhQTnJXblFkTVZ0QWlBUUNacXM4ajNBbUgyNEo3WDRSYlNScmZuUEp5eERhbllFM0E1M0NISURNaU5HaHpjLTlOb0FVN3k?oc=5",
-   "source": "ロボスタ",
-   "published": "2026-11-17T02:00:03+00:00",
-   "count": 1,
+   "title": "Physical AI Startup Humyn Hits $50 Million ARR In 6 Months, Raises $47 Million",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdm5NTDJJMFZvYV9BOWZHcEF6MWRBV1VaVy1WLU9saHlhWWw4dHRlQWM4b0w0ZlE0bVdwSktncEowUUJseWFBWTl5Tm5YOWMxMlk1eW1RSDJ4THF4VHI2OXF1T0RZWVdFXzJFWWQ4V3R4ZXRkaGhoOEpjS0ljQkJYeWxSbWVWYTc2SHhkbWhVellFbVBwMThwS0VIUWFvejlMQ2dGc08zaWJ6eVkwTFFvQjlBZGt6RWZjNjNmbThGLTZSbFUwejBPcg?oc=5",
+   "source": "Forbes",
+   "published": "2026-11-18T22:22:00+00:00",
+   "count": 3,
    "sources": [
-    "ロボスタ"
+    "Business Standard",
+    "Entrackr",
+    "Forbes"
    ],
-   "score": 0.71
+   "score": 2.84
   },
   {
-   "title": "Robot Block draws global attention",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcmtsVVpJaEFMZGdfRUNPc2RjdE9GX0RNLUZuekVrSEs0MEp1c0lRbjJWZGhjVzhCSzFmbGMta2FLSnNiZGJXLTFKZGdiczQwNGUyNGQ3ejNGbmlsVlZmRk12WXJfUUdNNVBfMGpidE84aWhPTGhIT0VSLV9EZVN0a0pR?oc=5",
-   "source": "China Daily Global Edition",
-   "published": "2026-11-17T01:26:36+00:00",
-   "count": 1,
+   "title": "BrightAI Announces $97 Million Investment to Scale Physical AI Across the World’s Essential Services",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ3pseGxkX2xtVW1XUi12cFZGUzlmUXRaUDBKaE5PQ29qdTdDQmRBLUJXMTdOWWtVSjZ0NnpQdEhRTU80NXc2RWJrTS02a09sRE1YSjJrSTl5WjYzM1VlamExQXBwWWhyb0YzZzRSZC1fcW1hU1IwTVVHY2ZGUEZpSXI4eFhkYUtOcm5UUl9qb0hESlZSMUptTEpzLVZHY09TMlJQOVpCaFFObzg5TGNabnpycl9JcDlzZWVxSg?oc=5",
+   "source": "01net",
+   "published": "2026-11-18T18:00:00+00:00",
+   "count": 3,
    "sources": [
-    "China Daily Global Edition"
+    "01net",
+    "Financial Times",
+    "TradingView"
    ],
-   "score": 0.7
+   "score": 2.68
   },
   {
-   "title": "Nvidia unveils GROOT N2 to cut training and boost humanoid intelligence",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWDZzdHdYS0tiR3RPUEd3NmQzU20wUlJ0UFp3aXY4TmVXTXJZcTZtc2RZbmhRYmhZUGt0Zl9zTFNvLTAyS2RyTENlRk5BMTM2eDlVa2NNcHpTNUplVHROc20zbm1JR2l6RjhJa2xfc3h2YUluYURZNVMxR2FYQ2VYVEVR0gGWAUFVX3lxTE5Menhvejc2eFFCRTA4VFBSWFRDbUdzWE9ETnhuMkE5dVM1aEdrTFBqWENDVTZ0YkpYSGtGWjVvM084b0RhSE9xNG9qM2FIaVJoN3BhcGFyWnhJbGZIWFIyNHAwQ0EyTXpaWDdFTUwyY3RFWE1CdjJqbHdjZS1zRTUyVUg3XzBvN0l2d1FQN2QwU2dhWEkyUQ?oc=5",
-   "source": "Chosunbiz",
-   "published": "2026-11-17T01:25:00+00:00",
-   "count": 1,
+   "title": "アトラス、来年米半導体工場に投入…自動車生産に続く2度目の現場テスト",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdDF0QnF0WmlHNG1XLVhLYmM2ZXhibm5DcUFScnFJQm92Q1NXMXJfbTdSN1lCS3JoTlU0RHcyeGs0Q0FwOHVmV05MNXZGM24ydDB1T0hpeENfUVo3S3ZrVGdfMnlhUWZaRURaVGhGSGNUNHBWRWlZVHMwZDJRMC1tcA?oc=5",
+   "source": "조선일보",
+   "published": "2026-11-18T15:33:00+00:00",
+   "count": 3,
    "sources": [
-    "Chosunbiz"
+    "Infoseek",
+    "Yahoo!ニュース",
+    "조선일보"
    ],
-   "score": 0.7
+   "score": 2.59
   }
  ],
  "hot_news": [
   {
-   "title": "NTT西日本、フィジカルAIの発展・振興に向け京都大学と連携を強化",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Idk9MQWdicHduX1hvTWFWMDJUZEw0ZGJQUDlnaDhzbnE0NUdFelFtcjZ6X1BEUEIya0w2UmRjdEV0VWI2Z2RIU1dOUjJMQmJUaVpnV3l3?oc=5",
-   "source": "ICT教育ニュース",
-   "published": "2026-11-15T23:53:39+00:00",
-   "count": 10,
+   "title": "Boston Dynamics' Atlas to Enter Semiconductor Industry in 2027",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcVJ5VDIyemE3bHhoWmE2czlDb203RzZSSnlwTzFYNjBYT0gyZ1hUS3dBQURPVGN5bnNXb3I5VkNSZGJERmJQX2k5d0ZaeG4zU05MMll5ZkpZZ01HZmpKZVJyY1ptZzFHMERxd00yd3kwcGhMVUJaVXdEUy12UTNONy1tRFNseTJf?oc=5",
+   "source": "조선일보",
+   "published": "2026-11-18T15:34:58+00:00",
+   "count": 5,
    "sources": [
-    "BigGo ファイナンス",
+    "Interesting Engineering",
+    "The Korea Daily",
+    "조선일보"
+   ],
+   "score": 4.31
+  },
+  {
+   "title": "SOMPOホールディングスとNTT、介護分野で「フィジカルAI」の社会実装に向け協定を締結",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYSkxvbWE0T1o3bWJCNUNFcTdxLWpUYWpodFA4eEpia0lKVW9Db2ZNbnZlcUhOeVNmQTVldC1ySWZMZVBldFp4UGRFV2gzYzFIUGZpWFU4UXdLSWN3SmVPcldXRQ?oc=5",
+   "source": "AIsmiley",
+   "published": "2026-11-18T08:54:42+00:00",
+   "count": 5,
+   "sources": [
+    "AIsmiley",
+    "ビジネスネットワーク",
+    "マイナビニュース",
+    "日本経済新聞",
+    "株式会社インプレス"
+   ],
+   "score": 3.93
+  },
+  {
+   "title": "Boston Dynamics to test Atlas humanoid in GlobalFoundries chip plants from early 2027",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ0JfYnZCRU41N2xzQVBXUkNtZXJNclhJSVRId0d1V1l2VXVNV2wwV3AtaDNaVzdHa01sdi1kNThJVmRJd016VkpkaEtHMWNmMDdIWmxJQjIxWUV2X0FLV3ZvbkdyUWJpdmR1WlI0dUZSVjVsVjgyaFhNSG12M0RvNHNqd1JCMTdoUTBTaG4tU2xDc2cyVXBDM09PbUFqcHl3ajRqZER2aEhYZ3M?oc=5",
+   "source": "digitimes",
+   "published": "2026-11-18T23:45:15+00:00",
+   "count": 4,
+   "sources": [
+    "AI Insider",
+    "The Korea Times",
+    "Yonhap News Agency",
+    "digitimes"
+   ],
+   "score": 3.86
+  },
+  {
+   "title": "NTT西日本とアイリスオーヤマ、フィジカルAIでカメラや異種ロボットを連携実証",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01bmlYdDBILW8yOC1fLVFDVHdmOFQ3eks1SHUyR1Z1NktKSVhRLWFSRzZCdWkxU19ZZkRUNHdQSVdCRUxKYWZNdkkzSEVuSWhvb1o4aGNsaTBMcTFHMHEtTnV5SQ?oc=5",
+   "source": "株式会社インプレス",
+   "published": "2026-11-16T09:18:54+00:00",
+   "count": 9,
+   "sources": [
     "ICT教育ニュース",
     "NTT西日本",
     "PR TIMES",
     "ニコニコニュース",
-    "ニュースメディアVOIX"
-   ],
-   "score": 4.94
-  },
-  {
-   "title": "Agile Robots raises $500M to increase production capacity",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOU2ZGVXRkWV9RZG9oVVQtbHBtdWppVG56THdnVDFDSF9xWkI3ZzlENzFSYVgxWFVrRFJmOXVvRnBlLUNqUE5PSkttWEJTcTl4VTVCNlBrc0VrektZc01JN3hMNVE5WmlSVmE5ZFRsai02UDQ5SXc0NWhUelBpWUdYcGZWcjhtQXgybVh3NHRIaTB6Zw?oc=5",
-   "source": "The Robot Report",
-   "published": "2026-11-16T23:35:05+00:00",
-   "count": 4,
-   "sources": [
-    "AI Insider",
-    "Tech Times",
-    "The Robot Report",
-    "Unite.AI"
-   ],
-   "score": 2.74
-  },
-  {
-   "title": "四足歩行ロボット向けナビ「現場犬」を実演 NexTech Week 2026【秋】 にXNOVAが出展",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zYUROSC1iU3oxV0VzalBNQVpUVk5YWGZQT1BVVW1Ea2t6R3BLcmVyR2JMSHVVZ2ZJVVA2TWQyWHYtNWFaczhETkxhV0pESFQ0Z2JXdmRRY1dObW5Fc1B0bVdxbzc?oc=5",
-   "source": "ロボスタ",
-   "published": "2026-11-17T03:00:03+00:00",
-   "count": 3,
-   "sources": [
-    "PR TIMES",
-    "valuepress",
+    "ニュースメディアVOIX",
     "ロボスタ"
    ],
-   "score": 2.16
+   "score": 3.65
   },
   {
-   "title": "GXO and Apptronik plan rollout of up to 1,000 humanoid robots",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcVhZSWdhY1ctaW9XSUgtREVNbGl1Y3UtcU5hMWN6TC1icnRxZk1OWnlfZ210SUFiZ1NSbWh4b1ViUTlpMDhFYzBzUkVoWk9FdWVGZ3JFUWZVeWgzZEE4ZDItSHhBN0hNWWk4ZXE5Y2NkY1pkd2NDRi1HZ0pxTjRSaExZSjlvZVBtZWliLUU1ZkM0TldTVklHeVBrLU1lLXcwQnc1VW9PcXdOOGRoZjVZZV9MSF9wT3d6?oc=5",
-   "source": "Robotics & Automation News",
-   "published": "2026-11-16T13:03:18+00:00",
-   "count": 3,
-   "sources": [
-    "AI Insider",
-    "DC Velocity",
-    "Robotics & Automation News"
-   ],
-   "score": 1.78
-  },
-  {
-   "title": "GITEX Global to showcase latest humanoid robots and physical AI technologies in Dubai",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMEx1Qms2QkZRZW1mdWxyODhSN29zdUVZUUhqWjc0Z3VfbW5sbnlmckk5NE1RM2lqQUVFM1cwV2RXRzFkVkFaQk1KNG5IQ0lJbmYzUTJBNWJiUGItRVR4QVZTVFRXNUYta3doZjN5Ul9lcnNzOGE4MnpmLWpsSF9UM3JiVjBlNEhySV83Tjd1ZmUtbHZXWjFhUG9Cbl82WUFxMzVNTGZ5ckpabk9yZFpwb0JXblV6X0VLSjNXZHVTblFsQ0pVaDYwd2JOaThJTDZkY1dOcEZ5bFpJUQ?oc=5",
-   "source": "Robotics & Automation News",
-   "published": "2026-11-15T14:51:36+00:00",
-   "count": 3,
-   "sources": [
-    "Chosunbiz",
-    "MyJoyOnline",
-    "Robotics & Automation News"
-   ],
-   "score": 1.31
-  },
-  {
-   "title": "MeitY Questions Home Services Platforms Over Video Data Collected for AI Training",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0ydkNuWWJwUkkxUVZnaFVuTjF1UlBBLWFYb3NldVYwTXNqX0ViZHlqbXlEU2dxTGFjOVhSeUxjRzVpaGZzNllLQjZMU2NCbms0TV9icDZGckZpeFgwSjFkbEdXS3k?oc=5",
-   "source": "The 420.in",
-   "published": "2026-11-15T13:02:53+00:00",
-   "count": 3,
-   "sources": [
-    "Communications Today",
-    "Entrackr",
-    "The 420.in"
-   ],
-   "score": 1.27
-  },
-  {
-   "title": "ヒューマノイド「LimX Luna」がダンス！ LimX Dynamicsが群制御とSDKを紹介［動画］",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1hS2JNVlZPYk9ydGxwUGRGVkluOXlwVGQ2cjh6Q2tZRnpPN2E0Z25rUW9Cc3hPMEQ4VWl0WlJQQVFsQUxPbXlpLVV2YWhXc3Jrd3ZQUmNXcHJyLVZLNFlSX09B?oc=5",
+   "title": "四足歩行ロボット向けナビ「現場犬」をXNOVAが実演…NexTech Week 2026【秋】",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yRWhkX2k4OFE3cFRLT3pUUU9SY010QzJkYlF0WTNOam9Pak8wM1RvVlA4d0YzWk41bE0zOUhzTjVncFhTSnQwVFdDZ2FOa0RTQlZzd0ZiVTZmTjB5U0xQYmtB?oc=5",
    "source": "レスポンス（Response.jp）",
-   "published": "2026-11-15T10:00:03+00:00",
-   "count": 3,
+   "published": "2026-11-18T11:30:03+00:00",
+   "count": 4,
    "sources": [
+    "PR TIMES",
     "レスポンス（Response.jp）",
     "ロボスタ"
    ],
-   "score": 1.22
+   "score": 3.26
   },
   {
-   "title": "LG Electronics Partners With Korean Robotics Group to Develop Humanoid Safety Standards",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcUxTRkJqMmlWcDA5UXdVRUkwemZSZ3AyTlFObVlEN0lUcG1CaG90V1JMNnl1U2Rubm1xWXdMVDhUalBiN2RuUk9LQl9LWnZreWZlNXpydFJOeUgwazFTbElPMHR0V1N2YzRCby1WSnpIZnd6VWRVUWs2dHFmUDB3dlhqTC1vN0VQUWo4OUFXUWZQTFM2eFlFVnl5X09YTUJjX19KQzY0R1lYWno5bnY0cVA5RE5sX1pHcGU5MU55Z3VHazQ?oc=5",
-   "source": "AI Insider",
-   "published": "2026-11-16T09:48:14+00:00",
-   "count": 2,
+   "title": "お知らせ｜ｕｇｏ、首相官邸で開かれた「フィジカルAI関連企業との意見交換会」に参加。",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5OY1ZlcktIbDhpMFdmTF9OdWY3TDIwRUFOOEd2MXpZbUVPR2FGQ0pCNHV4MEhqeXp1Tk5xczZjLXROS1FWT2FLTVBkNTQ5UElLWmhJZGdrYzZ4Z3FSS0E?oc=5",
+   "source": "ugo",
+   "published": "2026-11-17T04:02:32+00:00",
+   "count": 6,
    "sources": [
-    "AI Insider",
-    "Seoul Economic Daily"
+    "PR TIMES",
+    "TBS NEWS DIG",
+    "ugo",
+    "ロボスタ",
+    "日刊スポーツ",
+    "産経ニュース"
    ],
-   "score": 1.13
+   "score": 3.16
   },
   {
-   "title": "Huawei Cloud Releases CloudRobo-WM1.2 Embodied World Action Model, Says It Will Be Open Source",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaUt5WmJBOEVCcHJtZEduMEdrdzU3b0d6YW1vamFHSVhFMnI1V24ycFROOFJubkFzTXpoZUxid0VhNGxtWGZMTE43MWhwUlJMSXBBUmhXajJsc1lKY2hJd3Y0aU5fYld3eTFCM0lwQmFNUjJvbWhVUFhYaUpPMGpkQmNILXRkNkNRcjNFTHd2cmtnbTlNX1pBQ2NlUjBYUQ?oc=5",
-   "source": "Pandaily",
-   "published": "2026-11-16T07:02:29+00:00",
-   "count": 2,
-   "sources": [
-    "Pandaily"
-   ],
-   "score": 1.09
-  },
-  {
-   "title": "ヒューマノイドロボット用PEEK材料の世界市場（2026年～2032年）、市場規模（PEEK顆粒、PEEK粉末）・分析レポートを発表",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UTjlqdUVGZHVycW9xRWNYZDYxQm50YUkzeWctSzlpLWpvd0psWHNJd2VwbmxiMUtRVk1EdFJwM09CenB4ZndMQ1VnN3BlSFU?oc=5",
-   "source": "アットプレス",
-   "published": "2026-11-15T02:00:00+00:00",
+   "title": "Physical AI Startup Humyn Hits $50 Million ARR In 6 Months, Raises $47 Million",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdm5NTDJJMFZvYV9BOWZHcEF6MWRBV1VaVy1WLU9saHlhWWw4dHRlQWM4b0w0ZlE0bVdwSktncEowUUJseWFBWTl5Tm5YOWMxMlk1eW1RSDJ4THF4VHI2OXF1T0RZWVdFXzJFWWQ4V3R4ZXRkaGhoOEpjS0ljQkJYeWxSbWVWYTc2SHhkbWhVellFbVBwMThwS0VIUWFvejlMQ2dGc08zaWJ6eVkwTFFvQjlBZGt6RWZjNjNmbThGLTZSbFUwejBPcg?oc=5",
+   "source": "Forbes",
+   "published": "2026-11-18T22:22:00+00:00",
    "count": 3,
    "sources": [
-    "Newscast.jp",
-    "アットプレス"
+    "Business Standard",
+    "Entrackr",
+    "Forbes"
    ],
-   "score": 1.09
+   "score": 2.84
+  },
+  {
+   "title": "AGIBOTがNexTech Week 2026 秋でX2を披露",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKZjJPN0tfaVlEX2dNanRibUxORjV0TkFxbFNEbDJQMDdSTGFZQkQ4U2dFdGp3U01jeFJhSEk0ZEJ6eTVTZmRSMzhDNlA2YTBkdWpUVU1Maw?oc=5",
+   "source": "オトさが",
+   "published": "2026-11-17T21:43:11+00:00",
+   "count": 4,
+   "sources": [
+    "valuepress",
+    "オトさが"
+   ],
+   "score": 2.69
+  },
+  {
+   "title": "BrightAI Announces $97 Million Investment to Scale Physical AI Across the World’s Essential Services",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ3pseGxkX2xtVW1XUi12cFZGUzlmUXRaUDBKaE5PQ29qdTdDQmRBLUJXMTdOWWtVSjZ0NnpQdEhRTU80NXc2RWJrTS02a09sRE1YSjJrSTl5WjYzM1VlamExQXBwWWhyb0YzZzRSZC1fcW1hU1IwTVVHY2ZGUEZpSXI4eFhkYUtOcm5UUl9qb0hESlZSMUptTEpzLVZHY09TMlJQOVpCaFFObzg5TGNabnpycl9JcDlzZWVxSg?oc=5",
+   "source": "01net",
+   "published": "2026-11-18T18:00:00+00:00",
+   "count": 3,
+   "sources": [
+    "01net",
+    "Financial Times",
+    "TradingView"
+   ],
+   "score": 2.68
+  },
+  {
+   "title": "アトラス、来年米半導体工場に投入…自動車生産に続く2度目の現場テスト",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdDF0QnF0WmlHNG1XLVhLYmM2ZXhibm5DcUFScnFJQm92Q1NXMXJfbTdSN1lCS3JoTlU0RHcyeGs0Q0FwOHVmV05MNXZGM24ydDB1T0hpeENfUVo3S3ZrVGdfMnlhUWZaRURaVGhGSGNUNHBWRWlZVHMwZDJRMC1tcA?oc=5",
+   "source": "조선일보",
+   "published": "2026-11-18T15:33:00+00:00",
+   "count": 3,
+   "sources": [
+    "Infoseek",
+    "Yahoo!ニュース",
+    "조선일보"
+   ],
+   "score": 2.59
   }
  ],
  "trend": {
   "dates": [
-   "2026-10-20",
    "2026-10-21",
    "2026-10-22",
    "2026-10-23",
@@ -469,14 +487,14 @@
    "2026-11-15",
    "2026-11-16",
    "2026-11-17",
-   "2026-11-18"
+   "2026-11-18",
+   "2026-11-19"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     58,
      67,
      49,
      43,
@@ -503,16 +521,16 @@
      47,
      12,
      12,
-     0,
-     0,
-     0
+     11,
+     14,
+     48,
+     1
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     39,
      44,
      30,
      24,
@@ -539,16 +557,16 @@
      36,
      3,
      13,
-     1,
-     0,
-     0
+     12,
+     19,
+     41,
+     6
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     4,
      11,
      7,
      3,
@@ -575,8 +593,9 @@
      7,
      2,
      7,
-     6,
-     1,
+     7,
+     4,
+     4,
      0
     ]
    },
@@ -584,7 +603,6 @@
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     37,
      43,
      43,
      21,
@@ -611,16 +629,16 @@
      30,
      11,
      8,
-     22,
-     3,
-     0
+     24,
+     14,
+     45,
+     3
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     36,
      33,
      26,
      11,
@@ -643,13 +661,14 @@
      11,
      14,
      16,
-     23,
+     24,
      17,
      5,
      6,
+     13,
      10,
-     2,
-     0
+     20,
+     2
     ]
    }
   ]
@@ -671,19 +690,19 @@
    "name": "GOOGLE LLC",
    "core": "GOOGLE",
    "patents": 275,
-   "news": 20
+   "news": 21
   },
   {
    "name": "HONDA MOTOR CO LTD",
    "core": "HONDA MOTOR",
    "patents": 263,
-   "news": 2
+   "news": 1
   },
   {
    "name": "SAMSUNG ELECTRONICS CO LTD",
    "core": "SAMSUNG ELECTRONICS",
    "patents": 260,
-   "news": 35
+   "news": 36
   },
   {
    "name": "X DEV LLC",
@@ -695,7 +714,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 175
+   "news": 173
   },
   {
    "name": "QUALCOMM INC",
