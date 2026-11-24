@@ -1,73 +1,77 @@
 {
- "updated_at": "2026-11-23T01:22:39.690999+00:00",
+ "updated_at": "2026-11-24T05:07:29.533633+00:00",
  "kpi": {
-  "articles_7d": 607,
-  "articles_prev_7d": 848,
-  "sources_7d": 291,
-  "articles_30d": 3110,
-  "total_articles": 15170,
+  "articles_7d": 624,
+  "articles_prev_7d": 739,
+  "sources_7d": 292,
+  "articles_30d": 3167,
+  "total_articles": 15273,
   "oldest_news": "1970-01-01"
  },
  "wordcloud": [
   [
    "raises",
-   32
-  ],
-  [
-   "企業",
-   26
+   34
   ],
   [
    "china",
-   24
+   26
   ],
   [
    "million",
+   23
+  ],
+  [
+   "企業",
    22
+  ],
+  [
+   "開発",
+   21
+  ],
+  [
+   "labs",
+   20
   ],
   [
    "atlas",
    20
   ],
   [
-   "dynamics",
-   19
-  ],
-  [
-   "boston",
-   19
-  ],
-  [
-   "共同",
-   19
-  ],
-  [
-   "開発",
-   18
-  ],
-  [
    "技術",
-   18
-  ],
-  [
-   "開催",
-   17
-  ],
-  [
-   "humyn",
-   17
-  ],
-  [
-   "labs",
-   17
+   20
   ],
   [
    "日立",
-   17
+   19
+  ],
+  [
+   "humyn",
+   18
+  ],
+  [
+   "boston",
+   18
+  ],
+  [
+   "dynamics",
+   18
+  ],
+  [
+   "現場",
+   18
   ],
   [
    "nvidia",
-   16
+   17
+  ],
+  [
+   "実装",
+   17
+  ],
+  [
+   "基盤",
+   17
   ],
   [
    "startup",
@@ -78,19 +82,19 @@
    16
   ],
   [
-   "実装",
+   "共同",
    16
   ],
   [
-   "基盤",
-   16
-  ],
-  [
-   "world",
+   "data",
    15
   ],
   [
-   "現場",
+   "launches",
+   15
+  ],
+  [
+   "開催",
    15
   ],
   [
@@ -98,51 +102,43 @@
    15
   ],
   [
+   "expands",
+   14
+  ],
+  [
+   "world",
+   14
+  ],
+  [
+   "中国",
+   14
+  ],
+  [
    "industry",
-   14
-  ],
-  [
-   "data",
-   14
-  ],
-  [
-   "実証",
-   14
+   13
   ],
   [
    "社会",
-   14
+   13
   ],
   [
    "半導体",
-   14
-  ],
-  [
-   "series",
    13
   ],
   [
-   "apec",
+   "導入",
    13
   ],
   [
-   "世界",
-   13
-  ],
-  [
-   "launches",
-   13
-  ],
-  [
-   "platform",
-   13
-  ],
-  [
-   "作業",
+   "test",
    12
   ],
   [
    "scale",
+   12
+  ],
+  [
+   "series",
    12
   ],
   [
@@ -151,26 +147,18 @@
   ],
   [
    "unveils",
-   11
+   12
   ],
   [
-   "xpeng",
-   11
+   "実証",
+   12
   ],
   [
-   "hyundai",
-   11
+   "世界",
+   12
   ],
   [
-   "事業",
-   11
-  ],
-  [
-   "test",
-   11
-  ],
-  [
-   "expands",
+   "infrastructure",
    11
   ],
   [
@@ -178,39 +166,63 @@
    11
   ],
   [
+   "development",
+   11
+  ],
+  [
+   "xpeng",
+   11
+  ],
+  [
    "活用",
    11
   ],
   [
-   "導入",
+   "事業",
    11
   ],
   [
-   "shenzhen",
-   10
+   "作業",
+   11
   ],
   [
-   "出展",
-   10
+   "日本",
+   11
   ],
   [
-   "産業",
-   10
+   "時代",
+   11
   ],
   [
-   "infrastructure",
-   10
+   "工場",
+   11
+  ],
+  [
+   "調達",
+   11
+  ],
+  [
+   "apec",
+   11
+  ],
+  [
+   "platform",
+   11
   ],
   [
    "brightai",
    10
   ],
   [
-   "industrial",
+   "hyundai",
    10
   ],
   [
-   "展示",
+   "japan",
+   10
+  ],
+  [
+   "tech",
    10
   ],
   [
@@ -218,15 +230,15 @@
    10
   ],
   [
-   "日本",
+   "市場",
    10
   ],
   [
-   "工場",
+   "industrial",
    10
   ],
   [
-   "中国",
+   "パワー",
    10
   ],
   [
@@ -234,80 +246,86 @@
    10
   ],
   [
-   "training",
-   9
-  ],
-  [
-   "ntt",
-   9
-  ],
-  [
-   "NTT",
-   9
-  ],
-  [
-   "japan",
+   "deployment",
    9
   ]
  ],
  "today_top5": [
   {
-   "title": "The Early Scale: McKinsey finds Physical AI value shifting to deployment",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbjd6SDZjd3haV09GSl9uVHpnbFIxOFNoNDA5LWxPZ2twTXZDYnU3UV9xdDF1TktYRUp4R21EY21ndjlfa2hwVFlVYzlzaWFIMjZwYTUtNzFDVjJMTVk2bGVrWldVeW1RMmxnelRPREs5VWVSclVwanFFR3JLOUEtbGhDcTltYTFwekpR?oc=5",
-   "source": "MarketScale",
-   "published": "2026-11-22T11:00:00+00:00",
+   "title": "Korea to host smart construction expo featuring AI and robots",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZHJoSl8zRUJuQ0lZNWg4U0ROaDZKSGIxM09uTDFkYUk4YWQwMFNZWnJjTVFwZzRMVHR5TTl4SGxFb1dCbC1OZDZ2Q2N5bWJqNU80X1k1MHo5QU40emhYZDhhdnlrZEZjaG1iSFFTUW45eVBaWnl3eHNnMXdHNGVOLVp1VULSAZgBQVVfeXFMUFhmZmlHbFRUNlp6NkZMR3JNUVdSSjVRSWExUDQ3emIwVlo2dkVzYkZ0eWlVNUhhalVTb2hfQjdWUWZFMFJkQU14RWhYM2FNZEs5VVE0YXJsQzVKdmZrY244dktmLVdNbjVVTjFfWDV3cXRBcHd6ck1VSExKWHR0d1NsWXRSV01iVDdNMTRuTHZSekJ3THVsT0k?oc=5",
+   "source": "Chosunbiz",
+   "published": "2026-11-23T21:00:00+00:00",
    "count": 2,
    "sources": [
-    "MarketScale"
+    "Chosunbiz",
+    "파이낸셜뉴스"
    ],
-   "score": 1.64
+   "score": 1.79
   },
   {
-   "title": "フィジカルAI、初の公道実験 歩行者避け時速5キロで 北九州",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45bVFUODdwYnVrSlRHRjQ4aGN4WnZFdmxIdVdOc2dnb0RoVFl2cW43Vmt5bFFLa0hRWDdfMUNqaVpJU3BCLXd0SE9CSndWNkR1Ui0tUm5QRV84MjZ4S1lnVkd1dktVOTAt?oc=5",
-   "source": "毎日新聞",
-   "published": "2026-11-23T01:15:00+00:00",
-   "count": 1,
+   "title": "Swiss Robotics Startup coprod Raises $6M in Pre-Seed Funding to Simplify Custom Robot Hardware Development",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSExoZlJpSmw3ajlnUUhEYTlWaU1aUU0zdFlNNjJrVHlBRlZPTVNRd0NmYjBVZmNWaFprQ0RTYzcyM05yeWxoYXJRZ205N0xRbWh2LXR3WGtscUN1X2tKN2JSRDlKN0xKNV9aTjNubldfTERPWTZxYmh6SlpBbzNxemVFbVFIZXdpNDRPeVFzNnNrSGJ3Ry0zUmV1dEVrV1lEa2w0bnhYOGhDVXg2RWVJclJ4aUp2MWVWZkNXY0wyOUJTSjZnSzdJRkkwbXlpSjFzS0hMSTFLd0Z6UkU?oc=5",
+   "source": "AI Insider",
+   "published": "2026-11-23T13:21:36+00:00",
+   "count": 2,
    "sources": [
-    "毎日新聞"
+    "AI Insider",
+    "EU-Startups"
    ],
-   "score": 1.0
+   "score": 1.61
   },
   {
-   "title": "Putting AI through the shopfloor grind",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQT196dHk3UHV2RHNNSVZlWUduR20tWkdhRW9IdmQ0bTc4eDNaZ0h4TE5rVHJfRk81WlBjZ0JzQ0FsaVFvWndsQVg5WkRiaTlzS1RfeHc2WGdTdE85UWpka24xQnh3M3pvNWJ5NEJRNHBLQXV3NG8zOS1RdEU0bmVHN2pOcXAzSHRHQ3dGbk85aUZod0xLV3Zkd2N2Q2kwZ0RQRTk2ekxKTFl1ZUgwREFNSDBrVUJYQ0NpN3lYMkUxTDEwaWlYX2fSAcwBQVVfeXFMUGQyUHNkdUhwT1VIQlh1cEdRdjIzZXE4cHU3QTRKc1Z1U1ZQUTFoR2U0aEZaZWdXRlVrY2pRZ0pSSGVoTVh3d3RRSEZjSXRMUkt2bThOWmdldENmdVBXaXpyXzR3cGNUVVN0RDBNdHduZGktOEZGVFc2M3VzS1RaRFhIdmRkcjJwY2ZtNnhxeWdXVXZVWEp4RkR6Y20tdm5STlB4Vy14VXhwUzhfSXY1VFd1enlUVUlMdWJZOWV0WjBoMUIwem9oVC1tb28y?oc=5",
-   "source": "BusinessLine",
-   "published": "2026-11-23T00:49:00+00:00",
+   "title": "横浜ロボットワールド2026 いよいよ開催！注目の専門セミナーで宇宙・フィジカルAI・ロボットの最先端技術を深掘り",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15ejh2anVUdEtJeG1tdFdWWG9OY2dXS2JaZldlSU56bVZuNXNqNHR6aV9HMnRQa3Juei10SzBNSF9BVDlVOVhKN29MSW5QOFltNDAyeHplQVlBbHhwWURNRlVmQk94bHJNcGc?oc=5",
+   "source": "PR TIMES",
+   "published": "2026-11-24T04:41:03+00:00",
    "count": 1,
    "sources": [
-    "BusinessLine"
-   ],
-   "score": 0.99
-  },
-  {
-   "title": "AGIBOTのG2はスマホ検査で何をするのか ─ Lens Technology（藍思科技）「数十台」の次に見るべきこと",
-   "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4taGJHVzZreTlfN28tQjZXb0pJVjNnZVI4N1JkdV9CMG5ZazlyRUI1SkEzM0RmZ3FVZXNFQU9mZkhFWDBQNE1UOTJWQkQ3Z1NwQ2EzVw?oc=5",
-   "source": "note",
-   "published": "2026-11-23T00:48:39+00:00",
-   "count": 1,
-   "sources": [
-    "note"
+    "PR TIMES"
    ],
    "score": 0.99
   },
   {
-   "title": "Framework Limits Moral Status Claims for Socially Responsive Humanoid Robots",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQm9udkZXNW5nOWpIYzlVakNPNlhuU21zMzJsdkJ5Yk1fSDNoTXBPWEUzTGJLcDBLOGxOWmdnMmxES0daM0pGVTZzd2Fab3pQVU9leWV2Qm5jM0xtRW1uUHpQWUJFMnV6RU5Ed3lSWmNnNnpNcVF4QmcyN3NJakZ5RnVucHV2N0xJRGl4MVB2SlQ2T21qVEdpQlNKT29IekdKYlA0?oc=5",
-   "source": "Bioengineer.org",
-   "published": "2026-11-23T00:22:30+00:00",
+   "title": "ASRock Industrial Unveils Robotics-in-a-Box to Democratize Physical AI Development",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOXJaX2UwalhiSWs3SFJyYzBNZEQ4dVEtSnNRUjRXQkRUdTVCZlhpV3ladl9hdXlpZEs1ZWJQbE44Nll4T0ZHSUFfYTF2bFBVRnFVWTZfSW1xeWdRLUtEX0lQeVdUV241TG9mTTZHMS16UG00UnVsVGl0SUM2YW4taDBRdTVsVFhtR2hGUVBIS2tNLXpvTEpMdFdIblV6VFFOckVhWDkwMA?oc=5",
+   "source": "TimesTech",
+   "published": "2026-11-24T04:40:22+00:00",
    "count": 1,
    "sources": [
-    "Bioengineer.org"
+    "TimesTech"
+   ],
+   "score": 0.99
+  },
+  {
+   "title": "中国A株の前場、3100銘柄超が上昇 ヒューマノイドロボット概念に連続ストップ高銘柄相次ぐ",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05anNhdk5hZzVuZ1lVTFFEcW9MMFNJZ01ySU5RRS1TdGhWSm4tZTEyaFZXQ1JlNlp0OU5lSDZqZWFWbzN0TWVzTk80bXhiZkppaWxraWNqYlduc1o0d0tCZGlmQ2RPY0UtYmtZRzF0Vkhad3dm?oc=5",
+   "source": "BigGo ファイナンス",
+   "published": "2026-11-24T04:35:00+00:00",
+   "count": 1,
+   "sources": [
+    "BigGo ファイナンス"
    ],
    "score": 0.99
   }
  ],
  "hot_news": [
+  {
+   "title": "送電線点検にフィジカルAI Jパワー／日立らが実証へ",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55c2pDYVYxeGlETFl2M3pHdEk3djgxRGxMNmhGRmNsS01rcVpIcmJWWE84ZFdYc0JDZnY3cnRaOFdqNXAySkNCYWtydGxUZGZoUmkwRE9NMTgzcG9wZEhMSFhvanJQM3JOTTktMnV3UQ?oc=5",
+   "source": "EE Times Japan",
+   "published": "2026-11-24T00:30:00+00:00",
+   "count": 9,
+   "sources": [
+    "EE Times Japan",
+    "Hitachi Global",
+    "IT Leaders",
+    "Infoseek",
+    "J-POWER 電源開発株式会社",
+    "Yahoo!ニュース"
+   ],
+   "score": 8.44
+  },
   {
    "title": "Boston Dynamics gives Atlas wheels to test new reinforcement learning capabilities",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWlpiR1Ztekwya21XcGw0cGNJaFRNSFFDeFFCRWJaTUVfYTVxVTJhbFFTVmo4dnV3a2FZajRTVVJ3d0NtQ3YxSmZYd1JnMkF6UXNBVWFRMm1LdDE2b2dpMV9CODVIbDhJSFpySTBSMUZvd3NHajlWTWFpTFYwQ3lrdl9KZWM0MGNZZnVkeUdURUFmUTFMd2FIdnd5Vm9TZUdmUElQT3RKcGVZNUlTSTRJQ0Q3U2NOSlRBeEd6SWlwOEFJSVhFN0F2eDR5V0dpbzVVMkdiR3ZB?oc=5",
@@ -322,23 +340,32 @@
     "digitimes",
     "eWeek"
    ],
-   "score": 5.18
+   "score": 3.52
   },
   {
-   "title": "Jパワー、日立、マクニカがフィジカルAI開発基盤を共同検討 送電線点検ドローンで実証",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBveFlET0NRQ0ladEFYOV9xRWdpaHZpdXlCbjRnQzlSUElKN3dSSkpxd0lVWjFESElTYUY4TzNPUWdTQ2xRdE9Fazc0YURXRmEzR2RZ?oc=5",
-   "source": "ビジネスネットワーク",
-   "published": "2026-11-20T05:20:21+00:00",
-   "count": 8,
+   "title": "Humyn Labs、シリーズAで4,700万米ドルを調達し、フィジカルAIの研究と導入を拡大へ (2026年11月24日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyWlRCenpwc2Exa2RkRWNXQnNmTHc1Y1VsdTJjeUN1alZhR3pXR0FtMnJuOVdXNXk5bnlMc0N6WkZQVnNPVWFzTkxIYnhOZTJmU09LTklxWWpicXBhV242Q2N3?oc=5",
+   "source": "ライブドアニュース",
+   "published": "2026-11-24T01:11:00+00:00",
+   "count": 3,
    "sources": [
-    "Hitachi Global",
-    "IT Leaders",
-    "Infoseek",
-    "J-POWER 電源開発株式会社",
-    "Yahoo!ニュース",
-    "Yahoo!ファイナンス"
+    "BRIDGE（ブリッジ）",
+    "ライブドアニュース",
+    "時事ドットコム"
    ],
-   "score": 3.11
+   "score": 2.84
+  },
+  {
+   "title": "CNTXT AI Commits More than AED 180 Million to Train and Deploy Physical AI",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNFNwVE5wbmFIN1hfbGJMaG5wZWE0QkR5Tl9tdkRGMXNXV01Vanc2NWZyU0p6c1JoU3B3X2RTQ3I1Q2hLNGxMUnF4ZDFNT0pLV0xJR2JnVkZhZTZ3OFZHeWFPRERmQjY0bktHc0M2OV91MEJMa0RvaVBPeDJSWldLRDNpVEx1R2pIS3JfalBLRmxRSTNua0FZYllVM3dVc2N0OUlMRUVDZDRSSTFuMzdybjZia0ZRanFKZUhOZ3IzaVh3cGdG?oc=5",
+   "source": "USA Today",
+   "published": "2026-11-24T03:04:03+00:00",
+   "count": 2,
+   "sources": [
+    "USA Today",
+    "Zawya"
+   ],
+   "score": 1.94
   },
   {
    "title": "Humyn Labs raises $47 mn to collect training data for physical AI",
@@ -354,106 +381,70 @@
     "MediaNama",
     "MediaNews4U"
    ],
-   "score": 2.85
+   "score": 1.94
   },
   {
-   "title": "Humyn Labs Raises USD 47M in Series A to Scale Physical AI Research and Deployment",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZWFiNHlFaW8wNFBvcUVmOEJnTW1qSndMOTI2and2NFhEcTRuNmtrQWRuRkI5ZkFpUjlfQkp2cDdINmVwd2M5WG1lSF9VdHhDT3NjSnV3N1VLZGdlLWlINUpwQ1BZVmtRbkQxNzBydmw0ekg5Mlh4MEVtZ1pXdFFVM0RndDRfNWR6UGNYSW0xWnJRdzd5azJYSGhNWlp2enFMb0NlbV9rVkRJV1VXb0t6WHFNWFA3MHJYc2J3RThNZ1J6VVVBUDRFWTNQR0MtNjVBb3l6Yg?oc=5",
-   "source": "PR Newswire",
-   "published": "2026-11-19T14:00:00+00:00",
-   "count": 7,
-   "sources": [
-    "Bloomberg.com",
-    "ET CIO",
-    "Entrackr",
-    "Moneycontrol.com",
-    "PR Newswire",
-    "Wowtale"
-   ],
-   "score": 2.2
-  },
-  {
-   "title": "Boston Dynamics' Humanoid Robot Secures First Chip Plant Customer",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQjF0Sl9iak1MZnFUWFNlWFlkUDhHc3l3Z2ZBSlF4bDhhUlhJaXlDRWVhU25UQy0yaVFYTDB3RHBEWTBKNXl5cV9UUHpNa3RQWjNPMVhIVmVVZkV6UXZNXzV2RkdhNVNKMHJ6TENoTUFmdEl0eXFHS0Faby1nM1hVeVNoUXJITllhU3FwRFNhWjJvOUZlSnBjSHFQMllWTFYtUF9rU0RFMVEtd1FZc1lSMHZ2YWJzNW5tLTBwNE1tR09PTG1E?oc=5",
-   "source": "Gasgoo",
-   "published": "2026-11-20T13:48:57+00:00",
-   "count": 4,
-   "sources": [
-    "Gasgoo",
-    "The Korea Daily",
-    "The Korea Times",
-    "조선일보"
-   ],
-   "score": 1.75
-  },
-  {
-   "title": "The Early Scale: McKinsey finds Physical AI value shifting to deployment",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbjd6SDZjd3haV09GSl9uVHpnbFIxOFNoNDA5LWxPZ2twTXZDYnU3UV9xdDF1TktYRUp4R21EY21ndjlfa2hwVFlVYzlzaWFIMjZwYTUtNzFDVjJMTVk2bGVrWldVeW1RMmxnelRPREs5VWVSclVwanFFR3JLOUEtbGhDcTltYTFwekpR?oc=5",
-   "source": "MarketScale",
-   "published": "2026-11-22T11:00:00+00:00",
+   "title": "Thinker CEO 藤本が名古屋大学主催セミナーに登壇 ～フィジカルAI vs 従来ロボティクス 社会実装と競争戦略を考える～",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6QVlsenJ5R3ZzdlRaYkFGN2hKSnFObTdnMDc2T2N6RmtKd3FhRm5sWURxbnVPR1BuZU1aREZhbHR6M09zOGJ3Tk1pbkt2bGNhMGhSRTVNVk8yTnU4ajdRS1dheDJHN3Zr?oc=5",
+   "source": "ニコニコニュース",
+   "published": "2026-11-24T02:21:37+00:00",
    "count": 2,
    "sources": [
-    "MarketScale"
-   ],
-   "score": 1.64
-  },
-  {
-   "title": "スペースデータと霞ヶ関キャピタル、物流施設の設計から運用までフィジカルAI・空間知能で高度化へ - LOGI-BIZ online",
-   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1FblE1VkwxUWNmbmRGdU5kcHdNNXpRNlJzMzJxbHl5VjJmc2hHTkJhdWV5eFdFWGU4YjE1NFp5VHg3S3BxODNGQkpjNA?oc=5",
-   "source": "LOGI-BIZ online",
-   "published": "2026-11-20T21:00:32+00:00",
-   "count": 3,
-   "sources": [
-    "LOGI-BIZ online",
     "PR TIMES",
-    "物流ニュースのLNEWS"
+    "ニコニコニュース"
    ],
-   "score": 1.45
+   "score": 1.92
   },
   {
-   "title": "現代自Gの人型ロボット「アトラス」、米半導体工場に投入へ…自動車生産に続き2度目の現場テスト（朝鮮日報日本語版）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZWFFqNTdQeWpEamplWVB0ZG9MS0FDanBzSF9EcE92OHJpc1J1MWd5Q0VpcDc5dU5WMUZjNTJ0ZVhNZzZLQ2p5eW8zOFNWUmcxaFdOTWhoSXNSOV85TlA3MGdhTlNVNzZOWmFhaW5IbFc4ZVpXakFQOUpsNVYwaW8?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-19T06:55:00+00:00",
-   "count": 5,
+   "title": "J.S. Held、フィジカルAIに関する請求や紛争に多分野の専門知識を活用 (2026年11月24日掲載)",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zN3Z3Rm5TZ0wzOGRyWDZpOGI0RDNaS3RUVlRuSXFPS2RtYWJrX3gxNGdXWVk1TFJ5eFZFd3ZtUURsRUhKdlEtdEFoODRoYjN4S1dUQXNLRTB5elN1aXhBS1NR?oc=5",
+   "source": "ライブドアニュース",
+   "published": "2026-11-24T02:07:00+00:00",
+   "count": 2,
    "sources": [
-    "Infoseek",
-    "Yahoo!ニュース",
-    "朝鮮日報",
-    "조선일보"
+    "ライブドアニュース",
+    "時事ドットコム"
    ],
-   "score": 1.42
+   "score": 1.92
   },
   {
-   "title": "MegaRobo Raises Nearly $200 Million For Physical AI Infrastructure",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdzBQS2d2NGVoVHBha3hvUDduU1djNHlCMXVNVGJNalR0R0xXMml0STJ3ZDFDTHFvMnV2T1g2M2Q2SWR6V1pMVTVqYnNubUpQYVZpdklPV00xamVrV1NlU1VLRFRKMkRHd3VIN3lqUUd3OGpZUGpLX2hYM2ZKTzBkMUxGM0NjNnlwdE52YlRn?oc=5",
-   "source": "Pulse 2.0",
-   "published": "2026-11-19T19:02:44+00:00",
-   "count": 4,
+   "title": "賞金総額1,000万円「第1回GMOロボットハンドコンテスト」の審査員5名を発表 炒り豆を1粒ずつつまむ速さと正確さを競う",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42dmdoVlFsMDBSOERpNVhuNDNuZDRHb2NyZ2ZRdEExYVE1MGM1WFd0aU9xLWcwVENjd1dDeVNES3N4QW4wczJvYUY3ZUlpNTlPaWgtcm1QcGlDSHZKNzRRNXNKN2Y?oc=5",
+   "source": "ロボスタ",
+   "published": "2026-11-24T00:00:03+00:00",
+   "count": 2,
    "sources": [
-    "Pulse 2.0",
-    "Unite.AI",
-    "Ventureburn"
+    "ASCII.jp",
+    "ロボスタ"
    ],
-   "score": 1.35
+   "score": 1.86
   },
   {
-   "title": "フィジカルAIなど最新技術を沖縄で リゾテックエキスポはじまる 280社超が出展 「未来につながるビジネスを」（琉球新報）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5aSkFpN3lET0I0Mm5zVko5STJGaXppZ1VlWml2cE5ndUd6ZUJjQXM3UmlYQTFiTDN2WnpqYXp2V2RJZkp5ZV9nVnhuMDEyMUdkUm1KX0hGeVVIV0pWSjFfQWhNZk5TNVhYc0xQY081NS1hbWh3bkJMeVBTdi1GRDg?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-19T01:31:23+00:00",
-   "count": 5,
+   "title": "明日開催の富士通が運営するUIS主催「Physical AI Nexus Japan in Kansai」にSHIN-JIGEN Founder 藤本弘道が登壇 ―フィジカルAIを現場で活かす技術へー | 株式会社SHIN-JIGENのプレスリリース",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aNnNtTVpCcFRBTDdvT0RnVHJ4WlQ1VS1NTHh6dXE2Vkl0Qk5qcjJGN3JMYUJobG5QWlVndEpUUm1wRFpMWFRHS1I3ZnJtMjhUZXZuejhfTjI0dnozODNDcHk5ZURfVXhQeEE?oc=5",
+   "source": "PR TIMES",
+   "published": "2026-11-23T23:30:01+00:00",
+   "count": 2,
    "sources": [
-    "Yahoo!ニュース",
-    "沖縄タイムス社",
-    "琉球新報デジタル"
+    "PR TIMES"
    ],
-   "score": 1.32
+   "score": 1.85
+  },
+  {
+   "title": "NakaTaku、フィジカルAI部品事業「NPC」を開始 ドローン用モーターから国内調達を目指す",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtajZLOTR0TzFMQldDS0N0bEh5SzRzR2NTaEZFb0dHbFBVS1VMUDJiYTRfX2lxcnFtbXlVLUxvTG02dVkyZHRLdlFET1VuaTEtSUVyYy1CNTVmTjQ?oc=5",
+   "source": "innovaTopia",
+   "published": "2026-11-23T21:29:25+00:00",
+   "count": 2,
+   "sources": [
+    "PR TIMES",
+    "innovaTopia"
+   ],
+   "score": 1.8
   }
  ],
  "trend": {
   "dates": [
-   "2026-10-25",
    "2026-10-26",
    "2026-10-27",
    "2026-10-28",
@@ -482,14 +473,14 @@
    "2026-11-20",
    "2026-11-21",
    "2026-11-22",
-   "2026-11-23"
+   "2026-11-23",
+   "2026-11-24"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     13,
      55,
      64,
      47,
@@ -517,15 +508,15 @@
      51,
      33,
      11,
-     7,
-     2
+     9,
+     41,
+     11
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     20,
      37,
      58,
      29,
@@ -553,15 +544,15 @@
      43,
      30,
      2,
-     5,
-     2
+     6,
+     13,
+     10
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     0,
      6,
      13,
      12,
@@ -590,14 +581,14 @@
      5,
      2,
      1,
-     0
+     4,
+     3
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     10,
      42,
      30,
      39,
@@ -626,14 +617,14 @@
      17,
      7,
      10,
-     1
+     1,
+     0
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     8,
      15,
      25,
      19,
@@ -647,7 +638,7 @@
      10,
      10,
      4,
-     14,
+     15,
      11,
      14,
      16,
@@ -658,11 +649,12 @@
      14,
      12,
      23,
-     11,
+     12,
      8,
      4,
      4,
-     1
+     7,
+     14
     ]
    }
   ]
@@ -696,7 +688,7 @@
    "name": "SAMSUNG ELECTRONICS CO LTD",
    "core": "SAMSUNG ELECTRONICS",
    "patents": 260,
-   "news": 33
+   "news": 32
   },
   {
    "name": "X DEV LLC",
@@ -708,13 +700,13 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 106
+   "news": 104
   },
   {
    "name": "QUALCOMM INC",
    "core": "QUALCOMM",
    "patents": 206,
-   "news": 3
+   "news": 4
   }
  ]
 }
