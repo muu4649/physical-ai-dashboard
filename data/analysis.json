@@ -1,48 +1,56 @@
 {
- "updated_at": "2026-11-24T05:07:29.533633+00:00",
+ "updated_at": "2026-11-25T03:56:03.008430+00:00",
  "kpi": {
-  "articles_7d": 624,
-  "articles_prev_7d": 739,
-  "sources_7d": 292,
-  "articles_30d": 3167,
-  "total_articles": 15273,
+  "articles_7d": 708,
+  "articles_prev_7d": 684,
+  "sources_7d": 315,
+  "articles_30d": 3285,
+  "total_articles": 15454,
   "oldest_news": "1970-01-01"
  },
  "wordcloud": [
   [
-   "raises",
-   34
-  ],
-  [
    "china",
-   26
+   38
   ],
   [
-   "million",
-   23
-  ],
-  [
-   "企業",
-   22
+   "raises",
+   32
   ],
   [
    "開発",
-   21
+   29
   ],
   [
-   "labs",
-   20
-  ],
-  [
-   "atlas",
-   20
+   "launches",
+   27
   ],
   [
    "技術",
+   23
+  ],
+  [
+   "現場",
+   22
+  ],
+  [
+   "labs",
+   21
+  ],
+  [
+   "nvidia",
    20
   ],
   [
-   "日立",
+   "million",
+   20
+  ],
+  [
+   "industrial",
+   19
+  ],
+  [
+   "基盤",
    19
   ],
   [
@@ -50,111 +58,119 @@
    18
   ],
   [
-   "boston",
+   "中国",
    18
-  ],
-  [
-   "dynamics",
-   18
-  ],
-  [
-   "現場",
-   18
-  ],
-  [
-   "nvidia",
-   17
-  ],
-  [
-   "実装",
-   17
-  ],
-  [
-   "基盤",
-   17
-  ],
-  [
-   "startup",
-   16
-  ],
-  [
-   "chip",
-   16
-  ],
-  [
-   "共同",
-   16
-  ],
-  [
-   "data",
-   15
-  ],
-  [
-   "launches",
-   15
-  ],
-  [
-   "開催",
-   15
-  ],
-  [
-   "検討",
-   15
-  ],
-  [
-   "expands",
-   14
   ],
   [
    "world",
+   17
+  ],
+  [
+   "共同",
+   17
+  ],
+  [
+   "data",
+   16
+  ],
+  [
+   "検討",
+   16
+  ],
+  [
+   "expands",
+   15
+  ],
+  [
+   "chip",
+   15
+  ],
+  [
+   "xpeng",
+   15
+  ],
+  [
+   "実装",
+   15
+  ],
+  [
+   "development",
+   15
+  ],
+  [
+   "日立",
+   15
+  ],
+  [
+   "startup",
    14
   ],
   [
-   "中国",
+   "unveils",
    14
-  ],
-  [
-   "industry",
-   13
-  ],
-  [
-   "社会",
-   13
-  ],
-  [
-   "半導体",
-   13
   ],
   [
    "導入",
-   13
+   14
   ],
   [
-   "test",
-   12
+   "platform",
+   14
   ],
   [
    "scale",
-   12
+   13
+  ],
+  [
+   "日本",
+   13
+  ],
+  [
+   "事業",
+   13
   ],
   [
    "series",
    12
   ],
   [
-   "globalfoundries",
+   "atlas",
    12
   ],
   [
-   "unveils",
+   "industry",
    12
   ],
   [
-   "実証",
+   "japan",
    12
   ],
   [
-   "世界",
+   "automation",
+   12
+  ],
+  [
+   "調達",
+   12
+  ],
+  [
+   "korea",
+   12
+  ],
+  [
+   "stocks",
+   12
+  ],
+  [
+   "ecosystem",
+   12
+  ],
+  [
+   "マクニカ",
+   12
+  ],
+  [
+   "パワー",
    12
   ],
   [
@@ -162,15 +178,15 @@
    11
   ],
   [
-   "summit",
+   "test",
    11
   ],
   [
-   "development",
+   "center",
    11
   ],
   [
-   "xpeng",
+   "technology",
    11
   ],
   [
@@ -178,35 +194,27 @@
    11
   ],
   [
-   "事業",
+   "産業",
    11
   ],
   [
-   "作業",
+   "社会",
    11
   ],
   [
-   "日本",
+   "開催",
    11
   ],
   [
-   "時代",
+   "企業",
    11
   ],
   [
-   "工場",
+   "半導体",
    11
   ],
   [
-   "調達",
-   11
-  ],
-  [
-   "apec",
-   11
-  ],
-  [
-   "platform",
+   "実証",
    11
   ],
   [
@@ -214,11 +222,23 @@
    10
   ],
   [
-   "hyundai",
+   "expand",
    10
   ],
   [
-   "japan",
+   "funding",
+   10
+  ],
+  [
+   "dynamics",
+   10
+  ],
+  [
+   "boston",
+   10
+  ],
+  [
+   "summit",
    10
   ],
   [
@@ -226,121 +246,168 @@
    10
   ],
   [
-   "データ",
+   "時代",
    10
-  ],
-  [
-   "市場",
-   10
-  ],
-  [
-   "industrial",
-   10
-  ],
-  [
-   "パワー",
-   10
-  ],
-  [
-   "マクニカ",
-   10
-  ],
-  [
-   "deployment",
-   9
   ]
  ],
  "today_top5": [
   {
-   "title": "Korea to host smart construction expo featuring AI and robots",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZHJoSl8zRUJuQ0lZNWg4U0ROaDZKSGIxM09uTDFkYUk4YWQwMFNZWnJjTVFwZzRMVHR5TTl4SGxFb1dCbC1OZDZ2Q2N5bWJqNU80X1k1MHo5QU40emhYZDhhdnlrZEZjaG1iSFFTUW45eVBaWnl3eHNnMXdHNGVOLVp1VULSAZgBQVVfeXFMUFhmZmlHbFRUNlp6NkZMR3JNUVdSSjVRSWExUDQ3emIwVlo2dkVzYkZ0eWlVNUhhalVTb2hfQjdWUWZFMFJkQU14RWhYM2FNZEs5VVE0YXJsQzVKdmZrY244dktmLVdNbjVVTjFfWDV3cXRBcHd6ck1VSExKWHR0d1NsWXRSV01iVDdNMTRuTHZSekJ3THVsT0k?oc=5",
-   "source": "Chosunbiz",
-   "published": "2026-11-23T21:00:00+00:00",
+   "title": "ミネベアミツミ、ヒューマノイドロボット向け主要技術を出展へ…名古屋ロボデックス2026（レスポンス）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oSERlZjZBWjNjMFlhYlhtamlaUDE0aTZHc3pDUGFaSWw0aTU2RVh3T29kcnR2T0pFbGcwX0pkT2hOUm90SDlsR1QwSXRfbEx5RUk5WHZoZkNLSFA3cWx5MDVibnFlbEp6eG8xUzRqTTZtcjN4clBneTBRX1NsQm8?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-11-24T08:45:02+00:00",
+   "count": 4,
+   "sources": [
+    "Yahoo!ニュース",
+    "レスポンス（Response.jp）"
+   ],
+   "score": 3.06
+  },
+  {
+   "title": "Ambarella and Liquid AI partner on edge AI for physical devices",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGVsOXFnV1Fra2FjVGVPNXdzU2JkQkppRmJrNWEtN2E4V1ROdzJBS3NFMUJYdGR5WVg3RmlWM2lPMWVpRDliU0haa2tvV2NzYWtSU3phWjV4bEZiWHNwQkVYcTZJUlJSZjJuSVhtMkFQaXB6M0R1UVdING5aM05PazQwZ09YR1VMRGloUEswSTRjTWd4bWVBMlR3M0pyUGJyX3VwbmktajdaMmJvbDJlZTdQLUpQd3ZUSzRSZw?oc=5",
+   "source": "Investing.com",
+   "published": "2026-11-24T21:34:16+00:00",
+   "count": 3,
+   "sources": [
+    "Investing.com",
+    "StreetInsider",
+    "Unite.AI"
+   ],
+   "score": 2.75
+  },
+  {
+   "title": "ASRock Industrial Univels the Intel-Powered Dual-Arm RBK-100 Robotics-in-a-Box Kit",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ191VklTQlF5UmhnaXpkUi1jNXJyY3piVFdWSG9UN2ZLdWNCLWNYdEdJYW0ybUQ4cEtxalBRRnNhREhfOU9KZkk3eDUwUUJMN1ZzVVZsWmFjdlcxbTR0YjVrQkNFeTFaejJZVkg3aTRxWlNuUWIyVjlFYV85ajFUdEh5ZVEzYmFOTEpuZHdnY25nN0ZnVWQtUnd2N1duMGwwZ0NiZUlqNmFRcThrWUxUZVpPVkdlblp3cTY1VFg5anRqdw?oc=5",
+   "source": "Hackster.io",
+   "published": "2026-11-24T13:35:37+00:00",
+   "count": 3,
+   "sources": [
+    "Hackster.io",
+    "TimesTech",
+    "Unite.AI"
+   ],
+   "score": 2.46
+  },
+  {
+   "title": "YYForce Launches Six Seven Humanoid Concierge for Novotel Singapore",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQUVDXzBkQm95cU9vb1JjcW5mTllxZkMtNVZPZ3VjajFHSWNzOGpGRHVFWGl0SDhSX2xQZ05vMmdGVkctXzhKc1d1RGlnbHhneEk3Q0VQRk92c1ZtVnhmYzN2NDJ2azExQzdQaGhrQ3FMVFJoTzJSc05oTlVyZk00TXRTc215V1ZyS0tRM2JyNTFwVGM?oc=5",
+   "source": "Unite.AI",
+   "published": "2026-11-24T12:50:03+00:00",
+   "count": 3,
+   "sources": [
+    "Quiver Quantitative",
+    "Unite.AI"
+   ],
+   "score": 2.43
+  },
+  {
+   "title": "[Law Firms Now] Jipyong to Hold \"Physical AI & AI Data Centers: From Planning to Operations\" Seminar",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2cGYzR1FzZEtBdEhUc2d3MGc5U3BQUXIxQ29XUlE1RGNGU3BIeEp4My1iUUl3NHVzdC12QmgwRnVSTnBrVVowY29LYlMwb2tWWk9mbm5pb29hV3h5TUROXzdBTmlEYzRQc2JJT0Vva2hjVUFhRF9hQlRQNl8tZmM?oc=5",
+   "source": "아시아경제",
+   "published": "2026-11-25T01:44:36+00:00",
    "count": 2,
    "sources": [
     "Chosunbiz",
-    "파이낸셜뉴스"
+    "아시아경제"
    ],
-   "score": 1.79
-  },
-  {
-   "title": "Swiss Robotics Startup coprod Raises $6M in Pre-Seed Funding to Simplify Custom Robot Hardware Development",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSExoZlJpSmw3ajlnUUhEYTlWaU1aUU0zdFlNNjJrVHlBRlZPTVNRd0NmYjBVZmNWaFprQ0RTYzcyM05yeWxoYXJRZ205N0xRbWh2LXR3WGtscUN1X2tKN2JSRDlKN0xKNV9aTjNubldfTERPWTZxYmh6SlpBbzNxemVFbVFIZXdpNDRPeVFzNnNrSGJ3Ry0zUmV1dEVrV1lEa2w0bnhYOGhDVXg2RWVJclJ4aUp2MWVWZkNXY0wyOUJTSjZnSzdJRkkwbXlpSjFzS0hMSTFLd0Z6UkU?oc=5",
-   "source": "AI Insider",
-   "published": "2026-11-23T13:21:36+00:00",
-   "count": 2,
-   "sources": [
-    "AI Insider",
-    "EU-Startups"
-   ],
-   "score": 1.61
-  },
-  {
-   "title": "横浜ロボットワールド2026 いよいよ開催！注目の専門セミナーで宇宙・フィジカルAI・ロボットの最先端技術を深掘り",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE15ejh2anVUdEtJeG1tdFdWWG9OY2dXS2JaZldlSU56bVZuNXNqNHR6aV9HMnRQa3Juei10SzBNSF9BVDlVOVhKN29MSW5QOFltNDAyeHplQVlBbHhwWURNRlVmQk94bHJNcGc?oc=5",
-   "source": "PR TIMES",
-   "published": "2026-11-24T04:41:03+00:00",
-   "count": 1,
-   "sources": [
-    "PR TIMES"
-   ],
-   "score": 0.99
-  },
-  {
-   "title": "ASRock Industrial Unveils Robotics-in-a-Box to Democratize Physical AI Development",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOXJaX2UwalhiSWs3SFJyYzBNZEQ4dVEtSnNRUjRXQkRUdTVCZlhpV3ladl9hdXlpZEs1ZWJQbE44Nll4T0ZHSUFfYTF2bFBVRnFVWTZfSW1xeWdRLUtEX0lQeVdUV241TG9mTTZHMS16UG00UnVsVGl0SUM2YW4taDBRdTVsVFhtR2hGUVBIS2tNLXpvTEpMdFdIblV6VFFOckVhWDkwMA?oc=5",
-   "source": "TimesTech",
-   "published": "2026-11-24T04:40:22+00:00",
-   "count": 1,
-   "sources": [
-    "TimesTech"
-   ],
-   "score": 0.99
-  },
-  {
-   "title": "中国A株の前場、3100銘柄超が上昇 ヒューマノイドロボット概念に連続ストップ高銘柄相次ぐ",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05anNhdk5hZzVuZ1lVTFFEcW9MMFNJZ01ySU5RRS1TdGhWSm4tZTEyaFZXQ1JlNlp0OU5lSDZqZWFWbzN0TWVzTk80bXhiZkppaWxraWNqYlduc1o0d0tCZGlmQ2RPY0UtYmtZRzF0Vkhad3dm?oc=5",
-   "source": "BigGo ファイナンス",
-   "published": "2026-11-24T04:35:00+00:00",
-   "count": 1,
-   "sources": [
-    "BigGo ファイナンス"
-   ],
-   "score": 0.99
+   "score": 1.94
   }
  ],
  "hot_news": [
   {
-   "title": "送電線点検にフィジカルAI Jパワー／日立らが実証へ",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE55c2pDYVYxeGlETFl2M3pHdEk3djgxRGxMNmhGRmNsS01rcVpIcmJWWE84ZFdYc0JDZnY3cnRaOFdqNXAySkNCYWtydGxUZGZoUmkwRE9NMTgzcG9wZEhMSFhvanJQM3JOTTktMnV3UQ?oc=5",
-   "source": "EE Times Japan",
-   "published": "2026-11-24T00:30:00+00:00",
-   "count": 9,
+   "title": "Jパワー、日立、マクニカがフィジカルAI開発基盤を共同検討 送電線点検ドローンで実証へ",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBMDlQNWRqdDl2ZFY1WF9YVzVwVV9RbHVXNzJJcHA1ZlY0dlJkTXhUaUJycld5c0p0ZXBidUVMa2RvZkVuMGU5WVhIdzFkVWw3?oc=5",
+   "source": "LIGARE（リガーレ）",
+   "published": "2026-11-24T23:34:13+00:00",
+   "count": 10,
    "sources": [
     "EE Times Japan",
     "Hitachi Global",
     "IT Leaders",
     "Infoseek",
     "J-POWER 電源開発株式会社",
-    "Yahoo!ニュース"
+    "LIGARE（リガーレ）"
    ],
-   "score": 8.44
+   "score": 9.41
+  },
+  {
+   "title": "Armenia launches national robotics and physical AI center",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTEltQTNhWXRKUlE0RWtBU0pBX1Rpb01vVEF3Y25WelhPczUzNmFkOGpBV1p5X1owMGlsR2YyOUVJMk5NcER1VjlxakVUOEpHM3hvMllxbVQ3OXBCNXk5QlVfM2JmZ0hYLXdKQ2FfaUpHT0VWbzlrN05Cc054UUdDWjFMTzFwLTF2Sy1fU0N1eUdLUm9TREHSAZYBQVVfeXFMT3J2SHRzZnM1TDZlcEJCeEN6S2dIT2ZlZ0RCdk03SHVPemxMN25NUzhRbUNZT3BnNl9adDNYQUJ1MnlybllQNkJudHpBLTJtblNyRXlWcXlLN0ZPTGJZVnhoVVc0RnJ4X1ZFN3kzQlMwWllldmEzcnhHZU10SHNjazNhRklGQkxLZ0tCMGl5TVliVFNhdWlR?oc=5",
+   "source": "Qazinform",
+   "published": "2026-11-24T14:46:58+00:00",
+   "count": 4,
+   "sources": [
+    "Armenpress",
+    "Public Radio of Armenia",
+    "Qazinform"
+   ],
+   "score": 3.33
+  },
+  {
+   "title": "ミネベアミツミ、ヒューマノイドロボット向け主要技術を出展へ…名古屋ロボデックス2026（レスポンス）",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oSERlZjZBWjNjMFlhYlhtamlaUDE0aTZHc3pDUGFaSWw0aTU2RVh3T29kcnR2T0pFbGcwX0pkT2hOUm90SDlsR1QwSXRfbEx5RUk5WHZoZkNLSFA3cWx5MDVibnFlbEp6eG8xUzRqTTZtcjN4clBneTBRX1NsQm8?oc=5",
+   "source": "Yahoo!ニュース",
+   "published": "2026-11-24T08:45:02+00:00",
+   "count": 4,
+   "sources": [
+    "Yahoo!ニュース",
+    "レスポンス（Response.jp）"
+   ],
+   "score": 3.06
+  },
+  {
+   "title": "Ambarella and Liquid AI partner on edge AI for physical devices",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGVsOXFnV1Fra2FjVGVPNXdzU2JkQkppRmJrNWEtN2E4V1ROdzJBS3NFMUJYdGR5WVg3RmlWM2lPMWVpRDliU0haa2tvV2NzYWtSU3phWjV4bEZiWHNwQkVYcTZJUlJSZjJuSVhtMkFQaXB6M0R1UVdING5aM05PazQwZ09YR1VMRGloUEswSTRjTWd4bWVBMlR3M0pyUGJyX3VwbmktajdaMmJvbDJlZTdQLUpQd3ZUSzRSZw?oc=5",
+   "source": "Investing.com",
+   "published": "2026-11-24T21:34:16+00:00",
+   "count": 3,
+   "sources": [
+    "Investing.com",
+    "StreetInsider",
+    "Unite.AI"
+   ],
+   "score": 2.75
+  },
+  {
+   "title": "ASRock Industrial Univels the Intel-Powered Dual-Arm RBK-100 Robotics-in-a-Box Kit",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ191VklTQlF5UmhnaXpkUi1jNXJyY3piVFdWSG9UN2ZLdWNCLWNYdEdJYW0ybUQ4cEtxalBRRnNhREhfOU9KZkk3eDUwUUJMN1ZzVVZsWmFjdlcxbTR0YjVrQkNFeTFaejJZVkg3aTRxWlNuUWIyVjlFYV85ajFUdEh5ZVEzYmFOTEpuZHdnY25nN0ZnVWQtUnd2N1duMGwwZ0NiZUlqNmFRcThrWUxUZVpPVkdlblp3cTY1VFg5anRqdw?oc=5",
+   "source": "Hackster.io",
+   "published": "2026-11-24T13:35:37+00:00",
+   "count": 3,
+   "sources": [
+    "Hackster.io",
+    "TimesTech",
+    "Unite.AI"
+   ],
+   "score": 2.46
+  },
+  {
+   "title": "YYForce Launches Six Seven Humanoid Concierge for Novotel Singapore",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQUVDXzBkQm95cU9vb1JjcW5mTllxZkMtNVZPZ3VjajFHSWNzOGpGRHVFWGl0SDhSX2xQZ05vMmdGVkctXzhKc1d1RGlnbHhneEk3Q0VQRk92c1ZtVnhmYzN2NDJ2azExQzdQaGhrQ3FMVFJoTzJSc05oTlVyZk00TXRTc215V1ZyS0tRM2JyNTFwVGM?oc=5",
+   "source": "Unite.AI",
+   "published": "2026-11-24T12:50:03+00:00",
+   "count": 3,
+   "sources": [
+    "Quiver Quantitative",
+    "Unite.AI"
+   ],
+   "score": 2.43
   },
   {
    "title": "Boston Dynamics gives Atlas wheels to test new reinforcement learning capabilities",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWlpiR1Ztekwya21XcGw0cGNJaFRNSFFDeFFCRWJaTUVfYTVxVTJhbFFTVmo4dnV3a2FZajRTVVJ3d0NtQ3YxSmZYd1JnMkF6UXNBVWFRMm1LdDE2b2dpMV9CODVIbDhJSFpySTBSMUZvd3NHajlWTWFpTFYwQ3lrdl9KZWM0MGNZZnVkeUdURUFmUTFMd2FIdnd5Vm9TZUdmUElQT3RKcGVZNUlTSTRJQ0Q3U2NOSlRBeEd6SWlwOEFJSVhFN0F2eDR5V0dpbzVVMkdiR3ZB?oc=5",
    "source": "Robotics & Automation News",
    "published": "2026-11-22T14:45:10+00:00",
-   "count": 6,
+   "count": 5,
    "sources": [
     "KED Global",
-    "MLQ.ai",
     "Robotics & Automation News",
     "Tech Times",
     "digitimes",
     "eWeek"
    ],
-   "score": 3.52
+   "score": 2.14
   },
   {
    "title": "Humyn Labs、シリーズAで4,700万米ドルを調達し、フィジカルAIの研究と導入を拡大へ (2026年11月24日掲載)",
@@ -353,99 +420,35 @@
     "ライブドアニュース",
     "時事ドットコム"
    ],
-   "score": 2.84
+   "score": 2.07
   },
   {
-   "title": "CNTXT AI Commits More than AED 180 Million to Train and Deploy Physical AI",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNFNwVE5wbmFIN1hfbGJMaG5wZWE0QkR5Tl9tdkRGMXNXV01Vanc2NWZyU0p6c1JoU3B3X2RTQ3I1Q2hLNGxMUnF4ZDFNT0pLV0xJR2JnVkZhZTZ3OFZHeWFPRERmQjY0bktHc0M2OV91MEJMa0RvaVBPeDJSWldLRDNpVEx1R2pIS3JfalBLRmxRSTNua0FZYllVM3dVc2N0OUlMRUVDZDRSSTFuMzdybjZia0ZRanFKZUhOZ3IzaVh3cGdG?oc=5",
-   "source": "USA Today",
-   "published": "2026-11-24T03:04:03+00:00",
+   "title": "[Law Firms Now] Jipyong to Hold \"Physical AI & AI Data Centers: From Planning to Operations\" Seminar",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2cGYzR1FzZEtBdEhUc2d3MGc5U3BQUXIxQ29XUlE1RGNGU3BIeEp4My1iUUl3NHVzdC12QmgwRnVSTnBrVVowY29LYlMwb2tWWk9mbm5pb29hV3h5TUROXzdBTmlEYzRQc2JJT0Vva2hjVUFhRF9hQlRQNl8tZmM?oc=5",
+   "source": "아시아경제",
+   "published": "2026-11-25T01:44:36+00:00",
    "count": 2,
    "sources": [
-    "USA Today",
-    "Zawya"
+    "Chosunbiz",
+    "아시아경제"
    ],
    "score": 1.94
   },
   {
-   "title": "Humyn Labs raises $47 mn to collect training data for physical AI",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWjdVNVgtOVNhRXRLeGU4YWdGcmZneUxtLVF1cWs3aURzSUNIZHRsU2pKN1BnWHk0R18zWER2YnZ1a19hTkpnNjAtVEJhMk9zRGZucGhLWmN2aHd4U0c1eW54bW15TTNhbFNYVXBtWmdOVm52LUZTZUlQZVh5Y0hPWg?oc=5",
-   "source": "MediaNama",
-   "published": "2026-11-20T08:45:54+00:00",
-   "count": 7,
-   "sources": [
-    "AI Insider",
-    "Business Standard",
-    "Elets CIO",
-    "Livemint",
-    "MediaNama",
-    "MediaNews4U"
-   ],
-   "score": 1.94
-  },
-  {
-   "title": "Thinker CEO 藤本が名古屋大学主催セミナーに登壇 ～フィジカルAI vs 従来ロボティクス 社会実装と競争戦略を考える～",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6QVlsenJ5R3ZzdlRaYkFGN2hKSnFObTdnMDc2T2N6RmtKd3FhRm5sWURxbnVPR1BuZU1aREZhbHR6M09zOGJ3Tk1pbkt2bGNhMGhSRTVNVk8yTnU4ajdRS1dheDJHN3Zr?oc=5",
-   "source": "ニコニコニュース",
-   "published": "2026-11-24T02:21:37+00:00",
+   "title": "FF EAI Robotics Ecosystem (FFR) Officially Launches \"High Performance, Surprisingly Affordable\" Black Friday Sale with Discounts of Up to 50% Across t",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBleVJIakxYbHlJeVBXOC1uZ1AtVXhqWHBxVnp3aDdfOVRkQmpPSlAtd3loT3dIMTUtcmVDWVpvX0ZJX1VzeDRDTXFHcFdNaXdiTmFITU1takNSX3pQ?oc=5",
+   "source": "ACROFAN USA",
+   "published": "2026-11-25T01:11:11+00:00",
    "count": 2,
    "sources": [
-    "PR TIMES",
-    "ニコニコニュース"
+    "ACROFAN USA",
+    "Thailand Business News"
    ],
-   "score": 1.92
-  },
-  {
-   "title": "J.S. Held、フィジカルAIに関する請求や紛争に多分野の専門知識を活用 (2026年11月24日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9zN3Z3Rm5TZ0wzOGRyWDZpOGI0RDNaS3RUVlRuSXFPS2RtYWJrX3gxNGdXWVk1TFJ5eFZFd3ZtUURsRUhKdlEtdEFoODRoYjN4S1dUQXNLRTB5elN1aXhBS1NR?oc=5",
-   "source": "ライブドアニュース",
-   "published": "2026-11-24T02:07:00+00:00",
-   "count": 2,
-   "sources": [
-    "ライブドアニュース",
-    "時事ドットコム"
-   ],
-   "score": 1.92
-  },
-  {
-   "title": "賞金総額1,000万円「第1回GMOロボットハンドコンテスト」の審査員5名を発表 炒り豆を1粒ずつつまむ速さと正確さを競う",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42dmdoVlFsMDBSOERpNVhuNDNuZDRHb2NyZ2ZRdEExYVE1MGM1WFd0aU9xLWcwVENjd1dDeVNES3N4QW4wczJvYUY3ZUlpNTlPaWgtcm1QcGlDSHZKNzRRNXNKN2Y?oc=5",
-   "source": "ロボスタ",
-   "published": "2026-11-24T00:00:03+00:00",
-   "count": 2,
-   "sources": [
-    "ASCII.jp",
-    "ロボスタ"
-   ],
-   "score": 1.86
-  },
-  {
-   "title": "明日開催の富士通が運営するUIS主催「Physical AI Nexus Japan in Kansai」にSHIN-JIGEN Founder 藤本弘道が登壇 ―フィジカルAIを現場で活かす技術へー | 株式会社SHIN-JIGENのプレスリリース",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aNnNtTVpCcFRBTDdvT0RnVHJ4WlQ1VS1NTHh6dXE2Vkl0Qk5qcjJGN3JMYUJobG5QWlVndEpUUm1wRFpMWFRHS1I3ZnJtMjhUZXZuejhfTjI0dnozODNDcHk5ZURfVXhQeEE?oc=5",
-   "source": "PR TIMES",
-   "published": "2026-11-23T23:30:01+00:00",
-   "count": 2,
-   "sources": [
-    "PR TIMES"
-   ],
-   "score": 1.85
-  },
-  {
-   "title": "NakaTaku、フィジカルAI部品事業「NPC」を開始 ドローン用モーターから国内調達を目指す",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtajZLOTR0TzFMQldDS0N0bEh5SzRzR2NTaEZFb0dHbFBVS1VMUDJiYTRfX2lxcnFtbXlVLUxvTG02dVkyZHRLdlFET1VuaTEtSUVyYy1CNTVmTjQ?oc=5",
-   "source": "innovaTopia",
-   "published": "2026-11-23T21:29:25+00:00",
-   "count": 2,
-   "sources": [
-    "PR TIMES",
-    "innovaTopia"
-   ],
-   "score": 1.8
+   "score": 1.93
   }
  ],
  "trend": {
   "dates": [
-   "2026-10-26",
    "2026-10-27",
    "2026-10-28",
    "2026-10-29",
@@ -474,14 +477,14 @@
    "2026-11-21",
    "2026-11-22",
    "2026-11-23",
-   "2026-11-24"
+   "2026-11-24",
+   "2026-11-25"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     55,
      64,
      47,
      49,
@@ -509,7 +512,8 @@
      33,
      11,
      9,
-     41,
+     44,
+     58,
      11
     ]
    },
@@ -517,7 +521,6 @@
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     37,
      58,
      29,
      52,
@@ -538,22 +541,22 @@
      36,
      3,
      13,
-     18,
+     19,
      25,
      51,
-     43,
+     44,
      30,
      2,
      6,
-     13,
-     10
+     14,
+     29,
+     6
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     6,
      13,
      12,
      6,
@@ -562,34 +565,34 @@
      7,
      13,
      9,
-     8,
+     9,
      7,
      20,
      2,
-     4,
-     12,
+     6,
+     13,
      7,
      10,
      4,
      7,
-     2,
+     3,
      7,
-     7,
-     4,
-     4,
-     11,
+     8,
+     5,
+     5,
+     13,
      5,
      2,
      1,
-     4,
-     3
+     5,
+     9,
+     2
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     42,
      30,
      39,
      24,
@@ -616,16 +619,16 @@
      37,
      17,
      7,
-     10,
-     1,
-     0
+     11,
+     21,
+     34,
+     5
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     15,
      25,
      19,
      11,
@@ -653,8 +656,9 @@
      8,
      4,
      4,
-     7,
-     14
+     8,
+     28,
+     6
     ]
    }
   ]
@@ -664,7 +668,7 @@
    "name": "INTEL CORP",
    "core": "INTEL",
    "patents": 1051,
-   "news": 25
+   "news": 26
   },
   {
    "name": "BOSCH GMBH ROBERT",
@@ -676,7 +680,7 @@
    "name": "GOOGLE LLC",
    "core": "GOOGLE",
    "patents": 275,
-   "news": 17
+   "news": 18
   },
   {
    "name": "HONDA MOTOR CO LTD",
@@ -688,7 +692,7 @@
    "name": "SAMSUNG ELECTRONICS CO LTD",
    "core": "SAMSUNG ELECTRONICS",
    "patents": 260,
-   "news": 32
+   "news": 36
   },
   {
    "name": "X DEV LLC",
@@ -700,7 +704,7 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 104
+   "news": 109
   },
   {
    "name": "QUALCOMM INC",
