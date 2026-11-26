@@ -1,68 +1,60 @@
 {
- "updated_at": "2026-11-25T03:56:03.008430+00:00",
+ "updated_at": "2026-11-26T03:20:59.867985+00:00",
  "kpi": {
-  "articles_7d": 708,
-  "articles_prev_7d": 684,
-  "sources_7d": 315,
-  "articles_30d": 3285,
-  "total_articles": 15454,
+  "articles_7d": 696,
+  "articles_prev_7d": 692,
+  "sources_7d": 311,
+  "articles_30d": 3277,
+  "total_articles": 15603,
   "oldest_news": "1970-01-01"
  },
  "wordcloud": [
   [
    "china",
-   38
+   40
   ],
   [
-   "raises",
+   "xpeng",
    32
   ],
   [
    "開発",
-   29
+   31
+  ],
+  [
+   "raises",
+   26
   ],
   [
    "launches",
-   27
+   25
   ],
   [
-   "技術",
+   "unveils",
    23
   ],
   [
-   "現場",
+   "技術",
    22
   ],
   [
-   "labs",
-   21
-  ],
-  [
-   "nvidia",
-   20
-  ],
-  [
-   "million",
-   20
-  ],
-  [
    "industrial",
-   19
+   20
   ],
   [
    "基盤",
    19
   ],
   [
-   "humyn",
+   "nvidia",
    18
   ],
   [
-   "中国",
+   "現場",
    18
   ],
   [
-   "world",
+   "検討",
    17
   ],
   [
@@ -74,43 +66,27 @@
    16
   ],
   [
-   "検討",
+   "日立",
    16
   ],
   [
-   "expands",
-   15
-  ],
-  [
-   "chip",
-   15
-  ],
-  [
-   "xpeng",
-   15
-  ],
-  [
-   "実装",
-   15
+   "中国",
+   16
   ],
   [
    "development",
    15
   ],
   [
-   "日立",
+   "labs",
    15
   ],
   [
-   "startup",
-   14
-  ],
-  [
-   "unveils",
-   14
-  ],
-  [
    "導入",
+   15
+  ],
+  [
+   "technology",
    14
   ],
   [
@@ -118,7 +94,31 @@
    14
   ],
   [
-   "scale",
+   "事業",
+   14
+  ],
+  [
+   "automation",
+   13
+  ],
+  [
+   "japan",
+   13
+  ],
+  [
+   "korea",
+   13
+  ],
+  [
+   "パワー",
+   13
+  ],
+  [
+   "マクニカ",
+   13
+  ],
+  [
+   "調達",
    13
   ],
   [
@@ -126,15 +126,23 @@
    13
   ],
   [
-   "事業",
+   "expands",
    13
   ],
   [
-   "series",
+   "world",
+   13
+  ],
+  [
+   "iron",
+   13
+  ],
+  [
+   "ecosystem",
    12
   ],
   [
-   "atlas",
+   "時代",
    12
   ],
   [
@@ -142,51 +150,11 @@
    12
   ],
   [
-   "japan",
-   12
-  ],
-  [
-   "automation",
-   12
-  ],
-  [
-   "調達",
-   12
-  ],
-  [
-   "korea",
-   12
-  ],
-  [
-   "stocks",
-   12
-  ],
-  [
-   "ecosystem",
-   12
-  ],
-  [
-   "マクニカ",
-   12
-  ],
-  [
-   "パワー",
-   12
-  ],
-  [
-   "infrastructure",
+   "million",
    11
   ],
   [
-   "test",
-   11
-  ],
-  [
-   "center",
-   11
-  ],
-  [
-   "technology",
+   "startup",
    11
   ],
   [
@@ -194,15 +162,7 @@
    11
   ],
   [
-   "産業",
-   11
-  ],
-  [
-   "社会",
-   11
-  ],
-  [
-   "開催",
+   "実証",
    11
   ],
   [
@@ -210,19 +170,23 @@
    11
   ],
   [
-   "半導体",
+   "chip",
    11
   ],
   [
-   "実証",
+   "test",
    11
   ],
   [
-   "brightai",
+   "stocks",
+   11
+  ],
+  [
+   "opens",
    10
   ],
   [
-   "expand",
+   "infrastructure",
    10
   ],
   [
@@ -230,106 +194,212 @@
    10
   ],
   [
-   "dynamics",
+   "humyn",
    10
   ],
   [
-   "boston",
+   "実装",
    10
   ],
   [
-   "summit",
+   "データ",
    10
   ],
   [
-   "tech",
+   "center",
    10
   ],
   [
-   "時代",
+   "national",
    10
+  ],
+  [
+   "seed",
+   10
+  ],
+  [
+   "ces",
+   10
+  ],
+  [
+   "edge",
+   10
+  ],
+  [
+   "cars",
+   10
+  ],
+  [
+   "secures",
+   9
+  ],
+  [
+   "作業",
+   9
+  ],
+  [
+   "産業",
+   9
+  ],
+  [
+   "加速",
+   9
+  ],
+  [
+   "開催",
+   9
   ]
  ],
  "today_top5": [
   {
-   "title": "ミネベアミツミ、ヒューマノイドロボット向け主要技術を出展へ…名古屋ロボデックス2026（レスポンス）",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oSERlZjZBWjNjMFlhYlhtamlaUDE0aTZHc3pDUGFaSWw0aTU2RVh3T29kcnR2T0pFbGcwX0pkT2hOUm90SDlsR1QwSXRfbEx5RUk5WHZoZkNLSFA3cWx5MDVibnFlbEp6eG8xUzRqTTZtcjN4clBneTBRX1NsQm8?oc=5",
-   "source": "Yahoo!ニュース",
-   "published": "2026-11-24T08:45:02+00:00",
+   "title": "XPeng Sets a 2027 Release for Its IRON Humanoid Robot but Names No Price",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU2Q4MTg1dWVOZWxEM3VWS3dFakZTVlBzamJRMHdTTkJaUHUwVlRzeUZfRmFnN250NHVDTHRFNzZxWjRfTWctRDBTSEdzeS1rbF9yV2lKTlRUTERZcmRseHhCWXNNSDI1MzZuc2haLWJfWFZ2bC0xMm93bUNJbkE1WURBelpKbFhaTjlUWnBBTzJJRVAtSDBMLThzWWlTeTJWbVE?oc=5",
+   "source": "Startup Fortune",
+   "published": "2026-11-26T00:31:30+00:00",
    "count": 4,
    "sources": [
-    "Yahoo!ニュース",
-    "レスポンス（Response.jp）"
+    "AI Insider",
+    "MLQ.ai",
+    "Startup Fortune",
+    "XPENG"
    ],
-   "score": 3.06
+   "score": 3.85
   },
   {
-   "title": "Ambarella and Liquid AI partner on edge AI for physical devices",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGVsOXFnV1Fra2FjVGVPNXdzU2JkQkppRmJrNWEtN2E4V1ROdzJBS3NFMUJYdGR5WVg3RmlWM2lPMWVpRDliU0haa2tvV2NzYWtSU3phWjV4bEZiWHNwQkVYcTZJUlJSZjJuSVhtMkFQaXB6M0R1UVdING5aM05PazQwZ09YR1VMRGloUEswSTRjTWd4bWVBMlR3M0pyUGJyX3VwbmktajdaMmJvbDJlZTdQLUpQd3ZUSzRSZw?oc=5",
-   "source": "Investing.com",
-   "published": "2026-11-24T21:34:16+00:00",
+   "title": "XPeng introduces unified AI architecture for smart cars and humanoid robots",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5laktIWWlkWURXRWIzamdEcThwUWVCVExCdzBWM1pIM1J3ZEtfb1hEVGd3T2NwREUyUUdWV1NudE1KdFFUQ3lxVjJqTQ?oc=5",
+   "source": "PrimaMedia.ru",
+   "published": "2026-11-26T02:02:00+00:00",
    "count": 3,
    "sources": [
-    "Investing.com",
-    "StreetInsider",
-    "Unite.AI"
+    "China Daily Global Edition",
+    "PrimaMedia.ru",
+    "StreetInsider"
    ],
-   "score": 2.75
+   "score": 2.95
   },
   {
-   "title": "ASRock Industrial Univels the Intel-Powered Dual-Arm RBK-100 Robotics-in-a-Box Kit",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ191VklTQlF5UmhnaXpkUi1jNXJyY3piVFdWSG9UN2ZLdWNCLWNYdEdJYW0ybUQ4cEtxalBRRnNhREhfOU9KZkk3eDUwUUJMN1ZzVVZsWmFjdlcxbTR0YjVrQkNFeTFaejJZVkg3aTRxWlNuUWIyVjlFYV85ajFUdEh5ZVEzYmFOTEpuZHdnY25nN0ZnVWQtUnd2N1duMGwwZ0NiZUlqNmFRcThrWUxUZVpPVkdlblp3cTY1VFg5anRqdw?oc=5",
-   "source": "Hackster.io",
-   "published": "2026-11-24T13:35:37+00:00",
+   "title": "IITs to add 6,000 seats in Robotics, Physical AI and Space Technology over 10 years",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcGJTbk0xeE1VYllnaU1fQkFNUXFTajZ4N3o4MEZsZk9xT2o5UEtIakVTSU9HV3RiemJCbGtYZlJqR0FLQkpkY2QyeEM2X3dlcEFlQ3dOSFBUeFRIVnZUWTRRajdhVzREdGpvdG9TZ2ZpVXFkaW9RcXVkNXlzM084NG1RanNjYll3blNWMlVyQ0V0emtmdU9NaHEzaXFlbE8zQUhSTV9PVHpQS081Z3FMcVVmVHlBU2NfVEduclhHcldIVUZSSU11cXpZTHjSAdoBQVVfeXFMTzBSc2trcXYyMWtGd0psNlh4WXJxQlFFTTBvRV9yQldjMGpTQnBUWVlFQmFtM2tMcGw5eHg5MzdEWTFmeWFsQ2RISHpNSHlHZjBBRDZQckNleHJPRk9CWlNaYjZZRUs1dzFtNWpTSEwtNnctVnVsSFliQTBHd29EbW5ZWGROMk5ncURWQ1J0bC1WX1VhbUR1aDN3cXNTMmFPbEZHdnRicUlvMXRta2toNjlobmktbEMyTFN0UG5BUjV6YmNkYUdVaV94QzZfSnlPOGVzeFkxWUVINGc?oc=5",
+   "source": "The New Indian Express",
+   "published": "2026-11-25T17:56:19+00:00",
    "count": 3,
    "sources": [
-    "Hackster.io",
-    "TimesTech",
-    "Unite.AI"
+    "Education Times",
+    "NDTV",
+    "The New Indian Express"
    ],
-   "score": 2.46
+   "score": 2.63
   },
   {
-   "title": "YYForce Launches Six Seven Humanoid Concierge for Novotel Singapore",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQUVDXzBkQm95cU9vb1JjcW5mTllxZkMtNVZPZ3VjajFHSWNzOGpGRHVFWGl0SDhSX2xQZ05vMmdGVkctXzhKc1d1RGlnbHhneEk3Q0VQRk92c1ZtVnhmYzN2NDJ2azExQzdQaGhrQ3FMVFJoTzJSc05oTlVyZk00TXRTc215V1ZyS0tRM2JyNTFwVGM?oc=5",
-   "source": "Unite.AI",
-   "published": "2026-11-24T12:50:03+00:00",
-   "count": 3,
-   "sources": [
-    "Quiver Quantitative",
-    "Unite.AI"
-   ],
-   "score": 2.43
-  },
-  {
-   "title": "[Law Firms Now] Jipyong to Hold \"Physical AI & AI Data Centers: From Planning to Operations\" Seminar",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2cGYzR1FzZEtBdEhUc2d3MGc5U3BQUXIxQ29XUlE1RGNGU3BIeEp4My1iUUl3NHVzdC12QmgwRnVSTnBrVVowY29LYlMwb2tWWk9mbm5pb29hV3h5TUROXzdBTmlEYzRQc2JJT0Vva2hjVUFhRF9hQlRQNl8tZmM?oc=5",
-   "source": "아시아경제",
-   "published": "2026-11-25T01:44:36+00:00",
+   "title": "World-Leading Computing, AI and Robotics Technologies Converge at China",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQTmZBbHdsRmpOT3pUa1o4b09sRU8weU1GLWpLNU9YYTBOMS1TUGtYcFUyMlk5UVlSZXVSQVdGOGFybW54TGNaOG85SzVPR3RPTGdKc3JVWXllWVhOMmxxRzg0bUk1UTNtekFOQ1ZXZTFVLVpiV1pTdWRSZURjLXJtUjY0ejd3Sk9hZS1iMXlSV2V5Y1dxeVUzSWRubUlmeU56bFJCWDVocXZaZW91cmJTLTJjUGRhTDhfLV9KYjZUd0wtclhRMHdScUd2X3FmeWhJUUVjME5BT1M4cWdKZy1KYXhlZGpLR2MtWDgzX01aU1VyczI1cVhjRklYMzBoSHlhN3ln?oc=5",
+   "source": "Business Post Nigeria",
+   "published": "2026-11-26T01:45:00+00:00",
    "count": 2,
    "sources": [
-    "Chosunbiz",
-    "아시아경제"
+    "Business Post Nigeria",
+    "DagangNews"
    ],
-   "score": 1.94
+   "score": 1.96
+  },
+  {
+   "title": "Lakshya Aerotech raises $269,000 seed for indigenous 'physical AI",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOajFZRVFDMTZzN29VNmVpemhkYmE0M0Zib1Q5VnBXZ3gtY2Y1LTRkWVRHWjdPZDhReEllM1ZtQU90MjdLNjItVmduTFU0NHNhTjdxNnZhbjg3MW5iRDVXSnRqUEFhVlh0TzlNMVRKOWdJZS1iLVNNMlNCdVRUT3d5aEtXWDBjSGY4MGhMREZsWXRjeWRiRy12SGFVbXZXZw?oc=5",
+   "source": "Dealroom",
+   "published": "2026-11-25T20:34:10+00:00",
+   "count": 2,
+   "sources": [
+    "Dealroom",
+    "shattered.io"
+   ],
+   "score": 1.82
   }
  ],
  "hot_news": [
   {
-   "title": "Jパワー、日立、マクニカがフィジカルAI開発基盤を共同検討 送電線点検ドローンで実証へ",
-   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBBMDlQNWRqdDl2ZFY1WF9YVzVwVV9RbHVXNzJJcHA1ZlY0dlJkTXhUaUJycld5c0p0ZXBidUVMa2RvZkVuMGU5WVhIdzFkVWw3?oc=5",
-   "source": "LIGARE（リガーレ）",
-   "published": "2026-11-24T23:34:13+00:00",
-   "count": 10,
+   "title": "Jパワー、日立、マクニカがフィジカルAIで連携 送電線点検ドローンの実証を検討",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IS0RaWml1eEtDQzZZRFhRVFB1YU1YcmdvZFVkU2Z6TTFZcllJanhIWW8tMC1HU1FpQzVfTC16bDlkV1NjLXl4TjhHaDJNV1JZcVhQejM4N0VoTUdxZXRuTkZQZ3ZRVUE?oc=5",
+   "source": "NOVAIST",
+   "published": "2026-11-26T02:52:30+00:00",
+   "count": 11,
    "sources": [
+    "BigGo ファイナンス",
     "EE Times Japan",
     "Hitachi Global",
     "IT Leaders",
-    "Infoseek",
     "J-POWER 電源開発株式会社",
     "LIGARE（リガーレ）"
    ],
-   "score": 9.41
+   "score": 10.93
+  },
+  {
+   "title": "XPeng Sets a 2027 Release for Its IRON Humanoid Robot but Names No Price",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU2Q4MTg1dWVOZWxEM3VWS3dFakZTVlBzamJRMHdTTkJaUHUwVlRzeUZfRmFnN250NHVDTHRFNzZxWjRfTWctRDBTSEdzeS1rbF9yV2lKTlRUTERZcmRseHhCWXNNSDI1MzZuc2haLWJfWFZ2bC0xMm93bUNJbkE1WURBelpKbFhaTjlUWnBBTzJJRVAtSDBMLThzWWlTeTJWbVE?oc=5",
+   "source": "Startup Fortune",
+   "published": "2026-11-26T00:31:30+00:00",
+   "count": 4,
+   "sources": [
+    "AI Insider",
+    "MLQ.ai",
+    "Startup Fortune",
+    "XPENG"
+   ],
+   "score": 3.85
+  },
+  {
+   "title": "Ambarella partners with Liquid AI to support agentic AI on edge devices",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZjRpOXlaWENaeFc1SzJOTnNJM3dpemJaVzhpSUw5Q1N5UzVQbWpXVEJmUDA0SElLLVFRaVhaVGgyQ0xfVTN6bDdXQ2pVMWJ1NEE3Z1MtUkhNSFZUaWFCQ3FhVGRuRnB0R2hjVGdxd0ZfTW81V2VNckVWVnhYYWg2ZGRaSHl2WFlmcnc?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-25T10:24:42+00:00",
+   "count": 4,
+   "sources": [
+    "GlobeNewswire",
+    "Investing.com",
+    "StreetInsider",
+    "Yahoo Finance"
+   ],
+   "score": 3.16
+  },
+  {
+   "title": "GlobalFoundries to test Atlas humanoid robots in its fabs",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMkZSZzB3cXNMSGh3SUtrS3BHbGlWWlV3RGlBOU1fYW5aM3pOdHpUMVZMOWdEV202bGRTejg0TTNzOXhvaDhBTjE0MW91bFFIcC1iLVg2LU5qMW1NQjJURU1PTFdTdndmd082aEkxS0dua1dkLWRUcVlWckZlQnlPX0YxRW1zUHpLeG45VEhTenQxbk1COHFZUFVtMA?oc=5",
+   "source": "Evertiq",
+   "published": "2026-11-25T07:27:00+00:00",
+   "count": 4,
+   "sources": [
+    "Evertiq",
+    "KED Global",
+    "Tech Times",
+    "eWeek"
+   ],
+   "score": 3.03
+  },
+  {
+   "title": "XPeng introduces unified AI architecture for smart cars and humanoid robots",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5laktIWWlkWURXRWIzamdEcThwUWVCVExCdzBWM1pIM1J3ZEtfb1hEVGd3T2NwREUyUUdWV1NudE1KdFFUQ3lxVjJqTQ?oc=5",
+   "source": "PrimaMedia.ru",
+   "published": "2026-11-26T02:02:00+00:00",
+   "count": 3,
+   "sources": [
+    "China Daily Global Edition",
+    "PrimaMedia.ru",
+    "StreetInsider"
+   ],
+   "score": 2.95
+  },
+  {
+   "title": "IITs to add 6,000 seats in Robotics, Physical AI and Space Technology over 10 years",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcGJTbk0xeE1VYllnaU1fQkFNUXFTajZ4N3o4MEZsZk9xT2o5UEtIakVTSU9HV3RiemJCbGtYZlJqR0FLQkpkY2QyeEM2X3dlcEFlQ3dOSFBUeFRIVnZUWTRRajdhVzREdGpvdG9TZ2ZpVXFkaW9RcXVkNXlzM084NG1RanNjYll3blNWMlVyQ0V0emtmdU9NaHEzaXFlbE8zQUhSTV9PVHpQS081Z3FMcVVmVHlBU2NfVEduclhHcldIVUZSSU11cXpZTHjSAdoBQVVfeXFMTzBSc2trcXYyMWtGd0psNlh4WXJxQlFFTTBvRV9yQldjMGpTQnBUWVlFQmFtM2tMcGw5eHg5MzdEWTFmeWFsQ2RISHpNSHlHZjBBRDZQckNleHJPRk9CWlNaYjZZRUs1dzFtNWpTSEwtNnctVnVsSFliQTBHd29EbW5ZWGROMk5ncURWQ1J0bC1WX1VhbUR1aDN3cXNTMmFPbEZHdnRicUlvMXRta2toNjlobmktbEMyTFN0UG5BUjV6YmNkYUdVaV94QzZfSnlPOGVzeFkxWUVINGc?oc=5",
+   "source": "The New Indian Express",
+   "published": "2026-11-25T17:56:19+00:00",
+   "count": 3,
+   "sources": [
+    "Education Times",
+    "NDTV",
+    "The New Indian Express"
+   ],
+   "score": 2.63
   },
   {
    "title": "Armenia launches national robotics and physical AI center",
@@ -342,7 +412,20 @@
     "Public Radio of Armenia",
     "Qazinform"
    ],
-   "score": 3.33
+   "score": 2.41
+  },
+  {
+   "title": "XPENG Unveils WorldGPT, a World Action Model for Cross-Embodiment Physical AI",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbzQyaEdtYU43aUF0ekM0SnVsLWdFbHlIS0JGY2Q4SDh4b0k0b0hIaTNJMEF4cW9CRlFaM3dISFYxVkZGR1M5VVhJZmF2dWRIUFFmbWZhSEVvVGd5ZTZzLXB6QlFRZHVMNE90V01Qb216aVRlMDNaUUJ6eEJGMU4weXpMYmVzRXExbG9QV2V4RDNpRFdOOXR3MmVnSzYzQXY0RzJOR2xYcEtQbUNRNmVKSmltUkJCT0tIVVd6aV84b2NVaU1kZDNxZ1p4NmVRdF9iTVJpRA?oc=5",
+   "source": "Gasgoo",
+   "published": "2026-11-25T10:15:54+00:00",
+   "count": 3,
+   "sources": [
+    "Automotive World",
+    "Gasgoo",
+    "XPENG"
+   ],
+   "score": 2.37
   },
   {
    "title": "ミネベアミツミ、ヒューマノイドロボット向け主要技術を出展へ…名古屋ロボデックス2026（レスポンス）",
@@ -354,102 +437,24 @@
     "Yahoo!ニュース",
     "レスポンス（Response.jp）"
    ],
-   "score": 3.06
+   "score": 2.21
   },
   {
-   "title": "Ambarella and Liquid AI partner on edge AI for physical devices",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGVsOXFnV1Fra2FjVGVPNXdzU2JkQkppRmJrNWEtN2E4V1ROdzJBS3NFMUJYdGR5WVg3RmlWM2lPMWVpRDliU0haa2tvV2NzYWtSU3phWjV4bEZiWHNwQkVYcTZJUlJSZjJuSVhtMkFQaXB6M0R1UVdING5aM05PazQwZ09YR1VMRGloUEswSTRjTWd4bWVBMlR3M0pyUGJyX3VwbmktajdaMmJvbDJlZTdQLUpQd3ZUSzRSZw?oc=5",
-   "source": "Investing.com",
-   "published": "2026-11-24T21:34:16+00:00",
+   "title": "Pronto To Be Acquired By Anjali Sardana’s Physical AI Startup Provision Labs",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZHNINlZiMUp4bmJNRl9fZmxnTVZtYzZFTjVmZVFSRVBaMk4yWGgtWDBBZW5naVhBd3dweEZXbUlzeERlbWZSenNlbmcyRGVmNmFKdURmc1dQbHY5RF9naXNSb1BEYlBiN01Fa0lwT0ZOaTI5cWVlem9qd3VlUS02cmgwdjNpOXBxQlFDcUZtcm9LNEVDZmxwZFkzdk1xRU5HSmRyNlhNYzNHZ25NaWJEdW4xcnJHQ1JT?oc=5",
+   "source": "BW Disrupt",
+   "published": "2026-11-25T04:14:51+00:00",
    "count": 3,
    "sources": [
-    "Investing.com",
-    "StreetInsider",
-    "Unite.AI"
+    "BW Disrupt",
+    "MediaNama",
+    "Moneycontrol.com"
    ],
-   "score": 2.75
-  },
-  {
-   "title": "ASRock Industrial Univels the Intel-Powered Dual-Arm RBK-100 Robotics-in-a-Box Kit",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ191VklTQlF5UmhnaXpkUi1jNXJyY3piVFdWSG9UN2ZLdWNCLWNYdEdJYW0ybUQ4cEtxalBRRnNhREhfOU9KZkk3eDUwUUJMN1ZzVVZsWmFjdlcxbTR0YjVrQkNFeTFaejJZVkg3aTRxWlNuUWIyVjlFYV85ajFUdEh5ZVEzYmFOTEpuZHdnY25nN0ZnVWQtUnd2N1duMGwwZ0NiZUlqNmFRcThrWUxUZVpPVkdlblp3cTY1VFg5anRqdw?oc=5",
-   "source": "Hackster.io",
-   "published": "2026-11-24T13:35:37+00:00",
-   "count": 3,
-   "sources": [
-    "Hackster.io",
-    "TimesTech",
-    "Unite.AI"
-   ],
-   "score": 2.46
-  },
-  {
-   "title": "YYForce Launches Six Seven Humanoid Concierge for Novotel Singapore",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQUVDXzBkQm95cU9vb1JjcW5mTllxZkMtNVZPZ3VjajFHSWNzOGpGRHVFWGl0SDhSX2xQZ05vMmdGVkctXzhKc1d1RGlnbHhneEk3Q0VQRk92c1ZtVnhmYzN2NDJ2azExQzdQaGhrQ3FMVFJoTzJSc05oTlVyZk00TXRTc215V1ZyS0tRM2JyNTFwVGM?oc=5",
-   "source": "Unite.AI",
-   "published": "2026-11-24T12:50:03+00:00",
-   "count": 3,
-   "sources": [
-    "Quiver Quantitative",
-    "Unite.AI"
-   ],
-   "score": 2.43
-  },
-  {
-   "title": "Boston Dynamics gives Atlas wheels to test new reinforcement learning capabilities",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWlpiR1Ztekwya21XcGw0cGNJaFRNSFFDeFFCRWJaTUVfYTVxVTJhbFFTVmo4dnV3a2FZajRTVVJ3d0NtQ3YxSmZYd1JnMkF6UXNBVWFRMm1LdDE2b2dpMV9CODVIbDhJSFpySTBSMUZvd3NHajlWTWFpTFYwQ3lrdl9KZWM0MGNZZnVkeUdURUFmUTFMd2FIdnd5Vm9TZUdmUElQT3RKcGVZNUlTSTRJQ0Q3U2NOSlRBeEd6SWlwOEFJSVhFN0F2eDR5V0dpbzVVMkdiR3ZB?oc=5",
-   "source": "Robotics & Automation News",
-   "published": "2026-11-22T14:45:10+00:00",
-   "count": 5,
-   "sources": [
-    "KED Global",
-    "Robotics & Automation News",
-    "Tech Times",
-    "digitimes",
-    "eWeek"
-   ],
-   "score": 2.14
-  },
-  {
-   "title": "Humyn Labs、シリーズAで4,700万米ドルを調達し、フィジカルAIの研究と導入を拡大へ (2026年11月24日掲載)",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAyWlRCenpwc2Exa2RkRWNXQnNmTHc1Y1VsdTJjeUN1alZhR3pXR0FtMnJuOVdXNXk5bnlMc0N6WkZQVnNPVWFzTkxIYnhOZTJmU09LTklxWWpicXBhV242Q2N3?oc=5",
-   "source": "ライブドアニュース",
-   "published": "2026-11-24T01:11:00+00:00",
-   "count": 3,
-   "sources": [
-    "BRIDGE（ブリッジ）",
-    "ライブドアニュース",
-    "時事ドットコム"
-   ],
-   "score": 2.07
-  },
-  {
-   "title": "[Law Firms Now] Jipyong to Hold \"Physical AI & AI Data Centers: From Planning to Operations\" Seminar",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB2cGYzR1FzZEtBdEhUc2d3MGc5U3BQUXIxQ29XUlE1RGNGU3BIeEp4My1iUUl3NHVzdC12QmgwRnVSTnBrVVowY29LYlMwb2tWWk9mbm5pb29hV3h5TUROXzdBTmlEYzRQc2JJT0Vva2hjVUFhRF9hQlRQNl8tZmM?oc=5",
-   "source": "아시아경제",
-   "published": "2026-11-25T01:44:36+00:00",
-   "count": 2,
-   "sources": [
-    "Chosunbiz",
-    "아시아경제"
-   ],
-   "score": 1.94
-  },
-  {
-   "title": "FF EAI Robotics Ecosystem (FFR) Officially Launches \"High Performance, Surprisingly Affordable\" Black Friday Sale with Discounts of Up to 50% Across t",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBleVJIakxYbHlJeVBXOC1uZ1AtVXhqWHBxVnp3aDdfOVRkQmpPSlAtd3loT3dIMTUtcmVDWVpvX0ZJX1VzeDRDTXFHcFdNaXdiTmFITU1takNSX3pQ?oc=5",
-   "source": "ACROFAN USA",
-   "published": "2026-11-25T01:11:11+00:00",
-   "count": 2,
-   "sources": [
-    "ACROFAN USA",
-    "Thailand Business News"
-   ],
-   "score": 1.93
+   "score": 2.18
   }
  ],
  "trend": {
   "dates": [
-   "2026-10-27",
    "2026-10-28",
    "2026-10-29",
    "2026-10-30",
@@ -478,14 +483,14 @@
    "2026-11-22",
    "2026-11-23",
    "2026-11-24",
-   "2026-11-25"
+   "2026-11-25",
+   "2026-11-26"
   ],
   "series": [
    {
     "id": "physical_ai_en",
     "label": "Physical AI (EN)",
     "values": [
-     64,
      47,
      49,
      43,
@@ -509,19 +514,19 @@
      18,
      54,
      51,
-     33,
+     34,
      11,
      9,
      44,
      58,
-     11
+     61,
+     7
     ]
    },
    {
     "id": "physical_ai_ja",
     "label": "フィジカルAI",
     "values": [
-     58,
      29,
      52,
      30,
@@ -544,20 +549,20 @@
      19,
      25,
      51,
-     44,
+     45,
      30,
      2,
      6,
      14,
      29,
-     6
+     29,
+     12
     ]
    },
    {
     "id": "embodied_ai",
     "label": "Embodied AI (EN)",
     "values": [
-     13,
      12,
      6,
      4,
@@ -585,15 +590,15 @@
      2,
      1,
      5,
-     9,
-     2
+     10,
+     7,
+     6
     ]
    },
    {
     "id": "humanoid_en",
     "label": "Humanoid robot (EN)",
     "values": [
-     30,
      39,
      24,
      26,
@@ -620,16 +625,16 @@
      17,
      7,
      11,
-     21,
-     34,
-     5
+     23,
+     35,
+     32,
+     7
     ]
    },
    {
     "id": "humanoid_ja",
     "label": "ヒューマノイド (JA)",
     "values": [
-     25,
      19,
      11,
      23,
@@ -656,9 +661,10 @@
      8,
      4,
      4,
-     8,
-     28,
-     6
+     10,
+     29,
+     21,
+     2
     ]
    }
   ]
@@ -680,13 +686,13 @@
    "name": "GOOGLE LLC",
    "core": "GOOGLE",
    "patents": 275,
-   "news": 18
+   "news": 17
   },
   {
    "name": "HONDA MOTOR CO LTD",
    "core": "HONDA MOTOR",
    "patents": 263,
-   "news": 1
+   "news": 2
   },
   {
    "name": "SAMSUNG ELECTRONICS CO LTD",
@@ -704,13 +710,13 @@
    "name": "NVIDIA CORP",
    "core": "NVIDIA",
    "patents": 213,
-   "news": 109
+   "news": 102
   },
   {
    "name": "QUALCOMM INC",
    "core": "QUALCOMM",
    "patents": 206,
-   "news": 4
+   "news": 3
   }
  ]
 }
